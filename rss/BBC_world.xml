@@ -4,7 +4,21 @@
     <title>英国广播公司新闻世界</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻世界 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 23 Mar 2024 15:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 18:11:28 GMT</lastBuildDate>
+    <item>
+      <title>[世界] 联合国秘书长敦促拉法访问立即停火</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68646159</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68646159</guid>
+      <pubDate>Sat, 23 Mar 2024 14:38:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>【世界】俄罗斯是否无视美国“极端主义”袭击警告？</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68646375</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68646375</guid>
+      <pubDate>Sat, 23 Mar 2024 14:28:44 GMT</pubDate>
+    </item>
     <item>
       <title>[世界] 莫斯科音乐厅袭击事件：我们所知道的</title>
       <link>https://www.bbc.co.uk/news/world-europe-68645755</link>
@@ -22,7 +36,7 @@
     <item>
       <title>[世界]莫斯科袭击：“你首先注意到的是气味”</title>
       <link>https://www.bbc.co.uk/news/world-europe-68644916</link>
-      <description><![CDATA[BBC 的史蒂夫·罗森伯格 (Steve Rosenberg) 参观了莫斯科音乐厅，那里有 100 多人遇害。]]></description>
+      <description><![CDATA[BBC 的史蒂夫·罗森伯格 (Steve Rosenberg) 参观了莫斯科音乐厅，那里有 100 多人遇难。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68644916</guid>
       <pubDate>Sat, 23 Mar 2024 11:37:24 GMT</pubDate>
     </item>
@@ -48,17 +62,17 @@
       <pubDate>Sat, 23 Mar 2024 00:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>[世界] 南非对枪支的致命热爱</title>
-      <link>https://www.bbc.co.uk/news/world-africa-68576440</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bbc.co.uk/news/world-africa-68576440</guid>
-      <pubDate>Sat, 23 Mar 2024 00:03:17 GMT</pubDate>
-    </item>
-    <item>
       <title>[Newsbeat] 首先是 J-Pop，然后是 K-Pop - I-Pop 会是下一个吗？</title>
       <link>https://www.bbc.co.uk/news/newsbeat-68594052</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bbc.co.uk/news/newsbeat-68594052</guid>
+      <pubDate>Sat, 23 Mar 2024 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[世界] 南非对枪支的致命热爱</title>
+      <link>https://www.bbc.co.uk/news/world-africa-68576440</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bbc.co.uk/news/world-africa-68576440</guid>
       <pubDate>Sat, 23 Mar 2024 00:03:17 GMT</pubDate>
     </item>
     <item>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bbc.co.uk/news/world-africa-68640792</guid>
       <pubDate>Fri, 22 Mar 2024 17:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[世界] 亚利桑那州牧场主因杀害移民而受审</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68639475</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68639475</guid>
-      <pubDate>Fri, 22 Mar 2024 16:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[世界] FBI调查阿拉斯加航空航班空中井喷事件</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68640136</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68640136</guid>
-      <pubDate>Fri, 22 Mar 2024 16:19:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
