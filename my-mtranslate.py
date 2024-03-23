@@ -92,7 +92,7 @@ def update_readme(links):
     with open("README.md", "r+", encoding="UTF-8") as f:
         list1 = f.readlines()
     
-    list1 = list1[:13] + [x.replace(r'](rss', r'](raw/main/rss') for x in links]
+    list1 = list1[:13] + [x.replace(r'](rss', r'](../../raw/main/rss') for x in links]
     with open("README.md", "w+", encoding="UTF-8") as f:
         f.writelines(list1)
 
