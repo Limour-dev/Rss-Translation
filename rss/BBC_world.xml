@@ -4,7 +4,14 @@
     <title>英国广播公司新闻世界</title>
     <link>https://www.bbc.co.uk/news/world</link>
     <description>BBC 新闻世界 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 23 Mar 2024 12:29:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 15:12:00 GMT</lastBuildDate>
+    <item>
+      <title>[世界] 莫斯科音乐厅袭击事件：我们所知道的</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68645755</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68645755</guid>
+      <pubDate>Sat, 23 Mar 2024 12:58:33 GMT</pubDate>
+    </item>
     <item>
       <title>【世界】子弹、迷恋与恐慌：演唱会演变成一场屠杀</title>
       <link>https://www.bbc.co.uk/news/world-europe-68644965</link>
@@ -15,7 +22,7 @@
     <item>
       <title>[世界]莫斯科袭击：“你首先注意到的是气味”</title>
       <link>https://www.bbc.co.uk/news/world-europe-68644916</link>
-      <description><![CDATA[BBC 的史蒂夫·罗森伯格 (Steve Rosenberg) 参观了莫斯科音乐厅，那里有 100 多人遇难。]]></description>
+      <description><![CDATA[BBC 的史蒂夫·罗森伯格 (Steve Rosenberg) 参观了莫斯科音乐厅，那里有 100 多人遇害。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68644916</guid>
       <pubDate>Sat, 23 Mar 2024 11:37:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bbc.co.uk/news/world-us-canada-68640136</guid>
       <pubDate>Fri, 22 Mar 2024 16:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[商业] 德国足球装备交易引发争议</title>
-      <link>https://www.bbc.co.uk/news/business-68634777</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bbc.co.uk/news/business-68634777</guid>
-      <pubDate>Fri, 22 Mar 2024 13:28:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
