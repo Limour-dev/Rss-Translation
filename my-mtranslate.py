@@ -4,13 +4,9 @@ import hashlib
 import os
 import time
 from urllib import parse
-from urllib.parse import urlparse
+from nrss.yna_cn2rss import yna2rss
 
-import feedparser
 import requests
-from bs4 import BeautifulSoup
-from jinja2 import Template
-from mtranslate import translate
 
 
 def get_md5_value(src):
@@ -25,67 +21,6 @@ def getTime(e):
     except AttributeError:
         struct_time = time.localtime()
     return datetime.datetime(*struct_time[:6])
-
-
-class BingTran:
-    def __init__(self, url, source="auto", target="zh-CN"):
-        self.url = url
-        self.source = source
-        self.target = target
-
-        self.d = feedparser.parse(url)
-
-    def tr(self, content):
-        return translate(content, to_language=self.target, from_language=self.source)
-
-    def get_newcontent(self, max_item=10):
-        item_set = set()  # 使用集合来存储项目，用于过滤重复项
-        item_list = []
-        for entry in self.d.entries:
-            try:
-                title = self.tr(entry.title)
-            except:
-                title = ""
-            parsed_link = urlparse(entry.link)
-            if not all([parsed_link.scheme, parsed_link.netloc]):
-                continue
-            link = entry.link
-            description = ""
-            try:
-                description = self.tr(entry.summary)
-            except:
-                try:
-                    description = self.tr(entry.content[0].value)
-                except:
-                    pass
-            guid = link
-            pubDate = getTime(entry)
-            one = {
-                "title": title,
-                "link": link,
-                "description": description,
-                "guid": guid,
-                "pubDate": pubDate,
-            }
-            if guid not in item_set:  # 判断是否重复
-                item_set.add(guid)
-                item_list.append(one)
-            if len(item_list) >= max_item:  # 判断是否达到最大项目数
-                break
-        sorted_list = sorted(item_list, key=lambda x: x["pubDate"], reverse=True)
-        feed = self.d.feed
-        try:
-            rss_description = self.tr(feed.subtitle)
-        except AttributeError:
-            rss_description = ""
-        newfeed = {
-            "title": self.tr(feed.title),
-            "link": feed.link,
-            "description": rss_description,
-            "lastBuildDate": getTime(feed),
-            "items": sorted_list,
-        }
-        return newfeed
 
 
 def update_readme(links):
@@ -123,76 +58,8 @@ def tran(sec, max_item):
         print("Updating %s..." % sec)
         set_cfg(sec, "md5", new_md5)
 
-    # 调用 BingTran 类获取新的 RSS 内容
-    try:
-        feed = BingTran(url, target=target, source=source).get_newcontent(
-            max_item=max_item
-        )
-    except Exception as e:
-        print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
-        return
-
-    # 处理 RSS 内容，生成新的 RSS 文件
-    rss_items = []
-    for item in feed["items"]:
-        title = item["title"]
-        link = item["link"]
-        description = item["description"]
-        guid = item["guid"]
-        pubDate = item["pubDate"]
-        # 处理翻译结果中的不正确的 XML 标记
-        soup = BeautifulSoup(description, "html.parser")
-        description = soup.get_text()
-        # 转义特殊字符
-        description = (
-            description.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-            .replace('"', "&quot;")
-            .replace("'", "&#39;")
-        )
-        #转义link与guid内的&以符合XML格式
-        link = link.replace("&", "&amp;")
-        guid = guid.replace("&", "&amp;")
-        one = dict(
-            title=title, link=link, description=description, guid=guid, pubDate=pubDate
-        )
-        rss_items.append(one)
-
-    rss_title = feed["title"]
-    rss_link = feed["link"]
-    rss_description = feed["description"]
-    rss_last_build_date = feed["lastBuildDate"].strftime("%a, %d %b %Y %H:%M:%S GMT")
-
-    template = Template(
-        """<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>{{ rss_title }}</title>
-    <link>{{ rss_link }}</link>
-    <description>{{ rss_description }}</description>
-    <lastBuildDate>{{ rss_last_build_date }}</lastBuildDate>
-    {% for item in rss_items -%}
-    <item>
-      <title>{{ item.title }}</title>
-      <link>{{ item.link }}</link>
-      <description><![CDATA[{{ item.description }}]]></description>
-      <guid>{{ item.guid }}</guid>
-      <pubDate>{{ item.pubDate.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</pubDate>
-    </item>
-    {% endfor -%}
-  </channel>
-</rss>"""
-    )
-
-    rss = template.render(
-        rss_title=rss_title,
-        rss_link=rss_link,
-        rss_description=rss_description,
-        rss_last_build_date=rss_last_build_date,
-        rss_items=rss_items,
-    )
-
+    rss = yna2rss(r.text)
+    
     try:
         os.makedirs(BASE, exist_ok=True)
     except Exception as e:
@@ -263,7 +130,6 @@ try:
     os.makedirs(BASE)
 except:
     pass
-links = []
 
 # 遍历所有的 RSS 配置，依次更新 RSS 文件
 secs = config.sections()
