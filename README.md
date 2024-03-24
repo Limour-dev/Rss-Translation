@@ -11,11 +11,4 @@
  📢查看[ 本页 ](https://rcy1314.github.io/Rss-Translation) 参考自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
- - source001 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [AP_top](../../raw/main/rss/AP_top.xml)
- - source002 [https://rsshub.app/apnews/topics/world-news](https://rsshub.app/apnews/topics/world-news) -> [AP_world](../../raw/main/rss/AP_world.xml)
- - source003 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [reuters_china](../../raw/main/rss/reuters_china.xml)
- - source004 [http://www.bloomberg.com/feeds/podcasts/view.xml](http://www.bloomberg.com/feeds/podcasts/view.xml) -> [Bloomberg_view](../../raw/main/rss/Bloomberg_view.xml)
- - source005 [https://www.bloomberg.com/feeds/podcasts/featured.xml](https://www.bloomberg.com/feeds/podcasts/featured.xml) -> [Bloomberg_Radio](../../raw/main/rss/Bloomberg_Radio.xml)
- - source006 [https://rsshub.app/bbc/world](https://rsshub.app/bbc/world) -> [BBC_world](../../raw/main/rss/BBC_world.xml)
- - source007 [https://rsshub.app/abc/news](https://rsshub.app/abc/news) -> [ABC_news](../../raw/main/rss/ABC_news.xml)
- - source008 [https://news.google.com/rss](https://news.google.com/rss) -> [google_news](../../raw/main/rss/google_news.xml)
+ - source001 [https://cn.yna.co.kr/RSS/news.xml](https://cn.yna.co.kr/RSS/news.xml) -> [yna_cn](../../raw/main/rss/yna_cn.xml)
