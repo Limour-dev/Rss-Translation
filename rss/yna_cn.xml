@@ -4,8 +4,20 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 28 Mar 2024 03:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 28 Mar 2024 06:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240327005600881</guid>
+			<title>韩美同步新增对朝单边制裁对象</title>
+			<link>https://cn.yna.co.kr/view/ACK20240327005600881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔3月28日电 据韩国外交部28日消息，韩美两国将牵涉朝鲜信息技术（IT）人员创汇和洗钱行为的2个实体和4名个人列入单边制裁名单，其中包括俄罗斯企业和朝鲜人。
+
+外交部当天通过新闻稿发布上述消息。据悉，2个实体分别为俄罗斯企业“Alice LLC”和阿联酋企业“Pioneer Bencont Star Real Estate”。上述实体曾与朝鲜国防省旗下IT公司——“真荣信息技术开发协助公司”（音译）联手合作。该公司一直将朝鲜IT人员派遣至俄罗斯、中国和老挝等地，已于去年被列入韩美制裁名单。
+
+</description>
+			<pubDate>Thu, 28 Mar 2024 05:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240315000300881</guid>
 			<title>2024年3月28日韩国历史上的今天</title>
@@ -242,18 +254,6 @@ LG集团于27日在首尔汝矣岛的总部大楼举行股东大会，并发布�
 
 具体来看，现代汽车将在推进电动化等未来新项目方面新增4.4万名员工；为拓展业务规</description>
 			<pubDate>Wed, 27 Mar 2024 14:20:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240327002000881</guid>
-			<title>首尔公交车劳资最终谈判在即 若谈不拢工会将罢工</title>
-			<link>https://cn.yna.co.kr/view/ACK20240327002000881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔3月27日电 据首尔市公交车工会等多方27日消息，劳资双方将于当天下午进行薪资谈判，工会是否会开展总罢工取决于此轮谈判结果。
-
-工会提出上调薪资12.7%的要求，然而资方坚持认为劳方提出的涨幅过高。劳资双方从去年12月28日至本月23日共进行9次谈判，但都未能缩小意见分歧。由此，工会于26日就总罢工事宜进行投票，结果显示，88.5%的工会成员赞成罢工。若劳资最后谈判未能谈妥，工会将从28日上午4时起进入罢工状态。
-
-首尔市公交车工会由65家公交车运营商组成，其中参与此次罢工的公司共61家。若这</description>
-			<pubDate>Wed, 27 Mar 2024 13:47:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
