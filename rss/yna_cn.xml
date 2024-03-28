@@ -4,8 +4,20 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 29 Mar 2024 03:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 29 Mar 2024 06:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240328005300881</guid>
+			<title>统计：韩消费者去年对全球速卖通等平台投诉量增加</title>
+			<link>https://cn.yna.co.kr/view/ACK20240328005300881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔3月29日电 韩国消费者院29日发布的一份数据显示，随着全球速卖通等外国跨境电商平台全面进军韩国市场，去年韩国消费者涉国际交易投诉同比增加16.9%，为1.9418万起。
+
+具体来看，涉及线上平台海淘商品和服务的投诉量占60.8%，其中海淘商品相关投诉量大增136.1%。据院方分析，这或由于对疑似欺诈网站和全球速卖通的投诉量增加。全球速卖通相关投诉量从2022年的228起增至去年的673起，增加近两倍。
+
+按投诉品目看，机票和航空服务以27.7%居首，其后依次为服装和鞋类（24.6%）以及住宿</description>
+			<pubDate>Fri, 29 Mar 2024 06:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240318004200881</guid>
 			<title>2024年3月29日韩国历史上的今天</title>
@@ -241,20 +253,6 @@ PARASTAR娱乐上月参加2024年世界移动通信大会（MWC 2024）与人工
 
 属于严打对象的选举犯罪包括散布虚假信息·</description>
 			<pubDate>Thu, 28 Mar 2024 15:19:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240328002400881</guid>
-			<title>韩美日参谋长通话商讨朝鲜挑衅与安全合作方案</title>
-			<link>https://cn.yna.co.kr/view/ACK20240328002400881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔3月28日电 韩国联合参谋本部（联参）28日表示，联参议长金明秀当天与美国参谋长联席会议主席查尔斯·布朗、日本陆上自卫队幕僚长吉田圭秀举行视频会议，就朝鲜挑衅和安全合作方案等进行讨论。
-
-金明秀高度评价了去年8月韩美日首脑戴维营峰会、同年11月韩美日防长会谈商定的实时共享朝鲜导弹信息，以及制定今后多年三边演练计划等。布朗重申了美国对韩日两国的协防承诺。
-
-三方一致认为，朝鲜升级核导力量等各种挑衅行为从反面证明了三国安全合作扩大的重要性。三国的安全合作对韩半岛、印太地区的和平与稳定做出贡献。
-
-</description>
-			<pubDate>Thu, 28 Mar 2024 14:57:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
