@@ -4,8 +4,20 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 30 Mar 2024 12:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 30 Mar 2024 15:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240328002900881</guid>
+			<title>统计：去年过半韩国人在日常生活中体验AI服务</title>
+			<link>https://cn.yna.co.kr/view/ACK20240328002900881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔3月30日电 韩国科学技术信息通信部（科技部）近日发布的《2023年互联网使用情况调查》报告显示，过半韩国人去年在日常生活中体验过人工智能（AI）服务。
+
+科技部介绍，去年随着ChatGPT等生成式AI服务大幅改变互联网生活，此次调查重点就国民互联网生活变化进行分析。具体来看，居住便利、教育与学习、交通和沟通等多个生活领域的AI服务体验率从2021年的32.4%升至2022年的42.4%，2023年再增至50.8%。
+
+按年龄段看，6～19岁中66%、20～29岁中61%、30～39岁中65.</description>
+			<pubDate>Sat, 30 Mar 2024 13:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240327003000881</guid>
 			<title>NCT DREAM5月首尔开唱启动世巡</title>
@@ -246,18 +258,6 @@ NCT DREAM25日推出的新专辑《DREAM( )SCAPE》空降韩中日主要榜单�
 
 好评理由方面，回答“推行医学院扩招”占比最高，为25%。其后依次是“外交得力”（8%）、“当机立断、有魄力和毅力”、“整体表现好”（各7%）、“经济和民生工作到位”（5%）。差评理由方面，回答“经济、民生和物价管控不力”占</description>
 			<pubDate>Fri, 29 Mar 2024 14:30:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240329002300881</guid>
-			<title>韩外交部公开1993年朝美核谈判解密文件</title>
-			<link>https://cn.yna.co.kr/view/ACK20240329002300881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔3月29日电 韩国外交部29日公开了记录朝美核谈判秘史的1993年外交文件。相关文件共2306卷，超过37万页。
-
-为了确保国民知情权和提高外交行政透明度，政府每年都会解密保管期限满30年的外交文件。今年主要公开的是朝鲜宣布退出《不扩散核武器条约》引发第一次朝核危机的1993年文件。
-
-1993年3月，为解决朝鲜退出核不扩散条约所引发的危机，时任美国助理国务卿加卢奇和朝鲜外交部第一副部长姜锡柱分别在纽约和日内瓦举行两轮高级别会谈。从文件中可以一窥朝鲜在与美国核谈判初期想要获得的体制安全保障等“</description>
-			<pubDate>Fri, 29 Mar 2024 14:21:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
