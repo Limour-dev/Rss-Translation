@@ -4,8 +4,18 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 6 Apr 2024 06:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 6 Apr 2024 09:33:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240402001600881</guid>
+			<title>SEVENTEEN月底发行精选辑《17 IS RIGHT HERE》</title>
+			<link>https://cn.yna.co.kr/view/ACK20240402001600881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔4月6日电 经纪公司Pledis娱乐近日表示，旗下男团SEVENTEEN将于本月29日发行精选专辑《17 IS RIGHT HERE》。
+
+根据SEVENTEEN在社交平台上公开的歌单，新辑由两张CD组成，收录了他们2015年出道以来在韩国和日本发行的专辑主打歌。第一张CD中包括《CALL CALL CALL!》《Happy Ending》《Fallin' Flower》《Not Alone》等日辑主打歌的韩文版，以及尚未公开的其他曲目。第二张CD收录《珍爱》《万岁》《NICE》《拍手》《Fe</description>
+			<pubDate>Sat, 06 Apr 2024 08:00:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240320003600881</guid>
 			<title>2024年4月6日韩国历史上的今天</title>
@@ -262,18 +272,6 @@ LG电子上季度业绩基本符合市场预期。韩联社旗下金融信息子
 
 韩军于去年12月在美国加州范登堡太空军基地成功发射侦察卫星1号。与该卫星不同，2号卫星</description>
 			<pubDate>Fri, 05 Apr 2024 13:45:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240405002300881</guid>
-			<title>女团LE SSERAFIM担任NBA宣传大使</title>
-			<link>https://cn.yna.co.kr/view/ACK20240405002300881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔4月5日电 经纪公司SOURCE MUSIC于5日表示，旗下女团LE SSERAFIM将出任美国职业篮球联赛（NBA）的“Friends of the NBA”，相当于宣传大使的一种。
-
-NBA方面当天发布新闻稿称，继防弹少年团（BTS）成员SUGA去年4月被委任为NBA全球推广大使后，LE SSERAFIM也将与我们展开合作。目前K-POP歌手中仅有SUGA和LE SSERAFIM与NBA正式合作。
-
-“Friends of the NBA”是NBA与亚太地区明星和网红展开的合作项目，旨在以</description>
-			<pubDate>Fri, 05 Apr 2024 11:31:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
