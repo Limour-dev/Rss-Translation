@@ -4,8 +4,30 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 20 Apr 2024 21:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 21 Apr 2024 00:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240409003500881</guid>
+			<title>2024年4月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240409003500881?input=rss&amp;section=news</link>
+			<description>
+1906年 朝鲜王朝纯献皇贵妃（严妃）创办进明女子学校。
+
+1944年 抗日独立运动家朱基徹牧师去世。朱基徹拒绝参拜日本神社，持续开展抗日运动，1938年被日本警察抓捕入狱后在狱中去世。
+
+1960年 小说家李无影（1908—1960）去世。
+
+1965年 韩国与冈比亚建交。
+
+1980年 诗人、英语文学研究家宋稶（1925—1980）去世。
+
+1983年 韩国女性开发院成立。
+
+2008年 韩国总统李明博与日本首相福田康夫举行会谈。
+
+2009年 韩朝在开城就开城工业园区运营事宜交换意见。这是时任总统</description>
+			<pubDate>Sun, 21 Apr 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240419002800881</guid>
 			<title>NCT WISH下月起在韩举办巡回粉丝会</title>
@@ -282,13 +304,6 @@ inkyoung@yna.co.kr
 			<link>https://cn.yna.co.kr/view/ACK20240419003100881?input=rss&amp;section=news</link>
 			<description>KOSPI收盘报2591.86点，较前一交易日下跌42.84点。</description>
 			<pubDate>Fri, 19 Apr 2024 15:31:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240419003000881</guid>
-			<title>股市收盘:KOSDAQ▼13.74</title>
-			<link>https://cn.yna.co.kr/view/ACK20240419003000881?input=rss&amp;section=news</link>
-			<description>KOSDAQ收盘报841.91点，较前一交易日下跌13.74点。</description>
-			<pubDate>Fri, 19 Apr 2024 15:30:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
