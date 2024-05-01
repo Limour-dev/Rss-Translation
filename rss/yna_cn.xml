@@ -4,8 +4,30 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 1 May 2024 12:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 1 May 2024 15:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240501001100881</guid>
+			<title>韩首季网购额同比增10.7% 自华海淘份额创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20240501001100881?input=rss&amp;section=news</link>
+			<description>
+韩联社世宗5月1日电 韩国统计厅1日发布的数据显示，韩国今年第一季度网购交易额为59.6768万亿韩元（约合人民币3117.3亿元），其中海外直购（海淘）交易额为1.6476万亿韩元，双双创下历年同期之最。自华海淘份额大幅增加，创下历史新高。
+
+今年第一季度网购交易额为59.6768万亿韩元，同比增加10.7%，创下历年同期最高纪录。受春节假期的影响，旅游和交通服务（23.9%）、食品饮料（15.8%)、农蓄水产品（26.8%）等交易额增加。单看3月，网购交易额同比增长9.1%，为20.4523万亿韩元</description>
+			<pubDate>Wed, 01 May 2024 14:29:23 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240501001200881</guid>
+			<title>第十次韩美能源安全对话在美举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20240501001200881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔5月1日电 韩国外交部1日表示，外交部和美国国务院于当地时间上月30日在美国休斯顿莱斯大学贝克公共政策研究所举行第十次韩美能源安全对话。
+
+韩美在会上就脱碳、清洁能源合作、乌克兰能源基础设施重建、关键矿产及动力电池、多边舞台合作等事宜进行讨论。据悉，双方还举行了官民联合活动。两国能源企业借此探索业务机遇，并就政府政策深入交换意见。
+
+外交部评价称，在近期中东局势加剧国际能源市场不稳定性的背景下，能源进口依赖度畸高的韩国和能源出口国、同盟国美国的能源安全合作借此机会得以巩固，同时还研讨了能源安全</description>
+			<pubDate>Wed, 01 May 2024 14:04:26 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240501000600881</guid>
 			<title>韩国票房：《犯罪都市4》累计观影破500万</title>
@@ -273,23 +295,6 @@ HYBE首席法务官（CLO）郑真秀向记者们表示，ADOR是否会说到做
 
 【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Tue, 30 Apr 2024 15:53:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240430002700881</guid>
-			<title>韩政府就日方要求LINE雅虎剥离NAVER资本表态</title>
-			<link>https://cn.yna.co.kr/view/ACK20240430002700881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔4月30日电 韩国政府30日就日本总务省日前要求LINE雅虎公司重新研讨与NAVER的资本关系一事表态称，政府全面尊重并配合NAVER提出的要求，正与NAVER方面进行紧密协商。
-
-去年11月，NAVER云遭到黑客攻击被植入恶意代码，导致与NAVER共用部分系统的LINE雅虎发生用户个人信息外泄。日本总务省分别于今年3月5日和4月16日对LINE雅虎进行两次行政指导，要求LINE雅虎改善经营机制，其中包括重新规划和NAVER的资本关系。目前，NAVER和软银集团各自持有LINE雅虎大股东“A </description>
-			<pubDate>Tue, 30 Apr 2024 15:47:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240430003400881</guid>
-			<title>股市收盘:KOSDAQ▼0.79</title>
-			<link>https://cn.yna.co.kr/view/ACK20240430003400881?input=rss&amp;section=news</link>
-			<description>KOSDAQ收盘报868.93点，较前一交易日下跌0.79点。</description>
-			<pubDate>Tue, 30 Apr 2024 15:33:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
