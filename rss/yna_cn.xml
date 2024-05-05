@@ -4,8 +4,18 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 6 May 2024 03:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 6 May 2024 06:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240503004700881</guid>
+			<title>韩移动端App市场上中美服务商表现亮眼</title>
+			<link>https://cn.yna.co.kr/view/ACK20240503004700881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔5月6日电 韩国移动终端App市场上中美服务商的表现十分亮眼，中国跨境电商平台Temu和美资视频网站优兔（YouTube）分别抢占韩国购物和内容App制高点。
+
+据韩国数据服务提供商IGAWorks于6日发布的一组统计数据，韩国4月Temu新增下载量为228.0344万，在整体App中居首。其后依次是TikTok（100.5053万）、照片墙（87.8619万）等。Temu自进军韩国市场三个月后的去年10月以来连续8个月稳居单月App新增下载量第一宝座。4月Temu的月活跃用户数量（MAU）为</description>
+			<pubDate>Mon, 06 May 2024 06:01:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240417000200881</guid>
 			<title>2024年5月6日韩国历史上的今天</title>
@@ -274,13 +284,6 @@ kchy515@yna.co.kr
 			<link>https://cn.yna.co.kr/view/ACK20240503003400881?input=rss&amp;section=news</link>
 			<description>KOSDAQ收盘报865.59点，较前一交易日下跌1.89点。</description>
 			<pubDate>Fri, 03 May 2024 15:32:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240503003300881</guid>
-			<title>外汇汇率收盘:1美元=1362.8韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240503003300881?input=rss&amp;section=news</link>
-			<description>韩元对美元汇率收盘报1362.8，较前一交易日上升13.1韩元。</description>
-			<pubDate>Fri, 03 May 2024 15:31:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
