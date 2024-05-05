@@ -4,8 +4,30 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 5 May 2024 21:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 6 May 2024 00:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240417000200881</guid>
+			<title>2024年5月6日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240417000200881?input=rss&amp;section=news</link>
+			<description>
+1607年 朝鲜王朝中期文臣、儒家学者柳成龙（1542—1607）去世。
+
+1952年 首尔-釜山民用电话开通。
+
+1963年 著名儿童文学家姜小泉（1915—1963）去世。
+
+1965年 《新亚日报》创刊。
+
+1967年 新民党总统候选人尹潽善参加大选，但不敌对手朴正熙，宣布退出政坛。
+
+1969年 韩政府发表第三期经济发展五年规划。
+
+1981年 韩国反垄断执法机构“公正交易委员会”成立。
+
+2001年 网球选手李亨泽闯进世界男子职业网球协会（ATP）巡回赛决赛，成为第一个打入ATP决赛的韩国人。</description>
+			<pubDate>Mon, 06 May 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240505001000881</guid>
 			<title>韩国一季度新能源汽车国内销量破10万</title>
@@ -259,13 +281,6 @@ kchy515@yna.co.kr
 			<link>https://cn.yna.co.kr/view/ACK20240503003300881?input=rss&amp;section=news</link>
 			<description>韩元对美元汇率收盘报1362.8，较前一交易日上升13.1韩元。</description>
 			<pubDate>Fri, 03 May 2024 15:31:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240503003200881</guid>
-			<title>股市收盘:KOSPI▼7.02</title>
-			<link>https://cn.yna.co.kr/view/ACK20240503003200881?input=rss&amp;section=news</link>
-			<description>KOSPI收盘报2676.63点，较前一交易日下跌7.02点。</description>
-			<pubDate>Fri, 03 May 2024 15:31:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
