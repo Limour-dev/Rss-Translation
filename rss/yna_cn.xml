@@ -4,8 +4,20 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 7 May 2024 03:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 7 May 2024 06:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240506001900881</guid>
+			<title>韩4月外储4132.6亿美元 环比减近60亿美元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240506001900881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔5月7日电 韩国银行（央行）7日表示，截至4月底，韩国外汇储备额环比减少59.9亿美元，为4132.6亿美元。
+
+受美元走强影响，韩国外汇储备额1月和2月都环比减少，3月出现反弹，但4月再呈减势。据央行分析，这是因为外汇部门致力于稳控外汇市场、季末效应消失导致金融机构外汇预收款减少、以其他外汇计价的资产换算成美元后的金额缩水等因素叠加。
+
+外储资产中，存款准备金同比减少116.9亿美元；国际货币基金组织（IMF）特别提款权（SDR）减少6000万美元。相反，有价证券环比增加57.3亿美元，黄金</description>
+			<pubDate>Tue, 07 May 2024 06:00:15 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240422000400881</guid>
 			<title>2024年5月7日韩国历史上的今天</title>
@@ -259,18 +271,6 @@ inkyoung@yna.co.kr
 
 金星强调，欧美国家应谦虚接受现实，深刻反思其一贯傲慢和唯我独尊主义对朝敌对政策所带来的失败。他还表示，如果不能</description>
 			<pubDate>Sun, 05 May 2024 11:24:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240505000200881</guid>
-			<title>韩美商定合作应对中国光伏产能外溢问题</title>
-			<link>https://cn.yna.co.kr/view/ACK20240505000200881?input=rss&amp;section=news</link>
-			<description>
-韩联社华盛顿5月4日电 韩国和美国政府近期就合作应对“中国光伏产业过剩产能外溢至全球”问题达成共识，以保护两国太阳能发电产业免受其影响。
-
-韩国外交部经济外交协调官金希相3日接受韩联社电话采访时表示，韩美两国政府上月30日在美国休斯敦举行的第十次韩美能源安全对话中探讨了合作应对中国光伏产业产能过剩问题的方案。会上初步研讨了两种方案，一是各国采取进口管制应对中方过度补贴；另一种是韩美合作研发技术实力更强的产品。
-
-美国政府此前为重组清洁能源供应链签署《通胀削减法案》，为投资企业提供补贴以促进在美投资。近期</description>
-			<pubDate>Sun, 05 May 2024 10:15:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
