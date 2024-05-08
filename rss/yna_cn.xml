@@ -4,8 +4,69 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 8 May 2024 06:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 8 May 2024 09:33:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240508000500881</guid>
+			<title>股市开盘:KOSPI▼2.25</title>
+			<link>https://cn.yna.co.kr/view/ACK20240508000500881?input=rss&amp;section=news</link>
+			<description>KOSPI开盘报2732.11点，较前一交易日下跌2.25点。</description>
+			<pubDate>Wed, 08 May 2024 09:01:27 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240508000400881</guid>
+			<title>股市开盘:KOSDAQ▼1.15</title>
+			<link>https://cn.yna.co.kr/view/ACK20240508000400881?input=rss&amp;section=news</link>
+			<description>KOSDAQ开盘报870.11点，较前一交易日下跌1.15点。</description>
+			<pubDate>Wed, 08 May 2024 09:01:15 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240508000300881</guid>
+			<title>外汇汇率开盘:1美元=1360.1韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240508000300881?input=rss&amp;section=news</link>
+			<description>韩元对美元汇率开盘报1360.1，与前一交易日持平0.0韩元。</description>
+			<pubDate>Wed, 08 May 2024 09:00:25 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240508000200881</guid>
+			<title>2024年5月8日韩国主要报纸头条新闻</title>
+			<link>https://cn.yna.co.kr/view/ACK20240508000200881?input=rss&amp;section=news</link>
+			<description>
+《朝鲜日报》尹锡悦：为民重设民政首席室 无关司法风险
+
+《中央日报》尹锡悦重设民政首席室 在野党批违背选举民意
+
+《东亚日报》尹锡悦任命检察官出身人士为民政首秘遭在野党谴责
+
+《韩民族日报》尹锡悦提名前法务部次官为民政首秘被在野党严批 
+
+《京乡新闻》尹锡悦执政两年强调自由和改革 但缺乏具体性
+
+《韩国日报》韩四成产妇为高龄危险产妇 但妇产科医疗资源紧缺
+
+《每日经济》苹果着手研发数据中心AI芯片使竞争加剧
+
+《韩国经济》政府拟大举调整失业补贴政策 减少多次领取金额
+
+【版权归韩联社所有，未经授权严禁转</description>
+			<pubDate>Wed, 08 May 2024 09:00:13 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240508000100881</guid>
+			<title>韩法务部今再审是否批准尹锡悦岳母假释</title>
+			<link>https://cn.yna.co.kr/view/ACK20240508000100881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔5月8日电 韩国法务部8日将召开假释审查委员会会议，就是否假释总统尹锡悦岳母崔银顺进行审查。
+
+假释审查委可对审查对象作出“合格”“不合格”“保留”决定，其中不合格人员不可成为下月的审查对象。崔银顺在2月审查中被判定为不合格，3月不属于审查对象，4月被保留。若法务部此次批准崔银顺假释，她将在刑满约两个月前的5月14日出狱。
+
+崔银顺因2013年购置地皮时伪造了349亿韩元（约合人民币1.8亿元）的银行存款证明而获刑一年，并从去年7月21日起在首尔东部看守所服刑至今。（完）
+
+
+
+ yhongj</description>
+			<pubDate>Wed, 08 May 2024 08:29:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240422004000881</guid>
 			<title>2024年5月8日韩国历史上的今天</title>
@@ -204,58 +265,6 @@ ADOR临时股东大会的具体议案尚不得而知。若HYBE的撤换ADOR代�
 			<link>https://cn.yna.co.kr/view/ACK20240507002700881?input=rss&amp;section=news</link>
 			<description>KOSPI收盘报2734.36点，较前一交易日上升57.73点。</description>
 			<pubDate>Tue, 07 May 2024 15:32:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240507002600881</guid>
-			<title>股市收盘:KOSDAQ▲5.67</title>
-			<link>https://cn.yna.co.kr/view/ACK20240507002600881?input=rss&amp;section=news</link>
-			<description>KOSDAQ收盘报871.26点，较前一交易日上升5.67点。</description>
-			<pubDate>Tue, 07 May 2024 15:32:41 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240507002500881</guid>
-			<title>外汇汇率收盘:1美元=1360.1韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240507002500881?input=rss&amp;section=news</link>
-			<description>韩元对美元汇率收盘报1360.1，较前一交易日上升2.7韩元。</description>
-			<pubDate>Tue, 07 May 2024 15:32:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240507002100881</guid>
-			<title>详讯：尹锡悦重设民政首席室</title>
-			<link>https://cn.yna.co.kr/view/ACK20240507002100881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔5月7日电 韩国总统尹锡悦7日宣布重新设立总统办公室旗下民政首席室，并提名前法务部次官（副部长）金周贤为民政首秘。
-
-尹锡悦当天在龙山总统府亲自公布了上述总统室改组和人事任命消息。对于重设民政首席室的契机，尹锡悦表示，记得在我开始从政的2021年7月，我接受一家媒体采访时曾表示，若当选总统将不设民政首席室，该政策维持至今，但在倾听民声方面做的不够到位。自我就任之后，听取了媒体等多方谏言，我也经过深思熟虑，觉得应该重设民政首席室。
-
-尹锡悦说，之前金大中总统也因担心民政首席室的负面影响而仅保留法</description>
-			<pubDate>Tue, 07 May 2024 15:25:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240507002000881</guid>
-			<title>韩国动力电池一季度全球市占率下滑</title>
-			<link>https://cn.yna.co.kr/view/ACK20240507002000881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔5月7日电 韩国市场调研机构“SNE Research”7日发布的数据显示，今年第一季度韩国三大动力电池生产商全球市占率同比下滑2.8个百分点，为23.5%。
-
-第一季度全球各类电池装机总量为158.8吉瓦时（GWh），同比增长22%。但韩国三大动力电池商市占率降至23.5%。具体来看，LG新能源装机量同比增加7.8%，为21.7吉瓦时，以13.6%的市占率排名全球第三；三星SDI装机量同比大增36.3%，为8.4吉瓦时，以5.3%的市占率排名第五；SK on装机量减少8.2%，为7.3吉瓦时</description>
-			<pubDate>Tue, 07 May 2024 14:31:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240507001800881</guid>
-			<title>ITZY第二次世巡欧洲场圆满落幕</title>
-			<link>https://cn.yna.co.kr/view/ACK20240507001800881?input=rss&amp;section=news</link>
-			<description>
-韩联社首尔5月7日电 据经纪公司JYP娱乐7日消息，旗下女团ITZY出道以来的首次欧洲巡演圆满落幕。
-
-ITZY上月24日在英国伦敦的OVO温布利体育馆开唱，并以此为起点相继在法国巴黎、德国柏林、荷兰阿姆斯特丹以及西班牙马德里举行演出。此次欧洲巡演是ITZY第二次世界巡回演唱会“BORN TO BE”的组成部分，她们在欧洲地区单独举行演唱会尚属首次。
-
-ITZY将于本月17至19日在日本东京、22日在大阪举行演唱会，之后在美国、加拿大和亚洲继续开唱。（完）
-
-
-
- yongjoo29@yna.co.kr</description>
-			<pubDate>Tue, 07 May 2024 14:07:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
