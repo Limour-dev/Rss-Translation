@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 18 May 2024 21:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 19 May 2024 00:03:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240503002800881</guid>
+			<title>2024年5月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240503002800881?input=rss&amp;section=news</link>
+			<description>
+1442年 世宗大王下令试制雨量计，世界上第一个测雨器由此诞生。
+
+1879年 元山港开港。元山是朝鲜东海岸的港口城市、旅游城市，在日据时期成为日方掠夺朝鲜宝贵财富并将其运往日本的主要渠道。
+
+1881年 朝鲜王朝创设第一支新式军队——别技军，在日本教官的领导下进行训练。这支部队在次年的壬午兵变时被歼灭。
+
+1922年 抗日独立运动家、天道教领导人孙秉熙（1862—1922）去世。天道教是韩国出现的第一个新兴宗教，初名东学，后称天道教，其源概出于始祖“道虽天道，学则东学”一语。
+
+1957年 第一届“韩</description>
+			<pubDate>Sun, 19 May 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240517001700881</guid>
 			<title>车银优将在韩日举行安可粉丝演唱会</title>
@@ -260,13 +276,6 @@ IVE成员安兪真当天通过经纪公司发表感言称，非常荣幸并深�
 			<link>https://cn.yna.co.kr/view/ACK20240517004500881?input=rss&amp;section=news</link>
 			<description>KOSDAQ收盘报855.06点，较前一交易日下跌15.31点。</description>
 			<pubDate>Fri, 17 May 2024 15:37:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240517004400881</guid>
-			<title>外汇汇率收盘:1美元=1354.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240517004400881?input=rss&amp;section=news</link>
-			<description>韩元对美元汇率收盘报1354.9，较前一交易日下跌9.9韩元。</description>
-			<pubDate>Fri, 17 May 2024 15:31:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
