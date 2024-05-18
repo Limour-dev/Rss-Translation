@@ -4,8 +4,20 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 18 May 2024 06:03:05 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 18 May 2024 09:33:05 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240517001700881</guid>
+			<title>车银优将在韩日举行安可粉丝演唱会</title>
+			<link>https://cn.yna.co.kr/view/ACK20240517001700881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔5月18日电 经纪公司Fantagio近日表示，旗下歌手兼演员车银优将在韩国和日本举办歌迷演唱会安可演出“2024 Just One 10 Minute - Mystery Elevator”。
+
+车银优今年2月和3月分别在韩国和日本首次举行单独粉丝演唱会，此次安可演唱会分别于6月29日至30日在日本横滨体育馆，7月6日在首尔奥林匹克公园SK手球竞技场举行，届时他将展现进一步升级的舞台。
+
+“Just One 10 Minute”是车银优的代表性公演品牌，也是他出道以来规模最大的个人巡演。该巡</description>
+			<pubDate>Sat, 18 May 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240517006300881</guid>
 			<title>韩国五一八民运44周年纪念仪式今举行</title>
@@ -255,13 +267,6 @@ IVE成员安兪真当天通过经纪公司发表感言称，非常荣幸并深�
 			<link>https://cn.yna.co.kr/view/ACK20240517004400881?input=rss&amp;section=news</link>
 			<description>韩元对美元汇率收盘报1354.9，较前一交易日下跌9.9韩元。</description>
 			<pubDate>Fri, 17 May 2024 15:31:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240517004300881</guid>
-			<title>股市收盘:KOSPI▼28.38</title>
-			<link>https://cn.yna.co.kr/view/ACK20240517004300881?input=rss&amp;section=news</link>
-			<description>KOSPI收盘报2724.62点，较前一交易日下跌28.38点。</description>
-			<pubDate>Fri, 17 May 2024 15:30:55 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
