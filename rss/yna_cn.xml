@@ -4,8 +4,25 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 16 Jun 2024 05:53:48 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 16 Jun 2024 09:23:48 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240613001100881</guid>
+			<title>李世荣罗人友将担纲新剧《加州汽车旅馆》</title>
+			<link>https://cn.yna.co.kr/view/ACK20240613001100881?input=rss&amp;section=news</link>
+			<description>
+韩联社首尔6月16日电 据韩国MBC电视台消息，演员李世荣和罗人友确定主演爱情剧《加州汽车旅馆》（暂译，Motel California）。
+
+《加州汽车旅馆》讲述在农村汽车旅馆出生长大的女主人公时隔12年返乡与初恋重逢而发生的故事。李世荣将饰演在二十岁时离开初恋和家人独自上京的室内设计师“池江熙”一角，罗人友将饰演与女主陷入命运般初恋的兽医“千研秀”一角。
+
+该剧将于明年首播。（完）
+
+
+ yhongjing@yna.co.kr
+
+【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Sun, 16 Jun 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240604000100881</guid>
 			<title>2024年6月16日韩国历史上的今天</title>
@@ -289,13 +306,6 @@ KCON是向世界各国介绍K-POP艺人的音乐节。god、BIBI、ZICO、全昭
 			<link>https://cn.yna.co.kr/view/ACK20240614002600881?input=rss&amp;section=news</link>
 			<description>KOSDAQ收盘报862.19点，较前一交易日下跌9.14点。</description>
 			<pubDate>Fri, 14 Jun 2024 15:32:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240614002500881</guid>
-			<title>外汇汇率收盘:1美元=1379.3韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240614002500881?input=rss&amp;section=news</link>
-			<description>韩元对美元汇率收盘报1379.3，较前一交易日下跌5.4韩元。</description>
-			<pubDate>Fri, 14 Jun 2024 15:31:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
