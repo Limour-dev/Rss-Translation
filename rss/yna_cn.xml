@@ -4,8 +4,65 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 12 Jul 2024 05:49:49 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 12 Jul 2024 09:19:49 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240712000700881</guid>
+			<title>股市开盘:KOSPI▼23.60</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712000700881?section=news&amp;input=rss</link>
+			<description>KOSPI开盘报2867.75点，较前一交易日下跌23.60点。</description>
+			<pubDate>Fri, 12 Jul 2024 09:02:21 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240712000600881</guid>
+			<title>股市开盘:KOSDAQ▼4.38</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712000600881?section=news&amp;input=rss</link>
+			<description>KOSDAQ开盘报848.04点，较前一交易日下跌4.38点。</description>
+			<pubDate>Fri, 12 Jul 2024 09:02:11 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240712000500881</guid>
+			<title>外汇汇率开盘:1美元=1372.0韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712000500881?section=news&amp;input=rss</link>
+			<description>韩元对美元汇率开盘报1372.0，较前一交易日上升0.8韩元。</description>
+			<pubDate>Fri, 12 Jul 2024 09:02:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240712000200881</guid>
+			<title>2024年7月12日韩国主要报纸头条新闻</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712000200881?section=news&amp;input=rss</link>
+			<description>
+《朝鲜日报》执政党党首候选人只顾互骂不提政策承诺
+
+《中央日报》韩美领导人追认涉朝核攻击共同指南文件
+
+《东亚日报》执政党新任党首选举频出乱象 候选人互相揭短
+
+《韩民族日报》统一部委托律所研讨“限制对朝传单行为违宪”
+
+《京乡新闻》被朝日玻璃解雇劳动者时隔9年胜诉 可重返工厂工作
+
+《韩国日报》北约和印太四国谴责朝俄军事合作 尹锡悦称将加倍援乌
+
+《每日经济》40岁年龄段经济活动人口跌至21年来最低
+
+《韩国经济》美国通胀指数趋缓 9月降息亮起绿灯
+
+【版权归韩联社所有，未经授权严禁转载复制和用于人工</description>
+			<pubDate>Fri, 12 Jul 2024 08:59:11 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240711003400881</guid>
+			<title>印太四伙伴发表联合声明谴责朝俄军事合作</title>
+			<link>https://cn.yna.co.kr/view/ACK20240711003400881?section=news&amp;input=rss</link>
+			<description>
+韩联社华盛顿7月11日电 韩国总统尹锡悦借出席北约峰会之机，于当地时间11日在华盛顿出席北约印太四伙伴（IP4）首脑会议，与日本、澳大利亚、新西兰三国领导人共同发表了《谴责俄朝军事合作的联合声明》。
+
+会议议题包括“共同应对印太地区安全威胁”和“北约与IP4未来关系”。声明中，四国首脑强烈谴责俄朝军事合作对印太和欧洲地区和平稳定构成威胁；对《全面战略伙伴关系条约》等违背多数联合国安理会决议的俄朝军事经济合作表达深切忧虑；敦促俄罗斯遵守联合国安理会相关决议，并立即终止一切违返行为。
+
+尹锡悦表示，乌克兰战</description>
+			<pubDate>Fri, 12 Jul 2024 08:38:59 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240618004800881</guid>
 			<title>2024年7月12日韩国历史上的今天</title>
@@ -210,64 +267,6 @@ sunwj@yna.co.kr
 			<link>https://cn.yna.co.kr/view/ACK20240711003700881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2891.35点，较前一交易日上升23.36点。</description>
 			<pubDate>Thu, 11 Jul 2024 15:33:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240711003600881</guid>
-			<title>股市收盘：KOSDAQ▼6.13</title>
-			<link>https://cn.yna.co.kr/view/ACK20240711003600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报852.42点，较前一交易日下跌6.13点。</description>
-			<pubDate>Thu, 11 Jul 2024 15:33:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240711003500881</guid>
-			<title>15：30外汇汇率：1美元=1378.8韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240711003500881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1378.8，较前一交易日上升5.9韩元。</description>
-			<pubDate>Thu, 11 Jul 2024 15:30:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240711003100881</guid>
-			<title>统计：去年有17.3万外国人来韩就业创历史第二高</title>
-			<link>https://cn.yna.co.kr/view/ACK20240711003100881?section=news&amp;input=rss</link>
-			<description>
-韩联社世宗7月11日电 韩国统计厅11日发布的一项调查结果显示，受雇佣许可制限额扩大等因素影响，2023年来韩求职的外国人数量创下历史第二高。
-
-数据显示，去年国际人口流动总数（指停留时间超90天的入境和出境人数之和）同比增加13.5%，为127.6万人。其中入境人数为69.8万人，出境人数为57.7万人，同比分增15.2%和11.4%。入境人数减去出境人数的净流入人数为12.1万人。这也是国际人口流动总数2021年（88.7万人）触底后连续两年呈现增势。
-
-单看外籍人口，去年入境人数为48万人，出境3</description>
-			<pubDate>Thu, 11 Jul 2024 15:12:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240711002900881</guid>
-			<title>NewJeans接任韩国旅游宣传大使</title>
-			<link>https://cn.yna.co.kr/view/ACK20240711002900881?section=news&amp;input=rss</link>
-			<description>
-韩联社首尔7月11日电 11日，韩国文化体育观光部（下称“文体部”）委任新生代人气女团NewJeans接任2024年韩国旅游名誉宣传大使，瞄准年轻市场宣传韩国旅游。
-
-
-
-
-
-文体部长官柳仁村在委任仪式上表示，今年的目标是接待外国游客2000万人次。今年以来，累计访韩游客为765万人次左右，恢复到疫前九成左右。他表示，希望下半年能有更多的游客访问韩国，他还请成员们在演唱会等活动上多多宣传韩国游。
-
-
-
-
-
-NewJeans将面向全球年轻人展开韩国游宣传活动。NewJeans出演的2支宣传片（美食篇、体验</description>
-			<pubDate>Thu, 11 Jul 2024 14:52:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240711003000881</guid>
-			<title>韩国65岁以上人口超千万 占比逼近二成</title>
-			<link>https://cn.yna.co.kr/view/ACK20240711003000881?section=news&amp;input=rss</link>
-			<description>
-韩联社首尔7月11日电 韩国65周岁以上人口突破千万关口，占总人口的比重逼近二成，相当于每5人中就有1人是老年人。
-
-据行政安全部11日发布的数据，截至本月10日，以户籍人口为准，全国65岁以上人口为1000.0062万人，占总人口（5126.9012万人）的19.51%。分性别看，男性为442.7682万人，女性为557.238万人。分地区看，首都圈为448.9828万人，非首都圈为551.0234万人。
-
-韩国65岁以上人口于2013年1月首次超过600万，为600.8757万人。之后逐年递增，20</description>
-			<pubDate>Thu, 11 Jul 2024 14:41:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
