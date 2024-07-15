@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 15 Jul 2024 21:18:57 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 16 Jul 2024 00:08:57 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240715004900881</guid>
+			<title>韩政府拟推进韩美模拟训练共享半岛核运用情报</title>
+			<link>https://cn.yna.co.kr/view/ACK20240715004900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔7月15日电 韩国国家安保室15日召开国安部门会议并决定，今后与美方实施旨在共享韩半岛核武运用情报的模拟训练。
+</description>
+			<pubDate>Mon, 15 Jul 2024 21:16:34 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240715004800881</guid>
 			<title>HYBE旗下厂牌起诉闵熙珍要求赔偿260万元</title>
@@ -154,14 +162,6 @@
 			<description>韩联社永宗岛7月15日电 韩国国家男子足球队新任主帅洪明甫15日启程赴欧洲前表示，此行的目的是为挑选合适的外籍教练。
 </description>
 			<pubDate>Mon, 15 Jul 2024 13:43:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240715001900881</guid>
-			<title>韩国上半年ICT出口同比增28%创历年同期第二高</title>
-			<link>https://cn.yna.co.kr/view/ACK20240715001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月15日电 韩国科技信息通信部15日发布的数据显示，今年上半年韩国信息通信技术（ICT）产业出口额同比增长28.2%，为1088.5亿美元，创下历年同期第二高纪录。
-</description>
-			<pubDate>Mon, 15 Jul 2024 11:42:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
