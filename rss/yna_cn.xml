@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 16 Jul 2024 00:08:57 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 16 Jul 2024 03:08:57 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240620002600881</guid>
+			<title>2024年7月16日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240620002600881?section=news&amp;input=rss</link>
+			<description>1948年 韩国政府表决通过《政府组织法草案》。《政府组织法》规定国家行政机关的设置、职能范围等细节，旨在确保政府统筹管理并系统执行国家行政工作。
+</description>
+			<pubDate>Tue, 16 Jul 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240715004900881</guid>
 			<title>韩政府拟推进韩美模拟训练共享半岛核运用情报</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月15日电 经纪公司SM娱乐15日表示，旗下男团NCT 127的正规六辑《WALK》将于当天下午6时正式发售。
 </description>
 			<pubDate>Mon, 15 Jul 2024 13:53:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240715002100881</guid>
-			<title>韩国国足新主帅洪明甫赴欧聘选教练</title>
-			<link>https://cn.yna.co.kr/view/ACK20240715002100881?section=news&amp;input=rss</link>
-			<description>韩联社永宗岛7月15日电 韩国国家男子足球队新任主帅洪明甫15日启程赴欧洲前表示，此行的目的是为挑选合适的外籍教练。
-</description>
-			<pubDate>Mon, 15 Jul 2024 13:43:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
