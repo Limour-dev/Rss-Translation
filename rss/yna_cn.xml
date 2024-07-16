@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 16 Jul 2024 21:13:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 17 Jul 2024 00:03:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240620005100881</guid>
+			<title>2024年7月17日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240620005100881?section=news&amp;input=rss</link>
+			<description>1392年 高丽王朝将领李成桂建立朝鲜王国，是为太祖。
+</description>
+			<pubDate>Wed, 17 Jul 2024 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240716001100881</guid>
+			<title>IMF上调韩国今年经济增长预期至2.5%</title>
+			<link>https://cn.yna.co.kr/view/ACK20240716001100881?section=news&amp;input=rss</link>
+			<description>韩联社华盛顿7月16日电 国际货币基金组织（IMF）16日发布最新一期《世界经济展望报告》（WEO）更新内容，上调今年韩国经济增长预期0.2个百分点至2.5%，下调明年经济增长预期0.1个百分点至2.2%。
+</description>
+			<pubDate>Tue, 16 Jul 2024 22:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240716004300881</guid>
 			<title>韩外长会见美航空航天局副局长共商航天合作</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔7月16日电 据韩国政府消息人士16日透露，前朝鲜驻古巴大使馆参赞李一奎（人名均为音译）去年11月携家眷投奔韩国，目前在境内定居。
 </description>
 			<pubDate>Tue, 16 Jul 2024 11:22:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240716001900881</guid>
-			<title>KARA今发布新曲《Hello》 收录具荷拉生前录音</title>
-			<link>https://cn.yna.co.kr/view/ACK20240716001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月16日电 经纪公司RBW和DSP传媒16日表示，女团KARA将于当天下午6时公开数字单曲专辑《I Do I Do》的收录曲《Hello》。
-</description>
-			<pubDate>Tue, 16 Jul 2024 11:03:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240716001300881</guid>
-			<title>2024年7月16日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240716001300881?section=news&amp;input=rss</link>
-			<description>▲韩全罗南道西南部暴雨致多处房屋被淹
-</description>
-			<pubDate>Tue, 16 Jul 2024 11:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
