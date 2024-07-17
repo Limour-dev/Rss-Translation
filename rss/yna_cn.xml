@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 17 Jul 2024 21:17:07 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 18 Jul 2024 00:12:07 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240620005200881</guid>
+			<title>2024年7月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240620005200881?section=news&amp;input=rss</link>
+			<description>1401年 朝鲜王朝设置“申闻鼓”，为百姓提供击鼓伸冤的机会。
+</description>
+			<pubDate>Thu, 18 Jul 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240717005100881</guid>
 			<title>韩首都圈和忠清道明后两天最大降水量将超200毫米</title>
@@ -154,14 +162,6 @@
 			<description>韩联社世宗7月17日电 据韩国关税厅（海关）17日发布的一份资料，今年上半年破获毒品走私案362起，缴获毒品298公斤，同比分别增加11.4%和减少9.4%。关税厅表示，走私10克以下少量毒品的案件增多，公斤级的大型走私案则减少。
 </description>
 			<pubDate>Wed, 17 Jul 2024 14:09:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240717001700881</guid>
-			<title>aespa正规一辑跻身公告牌专辑榜第25</title>
-			<link>https://cn.yna.co.kr/view/ACK20240717001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月17日电 据美国公告牌当地时间16日发布的最新榜单，韩国女团aespa的正规一辑《Armageddon》跻身200强专辑榜第25位。
-</description>
-			<pubDate>Wed, 17 Jul 2024 13:36:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
