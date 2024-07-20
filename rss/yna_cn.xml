@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 20 Jul 2024 21:16:41 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 21 Jul 2024 00:06:41 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240625005500881</guid>
+			<title>2024年7月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240625005500881?section=news&amp;input=rss</link>
+			<description>1951年 韩国首座火电厂——首尔唐人里火电厂（首尔火电厂的前身）正式投运。
+</description>
+			<pubDate>Sun, 21 Jul 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240717002400881</guid>
 			<title>惠利将出演《善意的竞争》变身天才少女</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月19日电 三星电子新款折叠屏手机Galaxy Z Fold6和Flip6预售量为91万部，虽少于前作，但20～39岁年轻用户占比首次达到五成。
 </description>
 			<pubDate>Fri, 19 Jul 2024 11:21:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240719001500881</guid>
-			<title>2024年7月19日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240719001500881?section=news&amp;input=rss</link>
-			<description>▲韩军重启对朝扩音喊话反制朝鲜空飘垃圾气球
-</description>
-			<pubDate>Fri, 19 Jul 2024 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
