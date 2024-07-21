@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 22 Jul 2024 00:06:41 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 22 Jul 2024 03:06:41 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240625005600881</guid>
+			<title>2024年7月22日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240625005600881?section=news&amp;input=rss</link>
+			<description>1908年 国家纪念活动改用公元纪念。
+</description>
+			<pubDate>Mon, 22 Jul 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240721001200881</guid>
 			<title>韩总统室回应检方传唤调查第一夫人</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔7月19日电 韩国联合参谋本部（联参）19日表示，军方今日16时起将持续对朝实施扩音喊话。
 </description>
 			<pubDate>Fri, 19 Jul 2024 16:31:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240719004000881</guid>
-			<title>特朗普称若当选总统将与金正恩友好相处</title>
-			<link>https://cn.yna.co.kr/view/ACK20240719004000881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿7月19日电 美国前总统特朗普18日表示，若自己能再次当选总统，将与朝鲜国务委员会委员长金正恩友好相处。
-</description>
-			<pubDate>Fri, 19 Jul 2024 16:17:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
