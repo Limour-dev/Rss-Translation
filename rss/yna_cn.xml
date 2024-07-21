@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 21 Jul 2024 15:11:41 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 21 Jul 2024 18:06:41 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240721001200881</guid>
+			<title>韩总统室回应检方传唤调查第一夫人</title>
+			<link>https://cn.yna.co.kr/view/ACK20240721001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔7月21日电 韩国总统办公室（下称“总统室”）21日就第一夫人金建希前一日被检方传唤调查一事表示，金建希女士的法定代理人将表明立场，总统室方面不宜就检方正在调查的案件置评。
+</description>
+			<pubDate>Sun, 21 Jul 2024 16:43:28 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240721001100881</guid>
+			<title>受微软系统故障瘫痪的三家韩国航司恢复正常</title>
+			<link>https://cn.yna.co.kr/view/ACK20240721001100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔7月21日电 韩国三家航司的IT服务19日受到微软云服务故障的影响一度瘫痪，经系统修复，三家航司的IT服务20日恢复正常，国际航线航班也正常运营。
+</description>
+			<pubDate>Sun, 21 Jul 2024 15:09:23 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240721001000881</guid>
 			<title>报告：2023年朝对华贸易占对外贸易98.3%</title>
@@ -149,22 +165,6 @@
 			<description>韩联社华盛顿7月19日电 美国前总统特朗普18日表示，若自己能再次当选总统，将与朝鲜国务委员会委员长金正恩友好相处。
 </description>
 			<pubDate>Fri, 19 Jul 2024 16:17:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240719003000881</guid>
-			<title>三星电子劳资重启对话协调谈判日程</title>
-			<link>https://cn.yna.co.kr/view/ACK20240719003000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月19日电 三星电子劳资双方19日重启对话。这是三星电子最大工会“全国三星电子工会”（下称工会）自8日重启无期限大罢工后时隔11天重返对话。
-</description>
-			<pubDate>Fri, 19 Jul 2024 15:54:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240719002900881</guid>
-			<title>驻韩美军调派F-16战机形成飞行大队检验战斗力</title>
-			<link>https://cn.yna.co.kr/view/ACK20240719002900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月19日电 驻韩美军空军第七航空队19日表示，将群山基地的9架F-16战斗机（第八战斗机联队）临时调遣至乌山基地（第36战斗机联队），为期一年，以检验战斗能力。
-</description>
-			<pubDate>Fri, 19 Jul 2024 15:40:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
