@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 22 Jul 2024 21:16:28 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 23 Jul 2024 00:11:28 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240625005800881</guid>
+			<title>2024年7月23日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240625005800881?section=news&amp;input=rss</link>
+			<description>918年 新罗贵族王建建立高丽王朝。
+</description>
+			<pubDate>Tue, 23 Jul 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240722004600881</guid>
 			<title>韩美日防长会议将于28日在东京举行</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月22日电 据韩国联合参谋本部（联参）22日消息，韩军从当天早上6时起启动对朝扩音喊话，预计喊话将持续16个小时到下午10时。这是韩军连续两天全线动员设在前沿的固定式扩音设备对朝喊话。
 </description>
 			<pubDate>Mon, 22 Jul 2024 11:25:20 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240722001900881</guid>
-			<title>韩低成本航司上半年国际线客运量超过大型和外国航司</title>
-			<link>https://cn.yna.co.kr/view/ACK20240722001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月22日电 韩国国土交通部22日发布的航空统计数据显示，今年1月至6月国际线旅客运输量共计4277.833万人次，其中9家本土低成本航司（LCC）占比35.6%，达1526.1591万人次，超过全服务航空公司（FSC）和外国航空公司。
-</description>
-			<pubDate>Mon, 22 Jul 2024 11:08:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
