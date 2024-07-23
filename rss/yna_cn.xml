@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 23 Jul 2024 21:17:54 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 24 Jul 2024 00:07:54 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240627002900881</guid>
+			<title>2024年7月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240627002900881?section=news&amp;input=rss</link>
+			<description>612年 高句丽将军乙支文德在萨水（今清川江）大败隋军，史称“萨水大捷”。
+</description>
+			<pubDate>Wed, 24 Jul 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240723005100881</guid>
 			<title>投韩朝鲜驻古巴参赞：去年数十名旅外朝鲜人试图弃朝</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月23日电 首尔市政府23日表示，因汉江水位上升一度被封的奥林匹克大路（双向）汝矣上游交流路（IC）已于当天上午11时解除交通管制。
 </description>
 			<pubDate>Tue, 23 Jul 2024 14:43:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240723002200881</guid>
-			<title>尹锡悦派特使团赴捷克商讨核电建设项目</title>
-			<link>https://cn.yna.co.kr/view/ACK20240723002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月23日电 据韩国总统办公室23日消息，总统尹锡悦当天决定派遣由总统室政策室长成太胤和产业通商资源部长官安德根率领的特使团赴捷克，同捷方就核电站新机组建设项目进行讨论。
-</description>
-			<pubDate>Tue, 23 Jul 2024 14:29:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
