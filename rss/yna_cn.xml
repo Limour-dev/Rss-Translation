@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 24 Jul 2024 21:17:54 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 25 Jul 2024 00:07:54 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240627003000881</guid>
+			<title>2024年7月25日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240627003000881?section=news&amp;input=rss</link>
+			<description>1861年 朝鲜王朝晚期殉国志士闵泳焕（1861—1905）出生。
+</description>
+			<pubDate>Thu, 25 Jul 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240724004900881</guid>
 			<title>现代制铁对涉华钢厚板提起反倾销申诉</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月24日电 朝鲜空飘的“垃圾气球”24日落在首尔龙山总统府和国防部办公楼所在地。
 </description>
 			<pubDate>Wed, 24 Jul 2024 14:00:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240724002100881</guid>
-			<title>“奥林匹克之友”珉豪将赴巴黎传播奥运精神</title>
-			<link>https://cn.yna.co.kr/view/ACK20240724002100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月24日电 据经纪公司SM娱乐24日消息，旗下男团SHINee成员珉豪将作为“奥林匹克之友”前往巴黎传播奥运精神。
-</description>
-			<pubDate>Wed, 24 Jul 2024 11:30:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
