@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 25 Jul 2024 21:17:54 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 26 Jul 2024 00:07:54 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240628002900881</guid>
+			<title>2024年7月26日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240628002900881?section=news&amp;input=rss</link>
+			<description>1458年 记载新罗至高丽时代历史的史书《东国通鉴》编纂完成。
+</description>
+			<pubDate>Fri, 26 Jul 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240725004800881</guid>
 			<title>韩射箭女将林是见巴黎奥运排名赛破世界纪录</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月25日电 经纪公司YG娱乐25日表示，旗下女团2NE1将于10月5日和6日在首尔奥林匹克公园举行演唱会“2024 2NE1 CONCERT WELCOME BACK IN SEOUL”。
 </description>
 			<pubDate>Thu, 25 Jul 2024 12:19:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240725000900881</guid>
-			<title>统计：2023年首尔儿童青少年幸福指数较疫期上升</title>
-			<link>https://cn.yna.co.kr/view/ACK20240725000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月25日电 首尔市政府25日发布的一份调查结果显示，2023年首尔市儿童和青少年幸福指数较新冠疫情期间上升。
-</description>
-			<pubDate>Thu, 25 Jul 2024 11:26:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
