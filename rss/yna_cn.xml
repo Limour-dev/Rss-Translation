@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 26 Jul 2024 21:17:54 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 27 Jul 2024 00:07:54 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240628003000881</guid>
+			<title>2024年7月27日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240628003000881?section=news&amp;input=rss</link>
+			<description>1894年 朝鲜王朝第26代国王高宗开始推行甲午改革。甲午改革是从1894年到1896年2月进行的近代化改革，其范围包括政治、经济、司法制度、教育等多方面。
+</description>
+			<pubDate>Sat, 27 Jul 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240726004700881</guid>
 			<title>韩日外长在老挝举行双边会谈</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月26日电 随着日本承诺将在对佐渡金山申遗时采取反映一定程度“完整历史”的措施，佐渡金山有望被列入世界遗产名录。
 </description>
 			<pubDate>Fri, 26 Jul 2024 11:41:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240726001000881</guid>
-			<title>朝鲜大力宣传“战胜节”活动烘托庆祝气氛</title>
-			<link>https://cn.yna.co.kr/view/ACK20240726001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月26日电 朝鲜媒体在“战胜节”（韩战《停战协定》签署日，7月27日）即将到来之际，集中宣传相关活动的消息，烘托庆祝气氛。
-</description>
-			<pubDate>Fri, 26 Jul 2024 11:20:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
