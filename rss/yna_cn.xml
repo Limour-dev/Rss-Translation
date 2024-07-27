@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 27 Jul 2024 06:07:54 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 27 Jul 2024 09:47:54 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240723002100881</guid>
+			<title>RIIZE将于9月在日本发行首张单曲正式出道</title>
+			<link>https://cn.yna.co.kr/view/ACK20240723002100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔7月27日电 新生代男团RIIZE将于9月5日在日本发行首张单曲专辑《Lucky》，正式在日本出道。
+</description>
+			<pubDate>Sat, 27 Jul 2024 08:00:07 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240628003000881</guid>
 			<title>2024年7月27日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月26日电 民调机构韩国盖洛普26日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为28%，差评率为63%。
 </description>
 			<pubDate>Fri, 26 Jul 2024 13:50:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240726002000881</guid>
-			<title>韩政府：日承诺反映完整历史 佐渡金山有望入遗</title>
-			<link>https://cn.yna.co.kr/view/ACK20240726002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月26日电 随着日本承诺将在对佐渡金山申遗时采取反映一定程度“完整历史”的措施，佐渡金山有望被列入世界遗产名录。
-</description>
-			<pubDate>Fri, 26 Jul 2024 11:41:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
