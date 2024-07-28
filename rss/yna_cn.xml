@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 28 Jul 2024 21:12:54 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 29 Jul 2024 00:07:54 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240628004400881</guid>
+			<title>2024年7月29日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240628004400881?section=news&amp;input=rss</link>
+			<description>1932年 庆尚北道地区出现高温酷暑天气，最高气温达到42摄氏度，导致5人死亡。
+</description>
+			<pubDate>Mon, 29 Jul 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240728000900881</guid>
 			<title>韩两家欠款电商加紧为消费者退款</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔7月26日电 韩国汽车制造商起亚26日发布业绩报告，初步核实今年第二季度营业利润同比增长7.1%，为3.6437万亿韩元（约合人民币191亿元）。
 </description>
 			<pubDate>Fri, 26 Jul 2024 16:51:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240726003100881</guid>
-			<title>朝鲜2023年GDP同比增3.1% 时隔4年由负转正</title>
-			<link>https://cn.yna.co.kr/view/ACK20240726003100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月26日电 韩国银行（央行）26日发布的一份报告显示，2023年朝鲜国内生产总值（GDP）同比增长3.1%，这是朝鲜经济时隔四年出现正增长。
-</description>
-			<pubDate>Fri, 26 Jul 2024 16:50:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
