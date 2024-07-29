@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 29 Jul 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 30 Jul 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240628004500881</guid>
+			<title>2024年7月30日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240628004500881?section=news&amp;input=rss</link>
+			<description>1909年 韩国最早的汉字词典出版发行。
+</description>
+			<pubDate>Tue, 30 Jul 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240729005800881</guid>
 			<title>韩情报机构：朝鲜今年分14次共发射48枚导弹</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月29日电 韩国国家男子足球队主帅洪明甫29日在首尔钟路区的足球会馆举行就任主教练后的首场正式记者会，提出以控球进攻主导比赛的执教理念。
 </description>
 			<pubDate>Mon, 29 Jul 2024 15:01:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729002300881</guid>
-			<title>韩欠款电商母公司代表：将出售股份稳控事态</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月29日电 总部设于新加坡的电商巨头趣天（Qoo10）代表具永培29日对旗下韩国电商TMON和薇美铺发生的欠款事态表示，将通过出售自己持有的所有趣天股份等方式投入个人资产，致力于稳控事态。
-</description>
-			<pubDate>Mon, 29 Jul 2024 14:46:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
