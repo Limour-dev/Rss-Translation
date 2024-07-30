@@ -4,8 +4,53 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 30 Jul 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 30 Jul 2024 09:46:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240730000300881</guid>
+			<title>2024年7月30日韩国主要报纸头条新闻</title>
+			<link>https://cn.yna.co.kr/view/ACK20240730000300881?section=news&amp;input=rss</link>
+			<description>《朝鲜日报》16岁射击小将潘晓真为韩夺得夏奥第100金
+</description>
+			<pubDate>Tue, 30 Jul 2024 09:13:32 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240730000600881</guid>
+			<title>股市开盘:KOSPI▼21.13</title>
+			<link>https://cn.yna.co.kr/view/ACK20240730000600881?section=news&amp;input=rss</link>
+			<description>KOSPI开盘报2744.40点，较前一交易日下跌21.13点。</description>
+			<pubDate>Tue, 30 Jul 2024 09:01:22 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240730000500881</guid>
+			<title>股市开盘:KOSDAQ▼2.82</title>
+			<link>https://cn.yna.co.kr/view/ACK20240730000500881?section=news&amp;input=rss</link>
+			<description>KOSDAQ开盘报805.17点，较前一交易日下跌2.82点。</description>
+			<pubDate>Tue, 30 Jul 2024 09:01:12 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240730000400881</guid>
+			<title>外汇汇率开盘:1美元=1382.0韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240730000400881?section=news&amp;input=rss</link>
+			<description>韩元对美元汇率开盘报1382.0，较前一交易日上升1.7韩元。</description>
+			<pubDate>Tue, 30 Jul 2024 09:00:36 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240730000200881</guid>
+			<title>巴黎奥运韩国射箭男子团体夺金成就三连冠</title>
+			<link>https://cn.yna.co.kr/view/ACK20240730000200881?section=news&amp;input=rss</link>
+			<description>韩联社巴黎7月30日电 巴黎奥运会射箭男子团体金牌赛29日在巴黎荣军院举行，韩国队以5比1战胜法国队夺金，实现奥运三连冠。
+</description>
+			<pubDate>Tue, 30 Jul 2024 08:58:19 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240730000100881</guid>
+			<title>韩中第28次贸易实务会议在北京举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20240730000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔7月30日电 韩国外交部30日表示，第28次韩中贸易实务会议29日在北京商务部大楼举行。
+</description>
+			<pubDate>Tue, 30 Jul 2024 08:38:23 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240628004500881</guid>
 			<title>2024年7月30日韩国历史上的今天</title>
@@ -117,51 +162,6 @@
 			<description>韩联社世宗7月29日电 韩国统计厅29日发布的一项统计结果显示，2023年韩国单人户家庭所占比重刷新历史纪录，平均每10户家庭中就有1户是高龄独居老人。
 </description>
 			<pubDate>Mon, 29 Jul 2024 15:48:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729002600881</guid>
-			<title>三星电子劳资双方今重启薪资谈判</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月29日电 三星电子与其最大的工会——全国三星电子工会（下称工会）于29日下午重新启动薪资谈判，为期3天。
-</description>
-			<pubDate>Mon, 29 Jul 2024 15:36:42 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729003100881</guid>
-			<title>股市收盘:KOSDAQ▲10.43</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729003100881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报807.99点，较前一交易日上升10.43点。</description>
-			<pubDate>Mon, 29 Jul 2024 15:32:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729003000881</guid>
-			<title>股市收盘:KOSPI▲33.63</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2765.53点，较前一交易日上升33.63点。</description>
-			<pubDate>Mon, 29 Jul 2024 15:32:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729002900881</guid>
-			<title>15：30外汇汇率:1美元=1381.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729002900881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1381.9， 较前一交易日上升3.9韩元。</description>
-			<pubDate>Mon, 29 Jul 2024 15:30:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729002400881</guid>
-			<title>韩2023年总人口时隔3年增加 归因外籍人口大增</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729002400881?section=news&amp;input=rss</link>
-			<description>韩联社世宗7月29日电 韩国统计厅29日发布的《2023年人口住宅总调查》结果显示，去年韩国的总人口为5177.5万人，同比增加8.2万人。尽管本国人口因低生育率和老龄化趋势持续减少，但由于外籍人口大增，总人口时隔三年增加。
-</description>
-			<pubDate>Mon, 29 Jul 2024 15:12:20 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240729002500881</guid>
-			<title>韩国足主帅洪明甫：将以控球主导比赛</title>
-			<link>https://cn.yna.co.kr/view/ACK20240729002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月29日电 韩国国家男子足球队主帅洪明甫29日在首尔钟路区的足球会馆举行就任主教练后的首场正式记者会，提出以控球进攻主导比赛的执教理念。
-</description>
-			<pubDate>Mon, 29 Jul 2024 15:01:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
