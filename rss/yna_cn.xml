@@ -4,8 +4,45 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 31 Jul 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 31 Jul 2024 09:36:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240731000600881</guid>
+			<title>股市开盘：KOSPI▲7.39</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731000600881?section=news&amp;input=rss</link>
+			<description>KOSPI开盘报2745.58点，较前一交易日上升7.39点。</description>
+			<pubDate>Wed, 31 Jul 2024 09:01:40 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240731000500881</guid>
+			<title>股市开盘：KOSDAQ▼1.78</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731000500881?section=news&amp;input=rss</link>
+			<description>KOSDAQ开盘报802.00点，较前一交易日下跌1.78点。</description>
+			<pubDate>Wed, 31 Jul 2024 09:01:24 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240731000400881</guid>
+			<title>外汇汇率开盘：1美元=1384.5韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731000400881?section=news&amp;input=rss</link>
+			<description>韩元对美元汇率开盘报1384.5，较前一交易日上升0.1韩元。</description>
+			<pubDate>Wed, 31 Jul 2024 09:00:56 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240731000200881</guid>
+			<title>2024年7月31日韩国主要报纸头条新闻</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731000200881?section=news&amp;input=rss</link>
+			<description>《朝鲜日报》韩研讨将五大综合医院升级为重症患者专用医院
+</description>
+			<pubDate>Wed, 31 Jul 2024 08:48:58 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240731000100881</guid>
+			<title>巴黎奥运男子柔道81公斤级韩国选手李俊奂摘铜</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731000100881?section=news&amp;input=rss</link>
+			<description>韩联社巴黎7月31日电 2024年巴黎奥运会柔道男子81公斤级铜牌争夺赛30日在巴黎战神广场竞技场举行，韩国选手李俊奂迎战比利时选手马蒂亚斯·卡斯，并在最终加时赛中战胜对手摘铜。
+</description>
+			<pubDate>Wed, 31 Jul 2024 08:27:18 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240628004600881</guid>
 			<title>2024年7月31日韩国历史上的今天</title>
@@ -125,43 +162,6 @@
 			<description>韩联社首尔7月30日电 据韩国法律界30日消息，法院当天针对前一天申请回生的欠款电商薇美铺和TMON采取冻结资产和债券的措施，以保障债权人的利益并确保回生程序不受影响。
 </description>
 			<pubDate>Tue, 30 Jul 2024 16:05:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240730002600881</guid>
-			<title>韩统一部：朝鲜鸭绿江流域洪灾严峻</title>
-			<link>https://cn.yna.co.kr/view/ACK20240730002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月30日电 韩国统一部30日评价称，日前发生的朝鲜鸭绿江洪涝灾情相当严重。
-</description>
-			<pubDate>Tue, 30 Jul 2024 15:53:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240730002500881</guid>
-			<title>韩军拟10月成立战略司令部应对朝核导威胁</title>
-			<link>https://cn.yna.co.kr/view/ACK20240730002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月30日电 旨在应对朝鲜核导威胁的战略司令部（下称“战略司”）拟于10月许正式成立。
-</description>
-			<pubDate>Tue, 30 Jul 2024 15:38:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240730003100881</guid>
-			<title>股市收盘:KOSDAQ▼4.21</title>
-			<link>https://cn.yna.co.kr/view/ACK20240730003100881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报803.78点，较前一交易日下跌4.21点。</description>
-			<pubDate>Tue, 30 Jul 2024 15:34:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240730003000881</guid>
-			<title>股市收盘:KOSPI▼27.34</title>
-			<link>https://cn.yna.co.kr/view/ACK20240730003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2738.19点，较前一交易日下跌27.34点。</description>
-			<pubDate>Tue, 30 Jul 2024 15:34:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240730002900881</guid>
-			<title>15：30外汇汇率:1美元=1385.3韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240730002900881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1385.3，较前一交易日下跌3.4韩元。</description>
-			<pubDate>Tue, 30 Jul 2024 15:30:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
