@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 31 Jul 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 1 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240627004400881</guid>
+			<title>2024年8月1日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240627004400881?section=news&amp;input=rss</link>
+			<description>1907年 日本强制解散大韩帝国军队。
+</description>
+			<pubDate>Thu, 01 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240731004200881</guid>
 			<title>韩国各大医院实习住院医师报名人数仅个位数</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔7月31日电 据美国公告牌当地时间30日公布的最新一期榜单，韩国男团Stray Kids迷你专辑《ATE》登顶200强专辑榜。
 </description>
 			<pubDate>Wed, 31 Jul 2024 10:57:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240731000700881</guid>
-			<title>金正恩召开抗洪会议更换工作不力责任官员</title>
-			<link>https://cn.yna.co.kr/view/ACK20240731000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔7月31日电 朝鲜国务委员会委员长金正恩日前对平安北道、慈江道的抗洪不力责任人进行问责，并更换了道委责任书记和社会安全相。
-</description>
-			<pubDate>Wed, 31 Jul 2024 10:25:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
