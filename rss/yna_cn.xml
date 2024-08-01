@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 1 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 2 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240627004600881</guid>
+			<title>2024年8月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240627004600881?section=news&amp;input=rss</link>
+			<description>1907年 大韩帝国（1897—1910）将年号由光武改为隆熙。
+</description>
+			<pubDate>Fri, 02 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240801004900881</guid>
 			<title>韩国二季度海淘超2万亿韩元 中国占比首超六成</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月1日电 流媒体播放平台奈飞（Netflix）1日表示，原创韩剧《鱿鱼游戏》第二季将于12月26日上线，明年将推出第三季。
 </description>
 			<pubDate>Thu, 01 Aug 2024 14:31:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240801001500881</guid>
-			<title>Newjeans热曲《OMG》声田播放量破7亿</title>
-			<link>https://cn.yna.co.kr/view/ACK20240801001500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月1日电 经纪公司ADOR于1日表示，旗下女团NewJeans的热曲《OMG》和《Attention》在全球最大音乐流媒体平台声田（Spotify）上的累计串流播放量分别突破7亿、4亿次大关。
-</description>
-			<pubDate>Thu, 01 Aug 2024 11:53:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
