@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 3 Aug 2024 21:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 4 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240712002200881</guid>
+			<title>2024年8月4日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712002200881?section=news&amp;input=rss</link>
+			<description>1896年 朝鲜王朝实施地方行政制度改革，将全国划分为13个道。
+</description>
+			<pubDate>Sun, 04 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240802001900881</guid>
 			<title>韩景福宫勤政殿月台9月起限制参观</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月2日电 韩国政府日前向朝方表示愿为其提供抗洪救灾物资后，虽尝试通过韩朝联络办公室（联办）联系朝方，但未收到任何回应。
 </description>
 			<pubDate>Fri, 02 Aug 2024 14:51:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802002000881</guid>
-			<title>韩欠款电商应付账款恐超40亿元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802002000881?section=news&amp;input=rss</link>
-			<description>韩联社世宗8月2日电 韩国政府2日就电商欠款事态召开会议，了解现况，筹划今后应对方案。据了解，两家电商平台欠款规模恐超8000亿韩元（约合人民币42亿元）。
-</description>
-			<pubDate>Fri, 02 Aug 2024 14:18:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
