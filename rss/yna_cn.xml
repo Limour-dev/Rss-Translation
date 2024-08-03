@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 3 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 3 Aug 2024 09:46:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240802001900881</guid>
+			<title>韩景福宫勤政殿月台9月起限制参观</title>
+			<link>https://cn.yna.co.kr/view/ACK20240802001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月3日电 韩国国家遗产厅宫陵遗迹本部近日表示，从今年9月1日至10月31日限制游客进入景福宫勤政殿月台。 
+</description>
+			<pubDate>Sat, 03 Aug 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240803000100881</guid>
 			<title>巴黎奥运射箭混团韩国金优镇/林是见摘金</title>
@@ -154,14 +162,6 @@
 			<description>韩联社世宗8月2日电 韩国政府2日就电商欠款事态召开会议，了解现况，筹划今后应对方案。据了解，两家电商平台欠款规模恐超8000亿韩元（约合人民币42亿元）。
 </description>
 			<pubDate>Fri, 02 Aug 2024 14:18:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802001800881</guid>
-			<title>韩国海军参谋总长访问夏威夷探讨韩美日合作</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月2日电 韩国海军2日表示，海军参谋总长梁龙模访问美国夏威夷，同美方就“延伸威慑”、韩美日合作等交换意见。
-</description>
-			<pubDate>Fri, 02 Aug 2024 13:46:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
