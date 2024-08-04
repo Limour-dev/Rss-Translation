@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 4 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 5 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240712002400881</guid>
+			<title>2024年8月5日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712002400881?section=news&amp;input=rss</link>
+			<description>1392年 高丽将领李成桂自立为王，改国号为朝鲜。
+</description>
+			<pubDate>Mon, 05 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240804002000881</guid>
+			<title>奥运男子个人射箭金优镇摘金 韩国队包揽射箭金牌</title>
+			<link>https://cn.yna.co.kr/view/ACK20240804002000881?section=news&amp;input=rss</link>
+			<description>韩联社巴黎8月4日电 4日，巴黎奥运会射箭男子个人赛结束争夺，韩国名将金优镇摘金，成功卫冕“三冠王”。由此，韩国队包揽奥运会射箭项目的五枚金牌。
+</description>
+			<pubDate>Sun, 04 Aug 2024 22:41:11 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240804001300881</guid>
 			<title>韩国最高温时隔六年破40℃ 未来十天将持续高温</title>
@@ -149,22 +165,6 @@
 			<description>▲韩统一部：向朝表达救灾之意但朝无回复
 </description>
 			<pubDate>Fri, 02 Aug 2024 18:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802003800881</guid>
-			<title>韩警方认定疑拍军机中国人无犯罪嫌疑</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802003800881?section=news&amp;input=rss</link>
-			<description>韩联社釜山8月2日电 在军事机场附近意图拍摄军机而接受韩国警方调查的一名中国人最终被认定无犯罪嫌疑。
-</description>
-			<pubDate>Fri, 02 Aug 2024 17:33:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802003900881</guid>
-			<title>韩国国会通过广电委委员长弹劾案</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802003900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月2日电 韩国最大在野党共同民主党主导发起的广电通信委员会（广电委）委员长李真淑弹劾案2日获得国会全体会议通过。
-</description>
-			<pubDate>Fri, 02 Aug 2024 17:28:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
