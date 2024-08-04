@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 4 Aug 2024 12:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 4 Aug 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240804001100881</guid>
+			<title>韩7月对华出口复苏 再次成为中国第二大进口来源国</title>
+			<link>https://cn.yna.co.kr/view/ACK20240804001100881?section=news&amp;input=rss</link>
+			<description>韩联社世宗8月4日电 据韩国产业通商资源部和韩国贸易协会4日数据，7月韩国对华出口同比增长14.9%，为114亿美元，为近21个月以来的新高，再次成为中国第二大进口来源国。
+</description>
+			<pubDate>Sun, 04 Aug 2024 14:57:24 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240804001000881</guid>
+			<title>首尔市长吴世勋访问中关村探索韩企新机遇</title>
+			<link>https://cn.yna.co.kr/view/ACK20240804001000881?section=news&amp;input=rss</link>
+			<description>韩联社北京8月4日电 首尔市政府4日表示，市长吴世勋连日走访中关村等地，同在华韩企代表举行座谈会，共同探索企业发展新机遇。
+</description>
+			<pubDate>Sun, 04 Aug 2024 14:42:39 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240802001700881</guid>
+			<title>一周韩娱：《鱿鱼游戏》新季将上线 Stray Kids新辑登顶公告牌</title>
+			<link>https://cn.yna.co.kr/view/ACK20240802001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月4日电 【要闻回顾】《鱿鱼游戏》第二季年底上线 明年推第三季；Stray Kids和智旻新辑跻身公告牌主榜前二；TWICE第五次世巡圆满落幕 吸引150万人次捧场；防弹智旻新歌《Be Mine》英文版上线。
+</description>
+			<pubDate>Sun, 04 Aug 2024 13:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240804000900881</guid>
 			<title>尹锡悦明起休暑假将视察部队考察民生工作</title>
@@ -141,29 +165,6 @@
 			<description>韩联社首尔8月2日电 韩国国防部长官申源湜2日在首尔国防部大楼会晤到访的德国国防部长鲍里斯·皮斯托里乌斯。
 </description>
 			<pubDate>Fri, 02 Aug 2024 16:11:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802002700881</guid>
-			<title>IVE俊杰音乐节演出4日通过优兔直播</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802002700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月2日电 经纪公司STARSHIP娱乐2日表示，女团IVE将于4日上午7时（当地时间3日下午5时）通过官方视频网站优兔（YouTube）直播“俊杰音乐节”（Lollapalooza）芝加哥站演出。
-</description>
-			<pubDate>Fri, 02 Aug 2024 16:09:48 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802002300881</guid>
-			<title>韩综股指受美股暴跌影响暴跌3.65%</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月2日电 受美股指数暴跌影响，韩国综合股价指数（KOSPI）2日收盘跌破2700点，跌幅高达3.65%。
-</description>
-			<pubDate>Fri, 02 Aug 2024 15:57:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802002600881</guid>
-			<title>股市收盘:KOSDAQ▼34.20</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802002600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报779.33点，较前一交易日下跌34.20点。</description>
-			<pubDate>Fri, 02 Aug 2024 15:33:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
