@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 5 Aug 2024 03:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 5 Aug 2024 06:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240804001400881</guid>
+			<title>韩7月外储4135.1亿美元 环比增13亿美元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240804001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月5日电 韩国银行（央行）5日表示，截至7月底，韩国外汇储备额环比增加13亿美元，为4135.1亿美元。
+</description>
+			<pubDate>Mon, 05 Aug 2024 06:01:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240712002400881</guid>
 			<title>2024年8月5日韩国历史上的今天</title>
@@ -157,14 +165,6 @@
 			<description>韩联社巴黎8月2日电 2024年巴黎奥运会乒乓球女子单打半决赛2日在南巴黎竞技场进行，韩国小将申裕斌迎战中国老将陈梦，以0比4的成绩无缘决赛。
 </description>
 			<pubDate>Fri, 02 Aug 2024 18:43:39 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240802002900881</guid>
-			<title>2024年8月2日韩联社要闻简报-2</title>
-			<link>https://cn.yna.co.kr/view/ACK20240802002900881?section=news&amp;input=rss</link>
-			<description>▲韩统一部：向朝表达救灾之意但朝无回复
-</description>
-			<pubDate>Fri, 02 Aug 2024 18:00:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
