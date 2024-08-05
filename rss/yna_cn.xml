@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 5 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 6 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240712002500881</guid>
+			<title>2024年8月6日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712002500881?section=news&amp;input=rss</link>
+			<description>1610年 朝鲜王朝医学家许浚著成《东医宝鉴》，共25册。
+</description>
+			<pubDate>Tue, 06 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240805005200881</guid>
+			<title>详讯：韩国名将安洗莹羽毛球女单摘金</title>
+			<link>https://cn.yna.co.kr/view/ACK20240805005200881?section=news&amp;input=rss</link>
+			<description>韩联社巴黎8月5日电 5日举行的巴黎奥运会羽毛球女子单打金牌赛中，世界第一、韩国名将安洗莹直落两局战胜中国选手何冰娇夺冠。
+</description>
+			<pubDate>Mon, 05 Aug 2024 21:16:32 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240805005100881</guid>
 			<title>国手山脉杯申真谞连续两年屈居亚军</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔8月5日电 韩国经纪公司JYP娱乐5日宣布，将成立子公司“INNIT娱乐”，巩固综合型经纪公司的地位。
 </description>
 			<pubDate>Mon, 05 Aug 2024 14:52:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240805002500881</guid>
-			<title>韩综股指盘中大跌启动临时停牌</title>
-			<link>https://cn.yna.co.kr/view/ACK20240805002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月5日电 由于韩国综合股价指数（KOSPI）2日开盘后暴跌，韩国交易所时隔4年多再次启动程序化交易暂停机制“临时停牌”（Sidecar）措施，时长5分钟。
-</description>
-			<pubDate>Mon, 05 Aug 2024 14:27:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240805002400881</guid>
-			<title>JusPeace基金会今揭牌成立 GD担任名誉理事长</title>
-			<link>https://cn.yna.co.kr/view/ACK20240805002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月5日电 由歌手G-DRAGON（GD，权志龙）主导成立的JusPeace基金会（JusPeace Foundation）5日下午在首尔汝矣岛举行创立仪式，正式揭牌成立。GD出任名誉理事长。
-</description>
-			<pubDate>Mon, 05 Aug 2024 14:21:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
