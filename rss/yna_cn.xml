@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 6 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 7 Aug 2024 00:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240712002600881</guid>
+			<title>2024年8月7日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240712002600881?section=news&amp;input=rss</link>
+			<description>1903年 第一个旅美韩人团体“新民会”在夏威夷州首府檀香山成立。
+</description>
+			<pubDate>Wed, 07 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240806004200881</guid>
 			<title>朝鲜谴责德国加入联合国军司 称将导致局势恶化</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月6日电 三星电子6日表示，公司已开始量产业内最薄的12纳米级低功耗双倍数据速率动态随机存储器5X内存（LPDDR5X DRAM），其封装厚度仅为0.65毫米，可支持12GB和16GB容量。
 </description>
 			<pubDate>Tue, 06 Aug 2024 13:50:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240806001200881</guid>
-			<title>2NE1出道15周年演唱会门票售罄</title>
-			<link>https://cn.yna.co.kr/view/ACK20240806001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月6日电 YG娱乐6日表示，女团2NE1出道15周年演唱会门票全部售罄。
-</description>
-			<pubDate>Tue, 06 Aug 2024 11:36:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
