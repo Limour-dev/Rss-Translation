@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 9 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 10 Aug 2024 00:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240715003500881</guid>
+			<title>2024年8月10日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240715003500881?section=news&amp;input=rss</link>
+			<description>1418年 朝鲜王朝第四代君主世宗李祹即位。
+</description>
+			<pubDate>Sat, 10 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240809004200881</guid>
+			<title>SUGA酒后骑电动车时血液酒精浓度达醉酒状态</title>
+			<link>https://cn.yna.co.kr/view/ACK20240809004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月9日电 据韩国警方9日消息，涉嫌酒后骑行电动车的防弹少年团（BTS）成员SUGA（闵玧基）事发当时血液中酒精浓度高达0.227%，远超吊销驾照的标准（0.08%以上），属于醉酒状态。
+</description>
+			<pubDate>Fri, 09 Aug 2024 21:19:51 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240809004100881</guid>
 			<title>BLACKPINK以完整阵容举行世巡纪录片发布会</title>
@@ -146,22 +162,6 @@
 			<description>▲韩国金宥珍跆拳道摘金 金牌总数平历届最高纪录
 </description>
 			<pubDate>Fri, 09 Aug 2024 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809001000881</guid>
-			<title>韩国票房：本土片《飞行员》观影有望破300万</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月9日电 据韩国电影票综合电算网9日数据，演员曹政奭主演的本土喜剧片《飞行员》前一日吸引12.7万多人次观影（票房收入占比为43.9%），稳居票房榜榜首，累计观影本周末有望突破300万。
-</description>
-			<pubDate>Fri, 09 Aug 2024 10:51:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809000800881</guid>
-			<title>韩国中暑患者累计增至2004人</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月9日电 据韩国行政安全部9日发布的一份报告，7日境内新增88名中暑等温热病患者，未出现新增死亡病例。自5月20日以来，全国累计报告的中暑患者达2004人，共18人死亡。
-</description>
-			<pubDate>Fri, 09 Aug 2024 10:03:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
