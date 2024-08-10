@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 10 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 11 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240715004400881</guid>
+			<title>2024年8月11日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240715004400881?section=news&amp;input=rss</link>
+			<description>1842年 朝鲜王朝末期文臣金弘集（1842—1896）出生。
+</description>
+			<pubDate>Sun, 11 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240808003700881</guid>
 			<title>调查：近六成韩国人认为人工智能利大于弊</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月9日电 首尔地区参鸡汤的平均单价上月环比增长0.9%，首次超过了1.7万韩元（约合人民币88.74元）。 
 </description>
 			<pubDate>Fri, 09 Aug 2024 11:27:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809001100881</guid>
-			<title>韩美商定构建清洁能源合作例行对话机制</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809001100881?section=news&amp;input=rss</link>
-			<description>韩联社世宗8月9日电 韩美商定构建运营旨在加强清洁能源领域合作的民官例行对话机制。
-</description>
-			<pubDate>Fri, 09 Aug 2024 11:17:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
