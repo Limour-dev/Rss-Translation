@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 10 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 10 Aug 2024 09:46:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240808003700881</guid>
+			<title>调查：近六成韩国人认为人工智能利大于弊</title>
+			<link>https://cn.yna.co.kr/view/ACK20240808003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月10日电 韩国科学技术信息通信部（科技部）发布的一项民调结果显示，近六成韩国人认为“人工智能（AI）技术潜在的好处多于风险”。
+</description>
+			<pubDate>Sat, 10 Aug 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240715003500881</guid>
 			<title>2024年8月10日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社世宗8月9日电 韩美商定构建运营旨在加强清洁能源领域合作的民官例行对话机制。
 </description>
 			<pubDate>Fri, 09 Aug 2024 11:17:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809000900881</guid>
-			<title>2024年8月9日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809000900881?section=news&amp;input=rss</link>
-			<description>▲韩国金宥珍跆拳道摘金 金牌总数平历届最高纪录
-</description>
-			<pubDate>Fri, 09 Aug 2024 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
