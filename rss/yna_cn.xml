@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 11 Aug 2024 18:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 11 Aug 2024 21:16:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240811001500881</guid>
+			<title>现代五项女子项目韩国成承民摘铜创亚洲历史</title>
+			<link>https://cn.yna.co.kr/view/ACK20240811001500881?section=news&amp;input=rss</link>
+			<description>韩联社凡尔赛8月11日电 11日，在法国凡尔赛宫举行的2024年巴黎奥运会现代五项女子个人决赛中，韩国选手成承民摘铜。
+</description>
+			<pubDate>Sun, 11 Aug 2024 20:38:22 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240811001400881</guid>
 			<title>光州代表团访问浙江深化双边经济合作与交流</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔8月9日电 随着韩国近期新冠疫情现抬头趋势，防疫部门扩大新冠药品供应并密切关注新冠检测试剂盒的供求情况，同时呼吁民众保持良好的个人卫生习惯。
 </description>
 			<pubDate>Fri, 09 Aug 2024 16:13:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809002300881</guid>
-			<title>YG娱乐二季度营业亏损5780万元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月9日电 经纪公司YG娱乐9日发布业绩报告，初步核实今年第二季度出现110亿韩元（约合人民币5780万元）营业亏损，销售额同比大减43.1%，为900亿韩元。
-</description>
-			<pubDate>Fri, 09 Aug 2024 15:53:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
