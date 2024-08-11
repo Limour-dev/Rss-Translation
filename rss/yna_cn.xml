@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 11 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 12 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240716000100881</guid>
+			<title>2024年8月12日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240716000100881?section=news&amp;input=rss</link>
+			<description>1960年 尹潽善当选第四届韩国总统。
+</description>
+			<pubDate>Mon, 12 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240811001500881</guid>
 			<title>现代五项女子项目韩国成承民摘铜创亚洲历史</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔8月9日电 韩国两大电商平台TMON和薇美铺下周或向回生法院（破产法院）提交自救方案，以解决欠款事件。
 </description>
 			<pubDate>Fri, 09 Aug 2024 16:44:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809002400881</guid>
-			<title>韩近一个月新冠住院患者剧增 65岁以上最多</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月9日电 随着韩国近期新冠疫情现抬头趋势，防疫部门扩大新冠药品供应并密切关注新冠检测试剂盒的供求情况，同时呼吁民众保持良好的个人卫生习惯。
-</description>
-			<pubDate>Fri, 09 Aug 2024 16:13:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
