@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 11 Aug 2024 15:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 11 Aug 2024 18:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240811001400881</guid>
+			<title>光州代表团访问浙江深化双边经济合作与交流</title>
+			<link>https://cn.yna.co.kr/view/ACK20240811001400881?section=news&amp;input=rss</link>
+			<description>韩联社光州8月11日电 据光州广域市政府11日消息，应浙江省政府的邀请，光州市文化经济副市长李尚甲本月8日至10日率团参加由韩中日秘书处在浙江省义乌市举行的2024年韩中日企业家论坛。
+</description>
+			<pubDate>Sun, 11 Aug 2024 16:50:27 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240811001300881</guid>
+			<title>韩国二季度半导体和汽车出口占比超三成创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20240811001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月11日电 韩国贸易协会11日发布的统计数据显示，今年第二季度，半导体和汽车占韩国整体出口比重分别为20.3%和11.4%，两大产品总比重达31.4%，刷新历年单季最高水平。
+</description>
+			<pubDate>Sun, 11 Aug 2024 16:38:37 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240811000800881</guid>
 			<title>尹锡悦提名法务部次官沈雨廷为新任检察总长</title>
@@ -149,20 +165,6 @@
 			<description>韩联社首尔8月9日电 经纪公司YG娱乐9日发布业绩报告，初步核实今年第二季度出现110亿韩元（约合人民币5780万元）营业亏损，销售额同比大减43.1%，为900亿韩元。
 </description>
 			<pubDate>Fri, 09 Aug 2024 15:53:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809002800881</guid>
-			<title>股市收盘:KOSDAQ▲19.15</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809002800881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报764.43点，较前一交易日上升19.15点。</description>
-			<pubDate>Fri, 09 Aug 2024 15:33:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240809002700881</guid>
-			<title>股市收盘:KOSPI▲31.70</title>
-			<link>https://cn.yna.co.kr/view/ACK20240809002700881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2588.43点，较前一交易日上升31.70点。</description>
-			<pubDate>Fri, 09 Aug 2024 15:31:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
