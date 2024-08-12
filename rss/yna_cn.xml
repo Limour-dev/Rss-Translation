@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 12 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 13 Aug 2024 00:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240716000200881</guid>
+			<title>2024年8月13日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240716000200881?section=news&amp;input=rss</link>
+			<description>1909年 朝鲜古书刊行会成立。
+</description>
+			<pubDate>Tue, 13 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240812004300881</guid>
 			<title>韩跆拳道代表队结束巴黎奥运之旅凯旋回国</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月12日电 韩国军工部门防卫事业厅12日表示，韩军试点部署反恐作战机器人。
 </description>
 			<pubDate>Mon, 12 Aug 2024 11:07:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240812001100881</guid>
-			<title>2024年8月12日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240812001100881?section=news&amp;input=rss</link>
-			<description>▲韩国军团巴黎奥运以13金居奖牌榜第8收官
-</description>
-			<pubDate>Mon, 12 Aug 2024 11:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
