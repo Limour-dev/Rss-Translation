@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 12 Aug 2024 12:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 12 Aug 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240812002200881</guid>
+			<title>韩7月家庭贷款环比增加5.5万亿韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240812002200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月12日电 韩国银行（央行）12日发布的一份报告显示，截至7月底，韩国家庭贷款余额为1120.8万亿韩元（约合人民币5.9万亿元），环比增加5.5万亿韩元。
+</description>
+			<pubDate>Mon, 12 Aug 2024 14:50:23 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240812001400881</guid>
+			<title>三星首季芯片销售全球居首 SK海力士增幅最大</title>
+			<link>https://cn.yna.co.kr/view/ACK20240812001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月12日电 韩国芯片制造商三星电子和SK海力士今年第一季度的芯片销售业绩强劲，三星电子销售额排名全球第一，SK海力士则创下最高增幅。
+</description>
+			<pubDate>Mon, 12 Aug 2024 14:02:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240812001300881</guid>
 			<title>首尔市连续22天出现“热带夜”现象</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔8月11日电 韩国总统尹锡悦11日提名法务部次官（副部长）沈雨廷为新任检察总长。
 </description>
 			<pubDate>Sun, 11 Aug 2024 15:08:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240811000700881</guid>
-			<title>韩警方将传唤SUGA详细调查酒驾嫌疑</title>
-			<link>https://cn.yna.co.kr/view/ACK20240811000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月11日电 韩国警方11日透露，龙山警察署计划近日传唤防弹少年团成员SUGA（闵玧其）调查其酒驾嫌疑。
-</description>
-			<pubDate>Sun, 11 Aug 2024 13:58:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240811000600881</guid>
-			<title>首尔市长：将申办2036年奥运会</title>
-			<link>https://cn.yna.co.kr/view/ACK20240811000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月11日电 首尔市长吴世勋11日再次表明首尔市将申办2036年夏季奥林匹克运动会。
-</description>
-			<pubDate>Sun, 11 Aug 2024 13:19:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
