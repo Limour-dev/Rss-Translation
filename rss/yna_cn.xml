@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 14 Aug 2024 03:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 14 Aug 2024 06:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240813003800881</guid>
+			<title>访韩外国人游览首尔和地方城市占比一降一升</title>
+			<link>https://cn.yna.co.kr/view/ACK20240813003800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月14日电 有数据显示，访韩外国游客中，访问首尔的比重有所减少，而访问济州等其他地区的比重则有所增加。
+</description>
+			<pubDate>Wed, 14 Aug 2024 06:01:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240716001200881</guid>
 			<title>2024年8月14日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月13日电 韩国观光公社（旅游发展局）13日表示，公社成功吸引了由中国广东省安哥正心集团1030名员工组成的大规模奖励旅游团来韩旅游。
 </description>
 			<pubDate>Tue, 13 Aug 2024 11:09:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240813001100881</guid>
-			<title>2024年8月13日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240813001100881?section=news&amp;input=rss</link>
-			<description>▲尹锡悦与前总统李明博共进晚餐
-</description>
-			<pubDate>Tue, 13 Aug 2024 11:00:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
