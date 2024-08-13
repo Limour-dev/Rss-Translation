@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 13 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 14 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240716001200881</guid>
+			<title>2024年8月14日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240716001200881?section=news&amp;input=rss</link>
+			<description>1863年 “东学”创始人崔济愚将教主地位传给崔时亨。
+</description>
+			<pubDate>Wed, 14 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240813004000881</guid>
 			<title>韩国巴黎奥运代表团凯旋而归</title>
@@ -154,14 +162,6 @@
 			<description>▲尹锡悦与前总统李明博共进晚餐
 </description>
 			<pubDate>Tue, 13 Aug 2024 11:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240813000900881</guid>
-			<title>SEVENTEEN启动全球青年资助计划招募</title>
-			<link>https://cn.yna.co.kr/view/ACK20240813000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月13日电 经纪公司PLEDIS娱乐13日表示，旗下男团SEVENTEEN在前一天国际青年日到来之际启动了“全球青年资助计划”（Global Youth Grant Scheme）的招募工作。
-</description>
-			<pubDate>Tue, 13 Aug 2024 10:29:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
