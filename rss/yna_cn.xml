@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 14 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 15 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240717000100881</guid>
+			<title>2024年8月15日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240717000100881?section=news&amp;input=rss</link>
+			<description>1926年 诗人朴寅焕（1926—1956）出生。
+</description>
+			<pubDate>Thu, 15 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240814004200881</guid>
 			<title>韩疾控部门：本轮新冠疫情恐流行至8月底</title>
@@ -154,14 +162,6 @@
 			<description>▲韩7月同比新增就业人口17.2万人 失业率2.5%
 </description>
 			<pubDate>Wed, 14 Aug 2024 11:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814001100881</guid>
-			<title>首尔连续24天出现热带夜</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月14日电 首尔13日夜晚出现“热夜”现象，从上月21日起连续第24天迎来热带夜。
-</description>
-			<pubDate>Wed, 14 Aug 2024 10:36:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
