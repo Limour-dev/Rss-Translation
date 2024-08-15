@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 15 Aug 2024 12:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 15 Aug 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240815001200881</guid>
+			<title>详讯：韩国史上首次分派举行光复节庆祝仪式</title>
+			<link>https://cn.yna.co.kr/view/ACK20240815001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月15日电 韩国政府15日主办祖国光复79周年庆祝仪式，但独立纪念馆馆长人事任命引发争议，导致光复会等部分抗日独立运动团体以及在野阵营缺席庆祝仪式，而单独举办活动纪念光复节。
+</description>
+			<pubDate>Thu, 15 Aug 2024 14:19:27 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240815001100881</guid>
+			<title>韩政府就日领导层献祭参拜靖国神社深表遗憾</title>
+			<link>https://cn.yna.co.kr/view/ACK20240815001100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月15日电 15日是韩国的光复节，也是日本无条件投降日。韩国政府就日本首相岸田文雄等领导层当天向美化侵略历史的靖国神社供奉祭品或直接前往参拜深表遗憾。
+</description>
+			<pubDate>Thu, 15 Aug 2024 14:11:39 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240815000700881</guid>
 			<title>韩国独立运动团体单独举办光复节庆祝仪式</title>
@@ -146,22 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240814002700881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1360.6，较前一交易日上升9.8韩元。</description>
 			<pubDate>Wed, 14 Aug 2024 15:30:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814002400881</guid>
-			<title>尹锡悦邀抗日英雄后人共进午餐</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月14日电 在八一五光复节即将到来之际，韩国总统尹锡悦14日在原总统府青瓦台邀请抗日英雄的后人100余人共进午餐。
-</description>
-			<pubDate>Wed, 14 Aug 2024 14:53:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814002200881</guid>
-			<title>韩国上半年财政赤字超百万亿韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814002200881?section=news&amp;input=rss</link>
-			<description>韩联社世宗8月14日电 韩国企划财政部14日发布的“财政动向”资料显示，今年上半年，财政赤字超过100万亿韩元（约合人民币5253.48亿元）。
-</description>
-			<pubDate>Wed, 14 Aug 2024 14:07:47 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
