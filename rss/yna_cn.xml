@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 15 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 16 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240717000300881</guid>
+			<title>2024年8月16日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240717000300881?section=news&amp;input=rss</link>
+			<description>1904年 亲日派人士李容九成立“进步会”。
+</description>
+			<pubDate>Fri, 16 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240815001700881</guid>
 			<title>韩美第12份防卫费协定谈判第六次会议结束</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔8月14日电 关于韩国独立纪念馆馆长人选的争议至今余波不止，预计政府和独立运动团体将各自举办八一五光复节79周年纪念活动。
 </description>
 			<pubDate>Wed, 14 Aug 2024 15:35:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814002500881</guid>
-			<title>李英爱迎光复节为掳日劳工捐款53万元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月14日电 韩国演员李英爱在光复节（8月15日）即将到来之际向行政安全部旗下的“日帝强制动员受害者支援财团”（下称财团）慷慨捐赠1亿韩元（约合人民币53万元）。
-</description>
-			<pubDate>Wed, 14 Aug 2024 15:34:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
