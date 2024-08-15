@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 15 Aug 2024 15:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 15 Aug 2024 18:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240815001700881</guid>
+			<title>韩美第12份防卫费协定谈判第六次会议结束</title>
+			<link>https://cn.yna.co.kr/view/ACK20240815001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月15日电 韩美第12份防卫费分担特别协定（SMA）谈判第六次会议14日（当地时间）在华盛顿结束，为期三天。
+</description>
+			<pubDate>Thu, 15 Aug 2024 16:32:10 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240815001500881</guid>
+			<title>韩海关上半年查获侵权商品中八成来自中国</title>
+			<link>https://cn.yna.co.kr/view/ACK20240815001500881?section=news&amp;input=rss</link>
+			<description>韩联社世宗8月15日电 韩国一项统计数据显示，韩国海关今年上半年查获的“山寨”产品中逾八成来自中国，其中香奈儿仿冒品过半。
+</description>
+			<pubDate>Thu, 15 Aug 2024 16:08:40 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240815001600881</guid>
+			<title>消息：朝鲜三池渊12月起将接待外国游客</title>
+			<link>https://cn.yna.co.kr/view/ACK20240815001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月15日电 据在华专营赴朝旅游业务的“高丽旅行社”14日消息，朝鲜位于白头山熔岩带的景点三池渊今年12月将重新开始接待外国游客。
+</description>
+			<pubDate>Thu, 15 Aug 2024 15:51:56 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240815001200881</guid>
 			<title>详讯：韩国史上首次分派举行光复节庆祝仪式</title>
@@ -141,27 +165,6 @@
 			<description>韩联社首尔8月14日电 韩国演员李英爱在光复节（8月15日）即将到来之际向行政安全部旗下的“日帝强制动员受害者支援财团”（下称财团）慷慨捐赠1亿韩元（约合人民币53万元）。
 </description>
 			<pubDate>Wed, 14 Aug 2024 15:34:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814002900881</guid>
-			<title>股市收盘:KOSDAQ▲11.97</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814002900881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报776.83点，较前一交易日上升11.97点。</description>
-			<pubDate>Wed, 14 Aug 2024 15:32:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814002800881</guid>
-			<title>股市收盘:KOSPI▲23.00</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814002800881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2644.50点，较前一交易日上升23.00点。</description>
-			<pubDate>Wed, 14 Aug 2024 15:31:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240814002700881</guid>
-			<title>15：30外汇汇率:1美元=1360.6韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240814002700881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1360.6，较前一交易日上升9.8韩元。</description>
-			<pubDate>Wed, 14 Aug 2024 15:30:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
