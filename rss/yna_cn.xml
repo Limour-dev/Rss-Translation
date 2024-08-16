@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 16 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 17 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240717000400881</guid>
+			<title>2024年8月17日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240717000400881?section=news&amp;input=rss</link>
+			<description>1900年 朝鲜王朝第26代国王高宗的二王子堈被封为义王，三王子振被封为英王。
+</description>
+			<pubDate>Sat, 17 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240816003700881</guid>
 			<title>韩国今年中暑患者累计2652人</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月16日电 据经纪公司BIGHIT MUSIC16日消息，旗下男团防弹少年团（BTS）的热曲《Dynamite》在日本公信榜串流播放量达到8亿次，开创外国歌手先河。
 </description>
 			<pubDate>Fri, 16 Aug 2024 10:30:39 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816000800881</guid>
-			<title>首尔连续26天出现“热带夜”现象</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月16日电 首尔15日继续出现夜间最低气温超过25摄氏度的“热带夜”现象，该现象已持续26天，创下近118年来的最长纪录。
-</description>
-			<pubDate>Fri, 16 Aug 2024 09:40:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
