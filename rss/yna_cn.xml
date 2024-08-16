@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 16 Aug 2024 12:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 16 Aug 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240816001800881</guid>
+			<title>韩统一部长：力促朝居民通过各种渠道接触外界</title>
+			<link>https://cn.yna.co.kr/view/ACK20240816001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月16日电 韩国统一部长官金暎浩16日表示，政府将积极努力，促使朝鲜居民通过各种渠道和方式接触外部世界。
+</description>
+			<pubDate>Fri, 16 Aug 2024 14:54:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240816001600881</guid>
+			<title>韩政府拟向产妇和现役兵提供养老金优惠</title>
+			<link>https://cn.yna.co.kr/view/ACK20240816001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月16日电 据韩国总统室高官16日消息，政府正在编制的国民年金（养老金）改革案将把重点放在减轻年轻人一代负担，包括向产妇和现役士兵提供优惠的方案。
+</description>
+			<pubDate>Fri, 16 Aug 2024 14:34:41 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240816001500881</guid>
 			<title>韩财政部绿皮书：内需回暖迹象和经济复苏势头持续</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔8月15日电 韩国光复会等抗日独立运动团体15日缺席政府主办的光复79周年庆祝仪式，而在首尔孝昌公园内的白凡金九纪念馆单独举办纪念仪式，在野多党也出席活动。
 </description>
 			<pubDate>Thu, 15 Aug 2024 11:40:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240815000600881</guid>
-			<title>尹锡悦光复79周年致辞提统一战略</title>
-			<link>https://cn.yna.co.kr/view/ACK20240815000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月15日电 韩国总统尹锡悦15日在首尔世宗文化会馆出席光复79周年庆祝仪式并发表讲话，提出以自由、变化、合作为关键词的三大统一战略。
-</description>
-			<pubDate>Thu, 15 Aug 2024 11:08:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240815000300881</guid>
-			<title>多国领导人致信尹锡悦祝贺光复79周年</title>
-			<link>https://cn.yna.co.kr/view/ACK20240815000300881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿、首尔8月14日电 韩国15日迎来光复79周年纪念日，海外10多个国家领导人向韩国总统尹锡悦发来贺信祝贺。
-</description>
-			<pubDate>Thu, 15 Aug 2024 10:15:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
