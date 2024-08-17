@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 17 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 17 Aug 2024 09:46:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240813002000881</guid>
+			<title>报告：超七成韩国大学生认为出境游是必选项</title>
+			<link>https://cn.yna.co.kr/view/ACK20240813002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月17日电 韩国大学生APP开发运营商Vinu Labs日前发布的一份报告显示，七成大学生觉得出境游必不可少。
+</description>
+			<pubDate>Sat, 17 Aug 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240717000400881</guid>
 			<title>2024年8月17日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>▲首尔连续26天出现“热带夜”现象
 </description>
 			<pubDate>Fri, 16 Aug 2024 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816000900881</guid>
-			<title>防弹《Dynamite》公信榜串流播放量破8亿</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月16日电 据经纪公司BIGHIT MUSIC16日消息，旗下男团防弹少年团（BTS）的热曲《Dynamite》在日本公信榜串流播放量达到8亿次，开创外国歌手先河。
-</description>
-			<pubDate>Fri, 16 Aug 2024 10:30:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
