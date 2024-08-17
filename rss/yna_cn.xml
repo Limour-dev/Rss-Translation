@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 17 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 18 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240719000400881</guid>
+			<title>2024年8月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240719000400881?section=news&amp;input=rss</link>
+			<description>1906年 朝鲜末期的学者兼义兵将崔益铉因在全罗北道招募义兵展开抗日战争而被捕并被流放到日本对马岛。
+</description>
+			<pubDate>Sun, 18 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240813002000881</guid>
 			<title>报告：超七成韩国大学生认为出境游是必选项</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月16日电 韩国国防部长官被提名人金龙显16日表示，将基于韩美同盟应对朝核威胁，同时对一切可行手段和方法持开放态度。
 </description>
 			<pubDate>Fri, 16 Aug 2024 11:32:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816001100881</guid>
-			<title>2024年8月16日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816001100881?section=news&amp;input=rss</link>
-			<description>▲首尔连续26天出现“热带夜”现象
-</description>
-			<pubDate>Fri, 16 Aug 2024 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
