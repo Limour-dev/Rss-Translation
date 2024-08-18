@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 18 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 19 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240719000500881</guid>
+			<title>2024年8月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240719000500881?section=news&amp;input=rss</link>
+			<description>1031年 高丽王朝名将姜邯赞（948—1031）去世。
+</description>
+			<pubDate>Mon, 19 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240818001800881</guid>
 			<title>韩国最大在野党党首选举：李在明以压倒性得票率连任</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔8月16日电 韩国总统室相关人士16日表示，政府将紧急投入准备金额外采购新冠药物。
 </description>
 			<pubDate>Fri, 16 Aug 2024 17:35:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816002600881</guid>
-			<title>韩总统室设工作组推进尹锡悦八一五统一新战略</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月13日电 为了贯彻韩国总统尹锡悦在光复79周年之际发表的“八一五统一战略”的后续措施，总统办公室于16日成立特别工作组（TF）。
-</description>
-			<pubDate>Fri, 16 Aug 2024 16:57:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
