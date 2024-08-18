@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 18 Aug 2024 12:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 18 Aug 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240818000700881</guid>
+			<title>韩近期全境污水中新冠病毒浓度激增</title>
+			<link>https://cn.yna.co.kr/view/ACK20240818000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月18日电 韩国疾病管理厅旗下基于国家污水进行的传染病监测项目（KOWAS）官网18日消息，今年第32周（8月4日至10日）全国污水处理厂的新冠病毒浓度每毫升4.764万拷贝，呈现增加态势。
+</description>
+			<pubDate>Sun, 18 Aug 2024 14:43:05 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240818000600881</guid>
+			<title>韩美明起实施乙支自由护盾联演</title>
+			<link>https://cn.yna.co.kr/view/ACK20240818000600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月18日电 韩美两军将从19日起至29日实施韩半岛防御联合演习“乙支自由护盾”（UFS）。
+</description>
+			<pubDate>Sun, 18 Aug 2024 14:26:18 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240816001700881</guid>
+			<title>一周韩娱：SVT净汉年内入伍 防弹《春日》Melon播放量破10亿</title>
+			<link>https://cn.yna.co.kr/view/ACK20240816001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月18日电 【要闻回顾】SEVENTEEN净汉年内入伍；防弹热曲《春日》Melon播放量破10亿；韩片《跨界任务》登顶奈飞非英语电影收视榜；李英爱迎光复节为掳日劳工捐款53万元。
+</description>
+			<pubDate>Sun, 18 Aug 2024 13:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240818000500881</guid>
 			<title>韩美将在联合登陆演习首次成立综合司令部</title>
@@ -141,28 +165,6 @@
 			<description>韩联社首尔8月16日电 索尼音乐娱乐韩国公司16日表示，女团BLAKCPINK成员LISA当天发表新曲《NEW WOMAN》，格莱美奖得主罗莎莉亚为其助阵。
 </description>
 			<pubDate>Fri, 16 Aug 2024 15:51:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816001900881</guid>
-			<title>韩大幅削减KF-21战机项目印尼分摊费和技术转让</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月16日电 韩国政府决定将印度尼西亚在韩国超音速战斗机“KF-21”共同研发项目经费中的分摊额从原先的1.6万亿韩元大幅削减至6000亿韩元（约合人民币31.68亿元）。
-</description>
-			<pubDate>Fri, 16 Aug 2024 15:44:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816002400881</guid>
-			<title>股市收盘:KOSDAQ▲9.50</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816002400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报786.33点，较前一交易日上升9.50点。</description>
-			<pubDate>Fri, 16 Aug 2024 15:32:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816002200881</guid>
-			<title>股市收盘:KOSPI▲52.73</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816002200881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2697.23点，较前一交易日上升52.73点。</description>
-			<pubDate>Fri, 16 Aug 2024 15:31:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
