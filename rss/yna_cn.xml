@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 18 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 18 Aug 2024 09:51:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240818000100881</guid>
+			<title>韩美日首脑发表联合声明纪念戴维营首脑会谈一周年</title>
+			<link>https://cn.yna.co.kr/view/ACK20240818000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月18日电 韩美日首脑18日在“戴维营首脑会谈”举行一周年之际发表联合声明，评价过去一年来的合作成果，再次强调合作意愿。
+</description>
+			<pubDate>Sun, 18 Aug 2024 09:43:14 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240719000400881</guid>
 			<title>2024年8月18日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社世宗8月16日电 韩国企划财政部16日发布《最新经济动向》（绿皮书）8月刊，研判韩国近期出口和制造业向好，内需以设备投资为中心出现回暖迹象，经济复苏势头持续。
 </description>
 			<pubDate>Fri, 16 Aug 2024 11:43:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816001000881</guid>
-			<title>韩防长人选：不排除任何应对朝核的方法</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月16日电 韩国国防部长官被提名人金龙显16日表示，将基于韩美同盟应对朝核威胁，同时对一切可行手段和方法持开放态度。
-</description>
-			<pubDate>Fri, 16 Aug 2024 11:32:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
