@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 18 Aug 2024 18:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 18 Aug 2024 21:16:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240818001800881</guid>
+			<title>韩国最大在野党党首选举：李在明以压倒性得票率连任</title>
+			<link>https://cn.yna.co.kr/view/ACK20240818001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月18日电 韩国最大在野党共同民主党18日在首尔松坡区奥林匹克公园体操馆KSPO巨蛋举行全国代表大会，候选人李在明以85.4%的压倒性得票率在党首选举中胜出，成功连任党首。
+</description>
+			<pubDate>Sun, 18 Aug 2024 20:08:52 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240818001000881</guid>
 			<title>韩美日首脑纪念戴维营峰会一周年 推进年内再会谈</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔8月13日电 为了贯彻韩国总统尹锡悦在光复79周年之际发表的“八一五统一战略”的后续措施，总统办公室于16日成立特别工作组（TF）。
 </description>
 			<pubDate>Fri, 16 Aug 2024 16:57:39 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240816002500881</guid>
-			<title>在韩制销电车的17家车企公开所载电池制造商信息</title>
-			<link>https://cn.yna.co.kr/view/ACK20240816002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月16日电 综合韩国国土交通部汽车召回官网的“电动汽车动力电池制造商信息”报告和各家车企官网消息，截至16日上午，在韩国制作和销售电动汽车的17个国内外整车品牌商均公开所载动力电池的制造商信息。
-</description>
-			<pubDate>Fri, 16 Aug 2024 16:29:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
