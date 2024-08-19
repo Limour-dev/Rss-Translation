@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 19 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 20 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240719000600881</guid>
+			<title>2024年8月20日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240719000600881?section=news&amp;input=rss</link>
+			<description>1901年 京釜线铁路开工典礼在今首尔市永登浦举行。
+</description>
+			<pubDate>Tue, 20 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240819003800881</guid>
 			<title>尹锡悦：“八一五统一战略”是宪法基本原则</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月19日电 据韩国航空行业19日消息，大韩航空和普莱米娅航空（Air Premia）进一步扩大联航合作范围，增设从美国起飞经由仁川抵达中国的12条航线。
 </description>
 			<pubDate>Mon, 19 Aug 2024 11:02:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240819000900881</guid>
-			<title>2024年8月19日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240819000900881?section=news&amp;input=rss</link>
-			<description>▲韩美乙支自由护盾联演正式启动
-</description>
-			<pubDate>Mon, 19 Aug 2024 11:00:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
