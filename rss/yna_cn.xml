@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 20 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 21 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240729004900881</guid>
+			<title>2024年8月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240729004900881?section=news&amp;input=rss</link>
+			<description>1545年 乙巳士祸事件爆发。朝鲜王朝第12代国王仁宗即位不久后驾崩，他同父异母的弟弟、年仅12岁的明宗继位，其母文定王后垂帘听政，明宗的外戚借机大举肃清反对派。
+</description>
+			<pubDate>Wed, 21 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240820004800881</guid>
 			<title>台风“云雀”掠过济州西部海域 尚无特别损失</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月20日电 经纪公司JYP娱乐20日表示，旗下男团Stray Kids凭借热曲《Thunderous》获得美国唱片业协会（RIAA）黄金认证。
 </description>
 			<pubDate>Tue, 20 Aug 2024 11:29:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240820001200881</guid>
-			<title>美批准对韩出售35亿美元阿帕奇直升机和部件</title>
-			<link>https://cn.yna.co.kr/view/ACK20240820001200881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿8月19日电 美国国防部旗下国防安全合作局（DSCA）19日表示，国务院批准以对外军售（FMS）方式向韩国出售规模35亿美元的“阿帕奇”攻击直升机（AH-64E）及配套部件。
-</description>
-			<pubDate>Tue, 20 Aug 2024 11:09:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
