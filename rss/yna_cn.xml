@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 21 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 22 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240729005100881</guid>
+			<title>2024年8月22日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240729005100881?section=news&amp;input=rss</link>
+			<description>1884年 抗日独立运动家白南奎（1884—1970）出生。
+</description>
+			<pubDate>Thu, 22 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240821004600881</guid>
 			<title>韩财长接见日本驻韩大使商议经济合作方案</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月21日电 韩国男团防弹少年团（BTS）成员智旻凭借第二张个人专辑《MUSE》和主打歌《Who》连续四周跻身美国公告牌重点榜单。
 </description>
 			<pubDate>Wed, 21 Aug 2024 10:47:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240821001300881</guid>
-			<title>详讯：韩8月前20天出口同比增18.5%</title>
-			<link>https://cn.yna.co.kr/view/ACK20240821001300881?section=news&amp;input=rss</link>
-			<description>韩联社世宗8月21日电 韩国关税厅（海关）21日发布的初步核实数据显示，韩国8月前20天出口额同比增长18.5%，为331.21亿美元。
-</description>
-			<pubDate>Wed, 21 Aug 2024 10:37:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
