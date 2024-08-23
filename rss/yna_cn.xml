@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 23 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 24 Aug 2024 00:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240731002200881</guid>
+			<title>2024年8月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731002200881?section=news&amp;input=rss</link>
+			<description>1618年 朝鲜王朝文人许筠（1569—1618）去世。
+</description>
+			<pubDate>Sat, 24 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240823004500881</guid>
 			<title>防弹SUGA现身警局接受酒驾嫌疑调查</title>
@@ -154,14 +162,6 @@
 			<description>▲韩京畿道一酒店发生火灾致7人死亡12人受伤
 </description>
 			<pubDate>Fri, 23 Aug 2024 11:00:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823001000881</guid>
-			<title>俄罗斯留学生时隔四年访朝前往金日成大学研修</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月23日电 俄罗斯培养外交官的专业大学在校生为前往金日成综合大学研修而入境朝鲜。这是俄罗斯大学生时隔四年再次访问朝鲜。
-</description>
-			<pubDate>Fri, 23 Aug 2024 10:42:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
