@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 23 Aug 2024 18:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 23 Aug 2024 21:16:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240823004500881</guid>
+			<title>防弹SUGA现身警局接受酒驾嫌疑调查</title>
+			<link>https://cn.yna.co.kr/view/ACK20240823004500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月22日电 防弹少年团（BTS）成员SUGA（闵玧其）23日前往首尔龙山警察署，接受酒驾嫌疑调查。
+</description>
+			<pubDate>Fri, 23 Aug 2024 20:52:14 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240823004300881</guid>
+			<title>韩检方将就第一夫人收包案召开调查审议委会议</title>
+			<link>https://cn.yna.co.kr/view/ACK20240823004300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月23日电 韩国大检察厅23日表示，检察总长李沅䄷已提请调查审议委员会对总统尹锡悦夫人金建希涉嫌收受名牌包一案进行最终审议，以确保案件审理公正。
+</description>
+			<pubDate>Fri, 23 Aug 2024 19:57:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240823004200881</guid>
 			<title>2024年8月23日韩联社要闻简报-2</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔8月23日电 俄罗斯培养外交官的专业大学在校生为前往金日成综合大学研修而入境朝鲜。这是俄罗斯大学生时隔四年再次访问朝鲜。
 </description>
 			<pubDate>Fri, 23 Aug 2024 10:42:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823000900881</guid>
-			<title>朝鲜谴责美批准对韩出售阿帕奇直升机</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月23日电 朝鲜外务省23日以“对外报道室长”的名义发表谈话谴责美国批准向韩国出售阿帕奇攻击直升机（AH-64E），称美方此举肆意妄为，是加剧紧张局势的挑衅。
-</description>
-			<pubDate>Fri, 23 Aug 2024 10:15:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823000800881</guid>
-			<title>首尔今年夜间最低气温超过25度天数创观测史纪录</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月23日电 受西南暖湿气流的影响，韩国大部分地区22至23日夜间出现最低气温超过25摄氏度的“热带夜”现象，首尔和济州热带夜持续天数分别延长至33天和39天。
-</description>
-			<pubDate>Fri, 23 Aug 2024 09:54:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
