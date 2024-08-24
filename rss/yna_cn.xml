@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 24 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 25 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240731002300881</guid>
+			<title>2024年8月25日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240731002300881?section=news&amp;input=rss</link>
+			<description>1919年 大韩民国临时政府汉城政府执政官总裁李承晚在美国华盛顿成立临时政府欧美委员会。
+</description>
+			<pubDate>Sun, 25 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240819003500881</guid>
 			<title>调查：逾六成韩国人计划今年中秋连休9天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月23日电 韩国庆熙大学国际教育院23日表示，第26届世界外国人韩语演讲大赛已开放报名。
 </description>
 			<pubDate>Fri, 23 Aug 2024 11:15:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823001100881</guid>
-			<title>韩警方成立专案组调查京畿道酒店失火原因</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823001100881?section=news&amp;input=rss</link>
-			<description>韩联社水原8月23日电 韩国京畿南部警察厅23日表示，为查明昨晚发生的富川市酒店火灾事故原因，已责成调查本部（专案组），共84人参与。
-</description>
-			<pubDate>Fri, 23 Aug 2024 11:05:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
