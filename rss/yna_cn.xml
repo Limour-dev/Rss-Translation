@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 24 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 24 Aug 2024 09:46:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240819003500881</guid>
+			<title>调查：逾六成韩国人计划今年中秋连休9天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240819003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月24日电 旅行平台“Good Choice”近日发布的一项调查结果显示，有63%的受访者计划利用年假将中秋节小长假延长，最多连休9天。
+</description>
+			<pubDate>Sat, 24 Aug 2024 08:00:07 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240731002200881</guid>
 			<title>2024年8月24日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社水原8月23日电 韩国京畿南部警察厅23日表示，为查明昨晚发生的富川市酒店火灾事故原因，已责成调查本部（专案组），共84人参与。
 </description>
 			<pubDate>Fri, 23 Aug 2024 11:05:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823001400881</guid>
-			<title>2024年8月23日韩联社要闻简报-1</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823001400881?section=news&amp;input=rss</link>
-			<description>▲韩京畿道一酒店发生火灾致7人死亡12人受伤
-</description>
-			<pubDate>Fri, 23 Aug 2024 11:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
