@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 25 Aug 2024 15:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 25 Aug 2024 18:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240825002000881</guid>
+			<title>韩国欠款电商应付货款超68亿元 波及近5万卖家</title>
+			<link>https://cn.yna.co.kr/view/ACK20240825002000881?section=news&amp;input=rss</link>
+			<description>韩联社世宗8月25日电 韩国企划财政部25日援引金融监督院的调查结果称，电商TMON和薇美铺（WeMakePrice）向入驻平台的商户应付账款总计1.279万亿韩元（约合人民币68.5亿元），波及4.8124万家商户。
+</description>
+			<pubDate>Sun, 25 Aug 2024 17:00:58 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240825001900881</guid>
+			<title>详讯：尹锡悦下周将举行国政发布会介绍改革成果</title>
+			<link>https://cn.yna.co.kr/view/ACK20240825001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月25日电 韩国总统尹锡悦将于下周举行国政发布会，介绍政府执行各项改革任务所取得的成果以及今后计划。内容涵盖四大改革（年金、医疗、教育、劳动）加“应对生育率持续走低”（下称“4+1改革”），尹锡悦将在现场回答媒体提问。
+</description>
+			<pubDate>Sun, 25 Aug 2024 16:21:19 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240825001300881</guid>
 			<title>韩总统室：正同日方协调岸田访韩行程</title>
@@ -149,20 +165,6 @@
 			<description>韩联社富川8月23日电 韩国警方和消防部门23日对京畿道富川市酒店火灾现场进行联合勘查。
 </description>
 			<pubDate>Fri, 23 Aug 2024 15:59:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823003000881</guid>
-			<title>股市收盘:KOSPI▼5.98</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2701.69点，较前一交易日下跌5.98点。</description>
-			<pubDate>Fri, 23 Aug 2024 15:33:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823002900881</guid>
-			<title>股市收盘:KOSDAQ▼0.21</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823002900881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报773.26点，较前一交易日下跌0.21点。</description>
-			<pubDate>Fri, 23 Aug 2024 15:33:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
