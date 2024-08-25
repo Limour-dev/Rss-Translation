@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 25 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 25 Aug 2024 09:51:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240823004400881</guid>
+			<title>三星LG电子将双双亮相2024德国柏林消费电子展</title>
+			<link>https://cn.yna.co.kr/view/ACK20240823004400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月25日电 三星电子和LG电子的多款人工智能（AI）产品和多项创新技术将亮相下月6日开幕的德国柏林国际消费电子展（IFA）。
+</description>
+			<pubDate>Sun, 25 Aug 2024 09:22:52 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240731002300881</guid>
 			<title>2024年8月25日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月23日电 韩国防卫事业厅厅长昔锺健21至23日对澳大利亚进行访问，向澳方推介韩国护卫舰，并探讨军工领域合作方案。
 </description>
 			<pubDate>Fri, 23 Aug 2024 13:39:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240823001200881</guid>
-			<title>第26届世界外国人韩语演讲大赛开放报名</title>
-			<link>https://cn.yna.co.kr/view/ACK20240823001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月23日电 韩国庆熙大学国际教育院23日表示，第26届世界外国人韩语演讲大赛已开放报名。
-</description>
-			<pubDate>Fri, 23 Aug 2024 11:15:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
