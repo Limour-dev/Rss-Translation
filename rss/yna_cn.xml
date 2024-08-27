@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 27 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 28 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240821004100881</guid>
+			<title>2024年8月28日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240821004100881?section=news&amp;input=rss</link>
+			<description>1946年 朝鲜共产党与朝鲜新民党合并，组建朝鲜劳动党。
+</description>
+			<pubDate>Wed, 28 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240827004300881</guid>
 			<title>投韩前朝鲜外交官：朝过半民众感受过资本主义</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月27日电 韩国SK集团旗下的两家子公司——SK Innovation和SK E&amp;amp;amp;S将于11月正式合并，届时将诞生一家年销售额88万亿韩元（约合4712亿元人民币）、总资产100万亿韩元的超大型能源企业。
 </description>
 			<pubDate>Tue, 27 Aug 2024 14:42:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240827001100881</guid>
-			<title>尹锡悦主持国务会议审议明年预算案</title>
-			<link>https://cn.yna.co.kr/view/ACK20240827001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月27日电 韩国总统尹锡悦27日表示，在上届政府的五年时间里，国家债务增加了400多万亿韩元（约合人民币2.14万亿元）。财政负担的大幅增加给现政府工作带来了巨大困难。
-</description>
-			<pubDate>Tue, 27 Aug 2024 11:51:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
