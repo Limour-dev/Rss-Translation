@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 28 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 29 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240828004800881</guid>
+			<title>韩第22届国会新当选议员人均财产1432万元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240828004800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月29日电 韩国国会公职者伦理委员会29日公布的一份数据显示，韩国第22届国会新当选议员的平均个人财产约达26.81亿韩元（约合人民币1432万元）。
+</description>
+			<pubDate>Thu, 29 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240821004200881</guid>
+			<title>2024年8月29日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240821004200881?section=news&amp;input=rss</link>
+			<description>1879年 投身抗日独立运动的僧人、诗人韩龙云（1879—1944）出生。
+</description>
+			<pubDate>Thu, 29 Aug 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240828004700881</guid>
 			<title>NCT成员泰一因涉嫌性犯罪被起诉退团</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔8月28日电 韩国总统办公室28日重申将按照原计划推进医学院扩招的立场。
 </description>
 			<pubDate>Wed, 28 Aug 2024 13:47:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240828001200881</guid>
-			<title>调查：韩企人工智能使用率仅为30.6%</title>
-			<link>https://cn.yna.co.kr/view/ACK20240828001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月28日电 大韩商工会议所和产业研究院28日发布的一份调查结果显示，韩企的人工智能（AI）使用率仅为30.6%。
-</description>
-			<pubDate>Wed, 28 Aug 2024 11:45:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240828001000881</guid>
-			<title>朝鲜今年为开发核导而盗取虚拟货币规模恐再增</title>
-			<link>https://cn.yna.co.kr/view/ACK20240828001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔、纽约8月28日电 有观测认为，朝鲜为筹措用于核导开发项目的资金而不断盗取虚拟货币，今年的盗取金额恐进一步增加。
-</description>
-			<pubDate>Wed, 28 Aug 2024 11:39:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
