@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 29 Aug 2024 03:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 29 Aug 2024 06:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240828004900881</guid>
+			<title>尹锡悦今向国民介绍政府改革任务进展情况</title>
+			<link>https://cn.yna.co.kr/view/ACK20240828004900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月29日电 据韩国总统办公室29日消息，总统尹锡悦当天将在首尔龙山总统府举行国政发布会暨记者会，介绍政府各项改革任务进展情况。
+</description>
+			<pubDate>Thu, 29 Aug 2024 05:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240828004800881</guid>
 			<title>韩第22届国会新当选议员人均财产1432万元</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月28日电 韩国国防部检察团28日表示，前一天以涉嫌泄露军机为由将国军情报司令部所属军务员A某逮捕起诉。
 </description>
 			<pubDate>Wed, 28 Aug 2024 14:06:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240828001700881</guid>
-			<title>韩总统室重申将照计划推进医学院扩招</title>
-			<link>https://cn.yna.co.kr/view/ACK20240828001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月28日电 韩国总统办公室28日重申将按照原计划推进医学院扩招的立场。
-</description>
-			<pubDate>Wed, 28 Aug 2024 13:47:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
