@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 29 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 30 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240821004300881</guid>
+			<title>2024年8月30日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240821004300881?section=news&amp;input=rss</link>
+			<description>1882年 日本发动“壬午事变”，强迫朝鲜王朝签订不平等条约《济物浦条约》（即《仁川条约》），取得在朝鲜驻军保护外交机构的权利，开始侵略朝鲜。
+</description>
+			<pubDate>Fri, 30 Aug 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240829004900881</guid>
 			<title>台风“珊珊”致韩日航线大量航班取消延误</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月29日电 韩国统一部29日发布的“八一五统一战略”解读资料中表示，将加大民间对朝广播的支援力度，确保朝鲜居民有更多接触外部信息的机会。
 </description>
 			<pubDate>Thu, 29 Aug 2024 14:23:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240829001800881</guid>
-			<title>韩国拟加大涉深度伪造性犯罪处罚力度</title>
-			<link>https://cn.yna.co.kr/view/ACK20240829001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月29日电 韩国政府计划加强对利用“深度伪造”（AI换脸）进行性犯罪行为的处罚力度，还推进与通讯软件“电报”（Telegram）的运营公司构建合作热线。
-</description>
-			<pubDate>Thu, 29 Aug 2024 13:57:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
