@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 30 Aug 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 31 Aug 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240821004700881</guid>
+			<title>2024年8月31日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240821004700881?section=news&amp;input=rss</link>
+			<description>1962年 杂志《思想界》创办人张俊河荣获有亚洲诺贝尔奖之称的拉蒙·麦格赛赛奖。
+</description>
+			<pubDate>Sat, 31 Aug 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240830004100881</guid>
 			<title>韩国会议长会见美议员团表明发展韩中关系意愿</title>
@@ -154,14 +162,6 @@
 			<description>韩联社仁川8月30日电 民调机构韩国盖洛普30日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为23%，差评率为66%。
 </description>
 			<pubDate>Fri, 30 Aug 2024 14:09:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240830001000881</guid>
-			<title>韩近三年深伪犯罪受害者中未成年占近六成</title>
-			<link>https://cn.yna.co.kr/view/ACK20240830001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月30日电 资料显示，韩国近三年深度伪造淫秽影像案件受害者中未成年人占比近六成。
-</description>
-			<pubDate>Fri, 30 Aug 2024 11:25:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
