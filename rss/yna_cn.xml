@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 31 Aug 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 31 Aug 2024 09:51:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240827000800881</guid>
+			<title>首尔昌德宫将上演朝鲜王朝宫廷生日宴会</title>
+			<link>https://cn.yna.co.kr/view/ACK20240827000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔8月31日电 韩国国家遗产厅（文物局）旗下宫陵遗迹本部表示，本部携手韩国艺术综合学校舞蹈学院附属世界民族舞蹈研究所于9月4日至5日在昌德宫后苑的演庆堂举行“朝鲜纯祖戊子年演庆堂进爵礼”表演。
+</description>
+			<pubDate>Sat, 31 Aug 2024 08:00:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240821004700881</guid>
 			<title>2024年8月31日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔8月30日电 韩国国土交通部和产业通商资源部30日表示，掺混加注韩国炼油公司生产的可持续航空燃料（SAF）的国际航线班机正式载客飞行。
 </description>
 			<pubDate>Fri, 30 Aug 2024 14:39:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240830001800881</guid>
-			<title>民调：尹锡悦施政好评率23%差评率66%</title>
-			<link>https://cn.yna.co.kr/view/ACK20240830001800881?section=news&amp;input=rss</link>
-			<description>韩联社仁川8月30日电 民调机构韩国盖洛普30日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为23%，差评率为66%。
-</description>
-			<pubDate>Fri, 30 Aug 2024 14:09:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
