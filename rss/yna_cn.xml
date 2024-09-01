@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Sep 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 1 Sep 2024 09:56:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240901000100881</guid>
+			<title>韩8月出口同比增11.4% 连续11个月增长</title>
+			<link>https://cn.yna.co.kr/view/ACK20240901000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月1日电 韩国产业通商资源部1日公布的数据显示，韩国8月出口额同比增长11.4%，为579亿美元，连续11个月呈现增势。
+</description>
+			<pubDate>Sun, 01 Sep 2024 09:33:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240820002200881</guid>
 			<title>2024年9月1日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240830002500881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1336.0，较前一交易日下跌2.8韩元。</description>
 			<pubDate>Fri, 30 Aug 2024 15:30:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240830002000881</guid>
-			<title>韩大多数赴以参加宗教活动公民启程回国</title>
-			<link>https://cn.yna.co.kr/view/ACK20240830002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月30日电 记者30日从韩国外交部获悉，上周末为参加宗教活动赴以色列的大多数韩国公民已踏上回国之路。
-</description>
-			<pubDate>Fri, 30 Aug 2024 14:47:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
