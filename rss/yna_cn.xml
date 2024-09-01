@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 2 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240821000100881</guid>
+			<title>2024年9月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240821000100881?section=news&amp;input=rss</link>
+			<description>1879年 抗日义士安重根（1879—1910）出生。
+</description>
+			<pubDate>Mon, 02 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240901001700881</guid>
 			<title>韩朝野党首会谈商定成立涉民生承诺协商机构</title>
@@ -157,14 +165,6 @@
 			<description>韩联社釜山8月30日电 位于韩国釜山的中型造船企业“大鲜造船”30日表示，公司成功向中国综合物流集团海丰国际控股有限公司（SITC）交付一艘1000标箱（TEU）级支线集装箱船。
 </description>
 			<pubDate>Fri, 30 Aug 2024 20:18:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240830003800881</guid>
-			<title>尹锡悦接见美国众议院代表团</title>
-			<link>https://cn.yna.co.kr/view/ACK20240830003800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔8月30日电 韩国总统尹锡悦30日在首尔龙山总统府接见由美国众议院中国问题特别委员会主席约翰·穆勒纳尔率领的代表团一行，双方就韩美同盟及韩美日合作事宜交换意见。
-</description>
-			<pubDate>Fri, 30 Aug 2024 19:11:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
