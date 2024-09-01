@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Sep 2024 18:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 1 Sep 2024 21:16:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240901001700881</guid>
+			<title>韩朝野党首会谈商定成立涉民生承诺协商机构</title>
+			<link>https://cn.yna.co.kr/view/ACK20240901001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月1日电 韩国执政党国民力量党首韩东勋和最大在野党共同民主党党首李在明1日在国会举行会谈，就成立共同推进两党民生承诺的协商机构达成协议。
+</description>
+			<pubDate>Sun, 01 Sep 2024 18:23:26 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240901001500881</guid>
 			<title>详讯：韩国朝野两党党首举行会谈</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔8月30日电 韩国总统尹锡悦30日在首尔龙山总统府接见由美国众议院中国问题特别委员会主席约翰·穆勒纳尔率领的代表团一行，双方就韩美同盟及韩美日合作事宜交换意见。
 </description>
 			<pubDate>Fri, 30 Aug 2024 19:11:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240830003700881</guid>
-			<title>韩球星孙兴慜之父涉嫌虐童被检方提请速裁</title>
-			<link>https://cn.yna.co.kr/view/ACK20240830003700881?section=news&amp;input=rss</link>
-			<description>韩联社春川8月30日电 韩国检方30日就国脚孙兴慜之父孙雄政运营的“SON足球学院”涉嫌虐童一事针对院长兼主教练孙雄政等嫌疑人提起公诉，并建议法院适用速裁程序。
-</description>
-			<pubDate>Fri, 30 Aug 2024 18:45:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
