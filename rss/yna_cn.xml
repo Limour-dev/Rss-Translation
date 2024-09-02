@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 2 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 3 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240822003200881</guid>
+			<title>2024年9月3日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240822003200881?section=news&amp;input=rss</link>
+			<description>1948年 美国陆军在韩半岛三八线以南地区设立的军政府——驻韩美国陆军司令部军政厅将警察权移交给韩国政府。
+</description>
+			<pubDate>Tue, 03 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240902004900881</guid>
 			<title>2NE1出道15周年演唱会日本站门票售罄</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月2日电 韩国国防部长官被提名人金龙显2日表示，国防部将以“立即、强有力、反制到底”的原则坚决应对朝鲜挑衅行为。
 </description>
 			<pubDate>Mon, 02 Sep 2024 11:54:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240902001300881</guid>
-			<title>韩福祉部长官解读急诊室难题：仍有能力接诊</title>
-			<link>https://cn.yna.co.kr/view/ACK20240902001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月2日电 韩国保健福祉部长官曹圭鸿2日做客SBS广播电台一档节目时就医院急诊室当前的运营情况表示，虽然存在困难，但仍可保持接诊能力。
-</description>
-			<pubDate>Mon, 02 Sep 2024 11:37:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
