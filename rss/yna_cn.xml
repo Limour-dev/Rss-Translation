@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 4 Sep 2024 03:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 4 Sep 2024 06:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240903004900881</guid>
+			<title>韩8月外储4159.2亿美元 环比增24.1亿美元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240903004900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月4日电 韩国银行（央行）4日发布的统计数据显示，截至8月末，韩国外汇储备额为4159.2亿美元，较7月末上升24.1亿美元。
+</description>
+			<pubDate>Wed, 04 Sep 2024 06:00:14 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240828002100881</guid>
 			<title>2024年9月4日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月3日电 经纪公司BIGHIT MUSIC于3日表示，旗下男团防弹少年团（BTS）成员Jin个人曲《Super Tuna》的特别表演视频在视频网站优兔（YouTube）上的播放量于前一天下午10时许突破1亿次大关。
 </description>
 			<pubDate>Tue, 03 Sep 2024 14:54:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240903002100881</guid>
-			<title>NewJeans就闵熙珍卸任ADOR代表理事表态</title>
-			<link>https://cn.yna.co.kr/view/ACK20240903002100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月3日电 据韩国歌坛3日消息，人气女团NewJeans成员就东家ADOR代表理事（董事长）闵熙珍卸任一事表态称，这令人心里难过，感到烦恼。
-</description>
-			<pubDate>Tue, 03 Sep 2024 14:29:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
