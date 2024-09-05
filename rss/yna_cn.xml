@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 6 Sep 2024 03:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 6 Sep 2024 06:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240905005000881</guid>
+			<title>尹锡悦今同日首相岸田文雄举行会谈</title>
+			<link>https://cn.yna.co.kr/view/ACK20240905005000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月6日电 韩国总统尹锡悦将于6日在龙山总统府同日本首相岸田文雄举行会谈。
+</description>
+			<pubDate>Fri, 06 Sep 2024 06:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240828005000881</guid>
 			<title>2024年9月6日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月5日电 据韩国联参5日消息，朝鲜从4日夜间到当天凌晨向韩空飘420多只“垃圾气球＂后，当天早上9时许再次投放。政府就此表示遗憾。
 </description>
 			<pubDate>Thu, 05 Sep 2024 14:42:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240905002600881</guid>
-			<title>韩国新增对俄罗斯和白俄罗斯出口管制品目</title>
-			<link>https://cn.yna.co.kr/view/ACK20240905002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月5日电 韩国政府进一步扩大原则上禁止向俄罗斯和白俄罗斯出口可被充当军用物资的非战略物品对象范围。
-</description>
-			<pubDate>Thu, 05 Sep 2024 14:30:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
