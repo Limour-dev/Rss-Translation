@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 6 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 7 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240828005100881</guid>
+			<title>2024年9月7日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240828005100881?section=news&amp;input=rss</link>
+			<description>1945年 美国远东陆军司令部宣布在韩国实施军政。
+</description>
+			<pubDate>Sat, 07 Sep 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240906005400881</guid>
 			<title>详讯：尹锡悦同日本首相岸田文雄举行会谈</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月6日电 韩国疾病管理厅（疾管厅）6日表示，境内新冠住院病例数连续两周减少，今夏疫情流行已迎来拐点。
 </description>
 			<pubDate>Fri, 06 Sep 2024 15:14:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240906002700881</guid>
-			<title>朝鲜官媒报道古巴驻平壤大使馆活动引关注</title>
-			<link>https://cn.yna.co.kr/view/ACK20240906002700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月6日电 据朝中社6日报道，在建政76周年之际，古巴驻朝鲜使馆武官以驻朝武官团的名义向国务委员会委员长金正恩转达花篮和贺信。这是朝鲜官媒在韩国和古巴建交后首次介绍古巴驻平壤大使馆的外事活动，引发关注。
-</description>
-			<pubDate>Fri, 06 Sep 2024 15:04:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
