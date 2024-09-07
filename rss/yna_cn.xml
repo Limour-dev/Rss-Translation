@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 7 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 8 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240829005000881</guid>
+			<title>2024年9月8日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240829005000881?section=news&amp;input=rss</link>
+			<description>1966年 韩日在关系正常化后于首尔举行第一次部长级会议。
+</description>
+			<pubDate>Sun, 08 Sep 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240902003000881</guid>
 			<title>韩国景福宫夜游活动本月11日启幕</title>
@@ -154,14 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240906003100881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1327.6，较前一交易日上升8.3韩元。</description>
 			<pubDate>Fri, 06 Sep 2024 15:30:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240906002900881</guid>
-			<title>民调：尹锡悦施政好评率23%差评率67%</title>
-			<link>https://cn.yna.co.kr/view/ACK20240906002900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月6日电 民调机构韩国盖洛普6日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为23%，差评率为67%。
-</description>
-			<pubDate>Fri, 06 Sep 2024 15:30:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
