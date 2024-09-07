@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 7 Sep 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 7 Sep 2024 09:46:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240902003000881</guid>
+			<title>韩国景福宫夜游活动本月11日启幕</title>
+			<link>https://cn.yna.co.kr/view/ACK20240902003000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月7日电 韩国国家遗产厅宫陵遗迹本部日前表示，景福宫星光夜行活动将于本月11日至下月27日举行。
+</description>
+			<pubDate>Sat, 07 Sep 2024 08:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240828005100881</guid>
 			<title>2024年9月7日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月6日电 民调机构韩国盖洛普6日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为23%，差评率为67%。
 </description>
 			<pubDate>Fri, 06 Sep 2024 15:30:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240906002800881</guid>
-			<title>韩疾控部门：今夏新冠疫情顶峰已过</title>
-			<link>https://cn.yna.co.kr/view/ACK20240906002800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月6日电 韩国疾病管理厅（疾管厅）6日表示，境内新冠住院病例数连续两周减少，今夏疫情流行已迎来拐点。
-</description>
-			<pubDate>Fri, 06 Sep 2024 15:14:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
