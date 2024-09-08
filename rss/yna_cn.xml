@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 8 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 9 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240829005100881</guid>
+			<title>2024年9月9日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240829005100881?section=news&amp;input=rss</link>
+			<description>1945年 朝鲜总督府签署对美投降书。
+</description>
+			<pubDate>Mon, 09 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240908001300881</guid>
 			<title>韩医协提参与协商机制前提：应先废除今后两年扩招计划</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔9月6日电 物流运输集团韩进6日表示，日前携手中国欧华(曦华）国际物流集团（AWOT）成立电商物流专门合资法人“韩进环球速运深圳”。
 </description>
 			<pubDate>Fri, 06 Sep 2024 18:19:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240906004900881</guid>
-			<title>尹锡悦：期待韩日克服困难共同迈向美好未来</title>
-			<link>https://cn.yna.co.kr/view/ACK20240906004900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月6日电 韩国总统尹锡悦6日在龙山总统府同日本首相岸田文雄举行会谈时表示，愿同日方一道共同努力，让韩日关系向着更加光明的未来前行。
-</description>
-			<pubDate>Fri, 06 Sep 2024 18:10:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
