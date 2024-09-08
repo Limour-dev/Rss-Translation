@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 8 Sep 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 8 Sep 2024 09:56:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240908000100881</guid>
+			<title>朝鲜连续四天对韩投放“垃圾气球”</title>
+			<link>https://cn.yna.co.kr/view/ACK20240908000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月8日电 韩国联合参谋本部（联参）7日表示，朝鲜再次对韩空投“垃圾气球”，气球可能飘至首尔和京畿地区。这已是朝鲜连续四天对韩空飘“垃圾气球”。
+</description>
+			<pubDate>Sun, 08 Sep 2024 09:39:07 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240829005000881</guid>
 			<title>2024年9月8日韩国历史上的今天</title>
@@ -155,13 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240906003200881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2544.28点，较前一交易日下跌31.22点。</description>
 			<pubDate>Fri, 06 Sep 2024 15:32:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240906003100881</guid>
-			<title>15：30外汇汇率:1美元=1327.6韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240906003100881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1327.6，较前一交易日上升8.3韩元。</description>
-			<pubDate>Fri, 06 Sep 2024 15:30:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
