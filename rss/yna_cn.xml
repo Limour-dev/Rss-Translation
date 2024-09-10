@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 10 Sep 2024 12:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 10 Sep 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240910002400881</guid>
+			<title>韩联参：朝鲜气球携带定时加热器恐引发火灾</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910002400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月10日电 韩国联合参谋本部（联参）一名负责人10日表示，朝鲜空飘的“垃圾气球”存在定时加热器启动之后引发火灾的可能性。
+</description>
+			<pubDate>Tue, 10 Sep 2024 14:40:28 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240910002300881</guid>
+			<title>首尔又现夜晚高温 刷新“最晚热带夜”纪录</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910002300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月10日电 首尔再次出现热带夜现象，刷新“最晚热带夜”纪录。
+</description>
+			<pubDate>Tue, 10 Sep 2024 13:57:29 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240910002200881</guid>
 			<title>尹锡悦要求有关部门扎实推进韩日首脑会谈后续措施</title>
@@ -146,22 +162,6 @@
 			<description>▲韩捷外长在首尔举行会谈
 </description>
 			<pubDate>Mon, 09 Sep 2024 17:00:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240909003900881</guid>
-			<title>尹锡悦指示节前做好民生和应急医疗体系检查</title>
-			<link>https://cn.yna.co.kr/view/ACK20240909003900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月9日电 韩国总统尹锡悦9日主持召开首席秘书官会议，并指示有关部门在中秋节假期临近之际全力做好对拖欠工资、民生物价和应急医疗体系的检查工作。
-</description>
-			<pubDate>Mon, 09 Sep 2024 16:56:50 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240909003600881</guid>
-			<title>韩各级学校师生深伪受害案增至434起</title>
-			<link>https://cn.yna.co.kr/view/ACK20240909003600881?section=news&amp;input=rss</link>
-			<description>韩联社世宗9月9日电 在利用深度伪造技术制作的淫秽影像通过通讯软件“电报”（Telegram）等广泛传播的情况下，韩国各级学校教师和学生受害案件进一步增加。
-</description>
-			<pubDate>Mon, 09 Sep 2024 16:16:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
