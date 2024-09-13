@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 13 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 14 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240903001100881</guid>
+			<title>2024年9月14日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240903001100881?section=news&amp;input=rss</link>
+			<description>1920年 韩国抗日独立运动家朴载赫炸毙釜山警察署署长桥本秀平，并当场被捕。
+</description>
+			<pubDate>Sat, 14 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240913003700881</guid>
 			<title>第二十七次韩中海运会谈举行</title>
@@ -154,13 +162,6 @@
 			<description>《朝鲜日报》核电新项目时隔八年获批 政府废弃去核政策结成果 
 </description>
 			<pubDate>Fri, 13 Sep 2024 09:07:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913000800881</guid>
-			<title>股市开盘:KOSPI▼0.28</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913000800881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2571.81点，较前一交易日下跌0.28点。</description>
-			<pubDate>Fri, 13 Sep 2024 09:01:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
