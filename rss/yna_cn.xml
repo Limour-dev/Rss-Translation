@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 13 Sep 2024 18:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 13 Sep 2024 21:16:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240913003700881</guid>
+			<title>第二十七次韩中海运会谈举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20240913003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月13日电 韩国海洋水产部（海水部）13日表示，第二十七次韩中海运会谈举行，双方重申了以往商定的海运航路开放原则。
+</description>
+			<pubDate>Fri, 13 Sep 2024 19:08:33 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240913003600881</guid>
+			<title>朝鲜大批韩国和联合国军司开防长会</title>
+			<link>https://cn.yna.co.kr/view/ACK20240913003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月13日电 朝鲜13日发文谴责称，联合国军司令部是在朝鲜半岛（韩半岛）怂恿军事冲突的非法势力，朝鲜将加强战略力量予以抵制。
+</description>
+			<pubDate>Fri, 13 Sep 2024 18:21:57 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240913002700881</guid>
 			<title>2024年9月13日韩联社要闻简报</title>
@@ -145,20 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240913000800881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2571.81点，较前一交易日下跌0.28点。</description>
 			<pubDate>Fri, 13 Sep 2024 09:01:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913000600881</guid>
-			<title>股市开盘:KOSDAQ▲2.33</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913000600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报733.36点，较前一交易日上升2.33点。</description>
-			<pubDate>Fri, 13 Sep 2024 09:01:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913000700881</guid>
-			<title>外汇汇率开盘:1美元=1336.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913000700881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1336.9，较前一交易日上升1.8韩元。</description>
-			<pubDate>Fri, 13 Sep 2024 09:01:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
