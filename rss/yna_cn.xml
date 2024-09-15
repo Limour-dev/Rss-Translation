@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 15 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 16 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240905003800881</guid>
+			<title>2024年9月16日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240905003800881?section=news&amp;input=rss</link>
+			<description>1597年 朝鲜王朝名将李舜臣在鸣梁海战中大破日寇。李舜臣（1545—1598）在朝明联军艰难平定的“壬辰倭乱”中屡败日军，立下汗马功劳。壬辰倭乱爆发于1592年，由日本关白丰臣秀吉派兵入侵朝鲜引发，丰臣秀吉在战争末期死亡。他死后不久，日军全部撤离朝鲜。
+</description>
+			<pubDate>Mon, 16 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240915000600881</guid>
 			<title>釜山金海机场疑有无人机“黑飞”暂停航班起降</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月13日电 韩国总统办公室13日就朝鲜公开铀浓缩设施一事表示，正在了解朝方意图等有关情况，并观察和分析朝方整体动向。
 </description>
 			<pubDate>Fri, 13 Sep 2024 15:24:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913002300881</guid>
-			<title>韩8月ICT出口同比增近29% 连增10个月</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月13日电 韩国科学技术信息通信部13日发布的一份资料显示，今年8月韩国信息通信技术（ICT）出口额同比增加28.5%，为206亿美元，连续10个月保持增势，连续8个月保持两位数增长。
-</description>
-			<pubDate>Fri, 13 Sep 2024 14:50:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
