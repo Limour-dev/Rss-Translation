@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 16 Sep 2024 06:06:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 16 Sep 2024 09:51:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240916000300881</guid>
+			<title>民调：尹锡悦施政好评率27%创新低</title>
+			<link>https://cn.yna.co.kr/view/ACK20240916000300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月16日电 韩国民调机构Realmeter16日发布的一份民调结果显示，总统尹锡悦的施政好评率为27%，为尹锡悦执政以来的最低水平。
+</description>
+			<pubDate>Mon, 16 Sep 2024 09:44:47 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240905003800881</guid>
 			<title>2024年9月16日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240913002800881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1329.5，较前一交易日上升9.2韩元。</description>
 			<pubDate>Fri, 13 Sep 2024 15:32:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913002600881</guid>
-			<title>韩总统室：正了解朝鲜公开铀浓缩设施意图</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月13日电 韩国总统办公室13日就朝鲜公开铀浓缩设施一事表示，正在了解朝方意图等有关情况，并观察和分析朝方整体动向。
-</description>
-			<pubDate>Fri, 13 Sep 2024 15:24:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
