@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 16 Sep 2024 12:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 16 Sep 2024 15:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240916001300881</guid>
+			<title>韩国职棒联赛观赛人数破千万创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20240916001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月16日电 韩国职业棒球联赛开季以来观赛人数15日突破千万大关，达到1002.0758万人次。赛事转播受众累计达到2.5亿人次。
+</description>
+			<pubDate>Mon, 16 Sep 2024 12:43:22 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240916000700881</guid>
 			<title>SEVENTEEN将发布新辑《SPILL THE FEELS》</title>
@@ -157,14 +165,6 @@
 			<description>▲金正恩视察核武研究所和武器级核物质生产基地
 </description>
 			<pubDate>Fri, 13 Sep 2024 17:00:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913002400881</guid>
-			<title>尹锡悦主持政策报告会积极评价四大改革</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月13日电 韩国总统尹锡悦13日在总统府主持“总统直属国民统合委员会成果报告会暨第三届委员会成立仪式”，并积极评价政府强力推动落实年金、医疗、教育、劳动四大改革工作。
-</description>
-			<pubDate>Fri, 13 Sep 2024 16:54:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
