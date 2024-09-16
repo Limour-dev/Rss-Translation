@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 16 Sep 2024 21:21:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 17 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240906003800881</guid>
+			<title>2024年9月17日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240906003800881?section=news&amp;input=rss</link>
+			<description>1940年 迁至中国重庆的大韩民国临时政府成立光复军。光复军主要由旅华韩国人组成，对日军进行游击战。
+</description>
+			<pubDate>Tue, 17 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240916001300881</guid>
 			<title>韩国职棒联赛观赛人数破千万创新高</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔9月13日电 朝鲜13日发文谴责称，联合国军司令部是在朝鲜半岛（韩半岛）怂恿军事冲突的非法势力，朝鲜将加强战略力量予以抵制。
 </description>
 			<pubDate>Fri, 13 Sep 2024 18:21:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913002700881</guid>
-			<title>2024年9月13日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913002700881?section=news&amp;input=rss</link>
-			<description>▲金正恩视察核武研究所和武器级核物质生产基地
-</description>
-			<pubDate>Fri, 13 Sep 2024 17:00:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
