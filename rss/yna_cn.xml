@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 17 Sep 2024 21:16:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 18 Sep 2024 00:06:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240910000100881</guid>
+			<title>2024年9月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910000100881?section=news&amp;input=rss</link>
+			<description>1894年 韩国第一所近代官方初等教育机构——校洞小学校建校。
+</description>
+			<pubDate>Wed, 18 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240912002000881</guid>
 			<title>调查：韩逾二成上班族中秋假期连休9天</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔9月14日电 韩国仁川国际机场公社日前发布的一份调查结果显示，11.2%的受访者计划今年中秋假期出境游。
 </description>
 			<pubDate>Sat, 14 Sep 2024 08:00:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240903001100881</guid>
-			<title>2024年9月14日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20240903001100881?section=news&amp;input=rss</link>
-			<description>1920年 韩国抗日独立运动家朴载赫炸毙釜山警察署署长桥本秀平，并当场被捕。
-</description>
-			<pubDate>Sat, 14 Sep 2024 00:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
