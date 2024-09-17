@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 17 Sep 2024 09:41:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 17 Sep 2024 12:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240912002000881</guid>
+			<title>调查：韩逾二成上班族中秋假期连休9天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240912002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月17日电 韩国就业门户网站“Incruit”发布的一项调查结果显示，韩国每四名上班族中就有一人在中秋节假期利用年假连休9天。
+</description>
+			<pubDate>Tue, 17 Sep 2024 11:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240912004600881</guid>
 			<title>韩国近五年机上违法行为中八成为吸烟</title>
@@ -157,14 +165,6 @@
 			<description>1920年 韩国抗日独立运动家朴载赫炸毙釜山警察署署长桥本秀平，并当场被捕。
 </description>
 			<pubDate>Sat, 14 Sep 2024 00:00:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913003700881</guid>
-			<title>第二十七次韩中海运会谈举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913003700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月13日电 韩国海洋水产部（海水部）13日表示，第二十七次韩中海运会谈举行，双方重申了以往商定的海运航路开放原则。
-</description>
-			<pubDate>Fri, 13 Sep 2024 19:08:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
