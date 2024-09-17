@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 17 Sep 2024 03:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 17 Sep 2024 09:41:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240912004600881</guid>
+			<title>韩国近五年机上违法行为中八成为吸烟</title>
+			<link>https://cn.yna.co.kr/view/ACK20240912004600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月17日电 韩国国会国土交通委员会17日从国土交通部获取的一份资料显示，从2019年至今年7月，韩国10家航司向警方移交的机上违法案件共1868起，其中吸烟最多，占80.8%（1509起）。
+</description>
+			<pubDate>Tue, 17 Sep 2024 08:30:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240906003800881</guid>
 			<title>2024年9月17日韩国历史上的今天</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔9月13日电 韩国海洋水产部（海水部）13日表示，第二十七次韩中海运会谈举行，双方重申了以往商定的海运航路开放原则。
 </description>
 			<pubDate>Fri, 13 Sep 2024 19:08:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240913003600881</guid>
-			<title>朝鲜大批韩国和联合国军司开防长会</title>
-			<link>https://cn.yna.co.kr/view/ACK20240913003600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月13日电 朝鲜13日发文谴责称，联合国军司令部是在朝鲜半岛（韩半岛）怂恿军事冲突的非法势力，朝鲜将加强战略力量予以抵制。
-</description>
-			<pubDate>Fri, 13 Sep 2024 18:21:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
