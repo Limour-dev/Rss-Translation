@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 18 Sep 2024 15:11:30 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 18 Sep 2024 17:11:30 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240918001000881</guid>
+			<title>韩仁川江华岛4600余人饱受朝鲜“噪音”骚扰</title>
+			<link>https://cn.yna.co.kr/view/ACK20240918001000881?section=news&amp;input=rss</link>
+			<description>韩联社仁川9月18日电 据韩国仁川市政府18日发布的统计数据，朝鲜对韩“噪音广播”导致与朝鲜隔海相望的仁川江华岛地区有4600多名居民受影响。
+</description>
+			<pubDate>Wed, 18 Sep 2024 16:12:07 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240918000700881</guid>
+			<title>韩美日对朝事务高官谴责朝鲜射弹并公开铀浓缩设施</title>
+			<link>https://cn.yna.co.kr/view/ACK20240918000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月18日电 韩国外交部18日表示，韩美日负责对朝事务的外交高官当天举行电话会议，谴责朝鲜公开铀浓缩设施并发射弹道导弹。
+</description>
+			<pubDate>Wed, 18 Sep 2024 15:17:24 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240918000500881</guid>
 			<title>尹锡悦明起对捷克进行为期四天的正式访问</title>
@@ -149,22 +165,6 @@
 			<description>韩联社首尔9月15日电 经纪公司YG娱乐15日表示，旗下女团BLACKPINK于2017年发布的歌曲《像最后一样》（AS IF IT&amp;apos;S YOUR LAST）的MV视频网站优兔（YouTube）播放量已超过14亿次。
 </description>
 			<pubDate>Sun, 15 Sep 2024 15:31:40 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240915000300881</guid>
-			<title>尹锡悦：解决韩朝离散家属问题是当务之急</title>
-			<link>https://cn.yna.co.kr/view/ACK20240915000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月15日电 韩国总统尹锡悦15日表示，解决韩朝离散家属问题是当务之急。尽管连人道主义交流也被朝鲜当局拒之门外，韩方仍将找寻力所能及之事先行推进。
-</description>
-			<pubDate>Sun, 15 Sep 2024 15:16:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240915000200881</guid>
-			<title>金正恩在平壤会见俄联邦安全会议秘书绍伊古</title>
-			<link>https://cn.yna.co.kr/view/ACK20240915000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月15日电 朝中社日前报道称，朝鲜国务委员会委员长金正恩13日在平壤接见到访的俄罗斯联邦安全会议秘书谢尔盖·库茹盖托维奇·绍伊古，双方在友好互信的热情氛围中交谈，并达成一致立场。
-</description>
-			<pubDate>Sun, 15 Sep 2024 14:39:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
