@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 18 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 19 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240910000200881</guid>
+			<title>2024年9月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910000200881?section=news&amp;input=rss</link>
+			<description>1932年 朝中部队联合抗击日军打响第一次双城堡战役，并取得胜利。
+</description>
+			<pubDate>Thu, 19 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240918001700881</guid>
 			<title>韩总统室：坚决反制朝鲜射弹挑衅</title>
@@ -157,14 +165,6 @@
 			<description>1597年 朝鲜王朝名将李舜臣在鸣梁海战中大破日寇。李舜臣（1545—1598）在朝明联军艰难平定的“壬辰倭乱”中屡败日军，立下汗马功劳。壬辰倭乱爆发于1592年，由日本关白丰臣秀吉派兵入侵朝鲜引发，丰臣秀吉在战争末期死亡。他死后不久，日军全部撤离朝鲜。
 </description>
 			<pubDate>Mon, 16 Sep 2024 00:00:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240915000600881</guid>
-			<title>釜山金海机场疑有无人机“黑飞”暂停航班起降</title>
-			<link>https://cn.yna.co.kr/view/ACK20240915000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月15日电 据韩国机场公社15日消息，当天上午釜山金海国际机场疑似有无人机未经许可飞行。受此影响，共8个航班起降被迫中断。   
-</description>
-			<pubDate>Sun, 15 Sep 2024 16:44:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
