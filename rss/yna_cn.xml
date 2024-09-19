@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 19 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 20 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240910000300881</guid>
+			<title>2024年9月20日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910000300881?section=news&amp;input=rss</link>
+			<description>1875年 日本借“云扬”号事件迫使朝鲜王朝签定不平等的《江华岛条约》，之后朝鲜王朝逐渐打开国门。云扬号事件是指1875年日本“云扬”号等军舰非法入侵釜山、江华岛一带的历史事件。
+</description>
+			<pubDate>Fri, 20 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240919004100881</guid>
 			<title>韩气象厅：朝鲜北部发生3.9级天然地震</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月19日电 韩国联合参谋本部（联参）19日表示，朝鲜从18日下午至夜间对韩空飘160多个“垃圾气球”，其中30多只落入首尔和京畿道北部地区。
 </description>
 			<pubDate>Thu, 19 Sep 2024 10:26:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240919000800881</guid>
-			<title>韩逾三成待业期超三年的青年选择在家躺平</title>
-			<link>https://cn.yna.co.kr/view/ACK20240919000800881?section=news&amp;input=rss</link>
-			<description>韩联社世宗9月19日电 韩国统计厅19日发布的经济活动人口微观数据显示，离校超过三年但仍在家休息不找工作的青年（15至29岁）人数达到8万多人。
-</description>
-			<pubDate>Thu, 19 Sep 2024 10:21:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
