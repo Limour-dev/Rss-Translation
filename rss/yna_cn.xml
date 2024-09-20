@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 20 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 21 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240910000400881</guid>
+			<title>2024年9月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910000400881?section=news&amp;input=rss</link>
+			<description>668年 高句丽（公元前37—公元668）灭亡，新罗统一韩半岛。
+</description>
+			<pubDate>Sat, 21 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240920003900881</guid>
+			<title>韩捷领导人商定加强战略伙伴关系</title>
+			<link>https://cn.yna.co.kr/view/ACK20240920003900881?section=news&amp;input=rss</link>
+			<description>韩联社布拉格9月20日电 韩国总统尹锡悦和捷克总理彼得·菲亚拉20日在布拉格举行会谈，商定进一步加强两国战略伙伴关系。
+</description>
+			<pubDate>Fri, 20 Sep 2024 23:19:07 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240920003700881</guid>
 			<title>韩捷签署核电全生命周期合作协议</title>
@@ -146,22 +162,6 @@
 			<description>韩联社世宗、首尔9月20日电 韩国“天弓-Ⅱ”中程地对空导弹防御系统将出口至伊拉克。
 </description>
 			<pubDate>Fri, 20 Sep 2024 11:21:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920000800881</guid>
-			<title>新任朝鲜驻古巴大使韩秀哲递交国书强调朝古合作</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920000800881?section=news&amp;input=rss</link>
-			<description>韩联社墨西哥城9月19日电 新任朝鲜驻古巴大使韩秀哲向古巴国家副主席萨尔瓦多·巴尔德斯递交国书，表明朝鲜愿加强同古巴合作的意志。
-</description>
-			<pubDate>Fri, 20 Sep 2024 10:20:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920000700881</guid>
-			<title>国际清算银行：韩政府宏观杠杆率首超45%创新高</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月20日电 国际清算银行（BIS）20日发布的数据显示，截至今年第一季度末，韩国政府债务占国内生产总值（GDP）的比重创下历史新高。
-</description>
-			<pubDate>Fri, 20 Sep 2024 09:58:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
