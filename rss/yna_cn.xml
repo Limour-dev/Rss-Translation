@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 20 Sep 2024 12:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 20 Sep 2024 15:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240920001700881</guid>
+			<title>韩国秋运期间人员流动量3503万人次</title>
+			<link>https://cn.yna.co.kr/view/ACK20240920001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月20日电 韩国国土交通部20日表示，13日至18日的秋运期间，全国人员流动量为3503万人次，较去年秋运下降14.1%。
+</description>
+			<pubDate>Fri, 20 Sep 2024 14:44:16 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240920001500881</guid>
+			<title>奈飞上半年报告：3部韩国作品跻身非英语内容榜前十</title>
+			<link>https://cn.yna.co.kr/view/ACK20240920001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月20日电 流媒体播放平台奈飞（Netflix）20日发布的《2024年上半年收视情况》报告显示，共有3部韩国影视作品跻身非英语内容收视榜前十。
+</description>
+			<pubDate>Fri, 20 Sep 2024 13:46:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240920001000881</guid>
 			<title>韩美国防协商机制第25次会议将在首尔举行</title>
@@ -146,22 +162,6 @@
 			<description>韩联社北京9月19日电 据韩国国会韩中议员联盟访华代表团19日透露，中方表示，希望明年将在韩国举办的亚太经合组织（APEC）峰会成为中国国家主席习近平访韩的良好契机。
 </description>
 			<pubDate>Thu, 19 Sep 2024 16:43:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240919002500881</guid>
-			<title>韩总统室呼吁医界参与朝野医政协商机制</title>
-			<link>https://cn.yna.co.kr/view/ACK20240919002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月19日电 韩国总统办公室19日强烈呼吁医界参与执政党提出的“朝野医政协商机制”，以讨论医学院扩招等医改问题。
-</description>
-			<pubDate>Thu, 19 Sep 2024 15:52:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240919002200881</guid>
-			<title>韩统一部：朝鲜空飘垃圾气球并非因反朝传单</title>
-			<link>https://cn.yna.co.kr/view/ACK20240919002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月19日电 韩国政府研判，朝鲜最近频繁向韩方空飘“垃圾气球”并非为了应对韩方散布反朝传单，其背后另有目的。
-</description>
-			<pubDate>Thu, 19 Sep 2024 15:38:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
