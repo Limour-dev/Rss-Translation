@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 21 Sep 2024 06:05:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 21 Sep 2024 09:50:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240920001600881</guid>
+			<title>韩国昌德宫熙政堂将限时对外开放</title>
+			<link>https://cn.yna.co.kr/view/ACK20240920001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月21日电 韩国五大古宫之一的昌德宫熙政堂将从下月1日起限时对外开放，截至19日。
+</description>
+			<pubDate>Sat, 21 Sep 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240910000400881</guid>
 			<title>2024年9月21日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月20日电 韩国国防部20日表示，韩美联合国防协商机制（KIDD）第25次会议将于23日在首尔举行，为期两天。
 </description>
 			<pubDate>Fri, 20 Sep 2024 11:39:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920000900881</guid>
-			<title>韩“天弓-Ⅱ”反导系统将出口伊拉克</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920000900881?section=news&amp;input=rss</link>
-			<description>韩联社世宗、首尔9月20日电 韩国“天弓-Ⅱ”中程地对空导弹防御系统将出口至伊拉克。
-</description>
-			<pubDate>Fri, 20 Sep 2024 11:21:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
