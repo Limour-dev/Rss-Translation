@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 21 Sep 2024 21:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 22 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240911000100881</guid>
+			<title>2024年9月22日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240911000100881?section=news&amp;input=rss</link>
+			<description>1948年 韩国政府颁布《反民族行为处罚法》，审判恶劣亲日分子的罪行。
+</description>
+			<pubDate>Sun, 22 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240920001600881</guid>
 			<title>韩国昌德宫熙政堂将限时对外开放</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月20日电 流媒体播放平台奈飞（Netflix）20日发布的《2024年上半年收视情况》报告显示，共有3部韩国影视作品跻身非英语内容收视榜前十。
 </description>
 			<pubDate>Fri, 20 Sep 2024 13:46:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920001000881</guid>
-			<title>韩美国防协商机制第25次会议将在首尔举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月20日电 韩国国防部20日表示，韩美联合国防协商机制（KIDD）第25次会议将于23日在首尔举行，为期两天。
-</description>
-			<pubDate>Fri, 20 Sep 2024 11:39:31 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
