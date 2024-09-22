@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Sep 2024 21:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 23 Sep 2024 00:05:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240911000300881</guid>
+			<title>2024年9月23日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240911000300881?section=news&amp;input=rss</link>
+			<description>1913年 日本在韩半岛公布实施《陆海军刑法》。
+</description>
+			<pubDate>Mon, 23 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240922001000881</guid>
 			<title>韩福祉部长官：政府可与医界重新讨论后年扩招名额</title>
@@ -157,14 +165,6 @@
 			<description>韩联社北京9月20日电 联合国前秘书长潘基文2019年创立的“创造美好未来潘基文基金会”（下称基金会）20日正式在中国北京成立代表处。
 </description>
 			<pubDate>Fri, 20 Sep 2024 17:00:20 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920003300881</guid>
-			<title>2024年9月20日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920003300881?section=news&amp;input=rss</link>
-			<description>▲韩捷领导人举行会谈共商核电站项目合作
-</description>
-			<pubDate>Fri, 20 Sep 2024 17:00:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
