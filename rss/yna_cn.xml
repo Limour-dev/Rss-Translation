@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Sep 2024 09:55:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 22 Sep 2024 12:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240922000300881</guid>
+			<title>金正恩回电习近平感谢其祝贺朝建政76周年</title>
+			<link>https://cn.yna.co.kr/view/ACK20240922000300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月22日电 据朝中社22日报道，国务委员会委员长金正恩15日向中国国家主席习近平回电，感谢习近平来电祝贺朝鲜建政76周年（9月9日）。
+</description>
+			<pubDate>Sun, 22 Sep 2024 10:24:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240922000200881</guid>
+			<title>朝外长访俄出席欧亚妇女论坛 称将不坐视任何敌对行为</title>
+			<link>https://cn.yna.co.kr/view/ACK20240922000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月22日电 朝鲜外务相崔善姬在访问俄罗斯时表示，朝鲜不会对任何威胁自主权、尊严、人民安宁生活的敌对行为袖手旁观，将以正义的斗争和强大的力量守护韩半岛地区的和平与安全。
+</description>
+			<pubDate>Sun, 22 Sep 2024 10:17:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240922000100881</guid>
 			<title>尹锡悦结束访捷之旅回国</title>
@@ -147,21 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240920002200881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报748.33点，较前一交易日上升8.82点。</description>
 			<pubDate>Fri, 20 Sep 2024 15:32:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920002100881</guid>
-			<title>15：30外汇汇率:1美元=1329.1韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920002100881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1329.1，较前一交易日下跌0.1韩元。</description>
-			<pubDate>Fri, 20 Sep 2024 15:31:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920001700881</guid>
-			<title>韩国秋运期间人员流动量3503万人次</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月20日电 韩国国土交通部20日表示，13日至18日的秋运期间，全国人员流动量为3503万人次，较去年秋运下降14.1%。
-</description>
-			<pubDate>Fri, 20 Sep 2024 14:44:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
