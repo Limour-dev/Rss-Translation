@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Sep 2024 06:05:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 22 Sep 2024 09:55:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240922000100881</guid>
+			<title>尹锡悦结束访捷之旅回国</title>
+			<link>https://cn.yna.co.kr/view/ACK20240922000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月22日电 韩国总统尹锡悦结束为期四天的访捷行程，于22日凌晨返回韩国。
+</description>
+			<pubDate>Sun, 22 Sep 2024 09:29:56 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240911000100881</guid>
 			<title>2024年9月22日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月20日电 韩国国土交通部20日表示，13日至18日的秋运期间，全国人员流动量为3503万人次，较去年秋运下降14.1%。
 </description>
 			<pubDate>Fri, 20 Sep 2024 14:44:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240920001500881</guid>
-			<title>奈飞上半年报告：3部韩国作品跻身非英语内容榜前十</title>
-			<link>https://cn.yna.co.kr/view/ACK20240920001500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月20日电 流媒体播放平台奈飞（Netflix）20日发布的《2024年上半年收视情况》报告显示，共有3部韩国影视作品跻身非英语内容收视榜前十。
-</description>
-			<pubDate>Fri, 20 Sep 2024 13:46:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
