@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 23 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 24 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240911000400881</guid>
+			<title>2024年9月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240911000400881?section=news&amp;input=rss</link>
+			<description>1949年 伊朗承认大韩民国政府。
+</description>
+			<pubDate>Tue, 24 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240923004100881</guid>
 			<title>韩中面向未来交流项目中方代表团时隔五年访韩</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月23日电 韩国联合参谋本部（联参）23日向国防部记者团发布消息称，朝鲜不断对韩空投“垃圾气球”，若该行为对国民安全构成严重危害或触犯底线，军方将果断采取军事措施予以应对。
 </description>
 			<pubDate>Mon, 23 Sep 2024 11:21:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240923001100881</guid>
-			<title>朝鲜声称秋粮长势良好 与国际组织研判相左</title>
-			<link>https://cn.yna.co.kr/view/ACK20240923001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月23日电 朝鲜声称今年秋粮长势整体良好，呼吁民众如期完成收割和脱粒工作，达成劳动党提出的产粮目标。朝方的该说法与联合国粮农组织（FAO）此前作出的研判相左，引发关注。
-</description>
-			<pubDate>Mon, 23 Sep 2024 10:50:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
