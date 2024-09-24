@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 24 Sep 2024 12:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 24 Sep 2024 15:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240924001700881</guid>
+			<title>韩官民讨论美涉中俄智能网联汽车软硬件禁令</title>
+			<link>https://cn.yna.co.kr/view/ACK20240924001700881?section=news&amp;input=rss</link>
+			<description>韩联社世宗9月24日电 韩国产业通商资源部（产业部）24日召开官民联合会议，就美国政府公布禁售使用中国和俄罗斯产软硬件的智能网联汽车议案讨论应对方案。
+</description>
+			<pubDate>Tue, 24 Sep 2024 14:52:42 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240924001600881</guid>
+			<title>尹锡悦回应“不要统一”说法：令人费解</title>
+			<link>https://cn.yna.co.kr/view/ACK20240924001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月24日电 韩国总统尹锡悦24日就在野阵营主张“韩朝无需统一，应接受两个国家的现状”表示，一生投身于统一运动并标榜实现统一为人生目标的人们在朝鲜提出“两国论”之后突然改变自己的信念，令人费解。
+</description>
+			<pubDate>Tue, 24 Sep 2024 14:32:55 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240924001500881</guid>
 			<title>三星采用第八代V-NAND车载固态硬盘研制成功</title>
@@ -146,20 +162,6 @@
 			<description>韩联社首尔9月23日电 韩国外交部23日表示，外交部当天邀请“和平俱乐部”所属外交使节团举办圆桌会，介绍当前的韩半岛局势和政府“八一五统一战略”的统一新政策。
 </description>
 			<pubDate>Mon, 23 Sep 2024 15:53:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240923002900881</guid>
-			<title>股市收盘:KOSPI▲8.64</title>
-			<link>https://cn.yna.co.kr/view/ACK20240923002900881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2602.01点，较前一交易日上升8.64点。</description>
-			<pubDate>Mon, 23 Sep 2024 15:32:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240923002800881</guid>
-			<title>股市收盘:KOSDAQ▲6.79</title>
-			<link>https://cn.yna.co.kr/view/ACK20240923002800881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报755.12点，较前一交易日上升6.79点。</description>
-			<pubDate>Mon, 23 Sep 2024 15:32:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
