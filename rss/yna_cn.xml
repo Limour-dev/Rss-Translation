@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 24 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 25 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240912000300881</guid>
+			<title>2024年9月25日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240912000300881?section=news&amp;input=rss</link>
+			<description>1251年 海印寺八万大藏经刊刻完成。
+</description>
+			<pubDate>Wed, 25 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240924003500881</guid>
 			<title>尹锡悦同旅日韩侨座谈 强调韩日友好关系</title>
@@ -154,14 +162,6 @@
 			<description>《朝鲜日报》韩国在MSCI新兴市场指数权重被台湾赶超
 </description>
 			<pubDate>Tue, 24 Sep 2024 09:32:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240924000400881</guid>
-			<title>尹锡悦今同执政党领导班子举行晚餐会</title>
-			<link>https://cn.yna.co.kr/view/ACK20240924000400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月24日电 韩国总统尹锡悦和执政党国民力量领导班子24日将在首尔龙山区举行晚餐会。
-</description>
-			<pubDate>Tue, 24 Sep 2024 09:12:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
