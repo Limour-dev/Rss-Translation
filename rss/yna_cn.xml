@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 24 Sep 2024 09:55:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 24 Sep 2024 12:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240924001500881</guid>
+			<title>三星采用第八代V-NAND车载固态硬盘研制成功</title>
+			<link>https://cn.yna.co.kr/view/ACK20240924001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月24日电 三星电子24日表示，公司在业内率先研制出采用第8代3D垂直闪存（V-NAND）的PCIe 4.0车载固态硬盘（SSD）“AM9C1”。
+</description>
+			<pubDate>Tue, 24 Sep 2024 11:40:59 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240924000800881</guid>
+			<title>韩国营养不良人口近五年来增加两倍</title>
+			<link>https://cn.yna.co.kr/view/ACK20240924000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月24日电 受新冠疫情、高物价和利息影响，近五年来韩国营养不良人口增加近两倍。
+</description>
+			<pubDate>Tue, 24 Sep 2024 11:12:53 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240924000900881</guid>
+			<title>BP《How You Like That》舞蹈视频播放量超17亿</title>
+			<link>https://cn.yna.co.kr/view/ACK20240924000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月24日电 经纪公司YG娱乐24日表示，旗下女团BLACKPINK的热曲《How You Like That》舞蹈视频当天凌晨2时许优兔（YouTube）播放量超过17亿次。
+</description>
+			<pubDate>Tue, 24 Sep 2024 11:07:30 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240924000300881</guid>
 			<title>2024年9月24日韩国主要报纸头条新闻</title>
@@ -136,29 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240923002800881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报755.12点，较前一交易日上升6.79点。</description>
 			<pubDate>Mon, 23 Sep 2024 15:32:48 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240923002700881</guid>
-			<title>15：30外汇汇率:1美元=1335.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240923002700881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1335.9，较前一交易日下跌6.8韩元。</description>
-			<pubDate>Mon, 23 Sep 2024 15:30:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240923002500881</guid>
-			<title>ILLIT下月携迷你二辑回归</title>
-			<link>https://cn.yna.co.kr/view/ACK20240923002500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月23日电 韩国女团ILLIT将于下月21日发布第二张迷你专辑《I&amp;apos;LL LIKE YOU》，回归歌坛。
-</description>
-			<pubDate>Mon, 23 Sep 2024 15:07:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240923002400881</guid>
-			<title>aespa下月携迷你五辑《Whiplash》回归</title>
-			<link>https://cn.yna.co.kr/view/ACK20240923002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月23日电 经纪公司SM娱乐23日表示，旗下女团aespa将于10月21日发行迷你五辑《Whiplash》。
-</description>
-			<pubDate>Mon, 23 Sep 2024 15:00:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
