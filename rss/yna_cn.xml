@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 25 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 26 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240912000400881</guid>
+			<title>2024年9月26日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240912000400881?section=news&amp;input=rss</link>
+			<description>1881年 朝鲜为学习新式武器制造及使用方法向清朝派遣领选使。
+</description>
+			<pubDate>Thu, 26 Sep 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240925003800881</guid>
 			<title>韩驻华大使：韩中相互尊重最为重要</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月25日电 朝鲜外务省发言人25日在朝中社发表谈话谴责称，美国借美日印澳“四方安全对话”（Quad，下称四边机制）领导人会议侵犯朝鲜自主权和发展权，并赤裸裸地暴露用最敌对的方式制造对立对抗的企图。
 </description>
 			<pubDate>Wed, 25 Sep 2024 11:20:40 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240925000900881</guid>
-			<title>亚行维持韩国今年经济增长预期2.5%不变</title>
-			<link>https://cn.yna.co.kr/view/ACK20240925000900881?section=news&amp;input=rss</link>
-			<description>韩联社世宗9月25日电 据韩国企划财政部25日消息，亚洲开发银行（ADB，亚行）当天发布《2024年亚洲发展展望（9月版）》，维持韩国今年经济增长预期2.5%不变。
-</description>
-			<pubDate>Wed, 25 Sep 2024 10:44:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
