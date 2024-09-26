@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 26 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 27 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240912000700881</guid>
+			<title>2024年9月27日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240912000700881?section=news&amp;input=rss</link>
+			<description>1484年 昌庆宫竣工。昌庆宫是朝鲜王朝的宫殿，于1483年2月动工建设，1592年壬辰倭乱时期部分建筑被烧毁，此后几经火灾大部分建筑遭到毁损，现今遗留的是壬辰倭乱后重建的建筑。昌庆宫1963年1月18日被指定为国家第123号史迹。
+</description>
+			<pubDate>Fri, 27 Sep 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240926004000881</guid>
 			<title>韩驻日大使访问福岛核电站吁确保排污安全性</title>
@@ -154,14 +162,6 @@
 			<description>韩联社世宗9月26日电 据韩国企划财政部26日公布的2024年税收收入预期修正值，今年中央税（又称国家税）收入预期为337.7万亿韩元（约合人民币1.78万亿元），较预期（367.3万亿韩元）少29.6万亿韩元（8.1%）。
 </description>
 			<pubDate>Thu, 26 Sep 2024 11:43:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240926001600881</guid>
-			<title>韩国国军日当天军事巡游将实行交通管制</title>
-			<link>https://cn.yna.co.kr/view/ACK20240926001600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月26日电 韩国国军日（10月1日）军事巡游活动将于下月1日下午4至5时在首尔世宗大路举行，届时光化门附近将实施交通管制，地铁站出口也将关闭。
-</description>
-			<pubDate>Thu, 26 Sep 2024 11:38:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
