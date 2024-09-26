@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 26 Sep 2024 09:55:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 26 Sep 2024 12:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240926001700881</guid>
+			<title>韩政府修正税收收入预期 缺口或达30万亿韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20240926001700881?section=news&amp;input=rss</link>
+			<description>韩联社世宗9月26日电 据韩国企划财政部26日公布的2024年税收收入预期修正值，今年中央税（又称国家税）收入预期为337.7万亿韩元（约合人民币1.78万亿元），较预期（367.3万亿韩元）少29.6万亿韩元（8.1%）。
+</description>
+			<pubDate>Thu, 26 Sep 2024 11:43:19 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240926001600881</guid>
+			<title>韩国国军日当天军事巡游将实行交通管制</title>
+			<link>https://cn.yna.co.kr/view/ACK20240926001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月26日电 韩国国军日（10月1日）军事巡游活动将于下月1日下午4至5时在首尔世宗大路举行，届时光化门附近将实施交通管制，地铁站出口也将关闭。
+</description>
+			<pubDate>Thu, 26 Sep 2024 11:38:14 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240926001500881</guid>
+			<title>K-POP演唱会实况纪录片将陆续上映</title>
+			<link>https://cn.yna.co.kr/view/ACK20240926001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月26日电 据韩国影坛26日消息，K-POP演唱会实况纪录片将陆续登陆院线。
+</description>
+			<pubDate>Thu, 26 Sep 2024 11:09:16 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240926000800881</guid>
+			<title>统计：韩线下销售从业者连续60个月减少</title>
+			<link>https://cn.yna.co.kr/view/ACK20240926000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月26日电 据韩国统计厅26日公布的数据，上月国内就业人口中销售从业人员255.5万人，同比减少7.1万人。由此，销售从业人员已连续60个月减少。
+</description>
+			<pubDate>Thu, 26 Sep 2024 10:10:13 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240926000700881</guid>
 			<title>韩外长：安理会解决国际争端有局限</title>
@@ -130,35 +162,6 @@
 			<description>韩联社首尔9月25日电 韩国教育部25日发布的一项调查结果显示，今年韩国中小学生曾遭受校园暴力的比重时隔11年再次超过2%，且连续四年上升。
 </description>
 			<pubDate>Wed, 25 Sep 2024 15:55:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240925002400881</guid>
-			<title>股市收盘:KOSDAQ▼8.05</title>
-			<link>https://cn.yna.co.kr/view/ACK20240925002400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报759.30点，较前一交易日下跌8.05点。</description>
-			<pubDate>Wed, 25 Sep 2024 15:33:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240925002300881</guid>
-			<title>股市收盘:KOSPI▼35.36</title>
-			<link>https://cn.yna.co.kr/view/ACK20240925002300881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2596.32点，较前一交易日下跌35.36点。</description>
-			<pubDate>Wed, 25 Sep 2024 15:31:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240925002200881</guid>
-			<title>15：30外汇汇率:1美元=1331.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240925002200881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1331.0，较前一交易日上升3.9韩元。</description>
-			<pubDate>Wed, 25 Sep 2024 15:30:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240925002000881</guid>
-			<title>韩国夜间自动驾驶出租车服务明开启</title>
-			<link>https://cn.yna.co.kr/view/ACK20240925002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月25日电 韩国夜间自动驾驶出租车服务将于26日开启，服务范围限于首尔江南一带。
-</description>
-			<pubDate>Wed, 25 Sep 2024 15:19:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
