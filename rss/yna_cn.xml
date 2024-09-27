@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 27 Sep 2024 21:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 28 Sep 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240913000100881</guid>
+			<title>2024年9月28日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240913000100881?section=news&amp;input=rss</link>
+			<description>1885年 主管电信业务的汉城电报总局成立。
+</description>
+			<pubDate>Sat, 28 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240927003900881</guid>
 			<title>韩中贸易部长会议在北京举行</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月27日电 据韩国电影票综合电算网27日数据，演员黄晸玟和丁海寅主演的动作片《老手2》当天上午累计观影人数突破600万大关。
 </description>
 			<pubDate>Fri, 27 Sep 2024 10:09:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240927000200881</guid>
-			<title>2024年9月27日韩国主要报纸头条新闻</title>
-			<link>https://cn.yna.co.kr/view/ACK20240927000200881?section=news&amp;input=rss</link>
-			<description>《朝鲜日报》国军机务司令部改革7年 机务队员蒙受名誉经济双重损失
-</description>
-			<pubDate>Fri, 27 Sep 2024 09:29:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
