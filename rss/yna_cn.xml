@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 27 Sep 2024 18:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 27 Sep 2024 21:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240927003900881</guid>
+			<title>韩中贸易部长会议在北京举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927003900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗9月27日电 韩国产业通商资源部27日表示，产业部通商交涉本部长郑仁教当天在北京同中国商务部国际贸易谈判代表（正部长级）王受文举行韩中贸易部长会议。
+</description>
+			<pubDate>Fri, 27 Sep 2024 20:07:08 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240927003800881</guid>
+			<title>韩总统室就石破茂将出任日本首相表态</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927003800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月27日电 韩国总统室27日就日本自民党前干事长石破茂将出任日本新首相表示，将同日本新内阁保持紧密沟通，并继续开展合作延续双边关系稳步向好的势头。
+</description>
+			<pubDate>Fri, 27 Sep 2024 18:36:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240927003300881</guid>
 			<title>韩法院裁定三星物产无需向埃利奥特支付迟延赔偿</title>
@@ -146,21 +162,6 @@
 			<description>《朝鲜日报》国军机务司令部改革7年 机务队员蒙受名誉经济双重损失
 </description>
 			<pubDate>Fri, 27 Sep 2024 09:29:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240927000500881</guid>
-			<title>韩政府对多国提议以黎边境停火表示欢迎</title>
-			<link>https://cn.yna.co.kr/view/ACK20240927000500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月27日电 韩国外交部27日对美国和法国等多国近日提议以色列和黎巴嫩在边境地区停火21天表示欢迎并全力支持。
-</description>
-			<pubDate>Fri, 27 Sep 2024 09:24:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240927000700881</guid>
-			<title>股市开盘:KOSPI▲3.01</title>
-			<link>https://cn.yna.co.kr/view/ACK20240927000700881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2674.58点，较前一交易日上升3.01点。</description>
-			<pubDate>Fri, 27 Sep 2024 09:01:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
