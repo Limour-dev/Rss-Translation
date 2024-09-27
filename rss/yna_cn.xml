@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 27 Sep 2024 09:55:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 27 Sep 2024 12:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240927001100881</guid>
+			<title>韩国和伊朗外长在美举行会谈</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927001100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月27日电 据韩国外交部27日消息，外交部长官赵兑烈26日借在美国纽约出席第79届联大高级别会议周系列会议之机，与伊朗外长阿巴斯·阿拉格齐举行会谈。
+</description>
+			<pubDate>Fri, 27 Sep 2024 11:42:35 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240927001000881</guid>
+			<title>韩国K9自行榴弹炮发动机实现国产化</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927001000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月27日电 韩国主力武器之一的K9自行榴弹炮发动机实现国产化。
+</description>
+			<pubDate>Fri, 27 Sep 2024 11:20:37 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240927000900881</guid>
+			<title>韩外长：若会见了朝外长定会提议对话</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927000900881?section=news&amp;input=rss</link>
+			<description>韩联社纽约9月26日电 韩国外交部长官赵兑烈26日在纽约与韩国媒体记者座谈时表示，若在联大期间同朝鲜外务相崔善姬有会面的机会，我定会亲口向其传达韩国政府的对话意愿并提议进行对话。
+</description>
+			<pubDate>Fri, 27 Sep 2024 10:42:03 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20240927000800881</guid>
+			<title>韩国票房：《老手2》观影人次超600万大关</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月27日电 据韩国电影票综合电算网27日数据，演员黄晸玟和丁海寅主演的动作片《老手2》当天上午累计观影人数突破600万大关。
+</description>
+			<pubDate>Fri, 27 Sep 2024 10:09:08 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240927000200881</guid>
 			<title>2024年9月27日韩国主要报纸头条新闻</title>
@@ -131,35 +163,6 @@
 			<description>韩联社首尔9月26日电 韩国国家情报院（国情院）负责人26日出席国会情报委员会全体会议时就朝鲜第七次核试验相关提问回答称，由于朝鲜可采取发射洲际导弹、人造卫星等多种军事挑衅手段，比起美国大选前，更有可能在大选后实施核试验。
 </description>
 			<pubDate>Thu, 26 Sep 2024 15:54:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240926002600881</guid>
-			<title>股市收盘：KOSDAQ▲19.88</title>
-			<link>https://cn.yna.co.kr/view/ACK20240926002600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报779.18点，较前一交易日上升19.88点。</description>
-			<pubDate>Thu, 26 Sep 2024 15:32:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240926002100881</guid>
-			<title>韩国京畿道副知事会见中国外交部代表团</title>
-			<link>https://cn.yna.co.kr/view/ACK20240926002100881?section=news&amp;input=rss</link>
-			<description>韩联社水原9月26日电 韩国京畿道政府26日表示，京畿道负责行政事务的第一副知事（相当于副省长）金成仲前一日在道政厅同到访的中国外交部外管司及地方外办主任代表团会面，双方就加强地方政府之间的交流与合作交换意见。
-</description>
-			<pubDate>Thu, 26 Sep 2024 15:32:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240926002500881</guid>
-			<title>股市收盘：KOSPI▲75.25</title>
-			<link>https://cn.yna.co.kr/view/ACK20240926002500881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2671.57点，较前一交易日上升75.25点。</description>
-			<pubDate>Thu, 26 Sep 2024 15:30:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240926002400881</guid>
-			<title>15：30外汇汇率：1美元=1327.2韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240926002400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1327.2，较前一交易日上升3.8韩元。</description>
-			<pubDate>Thu, 26 Sep 2024 15:30:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
