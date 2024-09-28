@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 28 Sep 2024 06:05:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 28 Sep 2024 09:50:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240927003200881</guid>
+			<title>调查：不少韩国人借下周临时公休日“东风”计划旅行</title>
+			<link>https://cn.yna.co.kr/view/ACK20240927003200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月28日电 据一份调查，在10月第一周打算出行旅游的韩国人中有八成借临时公休日之机而制定出行计划。
+</description>
+			<pubDate>Sat, 28 Sep 2024 08:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240913000100881</guid>
 			<title>2024年9月28日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社纽约9月26日电 韩国外交部长官赵兑烈26日在纽约与韩国媒体记者座谈时表示，若在联大期间同朝鲜外务相崔善姬有会面的机会，我定会亲口向其传达韩国政府的对话意愿并提议进行对话。
 </description>
 			<pubDate>Fri, 27 Sep 2024 10:42:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240927000800881</guid>
-			<title>韩国票房：《老手2》观影人次超600万大关</title>
-			<link>https://cn.yna.co.kr/view/ACK20240927000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月27日电 据韩国电影票综合电算网27日数据，演员黄晸玟和丁海寅主演的动作片《老手2》当天上午累计观影人数突破600万大关。
-</description>
-			<pubDate>Fri, 27 Sep 2024 10:09:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
