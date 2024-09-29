@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 29 Sep 2024 15:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 29 Sep 2024 18:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240929001300881</guid>
+			<title>韩中日商定力推塑料污染政府间会议签国际文书</title>
+			<link>https://cn.yna.co.kr/view/ACK20240929001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔9月29日电 韩中日三国商定，三方将在今年11月于釜山举行的联合国塑料污染政府间谈判委员会第五次会议（INC-5）上共同努力推动会议签署成果文件。
+</description>
+			<pubDate>Sun, 29 Sep 2024 16:31:12 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240929001100881</guid>
 			<title>韩将设医疗岗位分析机构 过半专家民间推荐</title>
@@ -157,13 +165,6 @@
 			<description>韩联社首尔9月27日电 韩国政府27日发布旨在吸引海外高端产业人才的战略。根据战略，政府计划在2030年前吸引1000名海外优秀人才，并为其提供签证便利和在韩安顿所需支援。
 </description>
 			<pubDate>Fri, 27 Sep 2024 15:33:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240927002300881</guid>
-			<title>股市收盘:KOSPI▼21.79</title>
-			<link>https://cn.yna.co.kr/view/ACK20240927002300881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2649.78点，较前一交易日下跌21.79点。</description>
-			<pubDate>Fri, 27 Sep 2024 15:33:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
