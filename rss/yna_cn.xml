@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 29 Sep 2024 21:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 30 Sep 2024 00:05:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240920003600881</guid>
+			<title>2024年9月30日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240920003600881?section=news&amp;input=rss</link>
+			<description>1910年 日本开始在韩半岛实施土地调查。
+</description>
+			<pubDate>Mon, 30 Sep 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240929001300881</guid>
 			<title>韩中日商定力推塑料污染政府间会议签国际文书</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔9月27日电 韩美第12份防卫费分担特别协定（SMA）谈判第八次会议27日结束。
 </description>
 			<pubDate>Fri, 27 Sep 2024 16:02:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240927002000881</guid>
-			<title>韩国拟积极吸引海外高端产业人才</title>
-			<link>https://cn.yna.co.kr/view/ACK20240927002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月27日电 韩国政府27日发布旨在吸引海外高端产业人才的战略。根据战略，政府计划在2030年前吸引1000名海外优秀人才，并为其提供签证便利和在韩安顿所需支援。
-</description>
-			<pubDate>Fri, 27 Sep 2024 15:33:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
