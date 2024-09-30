@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 30 Sep 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 1 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240822003600881</guid>
+			<title>2024年10月1日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240822003600881?section=news&amp;input=rss</link>
+			<description>1884年 邮政总局启动邮政服务，仁川邮政分局开始营业。
+</description>
+			<pubDate>Tue, 01 Oct 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240930004400881</guid>
 			<title>韩政府再劝在黎巴嫩和以色列的韩国公民尽快离境</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月30日电 据韩国司法界30日消息，首尔西部地方法院27日判处涉嫌酒后骑行电动车的防弹少年团（BTS）成员SUGA（闵玧基）罚金1500万韩元（约合人民币8万元）。
 </description>
 			<pubDate>Mon, 30 Sep 2024 11:36:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930001100881</guid>
-			<title>韩议员：被制裁朝美术作品在韩境内流通</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月30日电 韩国执政党国民力量议员朴冲绻30日表示，朝鲜万寿台创作社的多件美术作品在韩国境内公开流通。
-</description>
-			<pubDate>Mon, 30 Sep 2024 11:00:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
