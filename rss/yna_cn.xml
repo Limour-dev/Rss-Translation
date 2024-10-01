@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 1 Oct 2024 06:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 1 Oct 2024 10:00:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241001000300881</guid>
+			<title>韩9月出口同比增7.5% 连续12个月增长</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001000300881?section=news&amp;input=rss</link>
+			<description>韩联社世宗10月1日电 韩国产业通商资源部1日公布的数据显示，韩国9月出口额同比增长7.5%，为587.7亿美元，连续12个月呈现增势。
+</description>
+			<pubDate>Tue, 01 Oct 2024 09:30:23 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240822003600881</guid>
 			<title>2024年10月1日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔9月30日电 韩国观光公社（旅游发展局）28日表示，韩国今年8月共接待外国游客156万人次，同比增加43.5%，恢复至疫情前（2019年）同期水平的99%。
 </description>
 			<pubDate>Mon, 30 Sep 2024 11:46:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930001300881</guid>
-			<title>防弹SUGA因酒驾被处罚金8万元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月30日电 据韩国司法界30日消息，首尔西部地方法院27日判处涉嫌酒后骑行电动车的防弹少年团（BTS）成员SUGA（闵玧基）罚金1500万韩元（约合人民币8万元）。
-</description>
-			<pubDate>Mon, 30 Sep 2024 11:36:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
