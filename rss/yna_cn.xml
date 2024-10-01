@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 1 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 2 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240903002500881</guid>
+			<title>2024年10月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240903002500881?section=news&amp;input=rss</link>
+			<description>1966年 韩国派出首批251名护士赴德国工作。
+</description>
+			<pubDate>Wed, 02 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241001001200881</guid>
 			<title>SHINee珉豪将首次举行个人演唱会</title>
@@ -157,14 +165,6 @@
 			<description>▲韩斯领导人会晤将两国关系升格为战略伙伴关系
 </description>
 			<pubDate>Mon, 30 Sep 2024 17:00:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930003100881</guid>
-			<title>韩国战略司令部成立仪式举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930003100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月30日电 韩国战略司令部将于下月1日正式成立，成立仪式30日在首尔首都防卫司令部练兵场举行。
-</description>
-			<pubDate>Mon, 30 Sep 2024 16:39:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
