@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 1 Oct 2024 15:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 1 Oct 2024 18:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241001001200881</guid>
+			<title>SHINee珉豪将首次举行个人演唱会</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月1日电 经纪公司SM娱乐1日表示，旗下男团SHINee成员珉豪将在11月30日和12月1日在首尔高丽大学化汀体育馆举行个人演唱会“MEAN : of my first”。
+</description>
+			<pubDate>Tue, 01 Oct 2024 16:48:32 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241001000900881</guid>
+			<title>统计：韩失业人口中二成待业超半年</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001000900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗10月1日电 据韩国统计厅国家统计门户（KOSIS）1日消息，以今年8月为准，失业人员共56.4万人，其中已求职6个月以上的占20%，为11.3万人，创下1999年8月（20.1%）以来的最高水平。
+</description>
+			<pubDate>Tue, 01 Oct 2024 16:38:25 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241001001400881</guid>
+			<title>一脱北者男子盗窃车辆欲开回朝鲜被抓获</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001001400881?section=news&amp;input=rss</link>
+			<description>韩联社坡州10月1日电 据京畿道坡州警察署1日消息，一名男性脱北者（弃朝投韩人员）当天盗取一辆小型巴士试图开回朝鲜，目前已被抓获。
+</description>
+			<pubDate>Tue, 01 Oct 2024 16:33:42 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241001001300881</guid>
+			<title>韩最强导弹“玄武-5”亮相建军76周年纪念活动</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月1日电 韩国建军76周年纪念活动1日在京畿道城南市的首尔机场举行，弹头重量高达8吨的最强导弹“玄武-5”首次公开亮相，引发关注。
+</description>
+			<pubDate>Tue, 01 Oct 2024 16:18:41 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241001000800881</guid>
 			<title>尹锡悦国军日致辞：朝鲜若动核将面临政权灭亡</title>
@@ -133,35 +165,6 @@
 			<description>韩联社首尔9月30日电 韩国战略司令部将于下月1日正式成立，成立仪式30日在首尔首都防卫司令部练兵场举行。
 </description>
 			<pubDate>Mon, 30 Sep 2024 16:39:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930002800881</guid>
-			<title>韩政府就俄外长称朝无核化是结束概念表遗憾</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930002800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月30日电 韩国外交部30日就俄罗斯外长谢尔盖·拉夫罗夫称朝鲜无核化概念是“已结束的问题”（closed issue）一事深表遗憾。
-</description>
-			<pubDate>Mon, 30 Sep 2024 16:32:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930002700881</guid>
-			<title>股市收盘:KOSPI▼56.51</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930002700881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2593.27点，较前一交易日下跌56.51点。</description>
-			<pubDate>Mon, 30 Sep 2024 15:33:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930002600881</guid>
-			<title>股市收盘:KOSDAQ▼10.61</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930002600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报763.88点，较前一交易日下跌10.61点。</description>
-			<pubDate>Mon, 30 Sep 2024 15:30:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930002500881</guid>
-			<title>15：30外汇汇率:1美元=1307.8韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930002500881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1307.8，较前一交易日上升10.8韩元。</description>
-			<pubDate>Mon, 30 Sep 2024 15:30:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
