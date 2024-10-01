@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 1 Oct 2024 12:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 1 Oct 2024 15:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241001000800881</guid>
+			<title>尹锡悦国军日致辞：朝鲜若动核将面临政权灭亡</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月1日电 韩国总统尹锡悦1日表示，若朝鲜企图使用核武器，将面临韩军和韩美同盟坚决且具有压倒性的反制，那天就是朝鲜政权灭亡之日。
+</description>
+			<pubDate>Tue, 01 Oct 2024 14:10:50 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241001000700881</guid>
+			<title>朝驻联合国代表：朝鲜不会用自卫权讨价还价</title>
+			<link>https://cn.yna.co.kr/view/ACK20241001000700881?section=news&amp;input=rss</link>
+			<description>韩联社纽约9月30日电 朝鲜常驻联合国代表金星30日在纽约联合国总部出席第79届联合国大会，他在一般性辩论上发表演讲时称，朝鲜不会放弃自卫权回到过去，也不会拿“拥核国家”的地位与任何人讨价还价。
+</description>
+			<pubDate>Tue, 01 Oct 2024 13:38:56 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241001000600881</guid>
 			<title>韩国将办军事巡游活动纪念建军76周年</title>
@@ -146,22 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20240930002500881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1307.8，较前一交易日上升10.8韩元。</description>
 			<pubDate>Mon, 30 Sep 2024 15:30:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930002300881</guid>
-			<title>韩斯领导人会晤将两国关系升格为战略伙伴关系</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月30日电 韩国总统尹锡悦30日同到访的斯洛伐克总理罗伯特·菲佐在首尔龙山总统府举行会谈，并在会后发表联合声明称，将两国关系升格为“战略伙伴关系”，重点在贸易投资、能源、国防军工等核心领域深化两国关系。
-</description>
-			<pubDate>Mon, 30 Sep 2024 15:05:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20240930002200881</guid>
-			<title>韩美日商定共同追查朝非法网络活动幕后操手</title>
-			<link>https://cn.yna.co.kr/view/ACK20240930002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔9月30日电 据韩国总统办公室30日消息，韩美日三国政府商定共同追查朝鲜非法网络活动的幕后操手。
-</description>
-			<pubDate>Mon, 30 Sep 2024 14:33:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
