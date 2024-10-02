@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 2 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 3 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240903004500881</guid>
+			<title>2024年10月3日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240903004500881?section=news&amp;input=rss</link>
+			<description>1274年 高丽王朝和元朝联合军征伐日本。
+</description>
+			<pubDate>Thu, 03 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241002005000881</guid>
 			<title>第29届釜山国际电影节盛大开幕</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔10月2日电 经纪公司ADOR2日表示，旗下女团NewJeans的热曲《New Jeans》在全球最大音源网站声田（Spotify）上的累计串流播放量超过3亿次。
 </description>
 			<pubDate>Wed, 02 Oct 2024 11:15:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241002001200881</guid>
-			<title>BP成员ROSÉ12月将推首张正规个辑</title>
-			<link>https://cn.yna.co.kr/view/ACK20241002001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月2日电 经纪公司THE BLACK LABEL2日表示，女团BLACKPINK成员ROSÉ将于12月6日发布第一张个人正规专辑《rosie》。
-</description>
-			<pubDate>Wed, 02 Oct 2024 10:48:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
