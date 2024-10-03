@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 3 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 4 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240910005300881</guid>
+			<title>2024年10月4日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240910005300881?section=news&amp;input=rss</link>
+			<description>1935年 韩国第一部有声电影《春香传》首映。有韩版《红楼梦》之称的《春香传》原以韩国传统说唱“盘索里”（又译板索里）的形式流传，后被改编成小说。
+</description>
+			<pubDate>Fri, 04 Oct 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241003002000881</guid>
 			<title>详讯：尹锡悦将先后出访菲新老并出席东盟系列会议</title>
@@ -155,14 +163,6 @@
 			<description>▲韩文体部：足协国足选帅过程存在违规行为
 </description>
 			<pubDate>Wed, 02 Oct 2024 17:00:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241002003000881</guid>
-			<title>韩检方认定第一夫人收包无犯罪嫌疑不予起诉</title>
-			<link>https://cn.yna.co.kr/view/ACK20241002003000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月2日电 韩国检方2日就总统尹锡悦夫人金建希涉嫌收受名牌包一案，认为金建希没有犯罪事实，作出不起诉的决定，并对涉案人旅美牧师崔在英（音）同样作出无嫌疑处理。
-</description>
-			<pubDate>Wed, 02 Oct 2024 16:33:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
