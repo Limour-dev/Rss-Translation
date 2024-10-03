@@ -4,8 +4,31 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 3 Oct 2024 12:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 3 Oct 2024 15:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241003001400881</guid>
+			<title>快讯：韩总统室称正与日协调借东盟会议之机举办韩日首脑会谈</title>
+			<link>https://cn.yna.co.kr/view/ACK20241003001400881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Thu, 03 Oct 2024 14:39:09 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241003001300881</guid>
+			<title>女团2NE1明将举行出道15周年纪念演唱会</title>
+			<link>https://cn.yna.co.kr/view/ACK20241003001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月3日电 女团2NE1出道15周年纪念演唱会将于4日启幕。3日，成员们发布感受称，梦想的瞬间终于要到来。我们将尽情展现自我，凭借独有魅力，让所有人都跳起来。
+</description>
+			<pubDate>Thu, 03 Oct 2024 14:33:23 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241003001200881</guid>
+			<title>韩国今年前三季农业食品出口额同比增8%创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20241003001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月3日电 韩国农林畜产食品部（农食品部）3日发布的一份数据显示，今年前9个月韩国农业食品出口额同比增长8.3%，为73.075亿美元，创历史新高。
+</description>
+			<pubDate>Thu, 03 Oct 2024 13:59:31 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241003001100881</guid>
 			<title>韩总理开天节致辞：定将完成医疗改革</title>
@@ -139,28 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241002002800881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报762.13点，较前一交易日下跌1.75点。</description>
 			<pubDate>Wed, 02 Oct 2024 15:37:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241002002700881</guid>
-			<title>股市收盘:KOSPI▼31.58</title>
-			<link>https://cn.yna.co.kr/view/ACK20241002002700881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2561.69点，较前一交易日下跌31.58点。</description>
-			<pubDate>Wed, 02 Oct 2024 15:37:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241002002600881</guid>
-			<title>15：30外汇汇率:1美元=1319.3韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241002002600881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1319.3，较前一交易日下跌11.5韩元。</description>
-			<pubDate>Wed, 02 Oct 2024 15:37:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241002002300881</guid>
-			<title>NAVER地图提供点评自动翻译方便外国游客</title>
-			<link>https://cn.yna.co.kr/view/ACK20241002002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月2日电 韩国互联网巨头NAVER2日表示，旗下出行类应用软件NAVER地图用户点评将支持英、中、日文等多国语言翻译，为游客旅游提供便利。
-</description>
-			<pubDate>Wed, 02 Oct 2024 15:24:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
