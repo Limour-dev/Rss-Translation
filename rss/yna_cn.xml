@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 5 Oct 2024 03:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 5 Oct 2024 06:05:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241004001800881</guid>
+			<title>资料：韩消费者近两年自华海淘物品中63万件未通关</title>
+			<link>https://cn.yna.co.kr/view/ACK20241004001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月5日电 韩国关税厅（海关）5日提交的一份资料显示，近两年通过中国海淘平台购买的商品中，有63万件未获准通关。
+</description>
+			<pubDate>Sat, 05 Oct 2024 06:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20240912005300881</guid>
 			<title>2024年10月5日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月4日电 朝鲜国务委员会委员长金正恩2日视察朝军特战部队训练基地，并点名批评韩国总统尹锡悦。他还要挟称，若韩美企图侵犯朝鲜主权，将发动包括核武器在内的所有攻击力量予以反击。
 </description>
 			<pubDate>Fri, 04 Oct 2024 09:58:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004000700881</guid>
-			<title>韩国政府对自华进口厚板产品进行反倾销调查</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004000700881?section=news&amp;input=rss</link>
-			<description>韩联社世宗10月4日电 据韩国产业通商资源部贸易委员会4日刊宪公布的消息，政府接受现代制铁公司提出的申诉，即日起对原产于中国的厚板产品进行反倾销调查。
-</description>
-			<pubDate>Fri, 04 Oct 2024 09:32:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
