@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 4 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 5 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240912005300881</guid>
+			<title>2024年10月5日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240912005300881?section=news&amp;input=rss</link>
+			<description>1919年 创办《东亚日报》的亲日派人士金性洙设立京城纺织株式会社。
+</description>
+			<pubDate>Sat, 05 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241004003600881</guid>
 			<title>韩外长赵兑烈同日本新任外相岩屋毅通电话</title>
@@ -154,13 +162,6 @@
 			<description>韩联社世宗10月4日电 据韩国产业通商资源部贸易委员会4日刊宪公布的消息，政府接受现代制铁公司提出的申诉，即日起对原产于中国的厚板产品进行反倾销调查。
 </description>
 			<pubDate>Fri, 04 Oct 2024 09:32:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004000600881</guid>
-			<title>股市开盘：KOSPI▲2.01</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2563.70点，较前一交易日上升2.01点。</description>
-			<pubDate>Fri, 04 Oct 2024 09:01:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
