@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 4 Oct 2024 12:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 4 Oct 2024 15:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241004001900881</guid>
+			<title>韩多家警察厅办公室装有非国产监控系统</title>
+			<link>https://cn.yna.co.kr/view/ACK20241004001900881?section=news&amp;input=rss</link>
+			<description>韩联社大田10月4日电 韩国国会行政安全委员会4日公开的一份从警方获取的资料显示，韩国警察厅、中央警察学校、市/道警察厅等单位至少装有760套中国生产的闭路电视监控系统（CCTV）。
+</description>
+			<pubDate>Fri, 04 Oct 2024 15:06:08 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241004001600881</guid>
+			<title>统计：韩2023年死亡人口同比减5.5%</title>
+			<link>https://cn.yna.co.kr/view/ACK20241004001600881?section=news&amp;input=rss</link>
+			<description>韩联社世宗10月4日电 韩国统计厅4日发布的一份数据显示，2023年韩国死亡人口同比减少5.5%，为35.2511万人。
+</description>
+			<pubDate>Fri, 04 Oct 2024 14:20:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241004001000881</guid>
 			<title>韩政府再吁医界参与多边协商机制</title>
@@ -145,22 +161,6 @@
 			<description>韩联社伦敦10月2日电 英国权威古典音乐杂志《留声机》举办的留声机古典音乐奖颁奖礼2日在伦敦举行。韩国钢琴家任奫灿获得钢琴类别奖项和特别奖“年度青年艺术家”奖，荣膺双冠王，开创韩国钢琴家之先河。
 </description>
 			<pubDate>Thu, 03 Oct 2024 10:45:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241003000500881</guid>
-			<title>韩国务安至中国杭州定期航线开通</title>
-			<link>https://cn.yna.co.kr/view/ACK20241003000500881?section=news&amp;input=rss</link>
-			<description>韩联社务安10月3日电 韩国全罗南道政府3日表示，往返于务安国际机场和中国杭州的定期航线2日起开通。
-</description>
-			<pubDate>Thu, 03 Oct 2024 10:33:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241003000300881</guid>
-			<title>韩美海军在东部海域举行联演 美两栖攻击舰参加</title>
-			<link>https://cn.yna.co.kr/view/ACK20241003000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月3日电 韩国海军3日表示，韩美海军2日起在韩国庆尚北道浦项东部海域实施了提高互操作性的联合海上演习，为期两天。
-</description>
-			<pubDate>Thu, 03 Oct 2024 10:03:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
