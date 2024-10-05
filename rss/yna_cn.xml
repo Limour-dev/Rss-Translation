@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 5 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 6 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20240930002400881</guid>
+			<title>2024年10月6日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20240930002400881?section=news&amp;input=rss</link>
+			<description>1946年 《京乡新闻》创刊。
+</description>
+			<pubDate>Sun, 06 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241005000100881</guid>
 			<title>韩国撤侨军机从黎巴嫩接回97名韩国公民及其家属</title>
@@ -154,14 +162,6 @@
 			<description>韩联社世宗10月4日电 韩国统计厅4日发布的一份数据显示，2023年韩国死亡人口同比减少5.5%，为35.2511万人。
 </description>
 			<pubDate>Fri, 04 Oct 2024 14:20:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004001000881</guid>
-			<title>韩政府再吁医界参与多边协商机制</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 韩国政府4日再次呼吁医疗界无条件参与执政党提出的“朝野医政协商机制”和总统直属“医疗改革特别委员会”，并称政府也将以更加开放的姿态参与其中。
-</description>
-			<pubDate>Fri, 04 Oct 2024 11:18:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
