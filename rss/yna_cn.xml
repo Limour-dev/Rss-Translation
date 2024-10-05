@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 5 Oct 2024 06:05:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 5 Oct 2024 09:50:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241002002200881</guid>
+			<title>韩今年前三季吸引外商直接投资创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20241002002200881?section=news&amp;input=rss</link>
+			<description>韩联社世宗10月5日电 韩国产业通商资源部近日表示，今年前三季度外国人对韩直接投资额累计251.8亿美元，同比增长5.2%，创历史最高纪录。
+</description>
+			<pubDate>Sat, 05 Oct 2024 08:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241004001800881</guid>
 			<title>资料：韩消费者近两年自华海淘物品中63万件未通关</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月4日电 韩国多个脱北者团体用海上漂流的方式对朝投送装有大米、K-POP视频U盘、方便面等物品。
 </description>
 			<pubDate>Fri, 04 Oct 2024 10:18:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004000800881</guid>
-			<title>详讯：金正恩点名批评尹锡悦国军日演讲</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 朝鲜国务委员会委员长金正恩2日视察朝军特战部队训练基地，并点名批评韩国总统尹锡悦。他还要挟称，若韩美企图侵犯朝鲜主权，将发动包括核武器在内的所有攻击力量予以反击。
-</description>
-			<pubDate>Fri, 04 Oct 2024 09:58:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
