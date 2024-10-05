@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 5 Oct 2024 12:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 5 Oct 2024 15:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241005000100881</guid>
+			<title>韩国撤侨军机从黎巴嫩接回97名韩国公民及其家属</title>
+			<link>https://cn.yna.co.kr/view/ACK20241005000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、城南10月5日电 综合韩国国防部和外交部5日消息，在黎巴嫩的96名韩国公民及1名外籍家属搭乘多用途空中加油运输机KC-330于当天12时50分许抵达韩国。
+</description>
+			<pubDate>Sat, 05 Oct 2024 13:27:31 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241002002200881</guid>
 			<title>韩今年前三季吸引外商直接投资创新高</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月4日电 韩国政府4日再次呼吁医疗界无条件参与执政党提出的“朝野医政协商机制”和总统直属“医疗改革特别委员会”，并称政府也将以更加开放的姿态参与其中。
 </description>
 			<pubDate>Fri, 04 Oct 2024 11:18:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004000900881</guid>
-			<title>韩多个脱北者团体对朝海上投送大米等物品</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 韩国多个脱北者团体用海上漂流的方式对朝投送装有大米、K-POP视频U盘、方便面等物品。
-</description>
-			<pubDate>Fri, 04 Oct 2024 10:18:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
