@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 6 Oct 2024 21:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 7 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241002002400881</guid>
+			<title>2024年10月7日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241002002400881?section=news&amp;input=rss</link>
+			<description>1910年 日本颁布《朝鲜贵族令》，向代表大韩帝国在《韩日合并条约》上签字的朝鲜王朝末期大臣李完用等75名亲日分子授予爵位。
+</description>
+			<pubDate>Mon, 07 Oct 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241006001200881</guid>
 			<title>朝中迎建交75周年 朝驻华使馆一片冷清</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔10月4日电 现代汽车4日表示，日前与Alphabet（Google母公司）旗下的自动驾驶子公司Waymo达成战略伙伴关系。
 </description>
 			<pubDate>Fri, 04 Oct 2024 19:15:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004001700881</guid>
-			<title>韩美第12份防卫费分担谈判达成协议</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 在距离美国总统选举仅剩一个多月之际，韩美第12份防卫费分担特别协定（SMA）谈判达成协议。
-</description>
-			<pubDate>Fri, 04 Oct 2024 18:00:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
