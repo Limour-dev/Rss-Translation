@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 6 Oct 2024 12:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 6 Oct 2024 15:15:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241006001000881</guid>
+			<title>韩国再补选将在5个选区进行 选民近865万人</title>
+			<link>https://cn.yna.co.kr/view/ACK20241006001000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月6日电 韩国中央选举管理委员会（下称“选管会”）6日表示，基层行政区首长和教育监（各级行政区教育行政机构最高负责人）再选和补选将于10月16日在全国五个选区的2404处投票站同时启动，选民共864.518万人。
+</description>
+			<pubDate>Sun, 06 Oct 2024 14:40:28 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241006000900881</guid>
+			<title>韩产业部：无碳能源倡议全球工作组成立</title>
+			<link>https://cn.yna.co.kr/view/ACK20241006000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月6日电 韩国产业通商资源部（下称“产业部”）6日表示，无碳能源（CFE）倡议全球工作组于3日成立，韩国将担任清洁能源部长级会议（CEM）轮值主席国。
+</description>
+			<pubDate>Sun, 06 Oct 2024 13:11:41 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241004001500881</guid>
+			<title>一周韩娱：釜山影展开幕 SUGA酒驾被罚8万元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241004001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月6日电 【要闻回顾】第29届釜山国际电影节盛大开幕；防弹SUGA因酒驾被处罚金8万元；女团2NE1举行出道15周年纪念演唱会；韩钢琴家任奫灿荣膺英国留声机古典音乐奖双冠王。
+</description>
+			<pubDate>Sun, 06 Oct 2024 13:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241006000100881</guid>
 			<title>尹锡悦启程出访东南亚三国 将出席东盟系列会议</title>
@@ -141,29 +165,6 @@
 			<description>韩联社首尔10月4日电 韩国陆军4日在忠清南道的陆海空三军总部所在地鸡龙台举行陆军庆典活动，向公众公开今年将投入实战部署的最新武器和其名称。
 </description>
 			<pubDate>Fri, 04 Oct 2024 16:59:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004002400881</guid>
-			<title>统计：韩60～69岁人口数首超40～49岁</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 韩国行政安全部4日发布的居民登记人口统计数据显示，韩国60～69岁年龄段人口数量赶超40～49岁人群，成为占比第二高的年龄段。
-</description>
-			<pubDate>Fri, 04 Oct 2024 16:08:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004002000881</guid>
-			<title>釜山国际电影节评审团开记者会　周冬雨称肩扛重责</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004002000881?section=news&amp;input=rss</link>
-			<description>韩联社釜山10月4日电 4日，第29届釜山国际电影节竞赛单元“新浪潮”奖评审团召开记者会。
-</description>
-			<pubDate>Fri, 04 Oct 2024 15:56:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004002300881</guid>
-			<title>股市收盘：KOSPI▲8.02</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004002300881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2569.71点，较前一交易日上升8.02点。</description>
-			<pubDate>Fri, 04 Oct 2024 15:33:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
