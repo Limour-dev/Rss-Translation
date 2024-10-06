@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 6 Oct 2024 15:15:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 6 Oct 2024 18:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241006001200881</guid>
+			<title>朝中迎建交75周年 朝驻华使馆一片冷清</title>
+			<link>https://cn.yna.co.kr/view/ACK20241006001200881?section=news&amp;input=rss</link>
+			<description>韩联社北京10月6日电 6日，朝鲜和中国迎来建交75周年。位于北京的朝鲜驻华大使馆显得非常安静。
+</description>
+			<pubDate>Sun, 06 Oct 2024 16:33:16 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241006001300881</guid>
+			<title>韩海水部近六年引进港口保安无人机中过半为中国产</title>
+			<link>https://cn.yna.co.kr/view/ACK20241006001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月6日电 一份资料显示，韩国海洋水产部（海水部）近六年为确保港口安全引进的无人机中过半为中国产。
+</description>
+			<pubDate>Sun, 06 Oct 2024 16:13:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241006001400881</guid>
+			<title>尹锡悦抵达马尼拉开始对菲律宾进行国事访问</title>
+			<link>https://cn.yna.co.kr/view/ACK20241006001400881?section=news&amp;input=rss</link>
+			<description>韩联社马尼拉10月6日电 韩国总统尹锡悦6日抵达马尼拉，开始对菲律宾共和国进行国事访问。
+</description>
+			<pubDate>Sun, 06 Oct 2024 16:09:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241006001000881</guid>
 			<title>韩国再补选将在5个选区进行 选民近865万人</title>
@@ -141,30 +165,6 @@
 			<description>韩联社首尔10月4日电 在距离美国总统选举仅剩一个多月之际，韩美第12份防卫费分担特别协定（SMA）谈判达成协议。
 </description>
 			<pubDate>Fri, 04 Oct 2024 18:00:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004003200881</guid>
-			<title>韩联参：朝鲜今对韩空飘320多只“垃圾气球”</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004003200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 韩国联合参谋本部（联参）4日表示，朝鲜当天上午对韩空飘320多只疑似“垃圾气球”的物体。
-</description>
-			<pubDate>Fri, 04 Oct 2024 17:02:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004002500881</guid>
-			<title>2024年10月4日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004002500881?section=news&amp;input=rss</link>
-			<description>▲金正恩点名批评尹锡悦国军日演讲
-</description>
-			<pubDate>Fri, 04 Oct 2024 17:00:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004002600881</guid>
-			<title>韩陆军公开四款即将实战部署的新武器</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 韩国陆军4日在忠清南道的陆海空三军总部所在地鸡龙台举行陆军庆典活动，向公众公开今年将投入实战部署的最新武器和其名称。
-</description>
-			<pubDate>Fri, 04 Oct 2024 16:59:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
