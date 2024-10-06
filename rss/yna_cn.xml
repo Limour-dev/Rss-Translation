@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 7 Oct 2024 03:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 7 Oct 2024 06:05:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241006001100881</guid>
+			<title>韩9月外储4199.7亿美元 环比增40.5亿美元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241006001100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月7日电 韩国银行（央行）7日发布的统计数据显示，截至9月末，韩国外汇储备额为4199.7亿美元，较8月末上升40.5亿美元。
+</description>
+			<pubDate>Mon, 07 Oct 2024 06:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241002002400881</guid>
 			<title>2024年10月7日韩国历史上的今天</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔10月4日电 韩国国防部4日发布《关于金正恩、金与正非议国军日活动的立场文件》，强调朝鲜辱骂韩军统帅是绝对不能容忍的行为。
 </description>
 			<pubDate>Fri, 04 Oct 2024 19:54:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241004003100881</guid>
-			<title>现代汽车携手Waymo研发自动驾驶技术</title>
-			<link>https://cn.yna.co.kr/view/ACK20241004003100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月4日电 现代汽车4日表示，日前与Alphabet（Google母公司）旗下的自动驾驶子公司Waymo达成战略伙伴关系。
-</description>
-			<pubDate>Fri, 04 Oct 2024 19:15:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
