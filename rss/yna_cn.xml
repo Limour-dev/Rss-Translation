@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 7 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 8 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241002003200881</guid>
+			<title>2024年10月8日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241002003200881?section=news&amp;input=rss</link>
+			<description>1895年 日本浪人杀害明成皇后，史称“乙未事变”。
+</description>
+			<pubDate>Tue, 08 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241007004400881</guid>
+			<title>尹锡悦抵达新加坡开始对新进行国事访问</title>
+			<link>https://cn.yna.co.kr/view/ACK20241007004400881?section=news&amp;input=rss</link>
+			<description>韩联社新加坡10月7日电 韩国总统尹锡悦7日飞抵东南亚之行的第二站新加坡。
+</description>
+			<pubDate>Mon, 07 Oct 2024 22:43:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241007004300881</guid>
 			<title>韩联参：朝鲜上午空飘120多只垃圾气球</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔10月7日电 经纪公司BIGHIT MUSIC7日表示，旗下男团TOMORROW X TOGETHER（TXT）将于11月4日发布第七张迷你专辑《The Star Chapter：SANCTUARY》。
 </description>
 			<pubDate>Mon, 07 Oct 2024 10:53:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241007001100881</guid>
-			<title>民调：尹锡悦施政好评率27.9%差评率68.1%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241007001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月7日电 韩国民调机构Realmeter于7日发布的一份调查结果显示，总统尹锡悦的施政好评率为27.9%，差评率为68.1%。
-</description>
-			<pubDate>Mon, 07 Oct 2024 10:09:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241007001000881</guid>
-			<title>韩国票房：《老手2》观影人次超700万大关</title>
-			<link>https://cn.yna.co.kr/view/ACK20241007001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月7日电 据韩国电影票综合电算网7日数据，演员黄晸玟和丁海寅主演的动作片《老手2》累计观影人数突破700万大关。
-</description>
-			<pubDate>Mon, 07 Oct 2024 09:43:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
