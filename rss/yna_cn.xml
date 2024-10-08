@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 9 Oct 2024 03:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 9 Oct 2024 06:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241008003700881</guid>
+			<title>尹锡悦今出席“新加坡讲座”发表演讲</title>
+			<link>https://cn.yna.co.kr/view/ACK20241008003700881?section=news&amp;input=rss</link>
+			<description>韩联社新加坡10月9日电 韩国总统尹锡悦9日将出席由新加坡政府旗下东南亚研究所主办的“新加坡讲座”（Singapore Lecture）并发表演讲。
+</description>
+			<pubDate>Wed, 09 Oct 2024 06:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241002004300881</guid>
 			<title>2024年10月9日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月8日电 据三星电子8日披露的初步核实数据，按合并财务报表口径计算的公司今年第三季度营业利润为9.1万亿韩元（约合人民币477.7亿元），同比增长274.49%。销售额为79万亿韩元，同比增长17.21%。
 </description>
 			<pubDate>Tue, 08 Oct 2024 10:32:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241008001100881</guid>
-			<title>金正恩向普京致生日贺电</title>
-			<link>https://cn.yna.co.kr/view/ACK20241008001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月8日电 据朝中社8日报道，朝鲜国务委员会委员长金正恩向俄罗斯总统普京发送贺电，祝贺其72岁生日快乐。
-</description>
-			<pubDate>Tue, 08 Oct 2024 10:19:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
