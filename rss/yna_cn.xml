@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 9 Oct 2024 06:10:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 9 Oct 2024 09:55:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241008003300881</guid>
+			<title>韩中借釜山电影节举办多项文艺交流活动</title>
+			<link>https://cn.yna.co.kr/view/ACK20241008003300881?section=news&amp;input=rss</link>
+			<description>韩联社釜山10月9日电 第29届釜山国际电影节（BIFF）期间，韩中两国举行多项电影和艺术交流活动。
+</description>
+			<pubDate>Wed, 09 Oct 2024 08:35:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241008003700881</guid>
 			<title>尹锡悦今出席“新加坡讲座”发表演讲</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月8日电 经纪公司YG娱乐8日表示，旗下女团BABYMONSTER将于下月1日发布首张正规专辑《DRIP》。
 </description>
 			<pubDate>Tue, 08 Oct 2024 10:48:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241008001300881</guid>
-			<title>详讯：三星电子三季度营业利润同比增274%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241008001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月8日电 据三星电子8日披露的初步核实数据，按合并财务报表口径计算的公司今年第三季度营业利润为9.1万亿韩元（约合人民币477.7亿元），同比增长274.49%。销售额为79万亿韩元，同比增长17.21%。
-</description>
-			<pubDate>Tue, 08 Oct 2024 10:32:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
