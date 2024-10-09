@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 9 Oct 2024 21:20:13 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 10 Oct 2024 00:10:13 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241007000200881</guid>
+			<title>2024年10月10日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241007000200881?section=news&amp;input=rss</link>
+			<description>1932年 抗日独立运动家李奉昌在狱中殉国。他因在东京投弹刺杀日本天王未遂被捕。
+</description>
+			<pubDate>Thu, 10 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241009001700881</guid>
 			<title>韩美日外交高官共同关注朝鲜最高人民会议结果</title>
@@ -157,13 +165,6 @@
 			<description>韩联社新加坡10月8日电 正在新加坡进行国事访问的韩国总统尹锡悦8日同新加坡总理黄循财举行会谈并发表联合新闻公报。双方商定建立供应链应急体系，明年将双边关系提升至“战略伙伴关系”。
 </description>
 			<pubDate>Tue, 08 Oct 2024 16:02:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241008002900881</guid>
-			<title>股市收盘：KOSDAQ▼2.77</title>
-			<link>https://cn.yna.co.kr/view/ACK20241008002900881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报778.24点，较前一交易日下跌2.77点。</description>
-			<pubDate>Tue, 08 Oct 2024 15:32:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
