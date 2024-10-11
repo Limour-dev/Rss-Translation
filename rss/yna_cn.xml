@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 11 Oct 2024 22:09:20 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 12 Oct 2024 03:14:25 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241007003100881</guid>
+			<title>2024年10月12日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241007003100881?section=news&amp;input=rss</link>
+			<description>1897年 大韩帝国成立，高宗李熙即位。李熙（1852年—1919年）是朝鲜王朝第26代国王、大韩帝国开国皇帝。
+</description>
+			<pubDate>Sat, 12 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241011004200881</guid>
 			<title>朝鲜再次对韩空飘垃圾气球</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月11日电 韩国银行（央行）11日召开金融货币委员会会议，决定下调基准利率0.25个百分点至3.25%。
 </description>
 			<pubDate>Fri, 11 Oct 2024 11:43:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241011001300881</guid>
-			<title>JENNIE发个曲《Mantra》回归</title>
-			<link>https://cn.yna.co.kr/view/ACK20241011001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月11日电 经纪公司OA娱乐（ODD ATELIER）11日表示，女团BLACKPINK成员JENNIE当天公开个人单曲《Mantra》音源和MV。
-</description>
-			<pubDate>Fri, 11 Oct 2024 11:17:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
