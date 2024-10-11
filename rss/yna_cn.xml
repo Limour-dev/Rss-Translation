@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 11 Oct 2024 21:19:20 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 11 Oct 2024 22:09:20 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241011004200881</guid>
+			<title>朝鲜再次对韩空飘垃圾气球</title>
+			<link>https://cn.yna.co.kr/view/ACK20241011004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月11日电 朝鲜11日声称韩军将无人机渗透至平壤，并又对韩空飘“垃圾气球”。
+</description>
+			<pubDate>Fri, 11 Oct 2024 21:36:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241011004100881</guid>
 			<title>韩防长：韩军未曾向朝鲜渗透无人机</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月11日电 经纪公司OA娱乐（ODD ATELIER）11日表示，女团BLACKPINK成员JENNIE当天公开个人单曲《Mantra》音源和MV。
 </description>
 			<pubDate>Fri, 11 Oct 2024 11:17:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241011001200881</guid>
-			<title>资料：韩国近五年弃籍的义务兵役对象者近2万人</title>
-			<link>https://cn.yna.co.kr/view/ACK20241011001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月11日电 韩国最大在野党共同民主党议员黄熙11日从兵务厅获取的一份资料显示，从2020年至今年8月，18至40岁的兵役义务对象者中，有1.9607万人放弃国籍。
-</description>
-			<pubDate>Fri, 11 Oct 2024 10:49:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
