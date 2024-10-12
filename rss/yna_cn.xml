@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 12 Oct 2024 21:14:25 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 13 Oct 2024 00:09:25 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241008002000881</guid>
+			<title>2024年10月13日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241008002000881?section=news&amp;input=rss</link>
+			<description>1909年 大韩帝国实施第一届司法考试。
+</description>
+			<pubDate>Sun, 13 Oct 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241010003000881</guid>
 			<title>2024年韩服文化周活动下周开幕</title>
@@ -154,14 +162,6 @@
 			<description>韩联社万象10月11日电 韩国总统尹锡悦11日在老挝首都万象借出席东盟系列会议之机同澳大利亚总理安东尼·阿尔巴尼斯举行会谈。
 </description>
 			<pubDate>Fri, 11 Oct 2024 15:12:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241011001700881</guid>
-			<title>演员林允儿向韩国白血病儿童基金会捐款1亿韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241011001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月11日电 SM娱乐11日表示，旗下演员林允儿向韩国白血病儿童基金会捐款1亿韩元（约合52.6万元）。
-</description>
-			<pubDate>Fri, 11 Oct 2024 14:16:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
