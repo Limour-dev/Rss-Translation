@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 12 Oct 2024 06:09:25 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 12 Oct 2024 09:49:25 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241010003000881</guid>
+			<title>2024年韩服文化周活动下周开幕</title>
+			<link>https://cn.yna.co.kr/view/ACK20241010003000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月12日电 “2024年韩服文化周”活动将于本月14日至20日在首尔钟路区一带和全国各地举行。
+</description>
+			<pubDate>Sat, 12 Oct 2024 08:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241007003100881</guid>
 			<title>2024年10月12日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月11日电 SM娱乐11日表示，旗下演员林允儿向韩国白血病儿童基金会捐款1亿韩元（约合52.6万元）。
 </description>
 			<pubDate>Fri, 11 Oct 2024 14:16:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241011001500881</guid>
-			<title>详讯：韩国央行下调基准利率25个基点至3.25%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241011001500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月11日电 韩国银行（央行）11日召开金融货币委员会会议，决定下调基准利率0.25个百分点至3.25%。
-</description>
-			<pubDate>Fri, 11 Oct 2024 11:43:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
