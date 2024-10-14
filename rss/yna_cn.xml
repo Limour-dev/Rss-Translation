@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 14 Oct 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 15 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241010002000881</guid>
+			<title>2024年10月15日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241010002000881?section=news&amp;input=rss</link>
+			<description>1907年 大韩国民体育会成立。这是韩国最早的体育团体。
+</description>
+			<pubDate>Tue, 15 Oct 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241014004500881</guid>
 			<title>韩羽协暂时性“例外”允许安洗莹自主选鞋</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月14日电 据韩国联合参谋本部（联参）14日消息，为应对朝鲜提升军事威胁水平，已向麾下部队下达加强对朝监视警戒和火力待命态势的指南。
 </description>
 			<pubDate>Mon, 14 Oct 2024 13:44:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241014001200881</guid>
-			<title>诺奖得主韩江作品在韩军队用书审查中多次“落榜”</title>
-			<link>https://cn.yna.co.kr/view/ACK20241014001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月14日电 据韩国国防部14日消息，韩国诺贝尔文学奖获得者韩江的三部作品《不做告别》《少年来了》《素食主义者》（又译《素食者》）曾多次未通过军队用书审查。
-</description>
-			<pubDate>Mon, 14 Oct 2024 11:40:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
