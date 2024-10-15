@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 15 Oct 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 15 Oct 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241015003600881</guid>
+			<title>SpaceX星链服务有望明年在韩国推出</title>
+			<link>https://cn.yna.co.kr/view/ACK20241015003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月15日电 美国太空探索技术公司（SpaceX）有望明年初起在韩国正式推出卫星互联网服务“星链”（StarLink）。
+</description>
+			<pubDate>Tue, 15 Oct 2024 21:16:35 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241015003500881</guid>
+			<title>韩京畿道指定朝韩交界部分地区为危险区域 禁止对朝飘传单</title>
+			<link>https://cn.yna.co.kr/view/ACK20241015003500881?section=news&amp;input=rss</link>
+			<description>韩联社水原10月15日电 韩国京畿道政府15日宣布，为保护边境地区民众的安全，决定将坡州市、金浦市、涟川郡等三市郡内的11处地区划为危险区域，禁止公民团体在指定地区向朝鲜空投传单等物品。
+</description>
+			<pubDate>Tue, 15 Oct 2024 18:45:12 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241015003400881</guid>
+			<title>韩外交部：俄方应停止与朝非法军事合作</title>
+			<link>https://cn.yna.co.kr/view/ACK20241015003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月15日电 韩国外交部15日就俄罗斯总统普京前一天向国家杜马提交了关于批准《俄朝全面战略伙伴关系条约》的法律草案一事表示，我们敦促俄方立即停止与朝非法军事合作，为实现真正的韩半岛和平与稳定发挥建设性作用。
+</description>
+			<pubDate>Tue, 15 Oct 2024 18:28:50 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241015003300881</guid>
 			<title>HANNI在国会监察会上哭诉遭排挤 东家否认</title>
@@ -138,29 +162,6 @@
 			<description>韩联社首尔10月15日电 据业内15日消息，三星电子人工智能（AI）手机Galaxy S24 Ultra在美国权威消费者专业杂志《消费者报告》进行的最新测评中获评“最佳智能手机”。
 </description>
 			<pubDate>Tue, 15 Oct 2024 10:19:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241015001000881</guid>
-			<title>普京向俄国家杜马提交关于批准俄朝条约的法律草案</title>
-			<link>https://cn.yna.co.kr/view/ACK20241015001000881?section=news&amp;input=rss</link>
-			<description>韩联社莫斯科10月15日电 俄罗斯总统普京14日向国家杜马提交了关于批准《俄朝全面战略伙伴关系条约》的法律草案。
-</description>
-			<pubDate>Tue, 15 Oct 2024 09:51:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241015000900881</guid>
-			<title>韩国因赌瘾接受治疗的青少年三年来翻番</title>
-			<link>https://cn.yna.co.kr/view/ACK20241015000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月15日电 韩国共同民主党议员闵馨培15日从博彩业综合监督委员会获取的资料显示，利用“戒赌治疗服务”的10多岁青少年从2021年的1242人增至2024年的2349人。
-</description>
-			<pubDate>Tue, 15 Oct 2024 09:30:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241015000600881</guid>
-			<title>股市开盘:KOSPI▲9.08</title>
-			<link>https://cn.yna.co.kr/view/ACK20241015000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2632.37点，较前一交易日上升9.08点。</description>
-			<pubDate>Tue, 15 Oct 2024 09:01:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
