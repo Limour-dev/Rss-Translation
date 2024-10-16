@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 16 Oct 2024 12:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 16 Oct 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241016002000881</guid>
+			<title>第25届韩中日友好城市交流大会将在光州举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016002000881?section=news&amp;input=rss</link>
+			<description>韩联社光州10月16日电 韩国光州广域市政府16日表示，第25届韩中日友好城市交流大会（韩国称“韩中日地方政府交流会议”）将于21日在光州市金大中会展中心开幕，为期五天。
+</description>
+			<pubDate>Wed, 16 Oct 2024 14:48:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241016001300881</guid>
 			<title>详讯：韩江获诺奖仅六天作品销量破百万</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔10月15日电 15日，女团NewJeans的越南裔澳大利亚籍成员HANNI出席韩国国会环境劳动委员会的国政监查会，哭诉团队遭公司排挤。经纪巨头HYBE人力资源首席官(CHRO)兼NewJeans代理公司ADOR代表金柱荣（音）就此予以否认。
 </description>
 			<pubDate>Tue, 15 Oct 2024 17:59:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241015003200881</guid>
-			<title>韩政府强烈谴责朝方炸毁韩朝连接公路</title>
-			<link>https://cn.yna.co.kr/view/ACK20241015003200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月15日电 韩国统一部15日发表立场文件，就朝鲜当天炸毁韩朝连接公路北侧路段一事称，此举公然违反韩朝相关协议，严重违背常理，韩方就此予以强烈谴责。
-</description>
-			<pubDate>Tue, 15 Oct 2024 17:13:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
