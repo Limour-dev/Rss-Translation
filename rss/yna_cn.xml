@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 16 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 17 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241011003200881</guid>
+			<title>2024年10月17日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241011003200881?section=news&amp;input=rss</link>
+			<description>1917年 汉江人道桥（现为汉江大桥）建成。该桥连接龙山区汉江路三街与鹭粱津，是汉江上首座供行人通行的跨江桥。
+</description>
+			<pubDate>Thu, 17 Oct 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241016004200881</guid>
 			<title>韩国再补选最终投票率24.62%</title>
@@ -154,13 +162,6 @@
 			<description>韩联社世宗10月16日电 韩国统计厅16日发布的“9月就业动向”资料显示，9月15岁以上就业人数为2884.2万人，同比增加14.4万人。失业率为2.1%。
 </description>
 			<pubDate>Wed, 16 Oct 2024 09:29:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016000700881</guid>
-			<title>股市开盘：KOSPI▼26.75</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016000700881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2606.70点，较前一交易日下跌26.75点。</description>
-			<pubDate>Wed, 16 Oct 2024 09:01:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
