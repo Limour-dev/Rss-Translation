@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 16 Oct 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 16 Oct 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241016004200881</guid>
+			<title>韩国再补选最终投票率24.62%</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月16日电 韩国中央选举管理委员会（选管委）16日发布的初步核实数据显示，基层行政区首长和教育监（各级行政区教育行政机构最高负责人）再选和补选最终投票率为24.62%。
+</description>
+			<pubDate>Wed, 16 Oct 2024 21:10:48 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241016004000881</guid>
+			<title>韩政府：将彻底验证福岛排污安全性</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016004000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月16日电 韩国国务调整室国务第一次长金锺文16日在记者会上表示，日本福岛第一核电站17日将启动第十轮核污水排海，政府将安全彻底验证福岛排污安全性。
+</description>
+			<pubDate>Wed, 16 Oct 2024 21:05:22 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241016004100881</guid>
+			<title>详讯：韩美日副外长强烈谴责朝鲜故意升级紧张局势</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016004100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月16日电 韩美日第14次外交次官（副部级）协商会议16日在首尔举行，三方强烈谴责朝鲜指控“韩国无人机渗透至平壤”并炸毁韩朝连接公路等加剧韩半岛军事紧张事态的行为。
+</description>
+			<pubDate>Wed, 16 Oct 2024 20:46:38 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241016003900881</guid>
+			<title>韩美日副外长强烈谴责朝鲜故意升级紧张局势</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月16日电 韩美日第14次外交次官（副部级）协商会议16日在首尔举行，三方强烈谴责朝鲜指控“韩国无人机渗透至平壤”并炸毁韩朝连接公路等加剧韩半岛军事紧张事态的行为。
+</description>
+			<pubDate>Wed, 16 Oct 2024 19:51:35 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241016003700881</guid>
 			<title>JENNIE出演《吉米秀》带来新歌首秀</title>
@@ -129,36 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241016000700881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2606.70点，较前一交易日下跌26.75点。</description>
 			<pubDate>Wed, 16 Oct 2024 09:01:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016000600881</guid>
-			<title>股市开盘：KOSDAQ▼4.62</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016000600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报769.19点，较前一交易日下跌4.62点。</description>
-			<pubDate>Wed, 16 Oct 2024 09:01:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016000500881</guid>
-			<title>外汇汇率开盘：1美元=1364.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016000500881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1364.5，较前一交易日下跌3.2韩元。</description>
-			<pubDate>Wed, 16 Oct 2024 09:00:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016000400881</guid>
-			<title>朝媒对爆破韩朝公路消息只字不提</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016000400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月16日电 朝鲜内宣和外宣媒体均未报道朝方爆破韩朝公路的消息，引发关注。
-</description>
-			<pubDate>Wed, 16 Oct 2024 08:52:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016000300881</guid>
-			<title>简讯：韩9月新增就业14.4万人 失业率2.1%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016000300881?section=news&amp;input=rss</link>
-			<description>韩联社世宗10月16日电 韩国统计厅16日发布的“9月就业动向”资料显示，9月15岁以上就业人数为2884.2万人，同比增加14.4万人。失业率为2.1%。
-</description>
-			<pubDate>Wed, 16 Oct 2024 08:33:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
