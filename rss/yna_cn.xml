@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 17 Oct 2024 12:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 17 Oct 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241017002400881</guid>
+			<title>韩统一部谴责朝鲜修宪将韩国定义为敌国</title>
+			<link>https://cn.yna.co.kr/view/ACK20241017002400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月17日电 韩国统一部17日对朝鲜修宪明确定义韩国为“敌对国家”一事予以强烈谴责。
+</description>
+			<pubDate>Thu, 17 Oct 2024 14:47:43 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241017002100881</guid>
+			<title>韩检方认定第一夫人金建希无操纵股价嫌疑</title>
+			<link>https://cn.yna.co.kr/view/ACK20241017002100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月17日电 韩国检方17日就第一夫人金建希涉嫌参与操纵德意志汽车公司（Deutsch Motors）股价案作出不起诉决定，认定其无犯罪嫌疑。
+</description>
+			<pubDate>Thu, 17 Oct 2024 13:56:32 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241017002000881</guid>
 			<title>韩日副外长在首尔举行会谈</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔10月16日电 综合韩国国防部和外交部16日消息，朝鲜可能向乌克兰派兵支援俄罗斯部队与乌作战，政府保持密切关注。
 </description>
 			<pubDate>Wed, 16 Oct 2024 17:02:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016002800881</guid>
-			<title>2024年10月16日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016002800881?section=news&amp;input=rss</link>
-			<description>▲韩驻华大使：明年APCE峰会有望成习近平访韩良机
-</description>
-			<pubDate>Wed, 16 Oct 2024 17:00:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241016002200881</guid>
-			<title>韩美日等11国成立对朝制裁监督机构</title>
-			<link>https://cn.yna.co.kr/view/ACK20241016002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月16日电 韩国外交部16日表示，为弥补对朝制裁监督机制的缺失，韩美日等11国成立多国制裁监测组（Multilateral Sanction Monitoring Team，缩写为MSMT）。
-</description>
-			<pubDate>Wed, 16 Oct 2024 15:49:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
