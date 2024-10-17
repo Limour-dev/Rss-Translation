@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 17 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 18 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241014002100881</guid>
+			<title>2024年10月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241014002100881?section=news&amp;input=rss</link>
+			<description>1906年 大韩帝国首次发行纪念邮票。
+</description>
+			<pubDate>Fri, 18 Oct 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241017005200881</guid>
 			<title>韩央行行长出席韩中日央行行长会议</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月17日电 韩国外交部第一次官（副部长）金烘均和日本外务省事务次官冈野正敬17日在首尔举行会谈，共商双边关系发展方案。
 </description>
 			<pubDate>Thu, 17 Oct 2024 11:30:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241017001200881</guid>
-			<title>防弹j-hope退伍 Jin到场庆祝</title>
-			<link>https://cn.yna.co.kr/view/ACK20241017001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月17日电 防弹少年团（BTS）成员j-hope17日服完兵役退伍，老大Jin前往部队祝贺。
-</description>
-			<pubDate>Thu, 17 Oct 2024 11:24:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
