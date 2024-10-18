@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 18 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 19 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241014002500881</guid>
+			<title>2024年10月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241014002500881?section=news&amp;input=rss</link>
+			<description>1405年 昌德宫竣工。昌德宫是朝鲜王朝的宫殿，1963年1月18日被指定为第122号史迹，总面积达43.4877万平方米。
+</description>
+			<pubDate>Sat, 19 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241018004600881</guid>
 			<title>详讯：韩情报机构称朝决定向俄派兵1.2万人参战 首批1500人抵俄</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔10月18日电 经纪公司THE BLACK LABEL18日表示，女团BLACKPINK成员ROSÉ将于当天下午1时发布同美国歌星布鲁诺·马尔斯的合作曲《APT.》。
 </description>
 			<pubDate>Fri, 18 Oct 2024 11:14:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018001300881</guid>
-			<title>金与正称朝媒使用外媒视频不成问题反驳韩联参质疑</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月18日电 朝鲜劳动党副部长金与正18日就外界质疑朝媒盗用韩国联合参谋本部（联参）所拍视频截图一事表示，其引用了美国全国广播公司、福克斯新闻、英国路透社等世界各媒体报道视频画面。
-</description>
-			<pubDate>Fri, 18 Oct 2024 11:11:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
