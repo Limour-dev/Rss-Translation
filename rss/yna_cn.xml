@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 19 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 20 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241014004600881</guid>
+			<title>2024年10月20日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241014004600881?section=news&amp;input=rss</link>
+			<description>1951年 第一次韩日会谈预备会议在东京举行。
+</description>
+			<pubDate>Sun, 20 Oct 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241018002700881</guid>
 			<title>韩国近五年基本养老金外籍参保人员增四成</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔10月18日电 民调机构韩国盖洛普18日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为22%，差评率为69%。
 </description>
 			<pubDate>Fri, 18 Oct 2024 14:08:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018001500881</guid>
-			<title>韩财政部绿皮书：出口势头向好 内需现复苏迹象</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018001500881?section=news&amp;input=rss</link>
-			<description>韩联社世宗10月18日电 韩国企划财政部18日发布《最新经济动向》（绿皮书）10月刊，研判近期韩国经济以出口为主持续呈现恢复势头，内需出现缓慢复苏迹象。
-</description>
-			<pubDate>Fri, 18 Oct 2024 11:36:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
