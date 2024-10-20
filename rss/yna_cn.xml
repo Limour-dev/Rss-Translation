@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 20 Oct 2024 15:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 20 Oct 2024 18:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241020001500881</guid>
+			<title>韩卫星拍到俄舰艇输送朝军活动</title>
+			<link>https://cn.yna.co.kr/view/ACK20241020001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月20日电 记者20日获悉，韩国人造卫星拍摄到俄罗斯舰艇输送朝鲜特种部队兵力的相关图像。
+</description>
+			<pubDate>Sun, 20 Oct 2024 15:25:37 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241020001400881</guid>
 			<title>朝副外相谴责联合国秘书长就半岛问题搞双标</title>
@@ -156,14 +164,6 @@
 			<description>韩联社首尔10月18日电 韩国前总统文在寅的女儿文多惠18日因涉嫌醉酒驾驶致交通事故到案受讯，距离其酒驾肇事时过13天。
 </description>
 			<pubDate>Fri, 18 Oct 2024 16:41:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018003200881</guid>
-			<title>韩驻日大使：佐渡金山强征劳工追悼式年内举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018003200881?section=news&amp;input=rss</link>
-			<description>韩联社东京10月18日电 韩国驻日本大使朴喆熙18日表示，预计日本佐渡金山强征劳工受害者追悼式年内将以日本央地政府参加的委员会形式举行。
-</description>
-			<pubDate>Fri, 18 Oct 2024 16:13:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
