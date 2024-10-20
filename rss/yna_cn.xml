@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 20 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 21 Oct 2024 00:04:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241016002700881</guid>
+			<title>2024年10月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016002700881?section=news&amp;input=rss</link>
+			<description>1945年 驻韩美国陆军司令部军政厅建立警务部。
+</description>
+			<pubDate>Mon, 21 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241020001500881</guid>
 			<title>韩卫星拍到俄舰艇输送朝军活动</title>
@@ -156,14 +164,6 @@
 			<description>▲金正恩视察朝军部队 称若主权受侵将动用武力
 </description>
 			<pubDate>Fri, 18 Oct 2024 17:00:20 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018003900881</guid>
-			<title>韩前总统文在寅之女因涉酒驾到案受讯</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018003900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月18日电 韩国前总统文在寅的女儿文多惠18日因涉嫌醉酒驾驶致交通事故到案受讯，距离其酒驾肇事时过13天。
-</description>
-			<pubDate>Fri, 18 Oct 2024 16:41:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
