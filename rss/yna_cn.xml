@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 20 Oct 2024 09:54:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 20 Oct 2024 12:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241020001200881</guid>
+			<title>韩国海军陆战队参加美菲联合军演</title>
+			<link>https://cn.yna.co.kr/view/ACK20241020001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月20日电 韩国海军陆战队20日表示，派兵参加本月14日至25日在菲律宾一带进行的多国联合军演“海上战士合作”（KAMANDAG）。
+</description>
+			<pubDate>Sun, 20 Oct 2024 11:08:52 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241020000300881</guid>
+			<title>朝鲜再向韩国空投垃圾气球</title>
+			<link>https://cn.yna.co.kr/view/ACK20241020000300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月20日电 据韩国联合参谋本部（联参）20日消息，朝鲜向韩方空投20余只“垃圾气球”，位于韩朝边境的江原道铁原地区发现10多个坠落物。
+</description>
+			<pubDate>Sun, 20 Oct 2024 10:42:10 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241020000200881</guid>
+			<title>朝外相谴责韩美日等11国成立多边对朝监控机制</title>
+			<link>https://cn.yna.co.kr/view/ACK20241020000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月20日电 朝鲜外务相崔善姬抨击韩美日等11国成立多边对朝监控机制，警告参与国将为此付出代价。
+</description>
+			<pubDate>Sun, 20 Oct 2024 10:01:21 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241020000100881</guid>
 			<title>习近平致电感谢金正恩祝贺新中国成立75周年</title>
@@ -138,29 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241018003000881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报753.22点，较前一交易日下跌11.84点。</description>
 			<pubDate>Fri, 18 Oct 2024 15:30:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018002900881</guid>
-			<title>15：30外汇汇率:1美元=1369.7韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018002900881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1369.7，较前一交易日下跌1.1韩元。</description>
-			<pubDate>Fri, 18 Oct 2024 15:30:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018002500881</guid>
-			<title>第二次韩中经济领域务实合作交流会在首尔举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018002500881?section=news&amp;input=rss</link>
-			<description>韩联社世宗10月18日电 韩国企划财政部18日表示，第二次韩中经济领域务实合作交流会18日在首尔举行。
-</description>
-			<pubDate>Fri, 18 Oct 2024 14:51:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018002400881</guid>
-			<title>第49次韩美军委会会议在线举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月18日电 据韩国联合参谋本部（联参）18日消息，韩美联参议长当天以视频连线方式举行第49次韩美军事委员会会议（MCM），探讨韩美同盟和安全形势等问题。
-</description>
-			<pubDate>Fri, 18 Oct 2024 14:21:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
