@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 20 Oct 2024 06:04:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 20 Oct 2024 09:54:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241020000100881</guid>
+			<title>习近平致电感谢金正恩祝贺新中国成立75周年</title>
+			<link>https://cn.yna.co.kr/view/ACK20241020000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月20日电 据朝中社20日报道，中国国家主席习近平16日致电感谢朝鲜国务委员长金正恩日前致电祝贺新中国成立75周年，并表示中方愿维护地区和世界的和平稳定与发展繁荣作出更大贡献。
+</description>
+			<pubDate>Sun, 20 Oct 2024 09:47:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241014004600881</guid>
 			<title>2024年10月20日韩国历史上的今天</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔10月18日电 据韩国联合参谋本部（联参）18日消息，韩美联参议长当天以视频连线方式举行第49次韩美军事委员会会议（MCM），探讨韩美同盟和安全形势等问题。
 </description>
 			<pubDate>Fri, 18 Oct 2024 14:21:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018002300881</guid>
-			<title>民调：尹锡悦施政好评率22%差评率69%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月18日电 民调机构韩国盖洛普18日发布的一项最新民调结果显示，总统尹锡悦的施政好评率为22%，差评率为69%。
-</description>
-			<pubDate>Fri, 18 Oct 2024 14:08:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
