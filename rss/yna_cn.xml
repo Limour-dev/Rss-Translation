@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 21 Oct 2024 03:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 21 Oct 2024 06:04:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241020002000881</guid>
+			<title>韩贸促机构在天津举办韩中飞机零部件供应链洽谈会</title>
+			<link>https://cn.yna.co.kr/view/ACK20241020002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月21日电 大韩贸易投资振兴公社（KOTRA）21日表示，当天起将携手庆南科技园在天津举办2024年韩中飞机零部件供应链洽谈会，为期两天。
+</description>
+			<pubDate>Mon, 21 Oct 2024 06:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241016002700881</guid>
 			<title>2024年10月21日韩国历史上的今天</title>
@@ -156,14 +164,6 @@
 			<description>韩联社蔚山10月18日电 韩国蔚山市南区政府18日表示，南区与中国广州市黄埔区当天签署友好交流城区协议。
 </description>
 			<pubDate>Fri, 18 Oct 2024 17:00:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241018003300881</guid>
-			<title>2024年10月18日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241018003300881?section=news&amp;input=rss</link>
-			<description>▲金正恩视察朝军部队 称若主权受侵将动用武力
-</description>
-			<pubDate>Fri, 18 Oct 2024 17:00:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
