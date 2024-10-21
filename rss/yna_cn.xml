@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 21 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 22 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241016002900881</guid>
+			<title>2024年10月22日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241016002900881?section=news&amp;input=rss</link>
+			<description>1950年 汉城（现首尔）至东京的民航航线开通。
+</description>
+			<pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241021004300881</guid>
 			<title>韩执政党党首向尹锡悦就第一夫人提三项建议</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月21日电 韩国国防部21日表示，朝鲜派遣特种部队援俄作战是违反联合国安理会决议的非法之举，朝鲜应立即停止此类行动。
 </description>
 			<pubDate>Mon, 21 Oct 2024 14:40:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241021001700881</guid>
-			<title>调查：近八成韩企对延迟退休年龄持肯定态度</title>
-			<link>https://cn.yna.co.kr/view/ACK20241021001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月21日电 韩国就业门户网站“Saramin”21日发布的一份调查结果显示，近八成韩企对延迟退休年龄持肯定态度。
-</description>
-			<pubDate>Mon, 21 Oct 2024 14:06:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
