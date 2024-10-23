@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 23 Oct 2024 09:54:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 23 Oct 2024 12:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241023001000881</guid>
+			<title>韩燃油税下调措施延两个月至年底但幅度收窄</title>
+			<link>https://cn.yna.co.kr/view/ACK20241023001000881?section=news&amp;input=rss</link>
+			<description>韩联社世宗10月23日电 韩国企划财政部23日表示，将原定于本月底到期的燃油税下调措施再延长两个月至12月，但下调幅度有所收窄。
+</description>
+			<pubDate>Wed, 23 Oct 2024 11:38:40 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241023000800881</guid>
+			<title>韩国五六旬人群便利店消费额较前大增</title>
+			<link>https://cn.yna.co.kr/view/ACK20241023000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月23日电 随着五六旬一人、二人户家庭的增加，以及近年高物价趋势持续，韩国50～69岁人群的便利店消费大增。
+</description>
+			<pubDate>Wed, 23 Oct 2024 10:50:26 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241023000900881</guid>
+			<title>韩国电价调整：工业用上调9.7% 民用保持不变</title>
+			<link>https://cn.yna.co.kr/view/ACK20241023000900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗、首尔10月23日电 根据韩国产业通商资源部和韩国电力公社（下称“韩电”）23日发布的用电价格上调方案，韩国工业用电价格将从24日起平均上涨9.7%，现有居民和商业用电价格保持不变。
+</description>
+			<pubDate>Wed, 23 Oct 2024 10:47:54 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241023000700881</guid>
 			<title>防弹智旻《Who》排名美公告牌单曲榜第32</title>
@@ -137,28 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241022003100881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报738.34点，较前一交易日下跌21.61点。</description>
 			<pubDate>Tue, 22 Oct 2024 15:33:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241022003000881</guid>
-			<title>股市收盘：KOSPI▼34.22</title>
-			<link>https://cn.yna.co.kr/view/ACK20241022003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2570.70点，较前一交易日下跌34.22点。</description>
-			<pubDate>Tue, 22 Oct 2024 15:32:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241022002900881</guid>
-			<title>15：30外汇汇率：1美元=1,380.1韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241022002900881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1380.1，较前一交易日下跌4.9韩元。</description>
-			<pubDate>Tue, 22 Oct 2024 15:30:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241022002600881</guid>
-			<title>今年前三季入韩脱北者181人 同比增加</title>
-			<link>https://cn.yna.co.kr/view/ACK20241022002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月22日电 韩国统一部官员22日向记者表示，今年第三季度（7至9月）共有76名脱北者入境韩国，前三个季度累计入境181人。
-</description>
-			<pubDate>Tue, 22 Oct 2024 15:12:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
