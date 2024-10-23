@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 23 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 24 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241017004900881</guid>
+			<title>2024年10月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241017004900881?section=news&amp;input=rss</link>
+			<description>1912年 朝鲜总督府颁布《银行令》。
+</description>
+			<pubDate>Thu, 24 Oct 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241023004200881</guid>
 			<title>ROSÉ新歌《APT.》上线仅五天播放量破亿</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月23日电 随着五六旬一人、二人户家庭的增加，以及近年高物价趋势持续，韩国50～69岁人群的便利店消费大增。
 </description>
 			<pubDate>Wed, 23 Oct 2024 10:50:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241023000900881</guid>
-			<title>韩国电价调整：工业用上调9.7% 民用保持不变</title>
-			<link>https://cn.yna.co.kr/view/ACK20241023000900881?section=news&amp;input=rss</link>
-			<description>韩联社世宗、首尔10月23日电 根据韩国产业通商资源部和韩国电力公社（下称“韩电”）23日发布的用电价格上调方案，韩国工业用电价格将从24日起平均上涨9.7%，现有居民和商业用电价格保持不变。
-</description>
-			<pubDate>Wed, 23 Oct 2024 10:47:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
