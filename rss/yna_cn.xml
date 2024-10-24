@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 24 Oct 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 24 Oct 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241024004400881</guid>
+			<title>详讯：韩波领导人商定共同应对朝俄军事合作</title>
+			<link>https://cn.yna.co.kr/view/ACK20241024004400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月24日电 韩国总统尹锡悦24日同到访的波兰总统安杰伊·杜达举行会谈。他在会后的联合记者会上表示，韩方曾坚持不对乌克兰直接提供杀伤性武器的大原则，但今后可按朝俄军事合作动向发挥更多灵活性。若朝鲜派遣特种兵援俄攻乌，韩方将分阶段援乌，研讨并实施为保障韩半岛安全所需的措施。
+</description>
+			<pubDate>Thu, 24 Oct 2024 19:36:40 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241024004300881</guid>
+			<title>韩总理韩悳洙会见波兰总统杜达</title>
+			<link>https://cn.yna.co.kr/view/ACK20241024004300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月24日电 韩国国务总理韩悳洙24日在中央政府首尔办公大楼会见到访的波兰总统安杰伊·杜达。
+</description>
+			<pubDate>Thu, 24 Oct 2024 18:49:09 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241024003100881</guid>
 			<title>尹锡悦：不会对朝鲜派兵援俄坐视不理</title>
@@ -144,21 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241024000700881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2591.69点，较前一交易日下跌7.93点。</description>
 			<pubDate>Thu, 24 Oct 2024 09:02:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241024000600881</guid>
-			<title>股市开盘：KOSDAQ▼2.49</title>
-			<link>https://cn.yna.co.kr/view/ACK20241024000600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报742.70点，较前一交易日下跌2.49点。</description>
-			<pubDate>Thu, 24 Oct 2024 09:02:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241024000400881</guid>
-			<title>IMF预测韩今年人均GDP领先于日本和台湾</title>
-			<link>https://cn.yna.co.kr/view/ACK20241024000400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月24日电 据韩国银行（央行）等方面24日消息，国际货币基金组织（IMF）日前预测韩国今年人均国内生产总值（GDP）同比增长1.6%，为3.6132万美元，领先于日本和台湾。
-</description>
-			<pubDate>Thu, 24 Oct 2024 08:48:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
