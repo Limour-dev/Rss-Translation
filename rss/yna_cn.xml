@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 24 Oct 2024 09:54:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 24 Oct 2024 12:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241024001200881</guid>
+			<title>韩防长：将俄乌战争参战朝军视为雇佣兵为妥</title>
+			<link>https://cn.yna.co.kr/view/ACK20241024001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月24日电 韩国国防部长官金龙显24日评价称，将俄乌战争参战朝军视为雇佣兵队更为妥当，而非派遣军。
+</description>
+			<pubDate>Thu, 24 Oct 2024 11:27:53 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241024001100881</guid>
+			<title>SK海力士三季度三大业绩指标齐创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20241024001100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月24日电 韩国芯片巨头SK海力士今年第三季度营业利润、销售额和净利润均创下单季最高纪录。
+</description>
+			<pubDate>Thu, 24 Oct 2024 10:12:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241024000800881</guid>
 			<title>2024年10月24日韩国主要报纸头条新闻</title>
@@ -145,21 +161,6 @@
 			<description>韩联社首尔10月23日电 韩国忠清北道清州市政府23日表示，明年将迎来与中国武汉市缔结友好城市关系25周年，为此双方将开展各种交流项目。
 </description>
 			<pubDate>Wed, 23 Oct 2024 16:22:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241023002100881</guid>
-			<title>韩第三颗军事侦察卫星12月有望在美发射升空</title>
-			<link>https://cn.yna.co.kr/view/ACK20241023002100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月23日电 韩国防卫事业厅23日表示，事业厅计划于12月在美国利用太空探索技术公司（SpaceX）火箭将韩国第三颗军事侦察卫星发射升空，目前正与SpaceX方面协商具体事宜。
-</description>
-			<pubDate>Wed, 23 Oct 2024 15:45:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241023002400881</guid>
-			<title>股市收盘:KOSDAQ▲6.85</title>
-			<link>https://cn.yna.co.kr/view/ACK20241023002400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报745.19点，较前一交易日上升6.85点。</description>
-			<pubDate>Wed, 23 Oct 2024 15:33:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
