@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 25 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 26 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241021000100881</guid>
+			<title>2024年10月26日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241021000100881?section=news&amp;input=rss</link>
+			<description>1895年 朝鲜王朝进行历法改革，开始使用公历。
+</description>
+			<pubDate>Sat, 26 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241025004500881</guid>
+			<title>朝鲜副外相：若朝派兵援俄其符合国际规范</title>
+			<link>https://cn.yna.co.kr/view/ACK20241025004500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月25日电 朝中社25日报道称，朝鲜外务省负责俄罗斯工作的副相金正奎就朝派兵援俄一事表示，若有此事，其为符合国际法规范的行动。此言等于承认朝鲜派兵援俄攻乌属实。
+</description>
+			<pubDate>Fri, 25 Oct 2024 22:08:28 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241025004400881</guid>
 			<title>韩政府就联合国对朝人权审查提交质询函</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔10月25日电 韩国政府25日就俄罗斯国家杜马（议会下院）日前批准《俄朝全面战略伙伴关系条约》一事深表关切。
 </description>
 			<pubDate>Fri, 25 Oct 2024 11:33:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241025001200881</guid>
-			<title>韩澳陆军联合举行科学化作战演习</title>
-			<link>https://cn.yna.co.kr/view/ACK20241025001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月25日电 韩国陆军25日表示，韩国和澳大利亚于14日至24日在江原道麟蹄郡的陆军科学化战斗训练团（KCTC）联合举行陆军科学化作战演习。
-</description>
-			<pubDate>Fri, 25 Oct 2024 11:22:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241025000900881</guid>
-			<title>韩财长出席G20财长会议 会见日财长</title>
-			<link>https://cn.yna.co.kr/view/ACK20241025000900881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿10月24日电 据韩国企划财政部消息，副总理兼企划财政部长官崔相穆于23至24日在美国华盛顿出席今年第四次二十国集团（G20）财长和央行行长会议，并首次会见日本财务大臣加藤胜信。
-</description>
-			<pubDate>Fri, 25 Oct 2024 11:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
