@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 26 Oct 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 27 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241021000300881</guid>
+			<title>2024年10月27日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241021000300881?section=news&amp;input=rss</link>
+			<description>1950年 韩国政府将首都从“临时首都”釜山迁回汉城（现首尔）。同年8月18日，因朝军南下入侵，韩国政府将釜山作为临时首都。
+</description>
+			<pubDate>Sun, 27 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241021000100881</guid>
 			<title>2024年10月26日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔10月25日电 韩国元老级演员金守美25日去世，享年75岁。
 </description>
 			<pubDate>Fri, 25 Oct 2024 11:40:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241025001800881</guid>
-			<title>韩政府就俄国家杜马批准朝俄条约深表关切</title>
-			<link>https://cn.yna.co.kr/view/ACK20241025001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月25日电 韩国政府25日就俄罗斯国家杜马（议会下院）日前批准《俄朝全面战略伙伴关系条约》一事深表关切。
-</description>
-			<pubDate>Fri, 25 Oct 2024 11:33:11 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
