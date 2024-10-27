@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 27 Oct 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 28 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241022000300881</guid>
+			<title>2024年10月28日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241022000300881?section=news&amp;input=rss</link>
+			<description>1986年 26所高校的2000余名大学生参加在建国大学举行的“全国反外势反独裁爱国学生斗争联合会”成立仪式，韩国警方将其定性为“红色分子”示威活动，并使用暴力手段驱散示威者，刑事拘留1288人。
+</description>
+			<pubDate>Mon, 28 Oct 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241027001000881</guid>
 			<title>韩政府就以色列袭击伊朗深表忧虑</title>
@@ -157,14 +165,6 @@
 			<description>▲韩朝在联大就朝鲜派兵援俄唇枪舌剑
 </description>
 			<pubDate>Fri, 25 Oct 2024 17:00:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241025004000881</guid>
-			<title>韩下周派团与北约和欧盟共享朝派兵援俄情报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241025004000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月25日电 韩国国家情报院（国情院）25日表示，政府下周向北约和欧盟派遣代表团，以共享朝鲜派兵援俄相关情报。
-</description>
-			<pubDate>Fri, 25 Oct 2024 16:59:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
