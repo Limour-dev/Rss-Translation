@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 28 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 29 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241022000400881</guid>
+			<title>2024年10月29日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241022000400881?section=news&amp;input=rss</link>
+			<description>1909年 大韩帝国中央银行——韩国银行正式成立。
+</description>
+			<pubDate>Tue, 29 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241028002800881</guid>
 			<title>韩警察厅签约联合国携手打击跨国犯罪</title>
@@ -153,13 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241028000700881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2588.45点，较前一交易日上升5.18点。</description>
 			<pubDate>Mon, 28 Oct 2024 09:01:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241028000600881</guid>
-			<title>股市开盘：KOSDAQ▲2.34</title>
-			<link>https://cn.yna.co.kr/view/ACK20241028000600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报729.75点，较前一交易日上升2.34点。</description>
-			<pubDate>Mon, 28 Oct 2024 09:01:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
