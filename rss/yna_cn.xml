@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 29 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 30 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241022002100881</guid>
+			<title>2024年10月30日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241022002100881?section=news&amp;input=rss</link>
+			<description>1969年 首届韩美民间经济委员会大会在首尔华克山庄酒店开幕，会议讨论了美国终止对韩经济援助后的韩美经济合作方案等事宜。
+</description>
+			<pubDate>Wed, 30 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241029004200881</guid>
 			<title>详讯：韩乌领导人通话商定共同应对俄朝军事合作</title>
@@ -152,14 +160,6 @@
 			<description>韩联社首尔10月29日电 韩中日高官会（SOM）28日在日本东京举行，三方就在彼此方便的时候尽早举行下届韩中日领导人会议和外长会达成共识。
 </description>
 			<pubDate>Tue, 29 Oct 2024 10:08:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241029001200881</guid>
-			<title>朝鲜外相启程对俄罗斯进行正式访问</title>
-			<link>https://cn.yna.co.kr/view/ACK20241029001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月29日电 朝中社29日报道称，朝鲜外务相崔善姬一行28日从平壤启程赴俄，对俄罗斯进行正式访问。
-</description>
-			<pubDate>Tue, 29 Oct 2024 09:51:11 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
