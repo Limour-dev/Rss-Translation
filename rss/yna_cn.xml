@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 30 Oct 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 30 Oct 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241030003900881</guid>
+			<title>详讯：韩总统室称需向乌派工作组观察分析朝军活动</title>
+			<link>https://cn.yna.co.kr/view/ACK20241030003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月30日电 韩国总统办公室30日表示，为应对朝鲜派兵援俄，需要向乌克兰派遣工作组分析朝军活动和战况。乌克兰方面则将从本周起研讨派遣总统特使访韩的事宜。
+</description>
+			<pubDate>Wed, 30 Oct 2024 18:58:41 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241030002500881</guid>
 			<title>2024年10月30日韩联社要闻简报</title>
@@ -152,14 +160,6 @@
 			<description>韩联社华盛顿10月29日电 韩国国防部长官金龙显和美国国防部长劳埃德·奥斯汀30日将在美国五角大楼举行第56次韩美安保会议（SCM），共商朝鲜向俄派兵的应对方案。
 </description>
 			<pubDate>Wed, 30 Oct 2024 10:02:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241030000300881</guid>
-			<title>消息：朝军高官率先遣部队赶赴俄乌前线</title>
-			<link>https://cn.yna.co.kr/view/ACK20241030000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月30日电 韩国国家情报院获取的情报显示，朝鲜人民军总参谋部副总参谋长金永福率领朝军先遣部队向俄乌前线转移。
-</description>
-			<pubDate>Wed, 30 Oct 2024 09:06:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
