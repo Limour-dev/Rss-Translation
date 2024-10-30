@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 30 Oct 2024 12:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 30 Oct 2024 15:29:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241030001900881</guid>
+			<title>详讯：韩新世界集团宣布拆分旗下超市和百货业务</title>
+			<link>https://cn.yna.co.kr/view/ACK20241030001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月30日电 韩国新世界集团30日宣布，旗下大型超市易买得和新世界百货业务将全面拆分，两大业务“各立门户”。
+</description>
+			<pubDate>Wed, 30 Oct 2024 15:19:03 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241030001800881</guid>
+			<title>韩军情机构：派俄朝军部分先遣队或已投入前线</title>
+			<link>https://cn.yna.co.kr/view/ACK20241030001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月30日电 韩国国防部旗下的军事情报机构“国防情报本部”（下称本部）30日在国会举行的情报委员会国政监查会上汇报称，被派遣至俄罗斯的朝军先遣队投入前线的可能性较大。
+</description>
+			<pubDate>Wed, 30 Oct 2024 14:50:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241030001600881</guid>
+			<title>防弹RM纪录片12月在全球90地同步上映</title>
+			<link>https://cn.yna.co.kr/view/ACK20241030001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔10月30日电 记录防弹少年团（BTS）队长RM（金南俊）个人专辑制作历程的纪录片《RM : Right People，Wrong Place》12月5日将在韩国等全球90个国家和地区同步上映。
+</description>
+			<pubDate>Wed, 30 Oct 2024 13:24:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241030001700881</guid>
 			<title>韩加领导人通电话共商朝鲜派兵援俄问题</title>
@@ -137,28 +161,6 @@
 			<description>▲韩情报机构称部分援俄朝军或移动至前线
 </description>
 			<pubDate>Tue, 29 Oct 2024 17:00:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241029003200881</guid>
-			<title>韩国会举行梨泰院踩踏事故两周年悼念仪式</title>
-			<link>https://cn.yna.co.kr/view/ACK20241029003200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月29日电 在韩国首尔梨泰院踩踏事故（又称“十二九梨泰院惨剧”）发生两周年之际，国会议长和朝野两党领导班子29日在国会议员会馆举行悼念仪式。
-</description>
-			<pubDate>Tue, 29 Oct 2024 16:33:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241029003000881</guid>
-			<title>股市收盘：KOSPI▲5.37</title>
-			<link>https://cn.yna.co.kr/view/ACK20241029003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2617.80点，较前一交易日上升5.37点。</description>
-			<pubDate>Tue, 29 Oct 2024 15:33:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241029002900881</guid>
-			<title>股市收盘:KOSDAQ▲3.70</title>
-			<link>https://cn.yna.co.kr/view/ACK20241029002900881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报744.18点，较前一交易日上升3.70点。</description>
-			<pubDate>Tue, 29 Oct 2024 15:31:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
