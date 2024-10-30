@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 30 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 31 Oct 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241022002200881</guid>
+			<title>2024年10月31日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241022002200881?section=news&amp;input=rss</link>
+			<description>1883年 韩国第一份近代报刊《汉城旬报》创刊。
+</description>
+			<pubDate>Thu, 31 Oct 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241030003900881</guid>
 			<title>详讯：韩总统室称需向乌派工作组观察分析朝军活动</title>
@@ -152,14 +160,6 @@
 			<description>韩联社首尔10月30日电 朝中社30日报道称，以信息技术和数字发展与合作为主题举办的“2024年朝俄信息技术展览会”29日在平壤科学技术殿堂开幕。
 </description>
 			<pubDate>Wed, 30 Oct 2024 10:15:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241030000700881</guid>
-			<title>第56次韩美安保会议今举行 共商朝军援俄</title>
-			<link>https://cn.yna.co.kr/view/ACK20241030000700881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿10月29日电 韩国国防部长官金龙显和美国国防部长劳埃德·奥斯汀30日将在美国五角大楼举行第56次韩美安保会议（SCM），共商朝鲜向俄派兵的应对方案。
-</description>
-			<pubDate>Wed, 30 Oct 2024 10:02:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
