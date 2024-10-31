@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 31 Oct 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 1 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241013001000881</guid>
+			<title>2024年11月1日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241013001000881?section=news&amp;input=rss</link>
+			<description>1908年 近代史学家、文人崔南善创办的韩国首份月刊《少年》面世。
+</description>
+			<pubDate>Fri, 01 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241031003800881</guid>
 			<title>2024年10月31日韩联社要闻简报</title>
@@ -154,14 +162,6 @@
 			<description>韩联社纽约10月30日电 联合国安理会30日在纽约总部以乌克兰和平与安全为主题举行会议讨论朝鲜派兵援俄问题，韩朝代表在会上展开激烈舌战。
 </description>
 			<pubDate>Thu, 31 Oct 2024 09:58:40 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241031001300881</guid>
-			<title>G-DRAGON时隔7年推新歌《POWER》回归</title>
-			<link>https://cn.yna.co.kr/view/ACK20241031001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月30日电 经纪公司Galaxy Corporation于31日表示，旗下歌手G-DRAGON（GD，权志龙）将于当天下午6时发行数字单曲《POWER》。这是G-DRAGON时隔7年多携新歌回归。
-</description>
-			<pubDate>Thu, 31 Oct 2024 09:42:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
