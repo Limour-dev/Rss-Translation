@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 1 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 2 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241013001100881</guid>
+			<title>2024年11月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241013001100881?section=news&amp;input=rss</link>
+			<description>1594年 朝鲜王朝中期名将林庆业（1594—1646）出生。
+</description>
+			<pubDate>Sat, 02 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241101002900881</guid>
 			<title>2024年11月1日韩联社要闻简报</title>
@@ -151,13 +159,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241101000500881?section=news&amp;input=rss</link>
 			<description>KOSDAQ开盘报735.67点，较前一交易日下跌7.39点。</description>
 			<pubDate>Fri, 01 Nov 2024 09:01:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241101000400881</guid>
-			<title>外汇汇率开盘：1美元=1375.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241101000400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1375.5，较前一交易日上升4.4韩元。</description>
-			<pubDate>Fri, 01 Nov 2024 09:00:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
