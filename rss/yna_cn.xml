@@ -4,8 +4,39 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 1 Nov 2024 12:24:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 1 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241101002200881</guid>
+			<title>快讯：韩新增对朝单边制裁对象应对朝射洲际导弹</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101002200881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Fri, 01 Nov 2024 15:11:05 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241101002000881</guid>
+			<title>韩幕僚长批在野党断章取义否认总统介选</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月1日电 韩国总统室秘书室长郑镇硕1日就总统尹锡悦和政治掮客明泰均（音）涉介入选举的通话内容被曝一事表示，有选择性地公开通话内容，并将其界定为介选实为过激的政治攻击，与过去两年来在野党意图打压总统的政治活动一脉相承。
+</description>
+			<pubDate>Fri, 01 Nov 2024 15:02:30 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241101001900881</guid>
+			<title>民调：尹锡悦施政好评率跌破20%再次刷新低点</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月1日电 民调机构韩国盖洛普1日发布的一项最新民调结果显示，总统尹锡悦的施政好评率跌至19%，再次刷新就职以来的最低纪录。差评率为72%，创下就职以来的新高。 
+</description>
+			<pubDate>Fri, 01 Nov 2024 14:17:54 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241101001800881</guid>
+			<title>韩10月出口同比增4.6% 连续13个月增长</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101001800881?section=news&amp;input=rss</link>
+			<description>韩联社世宗、首尔11月1日电 韩国产业通商资源部1日公布的数据显示，韩国10月出口同比增长4.6%，为575.2亿美元，连续13个月保持同比增加。
+</description>
+			<pubDate>Fri, 01 Nov 2024 14:09:28 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241101001700881</guid>
 			<title>韩高官：将视朝俄军事合作进展分阶段采取措施</title>
@@ -130,35 +161,6 @@
 			<description>韩联社首尔10月31日电　曾在中国半导体企业工作的一名韩侨日前因涉嫌违反中国《反间谍法》被捕的消息传开后，其背景引发各方猜测。多家外媒分析认为，该事件背后可能存在“半导体博弈”。
 </description>
 			<pubDate>Thu, 31 Oct 2024 15:56:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241031003100881</guid>
-			<title>韩总统室否认尹锡悦候任总统时期介选之说</title>
-			<link>https://cn.yna.co.kr/view/ACK20241031003100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔10月31日电 韩国总统室31日就总统尹锡悦夫妇介入2022年6月的执政党选举公荐之说予以否认。
-</description>
-			<pubDate>Thu, 31 Oct 2024 15:44:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241031003600881</guid>
-			<title>股市收盘：KOSPI▼37.64</title>
-			<link>https://cn.yna.co.kr/view/ACK20241031003600881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2556.15点，较前一交易日下跌37.64点。</description>
-			<pubDate>Thu, 31 Oct 2024 15:33:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241031003500881</guid>
-			<title>股市收盘：KOSDAQ▲4.87</title>
-			<link>https://cn.yna.co.kr/view/ACK20241031003500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报743.06点，较前一交易日上升4.87点。</description>
-			<pubDate>Thu, 31 Oct 2024 15:32:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241031003400881</guid>
-			<title>15：30外汇汇率：1美元=1379.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241031003400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1379.9，较前一交易日上升2.5韩元。</description>
-			<pubDate>Thu, 31 Oct 2024 15:30:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
