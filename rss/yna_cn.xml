@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 2 Nov 2024 06:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 2 Nov 2024 09:49:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241101002100881</guid>
+			<title>一周韩娱：GD时隔七年回归 MAMA将登陆美日</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101002100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月2日电 【要闻回顾】G-DRAGON时隔7年推新歌《POWER》回归；2024MAMA颁奖礼将在美日两国举行；ROSÉ《APT.》跻身美国公告牌百强单曲榜第八；NewJeans《Hype Boy》声田播放量破6亿。
+</description>
+			<pubDate>Sat, 02 Nov 2024 08:00:05 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241102000100881</guid>
+			<title>韩国人将可免签赴华 政策试行至2025年底</title>
+			<link>https://cn.yna.co.kr/view/ACK20241102000100881?section=news&amp;input=rss</link>
+			<description>韩联社北京11月1日电 韩国人将从本月8日起可免签入境中国，截至2025年12月31日。
+</description>
+			<pubDate>Sat, 02 Nov 2024 06:47:51 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241013001100881</guid>
 			<title>2024年11月2日韩国历史上的今天</title>
@@ -145,20 +161,6 @@
 			<description>韩联社华盛顿10月31日电 据美国政府透露，8000名朝鲜兵力已被部署在俄罗斯库尔斯克，目前正在接受军事作战训练，预计数日内将投入俄乌战场。
 </description>
 			<pubDate>Fri, 01 Nov 2024 09:55:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241101000600881</guid>
-			<title>股市开盘：KOSPI▼13.19</title>
-			<link>https://cn.yna.co.kr/view/ACK20241101000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2542.96点，较前一交易日下跌13.19点。</description>
-			<pubDate>Fri, 01 Nov 2024 09:01:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241101000500881</guid>
-			<title>股市开盘：KOSDAQ▼7.39</title>
-			<link>https://cn.yna.co.kr/view/ACK20241101000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报735.67点，较前一交易日下跌7.39点。</description>
-			<pubDate>Fri, 01 Nov 2024 09:01:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
