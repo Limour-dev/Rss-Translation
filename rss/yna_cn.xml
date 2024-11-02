@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 2 Nov 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 3 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241014003200881</guid>
+			<title>2023年11月3日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241014003200881?section=news&amp;input=rss</link>
+			<description>1878年 申乭石（1878—1908）将军出生。申乭石自幼能力出众，弱冠之年就当上抗日义兵长。
+</description>
+			<pubDate>Sun, 03 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241101002100881</guid>
 			<title>一周韩娱：GD时隔七年回归 MAMA将登陆美日</title>
@@ -153,14 +161,6 @@
 			<description>韩联社华盛顿10月31日电 韩美日外长31日通电话，就朝鲜试射洲际导道导弹（ICBM）一事谴责称，韩美日强烈敦促朝鲜立刻停止给韩半岛和地区和平与安全构成威胁的挑衅行为。
 </description>
 			<pubDate>Fri, 01 Nov 2024 10:10:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241101000700881</guid>
-			<title>详讯：美国务卿称朝军将在数日内投入战斗</title>
-			<link>https://cn.yna.co.kr/view/ACK20241101000700881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿10月31日电 据美国政府透露，8000名朝鲜兵力已被部署在俄罗斯库尔斯克，目前正在接受军事作战训练，预计数日内将投入俄乌战场。
-</description>
-			<pubDate>Fri, 01 Nov 2024 09:55:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
