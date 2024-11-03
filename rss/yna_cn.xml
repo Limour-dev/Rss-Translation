@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 3 Nov 2024 15:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 3 Nov 2024 18:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241103001000881</guid>
+			<title>韩三季度零售销售额指数同比减1.9%连降十季</title>
+			<link>https://cn.yna.co.kr/view/ACK20241103001000881?section=news&amp;input=rss</link>
+			<description>韩联社世宗11月3日电 韩国统计厅国家统计门户（KOSIS）和产业活动动向资料3日显示，今年第三季度零售销售额指数同比减少1.9%，为100.7，连续10个季度出现降势，创自1995年开始相关统计以来最长连降纪录。
+</description>
+			<pubDate>Sun, 03 Nov 2024 16:26:22 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241103000900881</guid>
 			<title>韩国忠南道与中国河北省商定携手合作推进碳中和</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔11月1日电 韩国总统室秘书室长郑镇硕1日就总统尹锡悦和政治掮客明泰均（音）涉介入选举的通话内容被曝一事表示，有选择性地公开通话内容，并将其界定为介选实为过激的政治攻击，与过去两年来在野党意图打压总统的政治活动一脉相承。
 </description>
 			<pubDate>Fri, 01 Nov 2024 15:02:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241101001900881</guid>
-			<title>民调：尹锡悦施政好评率跌破20%再次刷新低点</title>
-			<link>https://cn.yna.co.kr/view/ACK20241101001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月1日电 民调机构韩国盖洛普1日发布的一项最新民调结果显示，总统尹锡悦的施政好评率跌至19%，再次刷新就职以来的最低纪录。差评率为72%，创下就职以来的新高。 
-</description>
-			<pubDate>Fri, 01 Nov 2024 14:17:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
