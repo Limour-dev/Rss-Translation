@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 3 Nov 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 4 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241015000700881</guid>
+			<title>2024年11月4日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241015000700881?section=news&amp;input=rss</link>
+			<description>1901年 大韩帝国皇太子妃李方子（1901—1989）出生。
+</description>
+			<pubDate>Mon, 04 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241103001000881</guid>
 			<title>韩三季度零售销售额指数同比减1.9%连降十季</title>
@@ -153,14 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241101002200881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Fri, 01 Nov 2024 15:11:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241101002000881</guid>
-			<title>韩幕僚长批在野党断章取义否认总统介选</title>
-			<link>https://cn.yna.co.kr/view/ACK20241101002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月1日电 韩国总统室秘书室长郑镇硕1日就总统尹锡悦和政治掮客明泰均（音）涉介入选举的通话内容被曝一事表示，有选择性地公开通话内容，并将其界定为介选实为过激的政治攻击，与过去两年来在野党意图打压总统的政治活动一脉相承。
-</description>
-			<pubDate>Fri, 01 Nov 2024 15:02:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
