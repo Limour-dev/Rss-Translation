@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 5 Nov 2024 03:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 5 Nov 2024 06:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241104003700881</guid>
+			<title>韩10月外储4156.9亿美元 环比减42.8亿美元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241104003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月5日电 韩国银行（央行）5日发布的统计数据显示，截至10月末，韩国外汇储备额为4156.9亿美元，较9月末减少42.8亿美元。
+</description>
+			<pubDate>Tue, 05 Nov 2024 06:00:12 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241015000800881</guid>
 			<title>2024年11月5日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔11月4日电 韩国总统尹锡悦4日发表施政演说，强调要捍卫国家安全和推动四大改革。
 </description>
 			<pubDate>Mon, 04 Nov 2024 11:38:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241104000900881</guid>
-			<title>尹锡悦：将就朝俄军事合作制定对策捍卫国安</title>
-			<link>https://cn.yna.co.kr/view/ACK20241104000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月4日电 韩国总统尹锡悦4日表示，朝俄非法军事合作对韩国安全构成严重威胁，政府将检查一切可能性，严密制定应对方案，切实捍卫国家安全。
-</description>
-			<pubDate>Mon, 04 Nov 2024 10:41:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
