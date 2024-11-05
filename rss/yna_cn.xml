@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 5 Nov 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 6 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241015002900881</guid>
+			<title>2024年11月6日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241015002900881?section=news&amp;input=rss</link>
+			<description>1922年 韩国第一位飞行员安昌男在日本完成东京到大阪的飞行。他是韩国首位驾驶飞机在半岛上空飞行的飞行员，被誉为“韩国航空第一人”。
+</description>
+			<pubDate>Wed, 06 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241105004600881</guid>
+			<title>韩驻华使馆发布中国免签新政注意事项</title>
+			<link>https://cn.yna.co.kr/view/ACK20241105004600881?section=news&amp;input=rss</link>
+			<description>韩联社北京11月5日电 韩国驻华大使馆5日在官网就中国政府将从8日起针对韩国等9国试行免签政策的注意事项。
+</description>
+			<pubDate>Tue, 05 Nov 2024 21:19:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241105004500881</guid>
 			<title>申真谞晋级南洋杯世界围棋大师赛半决赛</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔11月5日电 据韩国联合参谋本部（联参）5日消息，韩军发现朝鲜当天上午7时30分许从黄海北道沙里院一带向东部海域发射多枚短程弹道导弹（SRBM）。
 </description>
 			<pubDate>Tue, 05 Nov 2024 11:32:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105001200881</guid>
-			<title>ROSÉ《APT.》连续两周登顶公告牌全球系列榜</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月5日电 美国公告牌5日发布的最新榜单显示，BLACKPINK成员ROSÉ同美国歌星布鲁诺·马尔斯的合作曲《APT.》登顶公告牌全球除美榜和全球200强单曲榜，连续两周领跑。
-</description>
-			<pubDate>Tue, 05 Nov 2024 10:40:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105001100881</guid>
-			<title>详讯：韩国10月CPI同比上涨1.3%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105001100881?section=news&amp;input=rss</link>
-			<description>韩联社世宗11月5日电 韩国统计厅5日发布的资料显示，韩国10月居民消费价格指数（CPI）为114.69，同比上涨1.3%，涨幅创自2021年1月以来新低。
-</description>
-			<pubDate>Tue, 05 Nov 2024 09:52:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
