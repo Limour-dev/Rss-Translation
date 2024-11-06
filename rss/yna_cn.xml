@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 6 Nov 2024 12:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 6 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241106002100881</guid>
+			<title>韩国与IMF明起进行年度磋商讨论</title>
+			<link>https://cn.yna.co.kr/view/ACK20241106002100881?section=news&amp;input=rss</link>
+			<description>韩联社世宗11月6日电 韩国企划财政部6日表示，将从本月7日至20日与国际货币基金组织（IMF）进行年度磋商讨论。
+</description>
+			<pubDate>Wed, 06 Nov 2024 15:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241106002000881</guid>
+			<title>韩贸促机构连续7年设馆参加中国进博会</title>
+			<link>https://cn.yna.co.kr/view/ACK20241106002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月6日电 韩国贸易协会6日表示，协会和产业通商资源部参加前一日在中国上海国家会展中心启幕的第七届中国国际进口博览会并开设运营韩国馆。
+</description>
+			<pubDate>Wed, 06 Nov 2024 14:48:21 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241106001900881</guid>
 			<title>韩部分政府部门官网遭DDoS攻击</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔11月5日电 韩国政府将在首尔瑞草区等首都圈4处打造总面积为689万平方米的新住宅区，提供5万套住房。
 </description>
 			<pubDate>Tue, 05 Nov 2024 16:18:48 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105002400881</guid>
-			<title>韩军将试射导弹演练攻防反制朝鲜频繁射弹</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月5日电 记者5日获悉，韩国军方最快将于6日进行“玄武-2”系列地对地弹道导弹和“天弓”地对空导弹发射演习，应对朝鲜频繁射弹。
-</description>
-			<pubDate>Tue, 05 Nov 2024 16:00:41 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105002900881</guid>
-			<title>韩政府欢迎中国对韩试行免签入境政策</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105002900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月5日电 韩国外交部5日就中国政府对韩国试行免签入境政策表示欢迎。
-</description>
-			<pubDate>Tue, 05 Nov 2024 15:46:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
