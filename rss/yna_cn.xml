@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 6 Nov 2024 09:54:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 6 Nov 2024 12:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241106001900881</guid>
+			<title>韩部分政府部门官网遭DDoS攻击</title>
+			<link>https://cn.yna.co.kr/view/ACK20241106001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月6日电 韩国环境部等部分政府部门官网6日上午遭到分布式拒绝服务（DDoS）攻击，一度陷入瘫痪状态。
+</description>
+			<pubDate>Wed, 06 Nov 2024 11:44:15 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241106001800881</guid>
+			<title>联合国13个成员国发表声明谴责朝射洲际导弹</title>
+			<link>https://cn.yna.co.kr/view/ACK20241106001800881?section=news&amp;input=rss</link>
+			<description>韩联社纽约11月5日电 韩美日等13个联合国成员国5日发表联合声明表示，用最强烈的措辞谴责朝鲜上月底发射洲际弹道导弹（ICBM）。
+</description>
+			<pubDate>Wed, 06 Nov 2024 11:02:37 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241106000800881</guid>
+			<title>韩国防部官网遭到DDoS攻击</title>
+			<link>https://cn.yna.co.kr/view/ACK20241106000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月6日电 据韩国国防部6日消息，国防部官网从前一天下午5时30分许起遭遇分布式拒绝服务（DDoS）攻击。韩军立刻启动DDoS应对模式，官网目前正常运行中。
+</description>
+			<pubDate>Wed, 06 Nov 2024 09:54:57 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241106000600881</guid>
 			<title>股市开盘：KOSDAQ▲5.42</title>
@@ -138,27 +162,6 @@
 			<description>韩联社首尔11月5日电 韩国外交部5日就中国政府对韩国试行免签入境政策表示欢迎。
 </description>
 			<pubDate>Tue, 05 Nov 2024 15:46:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105002800881</guid>
-			<title>股市收盘：KOSDAQ▼2.27</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105002800881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报751.81点，较前一交易日下跌2.27点。</description>
-			<pubDate>Tue, 05 Nov 2024 15:33:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105002600881</guid>
-			<title>股市收盘：KOSPI▼12.09</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105002600881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2576.88点，较前一交易日下跌12.09点。</description>
-			<pubDate>Tue, 05 Nov 2024 15:32:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241105002500881</guid>
-			<title>15：30外汇汇率：1美元=1378.6韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241105002500881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1378.6，较前一交易日下跌7.7韩元。</description>
-			<pubDate>Tue, 05 Nov 2024 15:30:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
