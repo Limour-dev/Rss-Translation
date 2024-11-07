@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 7 Nov 2024 12:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 7 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241107002300881</guid>
+			<title>尹锡悦：视朝对俄乌战争参与程度考虑援乌武器</title>
+			<link>https://cn.yna.co.kr/view/ACK20241107002300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月7日电 韩国总统尹锡悦7日在首尔龙山总统府发表“对国民谈话”时表示，将根据朝鲜对俄乌战争的参与程度，考虑向乌援助武器。
+</description>
+			<pubDate>Thu, 07 Nov 2024 14:59:33 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241107002200881</guid>
 			<title>尹锡悦：将择机进行人事任免推动国政改革</title>
@@ -149,14 +157,6 @@
 			<description>韩联社首尔11月6日电 美国共和党总统候选人、前总统唐纳德·特朗普在第60届总统选举中确定当选，预计韩国外交将面临更大的不确定性。
 </description>
 			<pubDate>Wed, 06 Nov 2024 20:17:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241106004600881</guid>
-			<title>详讯：尹锡悦祝贺特朗普当选美国总统</title>
-			<link>https://cn.yna.co.kr/view/ACK20241106004600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月6日电 韩国总统尹锡悦6日通过交媒体发表声明，祝贺特朗普当选美国总统。
-</description>
-			<pubDate>Wed, 06 Nov 2024 20:02:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
