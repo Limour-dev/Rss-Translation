@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 7 Nov 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 7 Nov 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241107003900881</guid>
+			<title>韩企POSCO拟出售浦项张家港不锈钢厂</title>
+			<link>https://cn.yna.co.kr/view/ACK20241107003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月7日电 据业界7日消息，韩国钢铁巨头POSCO（浦项制铁）拟出售浦项（张家港）不锈钢股份有限公司（下称“浦项（张家港）”）。
+</description>
+			<pubDate>Thu, 07 Nov 2024 20:02:35 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241107003800881</guid>
+			<title>韩全国法院官网疑遭攻击瘫痪已恢复正常</title>
+			<link>https://cn.yna.co.kr/view/ACK20241107003800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月7日电 韩国全国法院官网7日下午一度陷入瘫痪，疑遭分布式拒绝服务（DDoS）攻击。截至下午6点，大部分网站已恢复运行。
+</description>
+			<pubDate>Thu, 07 Nov 2024 19:29:57 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241107003100881</guid>
 			<title>三星在华发布心系天下W25系列瞄准中国高端市场</title>
@@ -144,20 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241107000800881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Thu, 07 Nov 2024 09:09:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241107000700881</guid>
-			<title>快讯：特朗普称愿与韩方保持良好合作关系</title>
-			<link>https://cn.yna.co.kr/view/ACK20241107000700881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Thu, 07 Nov 2024 09:06:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241107000600881</guid>
-			<title>快讯：尹锡悦同美当选总统特朗普通电话</title>
-			<link>https://cn.yna.co.kr/view/ACK20241107000600881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Thu, 07 Nov 2024 09:04:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
