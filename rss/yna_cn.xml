@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 8 Nov 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 8 Nov 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241108003200881</guid>
+			<title>韩国国安室：朝鲜派兵后亲俄黑客攻击增加</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108003200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月8日电 韩国国家安保室（国安室）8日表示，朝鲜派兵援俄后，亲俄黑客行动主义团体的网络攻击频度增加。
+</description>
+			<pubDate>Fri, 08 Nov 2024 21:06:31 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241108003100881</guid>
+			<title>尹锡悦：若朝鲜动用核武将基于韩美同盟予以反制</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108003100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月8日电 韩国总统尹锡悦在美国《新闻周刊》8日刊发的专访中表示，一旦朝鲜对韩国发动核攻击，韩方将基于核力量的韩美同盟立即采取核打击予以回应。
+</description>
+			<pubDate>Fri, 08 Nov 2024 20:09:52 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241108002900881</guid>
+			<title>韩美商定明年上半年首举行太空兵棋推演</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108002900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月8日电 韩国国防部8日表示，第23次韩美司局级国防太空合作会议（SCWG）当地时间7日在美国华盛顿举行，商定明年上半年首次举行太空兵棋推演。
+</description>
+			<pubDate>Fri, 08 Nov 2024 18:44:43 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241108002600881</guid>
 			<title>2024年11月8日韩联社要闻简报</title>
@@ -137,28 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241108000600881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2586.70点，较前一交易日上升22.07点。</description>
 			<pubDate>Fri, 08 Nov 2024 09:01:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108000500881</guid>
-			<title>股市开盘：KOSDAQ▲6.39</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报739.91点，较前一交易日上升6.39点。</description>
-			<pubDate>Fri, 08 Nov 2024 09:01:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108000300881</guid>
-			<title>外汇汇率开盘：1美元=1386.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108000300881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1386.0，较前一交易日上升10.6韩元。</description>
-			<pubDate>Fri, 08 Nov 2024 09:00:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108000200881</guid>
-			<title>韩济州近海发生沉船事故 2人遇难12人失踪</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108000200881?section=news&amp;input=rss</link>
-			<description>韩联社济州11月8日电 据韩国海警8日消息，当天凌晨在济州海域发生沉船事故，全体船员27人中15人获救，12人失踪。截至发稿，获救人员中有2人身亡。
-</description>
-			<pubDate>Fri, 08 Nov 2024 08:33:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
