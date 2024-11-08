@@ -4,8 +4,37 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 8 Nov 2024 06:04:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 8 Nov 2024 09:49:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241108000600881</guid>
+			<title>股市开盘：KOSPI▲22.07</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108000600881?section=news&amp;input=rss</link>
+			<description>KOSPI开盘报2586.70点，较前一交易日上升22.07点。</description>
+			<pubDate>Fri, 08 Nov 2024 09:01:23 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241108000500881</guid>
+			<title>股市开盘：KOSDAQ▲6.39</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108000500881?section=news&amp;input=rss</link>
+			<description>KOSDAQ开盘报739.91点，较前一交易日上升6.39点。</description>
+			<pubDate>Fri, 08 Nov 2024 09:01:15 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241108000300881</guid>
+			<title>外汇汇率开盘：1美元=1386.0韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108000300881?section=news&amp;input=rss</link>
+			<description>韩元对美元汇率开盘报1386.0，较前一交易日上升10.6韩元。</description>
+			<pubDate>Fri, 08 Nov 2024 09:00:46 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241108000200881</guid>
+			<title>韩济州近海发生沉船事故 2人遇难12人失踪</title>
+			<link>https://cn.yna.co.kr/view/ACK20241108000200881?section=news&amp;input=rss</link>
+			<description>韩联社济州11月8日电 据韩国海警8日消息，当天凌晨在济州海域发生沉船事故，全体船员27人中15人获救，12人失踪。截至发稿，获救人员中有2人身亡。
+</description>
+			<pubDate>Fri, 08 Nov 2024 08:33:57 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241016003800881</guid>
 			<title>2024年11月8日韩国历史上的今天</title>
@@ -130,37 +159,6 @@
 			<description>韩联社首尔11月7日电 韩国总统尹锡悦7日表示，将择机进行人事任免，在治国理政方面做到推陈出新。
 </description>
 			<pubDate>Thu, 07 Nov 2024 11:45:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241107001400881</guid>
-			<title>详讯：尹锡悦同特朗普通电话商定尽早会晤</title>
-			<link>https://cn.yna.co.kr/view/ACK20241107001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月7日电 韩国总统尹锡悦7日同美国当选总统特朗普通电话，双方就尽早会晤达成共识。
-</description>
-			<pubDate>Thu, 07 Nov 2024 11:21:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241107001300881</guid>
-			<title>简讯：尹锡悦就其身边人争议引咎并对民道歉</title>
-			<link>https://cn.yna.co.kr/view/ACK20241107001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月7日电 韩国总统尹锡悦7日在首尔龙山总统府发表“对国民谈话”，就其身边人牵涉种种争议引咎自责，并为此向国民道歉。
-</description>
-			<pubDate>Thu, 07 Nov 2024 10:43:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241107001200881</guid>
-			<title>快讯：尹锡悦发表谈话向国民道歉</title>
-			<link>https://cn.yna.co.kr/view/ACK20241107001200881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Thu, 07 Nov 2024 10:05:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241107001000881</guid>
-			<title>美专家预测特朗普再任总统恐致韩美关系不顺</title>
-			<link>https://cn.yna.co.kr/view/ACK20241107001000881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿11月6日电 美国共和党总统候选人、前总统特朗普赢得2024年美国大选。美国专家们普遍认为，特朗普明年1月正式就任总统后可能跳过韩国直接与朝鲜进行谈判，并要求韩方分摊更多美军驻扎费用，导致韩美关系趋于紧张。
-</description>
-			<pubDate>Thu, 07 Nov 2024 09:58:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
