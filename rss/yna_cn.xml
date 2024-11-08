@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 8 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 9 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241018000200881</guid>
+			<title>2024年11月9日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241018000200881?section=news&amp;input=rss</link>
+			<description>1878年 韩国独立运动家安昌浩（1878—1938）出生。
+</description>
+			<pubDate>Sat, 09 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241108003200881</guid>
 			<title>韩国国安室：朝鲜派兵后亲俄黑客攻击增加</title>
@@ -154,13 +162,6 @@
 			<description>韩联社济州11月8日电 据韩国海警8日消息，当天凌晨在济州海域发生沉船事故，全体船员27人中15人获救，12人失踪。截至发稿，获救人员中有2人身亡。
 </description>
 			<pubDate>Fri, 08 Nov 2024 09:54:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108000600881</guid>
-			<title>股市开盘：KOSPI▲22.07</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2586.70点，较前一交易日上升22.07点。</description>
-			<pubDate>Fri, 08 Nov 2024 09:01:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
