@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 9 Nov 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 10 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241018000300881</guid>
+			<title>2024年11月10日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241018000300881?section=news&amp;input=rss</link>
+			<description>1904年 韩国铁道公社运营的京釜线铁路竣工。
+</description>
+			<pubDate>Sun, 10 Nov 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241108000400881</guid>
 			<title>一周韩娱：ROSÉ登顶公告牌全球榜 宋慧乔新片定档明年</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔11月8日电 韩国总统办公室一名高官8日表示，第一夫人金建希将不陪同总统尹锡悦下一次出访。
 </description>
 			<pubDate>Fri, 08 Nov 2024 11:24:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108000800881</guid>
-			<title>韩军实施导弹射击训练反制朝鲜挑衅</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月8日电 据韩国联合参谋本部（联参）8日消息，韩军前一天在西部海域实施地对地弹道导弹实弹射击训练，反制朝鲜接连不断发射弹道导弹。
-</description>
-			<pubDate>Fri, 08 Nov 2024 09:58:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
