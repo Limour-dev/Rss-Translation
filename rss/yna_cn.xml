@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 10 Nov 2024 21:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 11 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241022000500881</guid>
+			<title>2024年11月11日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241022000500881?section=news&amp;input=rss</link>
+			<description>1908年 韩国首部原创清唱剧《银世界》在韩国第一座西式剧院——圆觉社首次上演。该话剧根据知名小说家李人稙的同名小说改编而成。
+</description>
+			<pubDate>Mon, 11 Nov 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241110001400881</guid>
 			<title>韩国医协会长遭弹劾下台</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔11月8日电 韩国国防部8日表示，国防部次官（副部长）金善镐当天同到访的日本防卫省防卫审议官（副部级）中岛浩一郎举行会晤，探讨朝俄军事合作应对方案。
 </description>
 			<pubDate>Fri, 08 Nov 2024 16:53:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108002700881</guid>
-			<title>IVE与大卫·库塔合作单曲《Supernova Love》上线</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108002700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月8日电 经纪公司STARSHIP娱乐于8日表示，旗下女团IVE与知名法国DJ、音乐制作人大卫·库塔的合作单曲《Supernova Love》当天上线。
-</description>
-			<pubDate>Fri, 08 Nov 2024 16:43:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
