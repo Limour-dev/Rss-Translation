@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 10 Nov 2024 15:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 10 Nov 2024 18:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241110001400881</guid>
+			<title>韩国医协会长遭弹劾下台</title>
+			<link>https://cn.yna.co.kr/view/ACK20241110001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月10日电 大韩医师协会（医协）10日举行临时代表大会，表决通过会长林贤泽的弹劾案，医协将转入紧急对策委员会体制。
+</description>
+			<pubDate>Sun, 10 Nov 2024 16:42:40 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241110001300881</guid>
+			<title>尹锡悦指示启动三大领域会议机制应对美新政府政策</title>
+			<link>https://cn.yna.co.kr/view/ACK20241110001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月10日电 韩国总统尹锡悦10日主持召开经济和安全检查会议，指示各部门立即启动以经济副总理为首的金融、经贸、产业三大领域会议机制，提前应对美国新一届政府成立可能带来的影响。
+</description>
+			<pubDate>Sun, 10 Nov 2024 16:40:41 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241110001200881</guid>
+			<title>韩科技部：本月共受理331起涉朝鲜GPS干扰举报</title>
+			<link>https://cn.yna.co.kr/view/ACK20241110001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月10日电 韩国科学技术信息通信部（科技部）10日表示，本月共接到331起因朝鲜发射全球定位系统（GPS）电波干扰信号而运行受影响的举报，但尚未发生因此引发的事故等损失。
+</description>
+			<pubDate>Sun, 10 Nov 2024 15:45:33 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241110001100881</guid>
 			<title>LG公开全球首款屏幕伸缩率高达50%柔性屏原型机</title>
@@ -141,29 +165,6 @@
 			<description>韩联社首尔11月8日电 经纪公司STARSHIP娱乐于8日表示，旗下女团IVE与知名法国DJ、音乐制作人大卫·库塔的合作单曲《Supernova Love》当天上线。
 </description>
 			<pubDate>Fri, 08 Nov 2024 16:43:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108002500881</guid>
-			<title>韩海警对济州近海沉船事故现场开展水下搜救</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108002500881?section=news&amp;input=rss</link>
-			<description>韩联社济州11月8日电 据韩国济州地方海洋警察厅8日消息，海警在济州近海发生的沉船事故现场开展水下搜救工作，搜寻失踪人员。
-</description>
-			<pubDate>Fri, 08 Nov 2024 15:53:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108002000881</guid>
-			<title>韩统一主题国际会议“全球统一对话”下周举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月8日电 韩国统一主题国际学术会议“2024年全球统一对话”将于11日至12日在首尔举行。与会者将在会上共同审视统一环境，共谋为实现韩半岛统一的国际合作方案。
-</description>
-			<pubDate>Fri, 08 Nov 2024 15:44:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241108002400881</guid>
-			<title>股市收盘：KOSPI▼3.48</title>
-			<link>https://cn.yna.co.kr/view/ACK20241108002400881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2561.15点，较前一交易日下跌3.48点。</description>
-			<pubDate>Fri, 08 Nov 2024 15:32:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
