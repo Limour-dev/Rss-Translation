@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 11 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 12 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241023002700881</guid>
+			<title>2024年11月12日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241023002700881?section=news&amp;input=rss</link>
+			<description>1961年 国家重建最高会议议长朴正熙在赴美途中经由日本，同日本首相池田勇人举行会谈，双方就恢复韩日邦交达成协议。
+</description>
+			<pubDate>Tue, 12 Nov 2024 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241111002800881</guid>
 			<title>宝马将在韩投资3.4亿元扩增零部件物流中心</title>
@@ -151,14 +159,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241111000200881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率开盘报1396.0，较前一交易日下跌9.6韩元。</description>
 			<pubDate>Mon, 11 Nov 2024 09:00:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241022000500881</guid>
-			<title>2024年11月11日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241022000500881?section=news&amp;input=rss</link>
-			<description>1908年 韩国首部原创清唱剧《银世界》在韩国第一座西式剧院——圆觉社首次上演。该话剧根据知名小说家李人稙的同名小说改编而成。
-</description>
-			<pubDate>Mon, 11 Nov 2024 00:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
