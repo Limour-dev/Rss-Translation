@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 12 Nov 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 12 Nov 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241112003700881</guid>
+			<title>特朗普“二进宫”不确定性致韩美股市脱钩加剧</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月12日电 美国前总统特朗普在大选中获胜推动美国股市续创新高，但韩国股市未能走出低谷，韩美股市“脱钩”现象日益严重。
+</description>
+			<pubDate>Tue, 12 Nov 2024 20:46:34 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241112003600881</guid>
+			<title>韩国演员宋再临去世 享年39岁</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月12日电 韩国演员宋再临去世，享年39岁。他生前曾在韩剧《拥抱太阳的月亮》中饰演“金济云”一角。
+</description>
+			<pubDate>Tue, 12 Nov 2024 19:56:34 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241112002900881</guid>
 			<title>详讯：尹锡悦将出席APEC和G20峰会 或会晤特朗普</title>
@@ -143,21 +159,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241112000400881?section=news&amp;input=rss</link>
 			<description>KOSDAQ开盘报728.72点，较前一交易日下跌0.12点。</description>
 			<pubDate>Tue, 12 Nov 2024 09:01:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112000300881</guid>
-			<title>外汇汇率开盘：1美元=1399.1韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112000300881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1399.1，较前一交易日下跌4.4韩元。</description>
-			<pubDate>Tue, 12 Nov 2024 09:00:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112000200881</guid>
-			<title>详讯：金正恩批准《朝俄全面战略伙伴关系条约》</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月12日电 在援俄朝军可能全面投入俄乌战场的情况下，朝鲜国务委员长金正恩发布政令，批准于6月19日在平壤签订的《朝鲜民主主义人民共和国和俄罗斯联邦关于全面战略伙伴关系条约》。
-</description>
-			<pubDate>Tue, 12 Nov 2024 08:25:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
