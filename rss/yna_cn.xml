@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 12 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 13 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241024004100881</guid>
+			<title>2024年11月13日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241024004100881?section=news&amp;input=rss</link>
+			<description>1907年 大韩帝国纯宗皇帝行宫从庆运宫移至昌德宫。
+</description>
+			<pubDate>Wed, 13 Nov 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241112003700881</guid>
 			<title>特朗普“二进宫”不确定性致韩美股市脱钩加剧</title>
@@ -152,13 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241112000500881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2527.94点，较前一交易日下跌3.72点。</description>
 			<pubDate>Tue, 12 Nov 2024 09:01:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112000400881</guid>
-			<title>股市开盘：KOSDAQ▼0.12</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报728.72点，较前一交易日下跌0.12点。</description>
-			<pubDate>Tue, 12 Nov 2024 09:01:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
