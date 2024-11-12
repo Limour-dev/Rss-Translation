@@ -4,8 +4,31 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 12 Nov 2024 12:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 12 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241112002200881</guid>
+			<title>简讯：尹锡悦将出席APEC和G20峰会</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112002200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月12日电 韩国总统尹锡悦将于14日至21日访问秘鲁和巴西，出席亚太经合组织（APEC）和二十国集团（G20）峰会，并有望同中美日等国领导人举行多场双边、三边会谈。
+</description>
+			<pubDate>Tue, 12 Nov 2024 15:10:26 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241112001900881</guid>
+			<title>快讯：尹锡悦将出席APEC和G20峰会 望会晤中国领导人</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112001900881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Tue, 12 Nov 2024 14:47:53 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241112001800881</guid>
+			<title>朝鲜连续五天对韩国进行GPS干扰</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月12日电 韩国联合参谋本部（下称“联参”）公报室长李诚俊12日在记者会上表示，朝鲜连续5天在西部海域韩朝边境地区对韩国全球定位系统（GPS）信号进行干扰攻击。
+</description>
+			<pubDate>Tue, 12 Nov 2024 14:03:53 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241112001700881</guid>
 			<title>韩国出现首例百日咳死亡病例</title>
@@ -137,28 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241111002200881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报728.84点，较前一交易日下跌14.54点。</description>
 			<pubDate>Mon, 11 Nov 2024 15:33:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241111002100881</guid>
-			<title>股市收盘：KOSPI▼29.49</title>
-			<link>https://cn.yna.co.kr/view/ACK20241111002100881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2531.66点，较前一交易日下跌29.49点。</description>
-			<pubDate>Mon, 11 Nov 2024 15:33:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241111002000881</guid>
-			<title>15：30外汇汇率：1美元=1394.7韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241111002000881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1394.7，较前一交易日下跌8.3韩元。</description>
-			<pubDate>Mon, 11 Nov 2024 15:30:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241111001800881</guid>
-			<title>TXT迷你七辑首周销量破百万</title>
-			<link>https://cn.yna.co.kr/view/ACK20241111001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月11日电 经纪公司BIGHIT MUSIC于11日表示，旗下男团TOMORROW X TOGETHER（TXT）第七张迷你专辑《The Star Chapter：SANCTUARY》发行首周销量突破百万大关。
-</description>
-			<pubDate>Mon, 11 Nov 2024 15:12:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
