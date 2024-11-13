@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 13 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 14 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241024004200881</guid>
+			<title>2024年11月14日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241024004200881?section=news&amp;input=rss</link>
+			<description>1947年 联合国大会表决通过关于韩国总统选举、建立临时委员会监督韩国自由选举、韩国政府独立后美苏撤军的议案。
+</description>
+			<pubDate>Thu, 14 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241113004700881</guid>
 			<title>NewJeans要求ADOR纠正违约行为否则解约</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔11月13日电 综合韩国宇宙航空厅和天文研究院13日消息，12日上午10时许，韩美共同研发的日冕诊断实验（CODEX）载荷被送往国际空间站，将于明年起正式执行观测任务。
 </description>
 			<pubDate>Wed, 13 Nov 2024 11:39:47 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241113001200881</guid>
-			<title>比亚迪宣布进军韩国乘用车市场</title>
-			<link>https://cn.yna.co.kr/view/ACK20241113001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月13日电 中国电动汽车巨头比亚迪（BYD）宣布正式进军韩国乘用车市场。
-</description>
-			<pubDate>Wed, 13 Nov 2024 10:18:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
