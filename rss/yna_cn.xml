@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 13 Nov 2024 12:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 13 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241113001700881</guid>
+			<title>详讯：比亚迪宣布进军韩国乘用车市场</title>
+			<link>https://cn.yna.co.kr/view/ACK20241113001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月13日电 中国电动汽车巨头比亚迪（BYD）13日宣布正式进军韩国乘用车市场。
+</description>
+			<pubDate>Wed, 13 Nov 2024 15:04:40 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241113001500881</guid>
+			<title>韩产业部：将积极应对美大选后世界经贸新格局</title>
+			<link>https://cn.yna.co.kr/view/ACK20241113001500881?section=news&amp;input=rss</link>
+			<description>韩联社世宗11月13日电 韩国产业通商资源部（产业部）13日表示，政府将迅速应对美国总统选举结果带来的经贸环境变化，同时持续与美方进行接触，降低韩企对美投资的不确定性。
+</description>
+			<pubDate>Wed, 13 Nov 2024 14:58:46 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241113001600881</guid>
+			<title>防弹少年团《DNA》MV播放量破16亿</title>
+			<link>https://cn.yna.co.kr/view/ACK20241113001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月13日电 经纪公司BIGHIT MUSIC于13日表示，旗下男团防弹少年团（BTS）的热曲《DNA》MV在视频网站优兔（YouTube）上的播放量破16亿次大关。
+</description>
+			<pubDate>Wed, 13 Nov 2024 14:35:31 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241113001400881</guid>
+			<title>韩政府对美国证实援俄朝军参战持谨慎态度</title>
+			<link>https://cn.yna.co.kr/view/ACK20241113001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月13日电 韩国政府13日就美国政府证实被派遣至俄罗斯库尔斯克地区的朝军投入俄乌战场持谨慎态度。
+</description>
+			<pubDate>Wed, 13 Nov 2024 14:12:12 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241113001300881</guid>
 			<title>韩美共同研发“中日冕”新仪器登上空间站</title>
@@ -129,35 +161,6 @@
 			<description>韩联社首尔11月12日电 韩元对美元汇率收盘价12日失守1400韩元（约合人民币7.22元）关口。据分析，特朗普日前当选美国总统后美元持续走强，使韩元承压。
 </description>
 			<pubDate>Tue, 12 Nov 2024 16:59:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112002100881</guid>
-			<title>韩国安首长：韩方非韩美同盟单方面受惠者</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112002100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月12日电 韩国国家安保室室长申源湜12日表示，韩国不再是韩美同盟的单方面受惠者，今后将作为为实现地区和全球安全与繁荣贡献力量的伙伴，捍卫核心利益，并坚定不移地推进朝鲜无核化。
-</description>
-			<pubDate>Tue, 12 Nov 2024 16:03:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112002500881</guid>
-			<title>股市收盘：KOSDAQ▼18.32</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112002500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报710.52点，较前一交易日下跌18.32点。</description>
-			<pubDate>Tue, 12 Nov 2024 15:33:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112002400881</guid>
-			<title>股市收盘：KOSPI▼49.09</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112002400881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2482.57点，较前一交易日下跌49.09点。</description>
-			<pubDate>Tue, 12 Nov 2024 15:33:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241112002300881</guid>
-			<title>15：30外汇汇率:1美元=1403.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241112002300881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1403.5，较前一交易日下跌8.8韩元。</description>
-			<pubDate>Tue, 12 Nov 2024 15:31:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
