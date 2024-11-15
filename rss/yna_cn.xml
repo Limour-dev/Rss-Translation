@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 15 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 16 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241028002500881</guid>
+			<title>2024年11月16日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241028002500881?section=news&amp;input=rss</link>
+			<description>1904年 延世大学医疗院的前身——济众院落成。
+</description>
+			<pubDate>Sat, 16 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241115004000881</guid>
 			<title>韩中出口管制政策说明会在无锡举行</title>
@@ -152,14 +160,6 @@
 			<description>韩联社华盛顿11月14日电 美国财政部14日发布2024年下半年汇率政策报告，将韩国列入汇率操纵观察名单。
 </description>
 			<pubDate>Fri, 15 Nov 2024 10:50:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115000700881</guid>
-			<title>详讯：韩外长赵兑烈在秘鲁分晤美日外长</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月15日电 韩国外交部15日表示，外交部长官赵兑烈14日（当地时间）借在秘鲁出席亚太经合组织（APEC）部长级会议之机分别同美国国务卿安东尼·布林肯和日本外务大臣岩屋毅举行会谈。
-</description>
-			<pubDate>Fri, 15 Nov 2024 10:03:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
