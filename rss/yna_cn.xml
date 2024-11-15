@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 16 Nov 2024 03:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 16 Nov 2024 06:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241116000100881</guid>
+			<title>韩中领导人在秘鲁举行会谈</title>
+			<link>https://cn.yna.co.kr/view/ACK20241116000100881?section=news&amp;input=rss</link>
+			<description>韩联社利马11月15日电 韩国总统尹锡悦15日在秘鲁首都利马同中国国家主席习近平举行会谈。
+</description>
+			<pubDate>Sat, 16 Nov 2024 03:26:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241028002500881</guid>
 			<title>2024年11月16日韩国历史上的今天</title>
@@ -152,14 +160,6 @@
 			<description>韩联社首尔11月15日电 现代汽车集团15日公布高管人事任免及晋升决定。现代汽车代表理事兼社长张在勋晋升为副会长，全球首席运营官（COO）何塞·穆尼奥斯接任代表理事兼社长，成为集团首位外籍代表理事。
 </description>
 			<pubDate>Fri, 15 Nov 2024 11:29:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115000900881</guid>
-			<title>韩国被美列为汇率操纵观察对象</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115000900881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿11月14日电 美国财政部14日发布2024年下半年汇率政策报告，将韩国列入汇率操纵观察名单。
-</description>
-			<pubDate>Fri, 15 Nov 2024 10:50:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
