@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 16 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 17 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241028002700881</guid>
+			<title>2024年11月17日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241028002700881?section=news&amp;input=rss</link>
+			<description>1905年 大韩帝国与日本签署不平等条约——《第二次韩日协约》（又称《乙巳条约》）。这是日本为剥夺韩国的外交权不顾韩方反对强行签订的条约。在该条约签署之后，韩国驻外外交机构全部被废除，英国、美国、中国、德国、比利时等外国驻韩公使均离韩回国。
+</description>
+			<pubDate>Sun, 17 Nov 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241116001200881</guid>
 			<title>详讯：韩中领导人在秘鲁举行会谈</title>
@@ -154,14 +162,6 @@
 			<description>▲尹锡悦和习近平将在秘鲁举行会谈
 </description>
 			<pubDate>Fri, 15 Nov 2024 17:00:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115002700881</guid>
-			<title>防弹Jin首张个辑《Happy》上线</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115002700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月15日电 经纪公司BIGHIT MUSIC15日表示，旗下男团防弹少年团（BTS）成员Jin（金硕珍）的首张个人专辑《Happy》和主打歌《Running Wild》MV当天下午正式上线。
-</description>
-			<pubDate>Fri, 15 Nov 2024 16:51:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
