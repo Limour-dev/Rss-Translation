@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 16 Nov 2024 09:54:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 16 Nov 2024 12:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241116001000881</guid>
+			<title>简讯：韩中首脑就加快双边FTA服务投资谈判达成共识</title>
+			<link>https://cn.yna.co.kr/view/ACK20241116001000881?section=news&amp;input=rss</link>
+			<description>韩联社利马11月15日电 韩国总统尹锡悦15日在秘鲁首都利马同中国国家主席习近平举行双边会谈，双方商定加快推进韩中自贸协定（FTA）服务投资后续谈判进程。
+</description>
+			<pubDate>Sat, 16 Nov 2024 10:26:03 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241116000500881</guid>
+			<title>尹锡悦出席APEC工商领导人峰会提议设立AI标准论坛</title>
+			<link>https://cn.yna.co.kr/view/ACK20241116000500881?section=news&amp;input=rss</link>
+			<description>韩联社利马11月15日电 韩国总统尹锡悦15日在秘鲁利马出席亚太经合组织（APEC）工商领导人峰会并发表主旨演讲，提议APEC创立旨在促进制造业和人工智能（AI）深度融合的“AI标准论坛”。
+</description>
+			<pubDate>Sat, 16 Nov 2024 10:20:30 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241116000900881</guid>
+			<title>简讯：韩中领导人发出互访邀请</title>
+			<link>https://cn.yna.co.kr/view/ACK20241116000900881?section=news&amp;input=rss</link>
+			<description>韩联社利马11月15日电 韩国总统办公室（总统室）15日表示，韩国总统尹锡悦和中国国家主席习近平互相邀请对方访问各自国家。
+</description>
+			<pubDate>Sat, 16 Nov 2024 10:17:10 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241116000400881</guid>
+			<title>韩美日首脑在秘鲁举行会谈</title>
+			<link>https://cn.yna.co.kr/view/ACK20241116000400881?section=news&amp;input=rss</link>
+			<description>韩联社利马11月15日电 韩国总统尹锡悦15日在秘鲁首都利马同美国总统拜登、日本首相石破茂举行三方会谈。
+</description>
+			<pubDate>Sat, 16 Nov 2024 10:01:31 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241116000800881</guid>
 			<title>快讯：韩中首脑就加快双边FTA服务投资谈判达成共识</title>
@@ -130,35 +162,6 @@
 			<description>韩联社利马11月14日电 韩国总统尹锡悦14日开启秘鲁和巴西访问之旅，将先后出席亚太经合组织（APEC）峰会和和二十国集团（G20）峰会，预计恐难在访问期间同美国当选总统特朗普会晤。
 </description>
 			<pubDate>Fri, 15 Nov 2024 15:42:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115002600881</guid>
-			<title>股市收盘：KOSDAQ▲3.86</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115002600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报685.42点，较前一交易日上升3.86点。</description>
-			<pubDate>Fri, 15 Nov 2024 15:33:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115002500881</guid>
-			<title>股市收盘：KOSPI▼2.00</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115002500881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2416.86点，较前一交易日下跌2.00点。</description>
-			<pubDate>Fri, 15 Nov 2024 15:33:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115002300881</guid>
-			<title>简讯：李在明涉违反选举法案一审获刑1年缓刑2年</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月15日电 韩国最大在野党共同民主党党首李在明涉嫌违反《公职选举法》一案一审法庭15日宣判，判处李在明有期徒刑1年，缓刑2年。若终审裁定维持该判决，李在明将随即丧失议员资格，也不能竞选总统。
-</description>
-			<pubDate>Fri, 15 Nov 2024 15:31:50 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115002400881</guid>
-			<title>15：30外汇汇率：1美元=1398.8韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115002400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1398.8，较前一交易日上升6.3韩元。</description>
-			<pubDate>Fri, 15 Nov 2024 15:30:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
