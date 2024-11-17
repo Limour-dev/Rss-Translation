@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 17 Nov 2024 12:24:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 17 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241117000800881</guid>
+			<title>韩统一部长：朝鲜与美对话难以不经首尔</title>
+			<link>https://cn.yna.co.kr/view/ACK20241117000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月17日电 韩国统一部长官金暎浩17日在做客KBS电视台一档节目时表示，朝鲜将很难略过首尔（韩国政府）直接与华盛顿（美国政府）方面推进对话。
+</description>
+			<pubDate>Sun, 17 Nov 2024 15:09:27 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241117000700881</guid>
+			<title>朝鲜连续十天对韩发起GPS干扰</title>
+			<link>https://cn.yna.co.kr/view/ACK20241117000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月17日电 据韩国军方17日消息，朝鲜当天凌晨再次对韩国京畿道、江原道北部、西部海域岛屿等边境地区发起全球定位系统（GPS）信号干扰攻击。
+</description>
+			<pubDate>Sun, 17 Nov 2024 13:43:55 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241117000600881</guid>
 			<title>尹锡悦同秘鲁总统博鲁阿尔特举行会谈</title>
@@ -146,22 +162,6 @@
 			<description>韩联社世宗11月15日电 韩国产业通商资源部（产业部）和中国商务部15日在中国江苏省无锡市共同举行政策说明会，面向韩中两国企业介绍本国出口管制政策。
 </description>
 			<pubDate>Fri, 15 Nov 2024 20:54:20 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115003700881</guid>
-			<title>韩美核安全工作组会议在美举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115003700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月15日电 韩国外交部15日表示，韩美核安全工作组第七次会议13至14日（当地时间）在美国加州举行，双方就加深核能相关合作的方案进行探讨。
-</description>
-			<pubDate>Fri, 15 Nov 2024 20:28:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115003900881</guid>
-			<title>三星电子将回购10万亿韩元股份</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115003900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月15日电 三星电子15日发布公告称，公司计划在未来一年内分期回购约10万亿韩元（约合人民币518亿元）的股份。
-</description>
-			<pubDate>Fri, 15 Nov 2024 20:06:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
