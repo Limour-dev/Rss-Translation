@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 17 Nov 2024 15:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 17 Nov 2024 18:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241117001000881</guid>
+			<title>韩元和韩股今年贬值近9%在主要国家中居前</title>
+			<link>https://cn.yna.co.kr/view/ACK20241117001000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月17日电 据韩联社17日分析，今年来韩元和韩股贬值近9%。专家认为，半导体等主力出口品目竞争力减弱、家庭负债限制内需复苏、老龄化拖累潜在经济增速等利空因素体现在韩元和韩股价值方面。
+</description>
+			<pubDate>Sun, 17 Nov 2024 17:01:13 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241117000800881</guid>
 			<title>韩统一部长：朝鲜与美对话难以不经首尔</title>
@@ -154,14 +162,6 @@
 			<description>1904年 延世大学医疗院的前身——济众院落成。
 </description>
 			<pubDate>Sat, 16 Nov 2024 00:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241115004000881</guid>
-			<title>韩中出口管制政策说明会在无锡举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241115004000881?section=news&amp;input=rss</link>
-			<description>韩联社世宗11月15日电 韩国产业通商资源部（产业部）和中国商务部15日在中国江苏省无锡市共同举行政策说明会，面向韩中两国企业介绍本国出口管制政策。
-</description>
-			<pubDate>Fri, 15 Nov 2024 20:54:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
