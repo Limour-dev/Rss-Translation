@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 17 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 18 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241028003800881</guid>
+			<title>2024年11月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241028003800881?section=news&amp;input=rss</link>
+			<description>1884年 朝鲜邮政总局条例出台，汉城（现首尔）—仁川之间的邮政业务启动。
+</description>
+			<pubDate>Mon, 18 Nov 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241117001000881</guid>
 			<title>韩元和韩股今年贬值近9%在主要国家中居前</title>
@@ -154,14 +162,6 @@
 			<description>韩联社利马11月15日电 韩国总统尹锡悦15日在秘鲁首都利马同中国国家主席习近平举行会谈。
 </description>
 			<pubDate>Sat, 16 Nov 2024 03:26:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241028002500881</guid>
-			<title>2024年11月16日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241028002500881?section=news&amp;input=rss</link>
-			<description>1904年 延世大学医疗院的前身——济众院落成。
-</description>
-			<pubDate>Sat, 16 Nov 2024 00:00:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
