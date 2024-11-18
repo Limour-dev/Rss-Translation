@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 18 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 19 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241028003900881</guid>
+			<title>2024年11月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241028003900881?section=news&amp;input=rss</link>
+			<description>1598年 朝鲜王朝水师提督李舜臣在朝明联合舰队与日本水师进行的“露梁海战”中殉国，谥号“忠武”。
+</description>
+			<pubDate>Tue, 19 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241118003900881</guid>
+			<title>联合国朝鲜人权决议草案出炉</title>
+			<link>https://cn.yna.co.kr/view/ACK20241118003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月18日电 据韩国外交部18日消息，联合国大会负责人权事务的第三委员会近期在官网公开今年度朝鲜人权决议草案，预计朝鲜的“敌对两国关系论”和“三大恶法”相关内容将被写入决议。
+</description>
+			<pubDate>Mon, 18 Nov 2024 21:48:27 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241118003800881</guid>
 			<title>尹锡悦或凭韩美关系自信着力改善韩中关系</title>
@@ -145,20 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241118000800881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2440.31点,较前一交易日上升23.45点。</description>
 			<pubDate>Mon, 18 Nov 2024 09:06:39 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241118000700881</guid>
-			<title>股市开盘:KOSDAQ▼1.89</title>
-			<link>https://cn.yna.co.kr/view/ACK20241118000700881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报683.53点,较前一交易日下跌1.89点。</description>
-			<pubDate>Mon, 18 Nov 2024 09:06:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241118000600881</guid>
-			<title>外汇汇率开盘:1美元=1396.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241118000600881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1396.0，较前一交易日上升2.8韩元。</description>
-			<pubDate>Mon, 18 Nov 2024 09:06:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
