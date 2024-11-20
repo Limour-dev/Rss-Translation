@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 20 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 21 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241031000700881</guid>
+			<title>2024年11月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241031000700881?section=news&amp;input=rss</link>
+			<description>1866年 朝鲜王朝第26代国王高宗发布天主教徒搜捕令。
+</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241120003600881</guid>
 			<title>韩美日合作秘书处正式成立</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔11月20日电 联合国任意拘留问题工作组（下称“工作组”）20日表示，中方去年10月强制遣返脱北者一举属于非法任意拘禁。
 </description>
 			<pubDate>Wed, 20 Nov 2024 10:41:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241120000200881</guid>
-			<title>朝俄经贸科技合作委第十一次会议在平壤举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241120000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月20日电 据朝中社20日报道，朝俄政府间贸易经济和科技合作委员会（下称“经贸科技合作委”）第十一次会议19日在平壤举行。
-</description>
-			<pubDate>Wed, 20 Nov 2024 09:07:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
