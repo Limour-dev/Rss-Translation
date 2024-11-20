@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 20 Nov 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 20 Nov 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120003600881</guid>
+			<title>韩美日合作秘书处正式成立</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月20日电 旨在系统发展韩美日合作的韩美日合作秘书处20日正式成立。
+</description>
+			<pubDate>Wed, 20 Nov 2024 20:01:24 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241120003500881</guid>
+			<title>韩国驻乌使馆提醒当地侨民注意人身安全</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月20日电 在俄罗斯加大对乌克兰的导弹、无人机攻击频度导致战况更为恶化的背景下，韩国驻乌克兰大使馆20日面向旅乌侨民发送安全提醒通知。
+</description>
+			<pubDate>Wed, 20 Nov 2024 19:10:51 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241120003400881</guid>
 			<title>详讯：日本佐渡金山强征劳工追悼式将于24日举行</title>
@@ -146,20 +162,6 @@
 			<description>韩联社首尔11月20日电 据朝中社20日报道，朝俄政府间贸易经济和科技合作委员会（下称“经贸科技合作委”）第十一次会议19日在平壤举行。
 </description>
 			<pubDate>Wed, 20 Nov 2024 09:07:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241120000500881</guid>
-			<title>股市开盘：KOSPI▲3.81</title>
-			<link>https://cn.yna.co.kr/view/ACK20241120000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2475.76点，较前一交易日上升3.81点。</description>
-			<pubDate>Wed, 20 Nov 2024 09:01:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241120000400881</guid>
-			<title>股市开盘：KOSDAQ▲2.91</title>
-			<link>https://cn.yna.co.kr/view/ACK20241120000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报689.03点，较前一交易日上升2.91点。</description>
-			<pubDate>Wed, 20 Nov 2024 09:01:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
