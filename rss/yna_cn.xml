@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 22 Nov 2024 12:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 22 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241122001700881</guid>
+			<title>防弹V将发布与朴孝信合作曲《Winter Ahead》</title>
+			<link>https://cn.yna.co.kr/view/ACK20241122001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月22日电 经纪公司BIGHIT MUSIC22日表示，旗下男团防弹少年团（BTS）成员V（金泰亨）将于29日下午2时发布与歌手朴孝信合唱的新歌《Winter Ahead》。
+</description>
+			<pubDate>Fri, 22 Nov 2024 14:56:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241122001600881</guid>
+			<title>民调：尹锡悦施政好评率20%差评率72%</title>
+			<link>https://cn.yna.co.kr/view/ACK20241122001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月22日电 民调机构韩国盖洛普22日发布的一项民调结果显示，总统尹锡悦的施政好评率为20%，差评率为72%。
+</description>
+			<pubDate>Fri, 22 Nov 2024 14:47:43 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241122001500881</guid>
 			<title>韩美日空军总参首开视频会议</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔11月21日电 韩国外交部发言人李在雄21日在例行记者会上表示，应七国集团（G7）轮值主席国意大利的邀请，外长赵兑烈将出席25日至26日在菲乌吉举行的G7外长会议。
 </description>
 			<pubDate>Thu, 21 Nov 2024 17:02:42 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241121002500881</guid>
-			<title>2024年11月21日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241121002500881?section=news&amp;input=rss</link>
-			<description>▲韩警方：境内巨额以太币被盗案系朝黑客所为
-</description>
-			<pubDate>Thu, 21 Nov 2024 17:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241121002700881</guid>
-			<title>韩国将担任两年绿色气候基金理事国</title>
-			<link>https://cn.yna.co.kr/view/ACK20241121002700881?section=news&amp;input=rss</link>
-			<description>韩联社世宗11月21日电 韩国企划财政部（企划部）21日表示，政府将在绿色气候基金（GCF）第五期（2025至2027年）中担任两年理事国。
-</description>
-			<pubDate>Thu, 21 Nov 2024 16:31:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
