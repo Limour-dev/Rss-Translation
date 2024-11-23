@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 23 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 24 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241101003900881</guid>
+			<title>2024年11月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101003900881?section=news&amp;input=rss</link>
+			<description>1902年 小说家朱耀燮（1902—1972）出生。
+</description>
+			<pubDate>Sun, 24 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241122001800881</guid>
 			<title>一周韩娱：宋仲基喜得千金 T-ARA芝姸离婚</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔11月22日电 韩国空军22日表示，空军参谋总长李英秀前一日应约同美国空军参谋长大卫·奥尔文和日本自卫队航空幕僚长内仓浩昭举行视频会议。
 </description>
 			<pubDate>Fri, 22 Nov 2024 11:17:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241122001400881</guid>
-			<title>尹锡悦：将消除两极分化开启中产阶层新时代</title>
-			<link>https://cn.yna.co.kr/view/ACK20241122001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月22日电 韩国总统尹锡悦22日在首尔新罗酒店出席基督教第56届国家早餐祈祷会时表示，将在任期后半段全力解决两极分化问题，让全体国民参与到国家发展中来，为民生和经济找回活力，开启中产阶层新时代。
-</description>
-			<pubDate>Fri, 22 Nov 2024 11:11:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
