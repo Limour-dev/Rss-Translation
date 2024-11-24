@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 24 Nov 2024 15:14:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 24 Nov 2024 18:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241124001600881</guid>
+			<title>韩国安首长：特朗普向尹锡悦主动提议尽早会晤</title>
+			<link>https://cn.yna.co.kr/view/ACK20241124001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月24日电 韩国国家安保室长申源湜24日做客韩联社TV的一档节目时介绍，日前总统尹锡悦和美国当选总统特朗普通电话时，特朗普有三四次主动提出，希望双方在他就任前尽快会面。
+</description>
+			<pubDate>Sun, 24 Nov 2024 16:18:22 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241124001100881</guid>
 			<title>韩国明将另行举办日本征工受害者悼念仪式</title>
@@ -157,14 +165,6 @@
 			<description>韩联社光州11月22日电 韩国光州广域市政府22日表示，光州市政府与中国山东省青岛市政府前一天在青岛签署友好合作城市关系协议。
 </description>
 			<pubDate>Fri, 22 Nov 2024 16:15:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241122002000881</guid>
-			<title>韩羽球名将安洗莹晋级中国大师赛女单半决赛</title>
-			<link>https://cn.yna.co.kr/view/ACK20241122002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月22日电 22日，在中国深圳市体育中心体育馆举行的世界羽联（WFC）巡回赛超级750赛事最后一战——2024中国羽毛球大师赛女单1/4决赛上，韩国选手安洗莹以2比0战胜中国选手张艺曼，晋级四强。
-</description>
-			<pubDate>Fri, 22 Nov 2024 16:02:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
