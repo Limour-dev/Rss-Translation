@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 24 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 25 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241104003300881</guid>
+			<title>2024年11月25日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241104003300881?section=news&amp;input=rss</link>
+			<description>1501年 朝鲜王朝中期唯心主义哲学家、朝鲜朱子学的代表人物李滉（1501—1570）出生。
+</description>
+			<pubDate>Mon, 25 Nov 2024 00:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241124001600881</guid>
 			<title>韩国安首长：特朗普向尹锡悦主动提议尽早会晤</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔11月22日电 韩国国家安保室长申源湜22日做客SBS电视台一档时事节目就有关“朝鲜派兵援俄所获回报”的提问表示，为了帮助朝鲜增强较为脆弱的平壤防空安全网，俄罗斯向朝方提供相关装备和防空导弹等武器。
 </description>
 			<pubDate>Fri, 22 Nov 2024 16:32:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241122002400881</guid>
-			<title>韩国光州和中国青岛缔结友城关系</title>
-			<link>https://cn.yna.co.kr/view/ACK20241122002400881?section=news&amp;input=rss</link>
-			<description>韩联社光州11月22日电 韩国光州广域市政府22日表示，光州市政府与中国山东省青岛市政府前一天在青岛签署友好合作城市关系协议。
-</description>
-			<pubDate>Fri, 22 Nov 2024 16:15:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
