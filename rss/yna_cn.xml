@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 25 Nov 2024 09:59:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 25 Nov 2024 12:24:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241125000800881</guid>
+			<title>韩企在华经营面临困境纷纷“脱身”</title>
+			<link>https://cn.yna.co.kr/view/ACK20241125000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月25日电 随着中国企业竞争力不断增强、中国国货消费热潮持续升温，加上内需不振等经济因素的影响，韩国企业在中国市场面临困境，纷纷选择退出或缩小经营规模。
+</description>
+			<pubDate>Mon, 25 Nov 2024 10:55:49 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241125000700881</guid>
 			<title>韩政府另办日佐渡金山征工受害者悼念仪式</title>
@@ -154,14 +162,6 @@
 			<description>1914年 诗人李庸岳（1914—1971）出生。
 </description>
 			<pubDate>Sat, 23 Nov 2024 00:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241122004200881</guid>
-			<title>智旻获MAMA颁奖礼大奖 ROSÉ火星哥首秀《APT.》</title>
-			<link>https://cn.yna.co.kr/view/ACK20241122004200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月22日电 K-POP颁奖典礼“2024 MAMA AWARDS”在日本大版京瓷巨蛋举行，防弹少年团（BTS）成员智旻荣获大奖。BLACKPINK成员ROSÉ和“火星哥”布鲁诺·马尔斯首秀热曲《APT.》。
-</description>
-			<pubDate>Fri, 22 Nov 2024 22:22:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
