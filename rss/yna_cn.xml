@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 26 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 27 Nov 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241106000100881</guid>
+			<title>2024年11月27日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241106000100881?section=news&amp;input=rss</link>
+			<description>1598年 壬辰倭乱结束。这场战争由日本关白丰臣秀吉在1592年派兵入侵朝鲜引起，他在战争末期病死，日本军队不久后全部从朝鲜撤退。
+</description>
+			<pubDate>Wed, 27 Nov 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126003400881</guid>
+			<title>韩日外长简略谈及佐渡金山追悼式</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 韩国外交部26日表示，外长赵兑烈当天在意大利出席七国集团（G7）外长会议期间同日本外相岩屋毅进行简略交谈，双方就“佐渡金山”追悼式交换意见。
+</description>
+			<pubDate>Tue, 26 Nov 2024 21:34:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241126003300881</guid>
 			<title>详讯：韩国国会下月10日处理金建希独检法案</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔11月26日电 韩国政府26日召开国务会议，表决通过要求总统针对“金建希独检法”行使再议要求权（否决权）的议案。这是政府就该法案第三次要求总统行使否决权。
 </description>
 			<pubDate>Tue, 26 Nov 2024 10:51:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126000700881</guid>
-			<title>Red Velvet成员Irene首推个辑</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月26日电 经纪公司SM娱乐26日表示，旗下女团Red Velvet成员Irene当天推出首张个人迷你专辑《Like A Flower》。
-</description>
-			<pubDate>Tue, 26 Nov 2024 10:26:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126000600881</guid>
-			<title>股市开盘：KOSPI▼12.95</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2521.39点，较前一交易日下跌12.95点。</description>
-			<pubDate>Tue, 26 Nov 2024 09:01:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
