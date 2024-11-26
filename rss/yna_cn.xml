@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 26 Nov 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 26 Nov 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241126003300881</guid>
+			<title>详讯：韩国国会下月10日处理金建希独检法案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126003300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 韩国执政党国民力量和最大在野党共同民主党26日就下月10日对总统尹锡悦行使再议要求权（否决权）的“金建希独检法案”进行再次表决达成一致。
+</description>
+			<pubDate>Tue, 26 Nov 2024 20:37:03 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126003200881</guid>
+			<title>首尔27日凌晨将迎初雪</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126003200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 首尔市将于27日凌晨迎来入冬后的第一场雪。
+</description>
+			<pubDate>Tue, 26 Nov 2024 20:19:50 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126003100881</guid>
+			<title>朝中友好年闭幕式一延再延</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126003100881?section=news&amp;input=rss</link>
+			<description>韩联社北京11月26日电 今年是朝中建交75周年，也是两国最高领导人互致新年贺电宣布确定的“朝中友好年”。两国4月举行朝中友好年开幕式活动后，至今未举行闭幕式。
+</description>
+			<pubDate>Tue, 26 Nov 2024 19:24:52 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126003000881</guid>
+			<title>金与正谴责韩国对朝空投反朝传单</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126003000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 朝鲜劳动党中央委员会副部长金与正26日通过朝中社发表谈话，朝鲜南部边境附近的很多地区发现了韩国空投的各种反朝宣传单和物品，朝方对此予以强烈谴责。
+</description>
+			<pubDate>Tue, 26 Nov 2024 18:58:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241126002800881</guid>
 			<title>尹锡悦就金建希独检法案行使否决权</title>
@@ -42,7 +74,7 @@
 			<guid>ACK20241126002100881</guid>
 			<title>韩外交部：已对日方就其悼念征工态度表遗憾</title>
 			<link>https://cn.yna.co.kr/view/ACK20241126002100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月26日电 韩国外交部26日表示，政府已对日方在两国就佐渡金山强征劳工韩籍受害者悼念仪式开展协商的过程中所表现出的态度表示了遗憾。
+			<description>韩联社首尔11月26日电 韩国外交部26日表示，政府已对日方在两国就佐渡金山悼念仪式开展协商的过程中所表现出的态度表示遗憾。
 </description>
 			<pubDate>Tue, 26 Nov 2024 16:34:44 +0900</pubDate>
 		</item>
@@ -129,36 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241126000600881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2521.39点，较前一交易日下跌12.95点。</description>
 			<pubDate>Tue, 26 Nov 2024 09:01:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126000500881</guid>
-			<title>股市开盘：KOSDAQ▲0.76</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报697.59点，较前一交易日上升0.76点。</description>
-			<pubDate>Tue, 26 Nov 2024 09:01:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126000400881</guid>
-			<title>外汇汇率开盘：1美元=1405.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126000400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1405.0，较前一交易日下跌2.8韩元。</description>
-			<pubDate>Tue, 26 Nov 2024 09:00:48 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126000200881</guid>
-			<title>朝鲜切断韩方对朝输电铁塔电线</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月26日电 据韩国军方26日消息，军方发现朝军从24日起切断京义线公路附近的输电塔电线。军方分析指出，此举可能是输电塔拆除作业的一部分。
-</description>
-			<pubDate>Tue, 26 Nov 2024 08:54:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126000100881</guid>
-			<title>韩乌外长在意会晤探讨韩对乌援助</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126000100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月26日电 据韩国外交部26日消息，韩国外交部长官赵兑烈和乌克兰外交部长安德里·瑟比加25日（当地时间）在意大利借出席七国集团（G7）外长会之机举行会晤，探讨朝鲜派兵援俄等乌克兰战争动向及韩国对乌援助问题。
-</description>
-			<pubDate>Tue, 26 Nov 2024 08:21:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
