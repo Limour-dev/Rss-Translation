@@ -4,8 +4,45 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 26 Nov 2024 06:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 26 Nov 2024 09:54:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241126000600881</guid>
+			<title>股市开盘：KOSPI▼12.95</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126000600881?section=news&amp;input=rss</link>
+			<description>KOSPI开盘报2521.39点，较前一交易日下跌12.95点。</description>
+			<pubDate>Tue, 26 Nov 2024 09:01:28 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126000500881</guid>
+			<title>股市开盘：KOSDAQ▲0.76</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126000500881?section=news&amp;input=rss</link>
+			<description>KOSDAQ开盘报697.59点，较前一交易日上升0.76点。</description>
+			<pubDate>Tue, 26 Nov 2024 09:01:18 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126000400881</guid>
+			<title>外汇汇率开盘：1美元=1405.0韩元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126000400881?section=news&amp;input=rss</link>
+			<description>韩元对美元汇率开盘报1405.0，较前一交易日下跌2.8韩元。</description>
+			<pubDate>Tue, 26 Nov 2024 09:00:48 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126000200881</guid>
+			<title>朝鲜切断韩方对朝输电铁塔电线</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 据韩国军方26日消息，军方发现朝军从24日起切断京义线公路附近的输电塔电线。军方分析指出，此举可能是输电塔拆除作业的一部分。
+</description>
+			<pubDate>Tue, 26 Nov 2024 08:54:59 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241126000100881</guid>
+			<title>韩乌外长在意会晤探讨韩对乌援助</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 据韩国外交部26日消息，韩国外交部长官赵兑烈和乌克兰外交部长安德里·瑟比加25日（当地时间）在意大利借出席七国集团（G7）外长会之机举行会晤，探讨朝鲜派兵援俄等乌克兰战争动向及韩国对乌援助问题。
+</description>
+			<pubDate>Tue, 26 Nov 2024 08:21:22 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241104003400881</guid>
 			<title>2024年11月26日韩国历史上的今天</title>
@@ -121,43 +158,6 @@
 			<description>韩联社首尔11月25日电 随着中国企业竞争力不断增强、中国国货消费热潮持续升温，加上内需不振等经济因素的影响，韩国企业在中国市场面临困境，纷纷选择退出或缩小经营规模。
 </description>
 			<pubDate>Mon, 25 Nov 2024 10:55:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241125000700881</guid>
-			<title>韩政府另办日佐渡金山征工受害者悼念仪式</title>
-			<link>https://cn.yna.co.kr/view/ACK20241125000700881?section=news&amp;input=rss</link>
-			<description>韩联社佐渡11月25日电 韩国政府25日在日本佐渡岛为日本强征劳工韩籍受害者举办悼念仪式。
-</description>
-			<pubDate>Mon, 25 Nov 2024 09:44:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241125000300881</guid>
-			<title>韩浦项制铁铁水厂又起火 无人伤亡</title>
-			<link>https://cn.yna.co.kr/view/ACK20241125000300881?section=news&amp;input=rss</link>
-			<description>韩联社浦项11月25日电 韩国钢企浦项制铁（POSCO）位于庆尚南道浦项市的一座铁水厂时隔两周再次发生火灾，未造成人员伤亡。
-</description>
-			<pubDate>Mon, 25 Nov 2024 09:04:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241125000600881</guid>
-			<title>股市开盘：KOSPI▲22.87</title>
-			<link>https://cn.yna.co.kr/view/ACK20241125000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2524.11点，较前一交易日上升22.87点。</description>
-			<pubDate>Mon, 25 Nov 2024 09:01:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241125000500881</guid>
-			<title>股市开盘：KOSDAQ▲6.36</title>
-			<link>https://cn.yna.co.kr/view/ACK20241125000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报683.37点，较前一交易日上升6.36点。</description>
-			<pubDate>Mon, 25 Nov 2024 09:01:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241125000400881</guid>
-			<title>外汇汇率开盘：1美元=1399.6韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241125000400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1399.6，较前一交易日上升2.2韩元。</description>
-			<pubDate>Mon, 25 Nov 2024 09:00:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
