@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 26 Nov 2024 12:24:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 26 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241126001400881</guid>
+			<title>韩统一部：朝今年效忠仪式改在金正恩生日举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20241126001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月26日电 韩国统一部26日研判，朝鲜今年将原本于元旦举行的效忠宣誓仪式改在国务委员会委员长金正恩（1月8日）生日举行。
+</description>
+			<pubDate>Tue, 26 Nov 2024 14:43:47 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241126000300881</guid>
 			<title>韩国下月起实施电子身份证服务</title>
@@ -151,14 +159,6 @@
 			<description>韩联社首尔11月25日电 现代汽车25日表示，公司当天同韩国蔚山广域市和中国广州市签署“氢能产业链共同合作推进工作协议”，加速全球绿色转型，推动氢能国际合作。
 </description>
 			<pubDate>Mon, 25 Nov 2024 15:09:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241125001800881</guid>
-			<title>韩国和马来西亚宣布建立战略伙伴关系</title>
-			<link>https://cn.yna.co.kr/view/ACK20241125001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月25日电 韩国总统尹锡悦25日在首尔龙山总统府同到访的马来西亚总理安瓦尔·易卜拉欣举行会谈。双方在会谈后发表联合声明，宣布建立战略伙伴关系。
-</description>
-			<pubDate>Mon, 25 Nov 2024 15:05:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
