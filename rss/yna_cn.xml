@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 27 Nov 2024 12:24:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 27 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241127001700881</guid>
+			<title>韩军实施西北岛屿海上炮击演习</title>
+			<link>https://cn.yna.co.kr/view/ACK20241127001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月27日电 27日，驻守白翎岛的韩国海军陆战队运用K-9自行榴弹炮实施了西北岛屿海上炮击演习。
+</description>
+			<pubDate>Wed, 27 Nov 2024 15:03:23 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241127001600881</guid>
 			<title>韩首都圈大雪天气影响全国航班运营</title>
@@ -154,14 +162,6 @@
 			<description>韩联社西归浦11月26日电 由于韩国济州出现强风天气，在该海域作业的数十艘中国渔船紧急驶入西归浦近海避风。
 </description>
 			<pubDate>Tue, 26 Nov 2024 17:00:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241126002200881</guid>
-			<title>2024年11月26日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241126002200881?section=news&amp;input=rss</link>
-			<description>▲韩政府研判朝今年效忠仪式改在金正恩生日举行
-</description>
-			<pubDate>Tue, 26 Nov 2024 17:00:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
