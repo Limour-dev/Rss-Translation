@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 28 Nov 2024 12:24:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 28 Nov 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241128002000881</guid>
+			<title>韩防长：朝鲜军人被编入俄军队伍参战</title>
+			<link>https://cn.yna.co.kr/view/ACK20241128002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月28日电 韩国国防部长官金龙显28日表示，朝鲜派遣的援俄军队被编入俄军队伍参战。
+</description>
+			<pubDate>Thu, 28 Nov 2024 14:53:12 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241128001100881</guid>
 			<title>详讯：韩央行下调2024年经济增长预期至2.2%</title>
@@ -152,14 +160,6 @@
 			<description>韩联社永宗岛11月27日电 韩国外交部长官赵兑烈27日在回应“佐渡金山”追悼仪式反映出政府外交失败的的批评声时表示，从结果上来看，我深感责任重大。
 </description>
 			<pubDate>Wed, 27 Nov 2024 19:07:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241127002300881</guid>
-			<title>2024年11月27日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241127002300881?section=news&amp;input=rss</link>
-			<description>▲首尔积雪量超16厘米刷新历年同月纪录
-</description>
-			<pubDate>Wed, 27 Nov 2024 17:00:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
