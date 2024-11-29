@@ -4,11 +4,19 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 29 Nov 2024 09:59:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 29 Nov 2024 12:24:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
 		<item>
+			<guid>ACK20241129000700881</guid>
+			<title>韩物流企业LX Pantos与中国贵阳市加强战略合作</title>
+			<link>https://cn.yna.co.kr/view/ACK20241129000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月29日电 韩国综合物流企业“LX Pantos”（乐尔幸泛通世物流）29日表示，公司将加强与中国贵阳市的物流合作。
+</description>
+			<pubDate>Fri, 29 Nov 2024 10:53:06 +0900</pubDate>
+		</item>
+		<item>
 			<guid>ACK20241129000500881</guid>
-			<title>韩产业部与对华投资韩企共商应对全球经贸变化</title>
+			<title>韩产业部与涉华外贸企业谈外部环境变化影响</title>
 			<link>https://cn.yna.co.kr/view/ACK20241129000500881?section=news&amp;input=rss</link>
 			<description>韩联社首尔11月29日电 韩国产业通商资源部（产业部）29日在首尔与开展对华贸易和投资的本土企业举行座谈会，共议全球经贸环境变化可能带来的影响及应对方案。
 </description>
@@ -154,13 +162,6 @@
 			<description>韩联社首尔11月28日电 韩国银行（央行）28日发布一份报告预测，韩中出口竞争、美国新政府贸易保护主义将导致韩国出口增势放缓。
 </description>
 			<pubDate>Thu, 28 Nov 2024 15:49:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241128002500881</guid>
-			<title>股市收盘：KOSDAQ▲2.39</title>
-			<link>https://cn.yna.co.kr/view/ACK20241128002500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报694.39点，较前一交易日上升2.39点。</description>
-			<pubDate>Thu, 28 Nov 2024 15:33:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
