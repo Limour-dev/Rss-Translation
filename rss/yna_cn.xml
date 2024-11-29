@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 30 Nov 2024 00:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 30 Nov 2024 03:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241130000100881</guid>
+			<title>乌总理：已获韩国1亿美元贷款援助</title>
+			<link>https://cn.yna.co.kr/view/ACK20241130000100881?section=news&amp;input=rss</link>
+			<description>韩联社日内瓦11月30日电 乌克兰总理什梅加尔当地时间29日在其社交平台上发布消息称，乌克兰从韩国获得1亿美元贷款援助。
+</description>
+			<pubDate>Sat, 30 Nov 2024 00:58:58 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241106001000881</guid>
 			<title>2024年11月30日韩国历史上的今天</title>
@@ -152,14 +160,6 @@
 			<description>韩联社首尔11月29日电 韩国国防科学研究所29日在大田总部举行远程地对空导弹（L-SAM）自主研发成功纪念仪式，纪念韩国导弹防御网络进一步升级。
 </description>
 			<pubDate>Fri, 29 Nov 2024 13:49:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129000700881</guid>
-			<title>韩物流企业LX Pantos与中国贵阳市加强战略合作</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月29日电 韩国综合物流企业“LX Pantos”（乐尔幸泛通世物流）29日表示，公司将加强与中国贵阳市的物流合作。
-</description>
-			<pubDate>Fri, 29 Nov 2024 10:53:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
