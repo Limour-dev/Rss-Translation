@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 29 Nov 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 29 Nov 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241129003400881</guid>
+			<title>韩日举行司局级外交安全2+2对话</title>
+			<link>https://cn.yna.co.kr/view/ACK20241129003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月29日电 韩日两国29日在东京举行司局级外交安全2+2对话。
+</description>
+			<pubDate>Fri, 29 Nov 2024 20:08:10 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241129003300881</guid>
 			<title>韩美第12份防卫费分担协定生效</title>
@@ -152,13 +160,6 @@
 			<description>韩联社首尔11月29日电 韩国联合参谋本部（联参）29日表示，昨晚至当天凌晨，朝鲜对韩空飘约40只“垃圾气球”，韩国江原道和首都圈地区发现约30个坠落物。
 </description>
 			<pubDate>Fri, 29 Nov 2024 09:43:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129000400881</guid>
-			<title>股市开盘：KOSPI▼7.74</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129000400881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2496.93点，较前一交易日下跌7.74点。</description>
-			<pubDate>Fri, 29 Nov 2024 09:01:47 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
