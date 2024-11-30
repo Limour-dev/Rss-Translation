@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 30 Nov 2024 06:04:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 30 Nov 2024 09:54:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241127003100881</guid>
+			<title>一周韩娱：郑雨盛未婚生子 NewJeans宣布解约</title>
+			<link>https://cn.yna.co.kr/view/ACK20241127003100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔11月30日电 【要问回顾】郑雨盛未婚生子；NewJeans宣布同经纪公司解约；ATEEZ迷你专辑登顶美公告牌主榜；李东辉和郑好娟分手。
+</description>
+			<pubDate>Sat, 30 Nov 2024 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241130000100881</guid>
 			<title>乌总理：已获韩国1亿美元贷款援助</title>
@@ -152,14 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241129001400881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Fri, 29 Nov 2024 14:22:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001200881</guid>
-			<title>韩国成功自主研发远程地对空导弹</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月29日电 韩国国防科学研究所29日在大田总部举行远程地对空导弹（L-SAM）自主研发成功纪念仪式，纪念韩国导弹防御网络进一步升级。
-</description>
-			<pubDate>Fri, 29 Nov 2024 13:49:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
