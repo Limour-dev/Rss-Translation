@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 30 Nov 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 1 Dec 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241029002400881</guid>
+			<title>2024年12月1日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241029002400881?section=news&amp;input=rss</link>
+			<description>1905年 东学教第三任教主孙秉熙将教名改为天道教。
+</description>
+			<pubDate>Sun, 01 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241127003100881</guid>
 			<title>一周韩娱：郑雨盛未婚生子 NewJeans宣布解约</title>
@@ -153,13 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241129001500881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Fri, 29 Nov 2024 14:23:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001400881</guid>
-			<title>快讯：俄防长抵达平壤将同朝方举行会谈</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001400881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Fri, 29 Nov 2024 14:22:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
