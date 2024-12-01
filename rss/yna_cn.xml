@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Dec 2024 10:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 1 Dec 2024 12:34:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241201000300881</guid>
+			<title>金正恩接见俄罗斯防长别洛乌索夫</title>
+			<link>https://cn.yna.co.kr/view/ACK20241201000300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月1日电 朝中社日前报道称，朝鲜国务委员会委员长金正恩接见到访的俄罗斯国防部长安德烈·别洛乌索夫。
+</description>
+			<pubDate>Sun, 01 Dec 2024 11:44:58 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241201000200881</guid>
+			<title>俄罗斯防长结束访朝之行启程回国</title>
+			<link>https://cn.yna.co.kr/view/ACK20241201000200881?section=news&amp;input=rss</link>
+			<description>韩联社莫斯科、首尔12月1日电 俄罗斯国防部长安德烈·别洛乌索夫上月30日参观了平壤解放塔和万景台，之后结束为期两天的访朝之行。
+</description>
+			<pubDate>Sun, 01 Dec 2024 10:21:55 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241201000100881</guid>
 			<title>韩11月出口同比增1.4% 连续14个月增长</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔11月29日电 韩国观光公社（旅游发展局）28日发布的一项统计数据显示，韩国10月接待外国游客160万人次，同比增加30.1%，恢复至2019年疫前同期的97%。
 </description>
 			<pubDate>Fri, 29 Nov 2024 14:52:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001600881</guid>
-			<title>简讯：11架中俄军机一度进入韩国防识区</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月29日电 据韩国联合参谋本部（联参）29日消息，11架中俄军机当天进入韩国防空识别区（下称“防识区”，KADIZ），军方立即采取应对措施。
-</description>
-			<pubDate>Fri, 29 Nov 2024 14:33:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001300881</guid>
-			<title>ADOR就NewJeans宣布解约表态：专属合同仍有效</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月29日电 经纪公司ADOR就与旗下女团NewJeans产生的专属合约纠纷表态称，专属合同的效力将于2029年7月31日终止。公司正进行新制作人的聘请工作。
-</description>
-			<pubDate>Fri, 29 Nov 2024 14:23:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
