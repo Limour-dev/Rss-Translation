@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Dec 2024 12:34:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 1 Dec 2024 15:14:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241201000700881</guid>
+			<title>韩产业部长：可扩大美国能源进口应对特朗普贸易新政</title>
+			<link>https://cn.yna.co.kr/view/ACK20241201000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月1日电 韩国产业通商资源部长官安德根1日在政府首尔办公楼接受韩联社记者采访时就如何应对美国新政府削减贸易逆差政策表示，相较中东，美国的石油和天然气具有价格优势，韩国国营和民营企业扩大进口的空间广阔。
+</description>
+			<pubDate>Sun, 01 Dec 2024 14:31:45 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241201000300881</guid>
 			<title>金正恩接见俄罗斯防长别洛乌索夫</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔11月29日电 民调机构韩国盖洛普29日发布的一份调查结果显示，总统尹锡悦的施政好评率为19%，差评率为72%。
 </description>
 			<pubDate>Fri, 29 Nov 2024 15:01:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001700881</guid>
-			<title>韩10月外国游客接待量同比增30%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔11月29日电 韩国观光公社（旅游发展局）28日发布的一项统计数据显示，韩国10月接待外国游客160万人次，同比增加30.1%，恢复至2019年疫前同期的97%。
-</description>
-			<pubDate>Fri, 29 Nov 2024 14:52:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
