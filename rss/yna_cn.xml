@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Dec 2024 06:04:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 1 Dec 2024 10:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241201000100881</guid>
+			<title>韩11月出口同比增1.4% 连续14个月增长</title>
+			<link>https://cn.yna.co.kr/view/ACK20241201000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月1日电 韩国产业通商资源部1日公布的数据显示，韩国11月出口额同比增长1.4%，为563.5亿美元，连续14个月保持增势。
+</description>
+			<pubDate>Sun, 01 Dec 2024 09:47:47 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241029002400881</guid>
 			<title>2024年12月1日韩国历史上的今天</title>
@@ -154,13 +162,6 @@
 			<description>韩联社首尔11月29日电 经纪公司ADOR就与旗下女团NewJeans产生的专属合约纠纷表态称，专属合同的效力将于2029年7月31日终止。公司正进行新制作人的聘请工作。
 </description>
 			<pubDate>Fri, 29 Nov 2024 14:23:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001500881</guid>
-			<title>快讯：11架中俄军机一度进入韩国防识区</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001500881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Fri, 29 Nov 2024 14:23:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
