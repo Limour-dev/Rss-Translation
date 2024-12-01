@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 1 Dec 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 2 Dec 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241031002300881</guid>
+			<title>2024年12月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241031002300881?section=news&amp;input=rss</link>
+			<description>1946年 右翼政治领袖李承晚访美主张在韩半岛南部单独建立政府。
+</description>
+			<pubDate>Mon, 02 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241201001000881</guid>
 			<title>韩总统室敦促在野党撤回预算削减案</title>
@@ -155,14 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241129002300881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报678.19点,较前一交易日下跌16.20点。</description>
 			<pubDate>Fri, 29 Nov 2024 15:32:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241129001800881</guid>
-			<title>韩国驻华大使郑在浩下月10日离任</title>
-			<link>https://cn.yna.co.kr/view/ACK20241129001800881?section=news&amp;input=rss</link>
-			<description>韩联社北京11月29日电 韩国驻中国大使馆29日表示，驻华大使郑在浩的离任仪式将于下月10日在使馆举行。
-</description>
-			<pubDate>Fri, 29 Nov 2024 15:32:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
