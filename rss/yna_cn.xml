@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 2 Dec 2024 21:19:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 3 Dec 2024 00:09:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241101003700881</guid>
+			<title>2024年12月3日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241101003700881?section=news&amp;input=rss</link>
+			<description>1869年 韩国首任副总统李始荣（1869—1953）出生。
+</description>
+			<pubDate>Tue, 03 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241202003300881</guid>
+			<title>韩国2028年将开启全球首个清洁氢发电市场</title>
+			<link>https://cn.yna.co.kr/view/ACK20241202003300881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月2日电 韩国将于2028年启动全球首个清洁氢能发电市场，韩国电力公社旗下韩国南部发电公司成为首家中标供应商。
+</description>
+			<pubDate>Mon, 02 Dec 2024 21:44:40 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241202003400881</guid>
 			<title>报告：韩四家军工企业销售额跻身全球百强</title>
@@ -146,20 +162,6 @@
 			<description>韩联社首尔12月2日电 韩国民调机构Realmeter于2日发布的一份调查结果显示，总统尹锡悦施政好评率25%，差评率71%。
 </description>
 			<pubDate>Mon, 02 Dec 2024 09:20:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241202000500881</guid>
-			<title>股市开盘：KOSPI▲23.11</title>
-			<link>https://cn.yna.co.kr/view/ACK20241202000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2479.02点，较前一交易日上升23.11点。</description>
-			<pubDate>Mon, 02 Dec 2024 09:01:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241202000400881</guid>
-			<title>股市开盘：KOSDAQ▲5.96</title>
-			<link>https://cn.yna.co.kr/view/ACK20241202000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报684.15点，较前一交易日上升5.96点。</description>
-			<pubDate>Mon, 02 Dec 2024 09:01:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
