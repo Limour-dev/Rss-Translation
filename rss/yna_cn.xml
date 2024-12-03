@@ -4,13 +4,37 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 3 Dec 2024 09:59:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 3 Dec 2024 12:29:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241203001500881</guid>
+			<title>SEVENTEEN将出席美公告牌颁奖礼并献艺</title>
+			<link>https://cn.yna.co.kr/view/ACK20241203001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月3日电 男团SEVENTEEN将于当地时间12日在美国洛杉矶出席“美国公告牌音乐奖（Billboard Music Awards，简称BBMA）颁奖礼”并登台献艺。
+</description>
+			<pubDate>Tue, 03 Dec 2024 11:37:08 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241203000900881</guid>
+			<title>韩产业部：美对华半导体出口新规对韩影响不大</title>
+			<link>https://cn.yna.co.kr/view/ACK20241203000900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月3日电 韩国产业通商资源部（下称产业部）官员3日表示，美国商务部将高带宽内存（HBM）增列至对华出口管制清单的措施将给韩国企业带来的影响较少。
+</description>
+			<pubDate>Tue, 03 Dec 2024 11:17:29 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241203001000881</guid>
+			<title>韩军计划明年初引进100多架纸板无人机</title>
+			<link>https://cn.yna.co.kr/view/ACK20241203001000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月3日电 韩国国防部3日表示，军方计划今年年底完成纸板无人机的引进合同签署工作，于明年初接受100多架纸板无人机供应，并将其部署至无人机作战司令部。
+</description>
+			<pubDate>Tue, 03 Dec 2024 10:59:49 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241203000700881</guid>
 			<title>美对华半导体出口新规恐将拖累韩企对华出口</title>
 			<link>https://cn.yna.co.kr/view/ACK20241203000700881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿12月2日电 美国商务部工业和安全局（BIS）2日通过官网宣布，从本月31日起将特定高宽带内存（HBM）增列至出口管制清单。这恐将给对华出口半导体及其相关设备的韩企带来负面影响，备受关注。
+			<description>韩联社华盛顿12月2日电 美国商务部工业和安全局（BIS）2日通过官网宣布，从本月31日起将特定高带宽内存（HBM）增列至出口管制清单。这恐将给对华出口半导体及其相关设备的韩企带来负面影响，备受关注。
 </description>
 			<pubDate>Tue, 03 Dec 2024 09:59:25 +0900</pubDate>
 		</item>
@@ -136,28 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241202002200881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2454.48点，较前一交易日下跌1.43点。</description>
 			<pubDate>Mon, 02 Dec 2024 15:33:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241202002100881</guid>
-			<title>股市收盘：KOSDAQ▼2.35</title>
-			<link>https://cn.yna.co.kr/view/ACK20241202002100881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报675.84点，较前一交易日下跌2.35点。</description>
-			<pubDate>Mon, 02 Dec 2024 15:32:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241202002000881</guid>
-			<title>15：30外汇汇率：1美元=1,401.3韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241202002000881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1401.3，较前一交易日下跌6.6韩元。</description>
-			<pubDate>Mon, 02 Dec 2024 15:30:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241202001800881</guid>
-			<title>尹锡悦本周将同瑞典首相克里斯特松举行会谈</title>
-			<link>https://cn.yna.co.kr/view/ACK20241202001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月2日电 据韩国总统办公室2日消息，总统尹锡悦将同到访的瑞典首相乌尔夫·克里斯特松举行会谈。
-</description>
-			<pubDate>Mon, 02 Dec 2024 15:26:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
