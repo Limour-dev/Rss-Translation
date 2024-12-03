@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 3 Dec 2024 18:09:56 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 3 Dec 2024 21:19:56 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241203003600881</guid>
+			<title>朝鲜拆除开城工业园输电塔电线致塔身倒塌</title>
+			<link>https://cn.yna.co.kr/view/ACK20241203003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月3日电 韩国统一部3日公开的一段视频显示，位于韩朝军事分界线（MDL）以北至开城工业园区之间京义线公路的几座输电塔因朝方拆除电线而倒塌。
+</description>
+			<pubDate>Tue, 03 Dec 2024 19:44:36 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241203002600881</guid>
 			<title>韩统一部敦促朝鲜立即无条件释放被扣公民</title>
@@ -152,13 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241203000500881?section=news&amp;input=rss</link>
 			<description>KOSDAQ开盘报678.98点，较前一交易日上升3.14点。</description>
 			<pubDate>Tue, 03 Dec 2024 09:01:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241203000400881</guid>
-			<title>外汇汇率开盘：1美元=1,405.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241203000400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1405.5，较前一交易日下跌4.2韩元。</description>
-			<pubDate>Tue, 03 Dec 2024 09:00:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
