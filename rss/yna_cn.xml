@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 4 Dec 2024 12:26:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 4 Dec 2024 15:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241204004000881</guid>
+			<title>韩六大在野党向国会提交尹锡悦弹劾案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241204004000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月4日电 韩国六大在野党4日下午2时43分向国会提交关于弹劾总统尹锡悦的议案。
+</description>
+			<pubDate>Wed, 04 Dec 2024 15:05:58 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241204003800881</guid>
+			<title>李在明：尹锡悦很可能刺激朝鲜挑起武装冲突</title>
+			<link>https://cn.yna.co.kr/view/ACK20241204003800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月4日电 韩国最大在野党共同民主党党首李在明4日就总统尹锡悦宣布戒严又解严一事表示，在尹锡悦认为动用武力实施紧急戒严无效时，其可能蓄意刺激朝鲜挑起武装冲突。
+</description>
+			<pubDate>Wed, 04 Dec 2024 14:45:39 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241204002500881</guid>
 			<title>韩宪法专家：尹锡悦实施戒严存在违宪之嫌</title>
@@ -143,21 +159,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241204001200881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Wed, 04 Dec 2024 05:11:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241204001100881</guid>
-			<title>简讯：尹锡悦宣布解除戒严 已撤出戒严军</title>
-			<link>https://cn.yna.co.kr/view/ACK20241204001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月4日电 韩国总统尹锡悦4日上午4时27分许在首尔龙山总统府通过电视直播表示，接受国会要求，将随即召开国务会议解除戒严。
-</description>
-			<pubDate>Wed, 04 Dec 2024 05:06:42 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241204001000881</guid>
-			<title>快讯：尹锡悦宣布解除戒严 戒严军已归队返岗</title>
-			<link>https://cn.yna.co.kr/view/ACK20241204001000881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Wed, 04 Dec 2024 04:41:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
