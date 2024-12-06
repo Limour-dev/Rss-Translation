@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 6 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 6 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241206004100881</guid>
+			<title>韩检方组建特别调查本部调查尹锡悦“紧急戒严”</title>
+			<link>https://cn.yna.co.kr/view/ACK20241206004100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月6日电 韩国大检察厅（最高检察院）6日宣布，将组成特别调查本部（下称“本部”）对“12·3紧急戒严事态”展开严肃调查。由于调查对象包括多名现任将军，军事检察人员也将加入本部开展联合调查。
+</description>
+			<pubDate>Fri, 06 Dec 2024 20:06:00 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241206004200881</guid>
+			<title>韩美日下周在东京举行朝核问题高级别磋商</title>
+			<link>https://cn.yna.co.kr/view/ACK20241206004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月6日电 据韩国外交部6日消息，韩美日三国朝核问题磋商高级代表将于9日在日本东京举行会晤，讨论朝鲜挑衅应对方案。
+</description>
+			<pubDate>Fri, 06 Dec 2024 19:30:15 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241206004000881</guid>
 			<title>韩执政党党首：坚持尹锡悦应停止履行总统职务立场</title>
@@ -18,7 +34,7 @@
 			<guid>ACK20241206003900881</guid>
 			<title>韩戒严军指挥官三人被停职</title>
 			<link>https://cn.yna.co.kr/view/ACK20241206003900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月6日电 “12·3戒严事件”当时指示向国会和选举管理委员会出兵的三名戒严军指挥官被停职。
+			<description>韩联社首尔12月6日电 “12·3紧急戒严事件”当时指示向国会和选举管理委员会出兵的三名戒严军指挥官被停职。
 </description>
 			<pubDate>Fri, 06 Dec 2024 17:09:44 +0900</pubDate>
 		</item>
@@ -145,22 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241206000900881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Fri, 06 Dec 2024 09:41:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241206000800881</guid>
-			<title>韩国民众举行烛光集会要求尹锡悦下台</title>
-			<link>https://cn.yna.co.kr/view/ACK20241206000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月6日电 韩国总统尹锡悦日前实施紧急戒严引发轩然大波，民间组织5日连续第二天在首尔市区举行烛光集会，要求尹锡悦下台。
-</description>
-			<pubDate>Fri, 06 Dec 2024 09:41:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241206000300881</guid>
-			<title>首尔地铁劳资谈判达成一致 罢工被取消</title>
-			<link>https://cn.yna.co.kr/view/ACK20241206000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月6日电 韩国承运首尔地铁1～8号线的首尔交通公社最大工会组织第一工会与资方进行的薪酬及集体劳动协议谈判6日凌晨达成一致，由此工会取消罢工计划。
-</description>
-			<pubDate>Fri, 06 Dec 2024 09:03:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
