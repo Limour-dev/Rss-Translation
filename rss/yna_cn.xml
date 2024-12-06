@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 7 Dec 2024 03:16:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 7 Dec 2024 06:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241206003000881</guid>
+			<title>韩国国会今召开全会表决尹锡悦弹劾案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241206003000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月7日电 韩国国会7日将召开全体会议，就在野党针对总统尹锡悦发起的弹劾案进行表决。
+</description>
+			<pubDate>Sat, 07 Dec 2024 06:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241111000800881</guid>
 			<title>2024年12月7日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔12月6日电 民调机构韩国盖洛普6日发布的一份调查结果显示，总统尹锡悦的施政好评率为16%，差评率为75%。
 </description>
 			<pubDate>Fri, 06 Dec 2024 11:00:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241206001200881</guid>
-			<title>详讯：韩执政党党首呼吁尽快停止尹锡悦履职</title>
-			<link>https://cn.yna.co.kr/view/ACK20241206001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月6日电 韩国执政党国民力量党首韩东勋6日在国会举行的该党最高委员会会议上表示，综合最新暴露的各种情况，为护国保民，需尽快停止总统尹锡悦履行职务。
-</description>
-			<pubDate>Fri, 06 Dec 2024 10:33:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
