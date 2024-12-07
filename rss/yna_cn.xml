@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 7 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 7 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241207001300881</guid>
+			<title>韩国会议长未宣布弹劾案投票结束 吁执政党返回投票</title>
+			<link>https://cn.yna.co.kr/view/ACK20241207001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月7日电 韩国国会议长禹元植7日推迟宣布总统尹锡悦的弹劾案投票结束，等待执政党国民力量议员们返回会场投票。
+</description>
+			<pubDate>Sat, 07 Dec 2024 20:11:55 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241207001000881</guid>
 			<title>详讯：韩国国会否决“金建希独检法”</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔12月6日电 “12·3紧急戒严事件”当时指示向国会和选举管理委员会出兵的三名戒严军指挥官被停职。
 </description>
 			<pubDate>Fri, 06 Dec 2024 17:09:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241206002400881</guid>
-			<title>2024年12月6日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20241206002400881?section=news&amp;input=rss</link>
-			<description>▲韩情报机构高官：尹锡悦亲口指示拘捕政治人士
-</description>
-			<pubDate>Fri, 06 Dec 2024 17:00:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
