@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 7 Dec 2024 06:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 7 Dec 2024 09:56:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241206000700881</guid>
+			<title>一周韩娱：NewJeans被诉 防弹领跑韩歌播放榜</title>
+			<link>https://cn.yna.co.kr/view/ACK20241206000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月7日电 【要问回顾】ADOR提告NewJeans主张专属合同仍有效；防弹今年Spotify全球播放量领跑K-POP歌手；SVT成员THE 8发售首张中国迷你个辑；前女团GFRIEND将发片纪念出道十周年。
+</description>
+			<pubDate>Sat, 07 Dec 2024 08:00:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241206003000881</guid>
 			<title>韩国国会今召开全会表决尹锡悦弹劾案</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔12月6日电 韩国最大在野党党首李在明6日将总统尹锡悦称为“国家内乱犯罪之魁首”，并敦促有关方从速推进针对尹锡悦的弹劾和调查进程。
 </description>
 			<pubDate>Fri, 06 Dec 2024 11:43:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241206001800881</guid>
-			<title>民调：尹锡悦施政好评率16% 戒严后挫至13%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241206001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月6日电 民调机构韩国盖洛普6日发布的一份调查结果显示，总统尹锡悦的施政好评率为16%，差评率为75%。
-</description>
-			<pubDate>Fri, 06 Dec 2024 11:00:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
