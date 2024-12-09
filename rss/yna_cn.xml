@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 9 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 10 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241112001400881</guid>
+			<title>2024年12月10日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112001400881?section=news&amp;input=rss</link>
+			<description>1922年 韩国首位飞行员安昌男从日本回国，并在京城（现首尔）汝矣岛进行首次示范飞行。
+</description>
+			<pubDate>Tue, 10 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241209005200881</guid>
 			<title>美防长：美韩同盟不会受韩戒严事态影响</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔12月9日电 负责侦办“12·3紧急戒严事件”的韩国警察厅旗下国家侦查本部特别侦查团团长禹锺寿9日就调查总统尹锡悦的可能性表示，警方不为戒严事件调查对象设限。
 </description>
 			<pubDate>Mon, 09 Dec 2024 11:23:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241209001300881</guid>
-			<title>韩特种部队队长就戒严称队员被前防长利用</title>
-			<link>https://cn.yna.co.kr/view/ACK20241209001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月9日电 韩国总统尹锡悦3日宣布戒严时被部署到国会的陆军特战司令部麾下707特殊任务团（下称“707特种部队”）团长金炫兑（音，上校）9日召开记者会，主张707特种部队队员是被前国防部长官金龙显利用的受害者。
-</description>
-			<pubDate>Mon, 09 Dec 2024 10:48:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
