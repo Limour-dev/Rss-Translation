@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 11 Dec 2024 00:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 11 Dec 2024 03:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211000200881</guid>
+			<title>详讯：韩涉主导紧急戒严前防长金龙显被批捕</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月11日电 韩国12·3紧急戒严事态的主导者、前国防部长官金龙显10日被批捕。金龙显成为紧急戒严事态发生7日以来，首个因此事被批捕的人员。
+</description>
+			<pubDate>Wed, 11 Dec 2024 00:44:50 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241211000100881</guid>
 			<title>快讯：韩涉内乱前防长金龙显被批捕</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔12月10日电 韩国执政党国民力量议员金相旭10日改变立场称，将在总统尹锡悦弹劾案表决中投赞成票。
 </description>
 			<pubDate>Tue, 10 Dec 2024 11:08:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241210001300881</guid>
-			<title>韩国前防长金龙显放弃批捕前审查</title>
-			<link>https://cn.yna.co.kr/view/ACK20241210001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月10日电 据韩国法律界10日消息，韩国前国防部长官金龙显放弃接受逮捕必要性审查。
-</description>
-			<pubDate>Tue, 10 Dec 2024 10:53:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
