@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 10 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 10 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241210004300881</guid>
+			<title>韩特战司令：尹锡悦指示破门拉出议员阻止国会表决</title>
+			<link>https://cn.yna.co.kr/view/ACK20241210004300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月10日电 韩国陆军特战司令郭种根10日表示，总统尹锡悦3日宣布实施紧急戒严后，次日凌晨指示其破门将国会议员从国会全会会场拉出来，以阻止国会表决通过戒严解除案。
+</description>
+			<pubDate>Tue, 10 Dec 2024 20:18:37 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241210004200881</guid>
+			<title>详讯：韩国会敲定2025年度预算案 规模3.41万亿元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241210004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月10日电 韩国国会10日召开全体会议，通过了规模为673.3万亿韩元（约合人民币3.41万亿元）的明年预算案。
+</description>
+			<pubDate>Tue, 10 Dec 2024 18:48:41 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241210004100881</guid>
 			<title>韩国国会通过2025年度预算案 规模3.41万亿元</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔12月10日电 据韩国电影发行商BY4M STUDIO消息，演员权相佑主演的喜剧动作片《漫画威龙之大话特务2》将于明年1月上映。
 </description>
 			<pubDate>Tue, 10 Dec 2024 10:23:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241210000100881</guid>
-			<title>韩检方提请批捕涉发动内乱前防长</title>
-			<link>https://cn.yna.co.kr/view/ACK20241210000100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月10日电 韩国检方紧急戒严事件特别侦查本部9日表示，以涉嫌与总统尹锡悦合谋发动内乱为由，提请法院批捕前国防部长官金龙显。
-</description>
-			<pubDate>Tue, 10 Dec 2024 09:11:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241210000500881</guid>
-			<title>股市开盘：KOSPI▲23.93</title>
-			<link>https://cn.yna.co.kr/view/ACK20241210000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2384.51点，较前一交易日上升23.93点。</description>
-			<pubDate>Tue, 10 Dec 2024 09:01:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
