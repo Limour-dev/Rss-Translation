@@ -4,8 +4,23 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 10 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 11 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211000100881</guid>
+			<title>快讯：韩涉内乱前防长金龙显被批捕</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211000100881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Wed, 11 Dec 2024 00:08:54 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241112001500881</guid>
+			<title>2024年12月11日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241112001500881?section=news&amp;input=rss</link>
+			<description>1952年 韩国加入国际民用航空组织（ICAO）。
+</description>
+			<pubDate>Wed, 11 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241210004300881</guid>
 			<title>韩特战司令：尹锡悦指示破门拉出议员阻止国会表决</title>
@@ -146,22 +161,6 @@
 			<description>韩联社首尔12月10日电 据韩国法律界10日消息，韩国前国防部长官金龙显放弃接受逮捕必要性审查。
 </description>
 			<pubDate>Tue, 10 Dec 2024 10:53:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241210001100881</guid>
-			<title>韩最大在野党称争取今处理预算案</title>
-			<link>https://cn.yna.co.kr/view/ACK20241210001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月10日电 韩国最大在野党共同民主党党首李在明10日表示，今天是国会本次例会最后一天，将争取处理预算案。
-</description>
-			<pubDate>Tue, 10 Dec 2024 10:42:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241210001000881</guid>
-			<title>权相佑新片《漫画威龙2》定档下月</title>
-			<link>https://cn.yna.co.kr/view/ACK20241210001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月10日电 据韩国电影发行商BY4M STUDIO消息，演员权相佑主演的喜剧动作片《漫画威龙之大话特务2》将于明年1月上映。
-</description>
-			<pubDate>Tue, 10 Dec 2024 10:23:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
