@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 11 Dec 2024 12:26:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 11 Dec 2024 15:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211002200881</guid>
+			<title>详讯：韩国国会拟调查戒严事件</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211002200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月11日电 韩国国会将推进针对“12·3紧急戒严事件”的国政调查。
+</description>
+			<pubDate>Wed, 11 Dec 2024 14:45:10 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241211002000881</guid>
 			<title>韩11月注册登记进口车中中国产占比过半</title>
@@ -152,14 +160,6 @@
 			<description>韩联社首尔12月10日电 韩国国会10日举行全体会议，表决通过了关于要求迅速拘留总统尹锡悦等“12·3紧急戒严事件”8名首要分子的决议案。
 </description>
 			<pubDate>Tue, 10 Dec 2024 16:52:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241210003100881</guid>
-			<title>韩中经贸联委会第28次会议将在首尔举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20241210003100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月10日电 韩国外交部第二次官（副部长）姜仁仙将于12日在首尔与中国商务部副部长李飞共同主持召开韩中经贸联委会第28次会议。
-</description>
-			<pubDate>Tue, 10 Dec 2024 16:45:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
