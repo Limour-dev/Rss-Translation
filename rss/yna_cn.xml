@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 11 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 11 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211003800881</guid>
+			<title>韩三大机构成立侦查本部合作调查戒严事件</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211003800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月11日电 韩国警察厅国家侦查本部、高级公职人员犯罪调查处（公调处）、国防部调查本部11日表示，三家机构成立合作侦查本部，共同调查“12·3紧急戒严事件”。
+</description>
+			<pubDate>Wed, 11 Dec 2024 20:33:39 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241211003900881</guid>
+			<title>大韩航空完成对韩亚航空的收购程序</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月11日电 韩国载旗航空公司大韩航空11日表示，公司参加韩亚航空的定向增发，当天已完成缴纳1.31578947亿股的股款。两家航司长达四年多的企业合并程序画上圆满句号。
+</description>
+			<pubDate>Wed, 11 Dec 2024 20:07:26 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241211003700881</guid>
+			<title>韩美日第二次印太对话在东京举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月11日电 韩国外交部11日表示，韩美日三国当天在日本东京举行“第二次印太对话”会议，三方一致认为，鉴于印太地区的战略重要性和经济活力，韩美日应携手探索为该地区的和平繁荣作贡献的方案。
+</description>
+			<pubDate>Wed, 11 Dec 2024 18:40:57 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241211003600881</guid>
 			<title>韩国务总理就未能阻止总统戒严道歉</title>
@@ -137,27 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241211000900881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2412.15点，较前一交易日下跌5.69点。</description>
 			<pubDate>Wed, 11 Dec 2024 09:01:41 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241211000800881</guid>
-			<title>股市开盘：KOSDAQ▲0.12</title>
-			<link>https://cn.yna.co.kr/view/ACK20241211000800881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报661.71点，较前一交易日上升0.12点。</description>
-			<pubDate>Wed, 11 Dec 2024 09:01:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241211000700881</guid>
-			<title>外汇汇率开盘：1美元=1434.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241211000700881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1434.0，较前一交易日下跌7.1韩元。</description>
-			<pubDate>Wed, 11 Dec 2024 09:01:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241211000300881</guid>
-			<title>快讯：韩11月同比新增就业12万人 失业率2.2%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241211000300881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Wed, 11 Dec 2024 08:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
