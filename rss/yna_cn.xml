@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 12 Dec 2024 12:26:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 12 Dec 2024 15:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241212002000881</guid>
+			<title>韩执政党党首呼吁全党支持弹劾尹锡悦</title>
+			<link>https://cn.yna.co.kr/view/ACK20241212002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月12日电 韩国执政党国民力量党首韩东勋12日在国会召开记者会表示，党内需要就弹劾总统形成共识，目前通过弹劾停止总统职务是解决问题的唯一方法。
+</description>
+			<pubDate>Thu, 12 Dec 2024 14:12:45 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241212001900881</guid>
 			<title>详讯：尹锡悦发表谈话主张戒严正当拒绝辞职</title>
@@ -151,14 +159,6 @@
 			<description>韩联社首尔12月11日电 韩国外交部11日表示，韩美日三国当天在日本东京举行“第二次印太对话”会议，三方一致认为，鉴于印太地区的战略重要性和经济活力，韩美日应携手探索为该地区的和平繁荣作贡献的方案。
 </description>
 			<pubDate>Wed, 11 Dec 2024 18:40:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241211003600881</guid>
-			<title>韩国务总理就未能阻止总统戒严道歉</title>
-			<link>https://cn.yna.co.kr/view/ACK20241211003600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月11日电 韩国国务总理韩悳洙11日出席国会全体会议，就总统尹锡悦宣布戒严一事接受紧急质询，并就没能阻止戒严鞠躬道歉。
-</description>
-			<pubDate>Wed, 11 Dec 2024 17:23:31 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
