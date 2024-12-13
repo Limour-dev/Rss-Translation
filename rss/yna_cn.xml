@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 13 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 14 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241113003700881</guid>
+			<title>2024年12月14日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241113003700881?section=news&amp;input=rss</link>
+			<description>1901年 抗日独立运动家李光世（1901—1972）出生。
+</description>
+			<pubDate>Sat, 14 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241213003600881</guid>
 			<title>韩民众在弹劾案表决前夕云集国会前促尹锡悦下台</title>
@@ -154,13 +162,6 @@
 			<description>韩联社华盛顿12月12日电 美国国务院12日发布《2023年度国别反恐报告》，将朝鲜、古巴、伊朗和叙利亚列入“支持恐怖主义国家”名单。这是报告连续七年将朝鲜列入该名单。
 </description>
 			<pubDate>Fri, 13 Dec 2024 09:40:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241213000400881</guid>
-			<title>股市开盘：KOSPI▼8.37</title>
-			<link>https://cn.yna.co.kr/view/ACK20241213000400881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2473.75点，较前一交易日下跌8.37点。</description>
-			<pubDate>Fri, 13 Dec 2024 09:01:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
