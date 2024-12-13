@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 13 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 13 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241213003600881</guid>
+			<title>韩民众在弹劾案表决前夕云集国会前促尹锡悦下台</title>
+			<link>https://cn.yna.co.kr/view/ACK20241213003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月13日电 在韩国总统尹锡悦弹劾案表决前夕的13日，民众们在首尔各地举行集会，敦促尹锡悦下台。
+</description>
+			<pubDate>Fri, 13 Dec 2024 20:47:37 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241213003500881</guid>
+			<title>韩祖国革新党前党首曹国下周一起服刑</title>
+			<link>https://cn.yna.co.kr/view/ACK20241213003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月13日电 韩国在野党祖国革新党前党首曹国因涉嫌子女升学舞弊和阻止青瓦台监察组调查12日被大法院（最高法院）判处有期徒刑两年，预计他将从16日起在首尔看守所开始服刑。
+</description>
+			<pubDate>Fri, 13 Dec 2024 19:13:35 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241213003400881</guid>
 			<title>韩国国会明日下午4时表决尹锡悦弹劾案</title>
@@ -145,20 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241213000400881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2473.75点，较前一交易日下跌8.37点。</description>
 			<pubDate>Fri, 13 Dec 2024 09:01:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241213000300881</guid>
-			<title>股市开盘：KOSDAQ▲0.90</title>
-			<link>https://cn.yna.co.kr/view/ACK20241213000300881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报684.25点，较前一交易日上升0.90点。</description>
-			<pubDate>Fri, 13 Dec 2024 09:01:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241213000200881</guid>
-			<title>外汇汇率开盘：1美元=1432.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241213000200881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1432.0，较前一交易日下跌0.1韩元。</description>
-			<pubDate>Fri, 13 Dec 2024 09:00:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
