@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 15 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 15 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241215002700881</guid>
+			<title>韩代总统访问国会会晤国会议长</title>
+			<link>https://cn.yna.co.kr/view/ACK20241215002700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月15日电 韩国代行总统职权的国务总理韩悳洙15日初访国会，并同国会议长禹元植举行会谈。
+</description>
+			<pubDate>Sun, 15 Dec 2024 18:24:36 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241215002600881</guid>
 			<title>详讯：尹锡悦今拒接受检方传唤</title>
@@ -156,14 +164,6 @@
 			<description>韩联社首尔12月14日电 14日，韩国将代行总统职责的国务总理韩悳洙指示全军加强警戒态势。
 </description>
 			<pubDate>Sat, 14 Dec 2024 19:49:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241214001400881</guid>
-			<title>韩宪法法院启动尹锡悦弹劾案审理程序</title>
-			<link>https://cn.yna.co.kr/view/ACK20241214001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月14日电 韩国宪法裁判所（宪法法院）14日受理国会针对总统尹锡悦的弹劾决议书，正式启动弹劾案审理程序。
-</description>
-			<pubDate>Sat, 14 Dec 2024 19:44:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
