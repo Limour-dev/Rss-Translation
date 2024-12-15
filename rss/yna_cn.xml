@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 15 Dec 2024 06:06:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 15 Dec 2024 10:01:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241215000100881</guid>
+			<title>韩代总统同拜登通电话</title>
+			<link>https://cn.yna.co.kr/view/ACK20241215000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月15日电 韩国代行总统职权的国务总理韩悳洙15日与美国总统拜登通电话，重申韩美同盟牢不可摧。
+</description>
+			<pubDate>Sun, 15 Dec 2024 09:36:08 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241113003800881</guid>
 			<title>2024年12月15日韩国历史上的今天</title>
@@ -153,13 +161,6 @@
 			<description>韩联社首尔12月14日电 韩国执政党国民力量14日决定参加国会针对总统尹锡悦弹劾案的表决，并维持“反对弹劾尹锡悦”的党内统一立场。
 </description>
 			<pubDate>Sat, 14 Dec 2024 16:44:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241214000100881</guid>
-			<title>快讯：韩国国会第二次对尹锡悦弹劾案进行表决</title>
-			<link>https://cn.yna.co.kr/view/ACK20241214000100881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Sat, 14 Dec 2024 16:31:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
