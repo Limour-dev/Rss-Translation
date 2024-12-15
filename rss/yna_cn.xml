@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 15 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 16 Dec 2024 00:06:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241113003900881</guid>
+			<title>2024年12月16日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241113003900881?section=news&amp;input=rss</link>
+			<description>1950年 韩国国会通过《关于组建国民防卫军的法令》。
+</description>
+			<pubDate>Mon, 16 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241215002700881</guid>
 			<title>韩代总统访问国会会晤国会议长</title>
@@ -156,14 +164,6 @@
 			<description>韩联社首尔12月14日电 14日下午7时24分，针对韩国总统尹锡悦的国会弹劾决议书送达总统办公室，尹锡悦即刻起暂停行使总统权限。
 </description>
 			<pubDate>Sat, 14 Dec 2024 20:17:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241214001300881</guid>
-			<title>韩总理指示全军加强警戒</title>
-			<link>https://cn.yna.co.kr/view/ACK20241214001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月14日电 14日，韩国将代行总统职责的国务总理韩悳洙指示全军加强警戒态势。
-</description>
-			<pubDate>Sat, 14 Dec 2024 19:49:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
