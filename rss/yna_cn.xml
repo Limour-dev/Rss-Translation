@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 16 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 17 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241114002800881</guid>
+			<title>2024年12月17日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241114002800881?section=news&amp;input=rss</link>
+			<description>1949年 韩国国会批准《韩日通商协定》。
+</description>
+			<pubDate>Tue, 17 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241216004000881</guid>
 			<title>韩国涉戒严被拘警察厅长因健康状态恶化送医</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔12月16日电 韩国“12·3紧急戒严事件”合作侦查本部16日表示，当天将向总统办公室发送传唤总统尹锡悦的到案要求书。
 </description>
 			<pubDate>Mon, 16 Dec 2024 10:32:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241216000600881</guid>
-			<title>韩国合作侦查本部要求尹锡悦18日到案</title>
-			<link>https://cn.yna.co.kr/view/ACK20241216000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月16日电 韩国“12·3紧急戒严事件”合作侦查本部16日表示，当天将向总统办公室发送传唤总统尹锡悦的到案要求书。
-</description>
-			<pubDate>Mon, 16 Dec 2024 09:34:55 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
