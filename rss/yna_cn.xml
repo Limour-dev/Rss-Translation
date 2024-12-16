@@ -4,8 +4,39 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 16 Dec 2024 10:01:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 16 Dec 2024 12:31:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241216001700881</guid>
+			<title>详讯：韩执政党党首韩东勋辞去党首职务</title>
+			<link>https://cn.yna.co.kr/view/ACK20241216001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月16日电 韩国执政党国民力量党首韩东勋16日宣布辞去党首职务。
+</description>
+			<pubDate>Mon, 16 Dec 2024 11:36:54 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241216000800881</guid>
+			<title>韩祖国革新党前党首曹国今起服刑</title>
+			<link>https://cn.yna.co.kr/view/ACK20241216000800881?section=news&amp;input=rss</link>
+			<description>韩联社义王12月16日电 韩国在野党祖国革新党前党首曹国16日起在位于京畿道义王市的首尔看守所服刑。
+</description>
+			<pubDate>Mon, 16 Dec 2024 10:42:14 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241216000900881</guid>
+			<title>快讯：韩执政党党首韩东勋称辞去党首职务</title>
+			<link>https://cn.yna.co.kr/view/ACK20241216000900881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Mon, 16 Dec 2024 10:36:04 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241216000700881</guid>
+			<title>详讯：韩国联合侦查本部要求尹锡悦18日到案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241216000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月16日电 韩国“12·3紧急戒严事件”合作侦查本部16日表示，当天将向总统办公室发送传唤总统尹锡悦的到案要求书。
+</description>
+			<pubDate>Mon, 16 Dec 2024 10:32:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241216000600881</guid>
 			<title>韩国联合侦查本部要求尹锡悦18日到案</title>
@@ -129,38 +160,6 @@
 			<description>韩联社首尔12月15日电 韩国总理室高层15日回应最大在野党党首李在明提议成立国会与政府共同参与的国政稳定协议机制一事表示，政府已做好与包括朝野在内的国会积极合作的准备。
 </description>
 			<pubDate>Sun, 15 Dec 2024 14:06:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241215001300881</guid>
-			<title>韩最大在野党党首提议成立跨党派国政协商机制</title>
-			<link>https://cn.yna.co.kr/view/ACK20241215001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月15日电 韩国最大在野党共同民主党党首李在明15日在国会举行记者会，提议成立跨党派国政协商机制，恢复国政运营，暂时不讨论弹劾代行总统职权的国务总理韩悳洙。
-</description>
-			<pubDate>Sun, 15 Dec 2024 12:23:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241215000200881</guid>
-			<title>韩11月ICT出口同比增14.8%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241215000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月15日电 韩国科学技术信息通信部15日发布的一项统计显示，11月韩国信息通信技术（ICT）出口额为205亿美元，连续4个月超过200亿美元，但增幅有所收窄，为14.8%。
-</description>
-			<pubDate>Sun, 15 Dec 2024 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241215000300881</guid>
-			<title>韩检方提请批捕涉内乱特战司令郭种根</title>
-			<link>https://cn.yna.co.kr/view/ACK20241215000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月15日电 负责调查“12·3紧急戒严事件”的韩国检方特别侦查本部15日表示，以涉嫌内乱和滥用职权妨碍行使权利为由，向中央地区军事法院提请批捕日前被停职的陆军特战司令官郭种根。
-</description>
-			<pubDate>Sun, 15 Dec 2024 10:45:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241215000100881</guid>
-			<title>韩代总统同拜登通电话</title>
-			<link>https://cn.yna.co.kr/view/ACK20241215000100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月15日电 韩国代行总统职权的国务总理韩悳洙15日与美国总统拜登通电话，重申韩美同盟牢不可摧。
-</description>
-			<pubDate>Sun, 15 Dec 2024 09:36:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
