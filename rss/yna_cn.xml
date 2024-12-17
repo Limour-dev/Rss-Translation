@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 17 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 18 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241115002800881</guid>
+			<title>2024年12月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241115002800881?section=news&amp;input=rss</link>
+			<description>1593年 朝鲜王朝中期诗人、文臣郑澈（1536—1593）去世。
+</description>
+			<pubDate>Wed, 18 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241217003300881</guid>
 			<title>韩前防长金龙显就紧急戒严事件表态</title>
@@ -154,13 +162,6 @@
 			<description>韩联社首尔12月17日电 据韩国法律界17日消息，负责审理总统尹锡悦弹劾案件的宪法裁判所（宪法法院）当天起正式启动审理准备程序，决定成立由10名宪法研究员组成的专门工作组进行准备。
 </description>
 			<pubDate>Tue, 17 Dec 2024 09:15:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241217000400881</guid>
-			<title>股市开盘：KOSDAQ▲0.99</title>
-			<link>https://cn.yna.co.kr/view/ACK20241217000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报699.52点，较前一交易日上升0.99点。</description>
-			<pubDate>Tue, 17 Dec 2024 09:01:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
