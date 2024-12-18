@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 18 Dec 2024 09:56:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 18 Dec 2024 12:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241218000900881</guid>
+			<title>尹锡悦拒绝戒严联侦组传唤未到案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241218000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月18日电 韩国总统尹锡悦涉嫌内乱等罪名被戒严联合侦查组要求18日到案受讯，但其拒绝传讯，并未到案。
+</description>
+			<pubDate>Wed, 18 Dec 2024 11:18:26 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241218000600881</guid>
+			<title>韩军明实施反制朝鲜无人机渗透演练</title>
+			<link>https://cn.yna.co.kr/view/ACK20241218000600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月18日电 韩国联合参谋本部18日表示，韩军将于19日实施第四季度联合防空演练，应对朝鲜小型无人机渗透可能性。
+</description>
+			<pubDate>Wed, 18 Dec 2024 10:08:58 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241218000200881</guid>
 			<title>联合国大会连续20年通过朝鲜人权决议案</title>
@@ -143,22 +159,6 @@
 			<description>韩联社首尔12月17日电 韩国国家情报院（国情院）17日针对美国政府发布援俄朝军阵亡的消息表示，已从各种渠道获得了相关情报，目前正在进行核实。
 </description>
 			<pubDate>Tue, 17 Dec 2024 15:17:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241217001500881</guid>
-			<title>韩代总统指示财政部门新年首日起执行新预算案</title>
-			<link>https://cn.yna.co.kr/view/ACK20241217001500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月17日电 韩国代行总统职权的国务总理韩悳洙17日主持国务会议时强调全力恢复民生经济，要求财政部门尽快完成预算分配，从明年1月1日起执行2025年财政预算案。
-</description>
-			<pubDate>Tue, 17 Dec 2024 15:17:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241217001300881</guid>
-			<title>韩国合作侦查本部再度试图查抄总统府</title>
-			<link>https://cn.yna.co.kr/view/ACK20241217001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月17日电 韩国“12·3紧急戒严事件”合作侦查本部17日试图对位于首尔龙山总统府再一次进行查抄，查抄对象为总统府内的总统警卫处。
-</description>
-			<pubDate>Tue, 17 Dec 2024 14:33:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
