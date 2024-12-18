@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 18 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 19 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241119003300881</guid>
+			<title>2024年12月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241119003300881?section=news&amp;input=rss</link>
+			<description>1882年 玄琴大师李寿卿（1882—1955）出生。
+</description>
+			<pubDate>Thu, 19 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241218003500881</guid>
+			<title>尹锡悦宅家迎64岁生日</title>
+			<link>https://cn.yna.co.kr/view/ACK20241218003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月18日电 18日，被弹劾停职的韩国总统尹锡悦迎来了64岁生日。
+</description>
+			<pubDate>Wed, 18 Dec 2024 21:37:53 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241218003400881</guid>
 			<title>韩国三养食品将在嘉兴设厂生产火鸡面</title>
@@ -146,20 +162,6 @@
 			<description>韩联社纽约12月17日电 联合国大会17日在美国纽约联合国总部召开全体会议并通过朝鲜人权决议案，谴责朝方有组织且广泛侵犯人权。
 </description>
 			<pubDate>Wed, 18 Dec 2024 09:12:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241218000500881</guid>
-			<title>股市开盘：KOSPI▲6.25</title>
-			<link>https://cn.yna.co.kr/view/ACK20241218000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2463.06点，较前一交易日上升6.25点。</description>
-			<pubDate>Wed, 18 Dec 2024 09:01:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241218000400881</guid>
-			<title>股市开盘：KOSDAQ▲0.47</title>
-			<link>https://cn.yna.co.kr/view/ACK20241218000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报694.94点，较前一交易日上升0.47点。</description>
-			<pubDate>Wed, 18 Dec 2024 09:01:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
