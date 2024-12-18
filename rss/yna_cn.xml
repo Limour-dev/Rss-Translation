@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 18 Dec 2024 12:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 18 Dec 2024 15:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241218001500881</guid>
+			<title>第十届韩中人文学论坛20日在济州开幕</title>
+			<link>https://cn.yna.co.kr/view/ACK20241218001500881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月18日电 韩国教育部和国家研究基金会18日表示，将于20日携手中国社会科学院在济州道济州市的华美达广场酒店举办第十届韩中人文学论坛，为期两天。
+</description>
+			<pubDate>Wed, 18 Dec 2024 14:35:25 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241218001400881</guid>
+			<title>IU获评美公告牌最佳韩国艺人</title>
+			<link>https://cn.yna.co.kr/view/ACK20241218001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月18日电 经纪公司EDAM娱乐18日表示，旗下歌手IU被美国公告牌评选为全球最佳艺人（Global No. 1 Artist Series）韩国代表。
+</description>
+			<pubDate>Wed, 18 Dec 2024 13:58:09 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241218000900881</guid>
 			<title>尹锡悦拒绝戒严联侦组传唤未到案</title>
@@ -144,21 +160,6 @@
 			<description>联社首尔12月17日电 据韩国宪法法院17日消息，总统尹锡悦从16日至今仍未接收宪院发送的国会的总统弹劾决议书。
 </description>
 			<pubDate>Tue, 17 Dec 2024 15:32:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241217001800881</guid>
-			<title>15：30外汇汇率:1美元=1,438.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241217001800881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1438.9，较前一交易日下跌3.9韩元。</description>
-			<pubDate>Tue, 17 Dec 2024 15:30:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241217001700881</guid>
-			<title>韩情报机构：正核实援俄朝军出现阵亡人员消息</title>
-			<link>https://cn.yna.co.kr/view/ACK20241217001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月17日电 韩国国家情报院（国情院）17日针对美国政府发布援俄朝军阵亡的消息表示，已从各种渠道获得了相关情报，目前正在进行核实。
-</description>
-			<pubDate>Tue, 17 Dec 2024 15:17:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
