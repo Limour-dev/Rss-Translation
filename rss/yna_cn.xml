@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 19 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 20 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120003700881</guid>
+			<title>2024年12月20日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120003700881?section=news&amp;input=rss</link>
+			<description>1927年 韩国前总统金泳三（1927—2015）出生。
+</description>
+			<pubDate>Fri, 20 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241219003600881</guid>
+			<title>SK海力士获美政府4.58亿美元补助</title>
+			<link>https://cn.yna.co.kr/view/ACK20241219003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月19日电 当地时间19日，美国商务部确认针对韩国芯片制造商SK海力士的《芯片与科学法案》激励措施，将向其提供4.58亿美元的直接补贴。
+</description>
+			<pubDate>Thu, 19 Dec 2024 22:06:46 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241219003500881</guid>
 			<title>春兰杯朴廷桓将同杨楷文争夺冠军</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔12月19日电 韩国宪法裁判所（宪法法院）19日上午就总统尹锡悦弹劾案举行法官评议会。
 </description>
 			<pubDate>Thu, 19 Dec 2024 10:39:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219000700881</guid>
-			<title>韩元汇率盘中跌破1450 创金融危机以来新低</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月19日电 韩元对美元汇率19日盘中失守1450韩元（约合人民币7.33元），创下全球金融危机以来的最低值。
-</description>
-			<pubDate>Thu, 19 Dec 2024 10:26:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219000100881</guid>
-			<title>韩军曾为戒严投入1500余名兵力和1万多枚实弹</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219000100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月19日电 韩国国防部的一份资料显示，在“12·3紧急戒严”当时，戒严军投入1500多名兵力、107辆军用车辆和1万枚以上的实弹。
-</description>
-			<pubDate>Thu, 19 Dec 2024 09:12:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
