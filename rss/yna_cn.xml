@@ -4,8 +4,41 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 20 Dec 2024 09:56:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 20 Dec 2024 12:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241220001200881</guid>
+			<title>韩党政高层会议举行 共商与美新政府沟通方案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241220001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月20日电 韩国代理总统职务的国务总理韩悳洙和执政党国民力量党鞭兼代理党首权性东20日举行党政高层会议，就在弹劾政局下重拾国际社会信任、应对美国新政府成立等事宜进行讨论。
+</description>
+			<pubDate>Fri, 20 Dec 2024 11:38:44 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241220000700881</guid>
+			<title>韩东海石油气田勘探项目探井工作启动</title>
+			<link>https://cn.yna.co.kr/view/ACK20241220000700881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月20日电 韩国石油公社20日发布新闻稿称，东海石油气田勘探项目的第一期探井工作当天在距离庆北浦项沿岸40公里外的潜在气源海域启动。
+</description>
+			<pubDate>Fri, 20 Dec 2024 11:32:22 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241220000800881</guid>
+			<title>韩总统弹劾案控方座谈 立志完成弹劾审判</title>
+			<link>https://cn.yna.co.kr/view/ACK20241220000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月20日电 韩国总统尹锡悦弹劾委员团和法律代理人团20日在国会举行座谈会，立志完成弹劾审判。
+</description>
+			<pubDate>Fri, 20 Dec 2024 10:53:15 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241220000600881</guid>
+			<title>韩戒严联侦组二度向尹锡悦发送传唤通知书</title>
+			<link>https://cn.yna.co.kr/view/ACK20241220000600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月20日电 韩国侦办“12·3紧急戒严事件”的联合侦查组（下称戒严联侦组）20日向总统尹锡悦第二次发送传唤通知书。
+
+</description>
+			<pubDate>Fri, 20 Dec 2024 09:58:41 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241220000200881</guid>
 			<title>美副国务卿：近期将同韩政府举行高层会晤</title>
@@ -129,36 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241219002000881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2435.93点，较前一交易日下跌48.50点。</description>
 			<pubDate>Thu, 19 Dec 2024 15:32:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219001900881</guid>
-			<title>股市收盘：KOSDAQ▼13.21</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219001900881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报684.36点，较前一交易日下跌13.21点。</description>
-			<pubDate>Thu, 19 Dec 2024 15:32:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219001800881</guid>
-			<title>15：30外汇汇率：1美元=1451.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219001800881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1451.9，较前一交易日下跌16.4韩元。</description>
-			<pubDate>Thu, 19 Dec 2024 15:31:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219001400881</guid>
-			<title>韩国对自华石油树脂征收临时反倾销税</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月19日电 韩国产业通商资源部贸易委员会（下称贸易委）19日召开第455次会议，决定对原产于中国大陆和台湾的进口石油树脂征收最高18.52%的临时反倾销税。
-</description>
-			<pubDate>Thu, 19 Dec 2024 15:14:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219001500881</guid>
-			<title>韩情报机构：援俄朝军至少有100人阵亡</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219001500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月19日电 据韩国执政党国民力量籍议员李成权19日透露，韩国国家情报院（国情院）当天在由国会情报委员会主办的闭门座谈会上报告称，朝鲜派往俄罗斯参加侵乌战争的官兵当中，至少已有100人死亡。
-</description>
-			<pubDate>Thu, 19 Dec 2024 15:02:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
