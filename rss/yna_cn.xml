@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 21 Dec 2024 06:06:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 21 Dec 2024 09:51:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241220001700881</guid>
+			<title>一周韩娱：韩裔歌手在华演出 GFRIEND将办亚巡</title>
+			<link>https://cn.yna.co.kr/view/ACK20241220001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月21日电 【要问回顾】韩国流行音乐演出时隔8年在华上演；GFRIEND将举行十周年纪念亚巡；IU获评美公告牌最佳韩国艺人；SEVENTEEN有望连续两年全年专辑销量破千万。
+</description>
+			<pubDate>Sat, 21 Dec 2024 08:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241120003800881</guid>
 			<title>2024年12月21日韩国历史上的今天</title>
@@ -154,15 +162,6 @@
 			<description>韩联社首尔12月20日电 韩国总统尹锡悦弹劾委员团和法律代理人团20日在国会举行座谈会，立志完成弹劾审判。
 </description>
 			<pubDate>Fri, 20 Dec 2024 10:53:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220000600881</guid>
-			<title>韩戒严联侦组二度向尹锡悦发送传唤通知书</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月20日电 韩国侦办“12·3紧急戒严事件”的联合侦查组（下称戒严联侦组）20日向总统尹锡悦第二次发送传唤通知书。
-
-</description>
-			<pubDate>Fri, 20 Dec 2024 09:58:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
