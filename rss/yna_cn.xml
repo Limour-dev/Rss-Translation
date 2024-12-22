@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Dec 2024 15:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 22 Dec 2024 18:06:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222001700881</guid>
+			<title>韩国检警分别传讯情报机构首长和统一部长官</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月22日电 据韩国法律界和警方22日消息，检方和警方分别对国家情报院院长赵太庸和统一部长官金暎浩进行非公开调查。
+</description>
+			<pubDate>Sun, 22 Dec 2024 16:34:07 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241222001600881</guid>
+			<title>SBS视后张娜拉：愿做能引发观众好奇的演员</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月22日电 摘得SBS视后桂冠的张娜拉22日表示，希望能成为引发观众好奇的演员。
+</description>
+			<pubDate>Sun, 22 Dec 2024 15:28:19 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241222001500881</guid>
+			<title>韩国金融资产总额超500万元富人占总人口0.9%</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月22日电 韩国2023年金融资产总额达10亿韩元（约合人民币503.37万元）以上的富人同比增加1%，为46.1万人，占总人口0.9%。
+</description>
+			<pubDate>Sun, 22 Dec 2024 15:16:31 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241222001400881</guid>
 			<title>韩最大在野党吁代总统尽快颁布涉总统夫妇独检法</title>
@@ -140,28 +164,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241220002100881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报668.31点，较前一交易日下跌16.05点。</description>
 			<pubDate>Fri, 20 Dec 2024 15:33:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220002000881</guid>
-			<title>股市收盘：KOSPI▼31.78</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220002000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2404.15点，较前一交易日下跌31.78点。</description>
-			<pubDate>Fri, 20 Dec 2024 15:33:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220001900881</guid>
-			<title>15：30外汇汇率：1美元=1451.4韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220001900881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1451.4，较前一交易日上升0.5韩元。</description>
-			<pubDate>Fri, 20 Dec 2024 15:32:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220001600881</guid>
-			<title>韩警方戒严侦查组调查代总统韩悳洙</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220001600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月20日电 韩国警察厅国家侦查本部负责调查“12·3紧急戒严事件”的特别侦查组20日表示，截至目前，包括代行总统职权的国务总理（代理总统）韩悳洙在内，紧急戒严当时出席国务会议的9人以嫌疑人或案件相关人身份接受警方调查。
-</description>
-			<pubDate>Fri, 20 Dec 2024 15:01:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
