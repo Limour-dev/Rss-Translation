@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Dec 2024 10:01:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 22 Dec 2024 12:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222000800881</guid>
+			<title>韩副外长金烘均将接连出访美日</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月22日电 韩国外交部22日表示，第一次官（副部长）金烘均将于22日起接连出访美国和日本，为期五天。
+</description>
+			<pubDate>Sun, 22 Dec 2024 11:01:37 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241222000100881</guid>
+			<title>韩新世界集团会长郑溶镇拜会美当选总统特朗普</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222000100881?section=news&amp;input=rss</link>
+			<description>韩联社亚特兰大12月21日电 韩国新世界集团会长郑溶镇21日表示日前拜会美国当选总统特朗普。
+</description>
+			<pubDate>Sun, 22 Dec 2024 10:04:33 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241222000200881</guid>
 			<title>详讯：韩国第三颗军事侦察卫星成功发射升空</title>
@@ -146,22 +162,6 @@
 			<description>韩联社世宗12月20日电 朝鲜2023年实际国内生产总值（GDP）同比增长3.1%，时隔4年由负转正。这归因于朝鲜重新开放因疫情而一度封锁的国境。
 </description>
 			<pubDate>Fri, 20 Dec 2024 14:52:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220001400881</guid>
-			<title>GFRIEND将举行出道十周年纪念亚洲巡演</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月20日电 女团GFRIEND明年将举行出道十周年纪念亚洲巡演。
-</description>
-			<pubDate>Fri, 20 Dec 2024 14:27:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220001300881</guid>
-			<title>民调：韩国朝野两大党支持率差距创现政府最高</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月20日电 韩国一项最新民调结果显示，朝野两大党的支持率差距创下本届政府成立以来的最大值，最大在野党共同民主党以24个百分点的优势领先执政党国民力量。
-</description>
-			<pubDate>Fri, 20 Dec 2024 13:58:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
