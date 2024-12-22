@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Dec 2024 12:16:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 22 Dec 2024 15:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222001400881</guid>
+			<title>韩最大在野党吁代总统尽快颁布涉总统夫妇独检法</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月22日电 韩国最大在野党共同民主党22日敦促代行总统职权的国务总理（代理总统）韩悳洙在24日前颁布《内乱独检法》和《金建希独检法》。
+</description>
+			<pubDate>Sun, 22 Dec 2024 13:41:44 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241222000800881</guid>
 			<title>韩副外长金烘均将接连出访美日</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔12月20日电 韩国警察厅国家侦查本部负责调查“12·3紧急戒严事件”的特别侦查组20日表示，截至目前，包括代行总统职权的国务总理（代理总统）韩悳洙在内，紧急戒严当时出席国务会议的9人以嫌疑人或案件相关人身份接受警方调查。
 </description>
 			<pubDate>Fri, 20 Dec 2024 15:01:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220001500881</guid>
-			<title>朝鲜去年GDP同比增3.1% 时隔四年由负转正</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220001500881?section=news&amp;input=rss</link>
-			<description>韩联社世宗12月20日电 朝鲜2023年实际国内生产总值（GDP）同比增长3.1%，时隔4年由负转正。这归因于朝鲜重新开放因疫情而一度封锁的国境。
-</description>
-			<pubDate>Fri, 20 Dec 2024 14:52:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
