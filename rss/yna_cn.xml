@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 22 Dec 2024 21:16:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 23 Dec 2024 00:06:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120004000881</guid>
+			<title>2024年12月23日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120004000881?section=news&amp;input=rss</link>
+			<description>1877年 抗日独立运动家宋秉祚（1877—1942）出生。
+</description>
+			<pubDate>Mon, 23 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241222001700881</guid>
 			<title>韩国检警分别传讯情报机构首长和统一部长官</title>
@@ -157,13 +165,6 @@
 			<description>韩联社首尔12月20日电 韩国宪法裁判所（宪法法院）20日表示，总统尹锡悦弹劾案相关材料尚未完成送达。预审法官前一日在法官评议会议上汇报庭审准备情况，与法庭其他法官共享了当前情况。
 </description>
 			<pubDate>Fri, 20 Dec 2024 16:06:50 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241220002100881</guid>
-			<title>股市收盘：KOSDAQ▼16.05</title>
-			<link>https://cn.yna.co.kr/view/ACK20241220002100881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报668.31点，较前一交易日下跌16.05点。</description>
-			<pubDate>Fri, 20 Dec 2024 15:33:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
