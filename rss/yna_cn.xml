@@ -4,13 +4,29 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 23 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 23 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241223003400881</guid>
+			<title>韩国朝野两党领导人分晤美国驻韩大使</title>
+			<link>https://cn.yna.co.kr/view/ACK20241223003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月23日电 韩国执政党国民力量党鞭兼代理党首权性东和最大在野党共同民主党党首李在明23日在国会分别会晤到访的美国驻韩国大使菲利普·戈德堡。在总统戒严风波触发弹劾政局情况下，戈德堡强调韩美同盟仍然固若金汤。
+</description>
+			<pubDate>Mon, 23 Dec 2024 20:36:11 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241223003300881</guid>
+			<title>尹锡悦方面：弹劾案审理应优先于戒严案侦查</title>
+			<link>https://cn.yna.co.kr/view/ACK20241223003300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月23日电 韩国总统尹锡悦亲信、律师石东炫23日表示，尹锡悦认为，弹劾案审理应该优先于侦查机关对相关嫌疑的调查。
+</description>
+			<pubDate>Mon, 23 Dec 2024 19:54:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241223003200881</guid>
 			<title>歌手李承桓被指政治煽动 龟尾演唱会被取消</title>
 			<link>https://cn.yna.co.kr/view/ACK20241223003200881?section=news&amp;input=rss</link>
-			<description>韩联社龟尾12月23日电 韩国公开支持弹劾总统尹锡悦的歌手李承桓原计划于25日在庆尚北道龟尾市举行出道35周年演唱会，但市政府取消其租赁场馆许可。
+			<description>韩联社龟尾12月23日电 韩国公开支持弹劾总统尹锡悦的歌手李承桓原计划于25日在庆尚北道龟尾市举行出道35周年演唱会，但市政府禁止其租赁场馆。
 </description>
 			<pubDate>Mon, 23 Dec 2024 17:53:31 +0900</pubDate>
 		</item>
@@ -145,20 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241223000600881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2423.36点，较前一交易日上升19.21点。</description>
 			<pubDate>Mon, 23 Dec 2024 09:01:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241223000500881</guid>
-			<title>股市开盘：KOSDAQ▲5.95</title>
-			<link>https://cn.yna.co.kr/view/ACK20241223000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报674.26点，较前一交易日上升5.95点。</description>
-			<pubDate>Mon, 23 Dec 2024 09:01:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241223000400881</guid>
-			<title>外汇汇率开盘：1美元=1446.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241223000400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1446.0，较前一交易日上升5.4韩元。</description>
-			<pubDate>Mon, 23 Dec 2024 09:00:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
