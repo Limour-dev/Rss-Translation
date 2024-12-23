@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 23 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 24 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120004100881</guid>
+			<title>2024年12月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120004100881?section=news&amp;input=rss</link>
+			<description>1906年 歌唱家李寅善（1906—1961）出生。
+</description>
+			<pubDate>Tue, 24 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241223003500881</guid>
+			<title>韩产机动直升机“鹫百”将销往伊拉克</title>
+			<link>https://cn.yna.co.kr/view/ACK20241223003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月23日电 韩国航空宇宙产业公司（KAI）23日发布公告称，公司与伊拉克政府签署了关于销售、供应韩国国产机动直升机“鹫百”（Surion）的合同，合同金额达1358亿韩元（约合人民币6.9亿元）。
+</description>
+			<pubDate>Mon, 23 Dec 2024 21:35:47 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241223003400881</guid>
 			<title>韩国朝野两党领导人分晤美国驻韩大使</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔12月23日电 朝鲜官媒23日大篇幅报道西北部洪涝灾区重建任务完成的消息，并称其为“建设史上的奇迹”，大举宣传国务委员会委员长金正恩的“爱民”形象。
 </description>
 			<pubDate>Mon, 23 Dec 2024 09:33:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241223000200881</guid>
-			<title>韩副外长：已与特朗普方面就国内局势进行沟通</title>
-			<link>https://cn.yna.co.kr/view/ACK20241223000200881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿12月22日电 正在美国访问的韩国外交部第一次官（副部长）金烘均22日在杜勒斯国际机场会见韩媒记者时表示，政府已向美国当选总统特朗普方面就有关戒严和弹劾的国内情况作了说明。
-</description>
-			<pubDate>Mon, 23 Dec 2024 09:10:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241223000600881</guid>
-			<title>股市开盘：KOSPI▲19.21</title>
-			<link>https://cn.yna.co.kr/view/ACK20241223000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2423.36点，较前一交易日上升19.21点。</description>
-			<pubDate>Mon, 23 Dec 2024 09:01:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
