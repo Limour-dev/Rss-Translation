@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 24 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 24 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241224003400881</guid>
+			<title>韩在野党：暂缓发起代总统韩悳洙弹劾案</title>
+			<link>https://cn.yna.co.kr/view/ACK20241224003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月24日电 韩国最大在野党共同民主党24日决定暂缓发起弹劾代行总统职权的国务总理韩悳洙的提案。
+</description>
+			<pubDate>Tue, 24 Dec 2024 19:01:05 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241224003500881</guid>
+			<title>韩政府：韩美就在拜登任期内举行外长会协调日程</title>
+			<link>https://cn.yna.co.kr/view/ACK20241224003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月24日电 韩国外交部官员24日透露，政府正就在美国总统拜登任期内（截至明年1月20日）举行韩美外长会谈一事与美方协调日程。
+</description>
+			<pubDate>Tue, 24 Dec 2024 18:44:34 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241224002700881</guid>
 			<title>被曝懈怠服役的WINNER宋旻浩昨退役</title>
@@ -144,21 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241224000300881?section=news&amp;input=rss</link>
 			<description>KOSDAQ开盘报683.02点，较前一交易日上升3.78点。</description>
 			<pubDate>Tue, 24 Dec 2024 09:01:13 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241224000200881</guid>
-			<title>外汇汇率开盘：1美元=1451.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241224000200881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1451.5，较前一交易日上升0.5韩元。</description>
-			<pubDate>Tue, 24 Dec 2024 09:00:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241120004100881</guid>
-			<title>2024年12月24日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241120004100881?section=news&amp;input=rss</link>
-			<description>1906年 歌唱家李寅善（1906—1961）出生。
-</description>
-			<pubDate>Tue, 24 Dec 2024 00:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
