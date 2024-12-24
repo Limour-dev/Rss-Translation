@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 24 Dec 2024 12:16:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 24 Dec 2024 15:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241224001900881</guid>
+			<title>韩65岁以上人口占比超二成 超级老龄社会到来</title>
+			<link>https://cn.yna.co.kr/view/ACK20241224001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月24日电 韩国行政安全部24日发布的一组数据显示，截至前一天，登记人口中65岁以上人口占比超过20%，韩国进入超级老龄社会。
+</description>
+			<pubDate>Tue, 24 Dec 2024 14:54:36 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241224001800881</guid>
+			<title>详讯：尹锡悦明恐不会到案受讯</title>
+			<link>https://cn.yna.co.kr/view/ACK20241224001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月24日电 韩国总统尹锡悦的亲信、律师石东炫24日在自己的办公室会见记者时表示，尹锡悦25日恐难到案受讯。
+</description>
+			<pubDate>Tue, 24 Dec 2024 14:27:29 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241224001700881</guid>
 			<title>尹锡悦亲信：总统明恐难到案受讯</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔12月23日电 韩国侦办“12·3紧急戒严事件”的联合侦查组（下称“联侦组”）23日表示，涉嫌内乱的总统尹锡悦拒绝接收高级公职人员犯罪调查处（公调处）以邮寄形式第二次发送的传唤通知书。
 </description>
 			<pubDate>Mon, 23 Dec 2024 15:44:42 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241223001700881</guid>
-			<title>韩国会举行宪院法官人选听证会 执政党缺席</title>
-			<link>https://cn.yna.co.kr/view/ACK20241223001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月23日电 韩国国会人事听证特别委员会23日就最大在野党共同民主党推荐的宪法裁判所（宪法法院）法官候选人马恩赫、郑桂先举行人事听证会，执政党国民力量缺席会议。
-</description>
-			<pubDate>Mon, 23 Dec 2024 15:39:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241223002200881</guid>
-			<title>股市收盘：KOSDAQ▲10.93</title>
-			<link>https://cn.yna.co.kr/view/ACK20241223002200881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报679.24点，较前一交易日上升10.93点。</description>
-			<pubDate>Mon, 23 Dec 2024 15:33:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
