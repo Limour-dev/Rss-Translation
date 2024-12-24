@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 24 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 25 Dec 2024 00:06:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120004200881</guid>
+			<title>2024年12月25日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120004200881?section=news&amp;input=rss</link>
+			<description>1960年 釜山国际市场失火导致234个门店被烧毁。
+</description>
+			<pubDate>Wed, 25 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241224003900881</guid>
+			<title>韩中外长通电话就双边关系交换意见</title>
+			<link>https://cn.yna.co.kr/view/ACK20241224003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月24日电 韩国外交部24日表示，外长赵兑烈应约同中共中央政治局委员、外交部长王毅通电话，就韩国国内局势和韩中关系等交换意见。
+</description>
+			<pubDate>Tue, 24 Dec 2024 21:56:19 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241224003400881</guid>
 			<title>韩在野党：暂缓发起代总统韩悳洙弹劾案</title>
@@ -146,20 +162,6 @@
 			<description>韩联社华盛顿12月23日电 韩国外交部23日发布新闻资料称，韩美商定全面重启因韩国戒严事态被推迟的两国主要外交和安全相关活动。双方一致认为需要应对朝鲜对韩国政局作出误判并发起挑衅的可能性，并决定进一步巩固联合戒备态势。
 </description>
 			<pubDate>Tue, 24 Dec 2024 09:05:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241224000400881</guid>
-			<title>股市开盘：KOSPI▲8.54</title>
-			<link>https://cn.yna.co.kr/view/ACK20241224000400881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2450.55点，较前一交易日上升8.54点。</description>
-			<pubDate>Tue, 24 Dec 2024 09:01:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241224000300881</guid>
-			<title>股市开盘：KOSDAQ▲3.78</title>
-			<link>https://cn.yna.co.kr/view/ACK20241224000300881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报683.02点，较前一交易日上升3.78点。</description>
-			<pubDate>Tue, 24 Dec 2024 09:01:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
