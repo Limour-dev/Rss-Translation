@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 25 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 26 Dec 2024 00:06:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120004300881</guid>
+			<title>2024年12月26日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120004300881?section=news&amp;input=rss</link>
+			<description>1962年 华克山庄酒店在首尔广津区广场洞竣工。华克山庄取名自在韩国战争中阵亡的美军8军司令沃尔顿·沃克（Walton H. Walker）将军。
+</description>
+			<pubDate>Thu, 26 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241225001700881</guid>
 			<title>韩央行：明年将追加降息缓解经济下行压力</title>
@@ -155,13 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241224002300881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2440.52点，较前一交易日下跌1.49点。</description>
 			<pubDate>Tue, 24 Dec 2024 15:32:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241224002200881</guid>
-			<title>15：30外汇汇率：1美元=1456.4韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241224002200881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1456.4，较前一交易日下跌4.4韩元。</description>
-			<pubDate>Tue, 24 Dec 2024 15:30:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
