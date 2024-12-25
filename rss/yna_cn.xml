@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 25 Dec 2024 12:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 25 Dec 2024 15:16:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241225001200881</guid>
+			<title>IU在年底之际向社会弱势群体捐款250万元</title>
+			<link>https://cn.yna.co.kr/view/ACK20241225001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月25日电 经纪公司EDAM娱乐25日表示，旗下歌手IU在辞旧迎新之际，为帮助社会弱势群体捐款5亿韩元（约合人民币250.3万元）。
+</description>
+			<pubDate>Wed, 25 Dec 2024 14:55:58 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241225001300881</guid>
+			<title>韩驻古巴大使馆开馆日期恐推延至明年</title>
+			<link>https://cn.yna.co.kr/view/ACK20241225001300881?section=news&amp;input=rss</link>
+			<description>韩联社墨西哥城12月24日电 综合韩国外交部门24日消息，韩国驻古巴大使馆开馆日期从年底被推迟至明年初。
+</description>
+			<pubDate>Wed, 25 Dec 2024 14:27:48 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241225001100881</guid>
 			<title>玄彬新片《哈尔滨》上映开门红</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔12月24日电 韩国总统尹锡悦的亲信、律师石东炫24日在自己的办公室会见记者时表示，尹锡悦25日恐难到案受讯。
 </description>
 			<pubDate>Tue, 24 Dec 2024 14:27:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241224001700881</guid>
-			<title>尹锡悦亲信：总统明恐难到案受讯</title>
-			<link>https://cn.yna.co.kr/view/ACK20241224001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月24日电 韩国总统尹锡悦方面24日表示，尹锡悦25日恐难到案受讯。
-</description>
-			<pubDate>Tue, 24 Dec 2024 11:46:48 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241224001600881</guid>
-			<title>韩执政党提名权宁世为临时领导人</title>
-			<link>https://cn.yna.co.kr/view/ACK20241224001600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月24日电 韩国执政党国民力量24日提名五次当选议员权宁世为紧急对策委员会委员长（临时领导人）。
-</description>
-			<pubDate>Tue, 24 Dec 2024 11:12:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
