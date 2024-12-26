@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 26 Dec 2024 18:11:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 26 Dec 2024 21:21:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226004300881</guid>
+			<title>韩日副外长在东京举行会谈</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226004300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、东京12月26日电 韩国外交部26日表示，第一次官（副部长）金烘均当天在日本东京会见日本外务事务次官冈野正敬，双方就两国关系以及韩日和韩美日合作、朝鲜问题等共同关切事宜交换意见。
+</description>
+			<pubDate>Thu, 26 Dec 2024 20:31:29 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241226004200881</guid>
+			<title>韩新世界集团明年与阿里巴巴成立合资公司</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月26日电 韩国新世界集团和中国阿里巴巴集团旗下的阿里巴巴国际站成立合资公司“Grand Opus Holding”，建立战略同盟关系。
+</description>
+			<pubDate>Thu, 26 Dec 2024 19:19:08 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241226004100881</guid>
 			<title>韩最大在野党发起代总统弹劾案 明日表决</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔12月26日电 据经纪公司OA娱乐26日消息，女团BLACKPINK成员JENNIE将于明年发布个人新辑。
 </description>
 			<pubDate>Thu, 26 Dec 2024 09:35:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226000200881</guid>
-			<title>韩宪院明启动尹锡悦弹劾案首次庭前会议</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月26日电 韩国宪法裁判所（宪法法院）27日将启动对“12·3紧急戒严事件”所引发的总统尹锡悦弹劾案的审理流程。这是韩国宪政史上宪院审理的第三宗总统弹劾案。
-</description>
-			<pubDate>Thu, 26 Dec 2024 09:19:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226000700881</guid>
-			<title>股市开盘：KOSPI▲9.00</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226000700881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2449.52点，较前一交易日上升9.00点。</description>
-			<pubDate>Thu, 26 Dec 2024 09:01:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
