@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 26 Dec 2024 21:21:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 27 Dec 2024 00:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241120004400881</guid>
+			<title>2024年12月27日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241120004400881?section=news&amp;input=rss</link>
+			<description>1863年 抗日独立运动家南宫檍（1863—1939）出生。
+</description>
+			<pubDate>Fri, 27 Dec 2024 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241226004300881</guid>
 			<title>韩日副外长在东京举行会谈</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔12月26日电 有分析认为，全球速卖通和Temu等中国跨境电商平台在韩国凭借超低价格迅速扩大用户规模，但对整体市场产生的影响不大。
 </description>
 			<pubDate>Thu, 26 Dec 2024 10:03:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226000900881</guid>
-			<title>JENNIE新年将发个人新辑</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月26日电 据经纪公司OA娱乐26日消息，女团BLACKPINK成员JENNIE将于明年发布个人新辑。
-</description>
-			<pubDate>Thu, 26 Dec 2024 09:35:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
