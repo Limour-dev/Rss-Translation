@@ -4,8 +4,39 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 27 Dec 2024 09:56:11 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 27 Dec 2024 12:11:11 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241227001600881</guid>
+			<title>韩副总理崔相穆吁国会勿弹劾代总统韩悳洙</title>
+			<link>https://cn.yna.co.kr/view/ACK20241227001600881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月27日电 韩国副总理兼企划财政部长官崔相穆27日呼吁国会不要弹劾代行总统职权的国务总理（代理总统）韩悳洙。
+</description>
+			<pubDate>Fri, 27 Dec 2024 11:31:14 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241227001700881</guid>
+			<title>简讯：韩情报机构证实一朝兵被乌军俘虏</title>
+			<link>https://cn.yna.co.kr/view/ACK20241227001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月27日电 韩国国家情报院（“国情院”）27日表示，经与友邦情报机关实时共享情报，确认一名受伤的朝鲜军人被乌军俘虏，将继续跟进后续情况。
+</description>
+			<pubDate>Fri, 27 Dec 2024 11:29:22 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241227001500881</guid>
+			<title>快讯：韩情报机构证实一朝兵被乌军俘获</title>
+			<link>https://cn.yna.co.kr/view/ACK20241227001500881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Fri, 27 Dec 2024 10:47:39 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241227001400881</guid>
+			<title>韩国任命国际金融合作大使负责提升国际信誉</title>
+			<link>https://cn.yna.co.kr/view/ACK20241227001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月27日电 韩国代行总统职权的国务总理韩悳洙27日任命前金融委员会委员长（部长级）崔锺球为国际金融合作大使，负责提升因“12·3紧急戒严事件”受冲击的国际信誉，任期为一年。
+</description>
+			<pubDate>Fri, 27 Dec 2024 10:30:56 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241227000600881</guid>
 			<title>韩元汇率盘中失守1470 刷新金融危机后新低</title>
@@ -130,35 +161,6 @@
 			<description>韩联社首尔12月26日电 韩国国会26日召开全体会议，表决通过了关于任命3名宪法裁判所（宪法法院）法官候选人的议案。
 </description>
 			<pubDate>Thu, 26 Dec 2024 15:58:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226003100881</guid>
-			<title>股市收盘:KOSDAQ▼4.47</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226003100881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报675.64点，较前一交易日下跌4.47点。</description>
-			<pubDate>Thu, 26 Dec 2024 15:34:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226003000881</guid>
-			<title>股市收盘:KOSPI▼10.85</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2429.67点，较前一交易日下跌10.85点。</description>
-			<pubDate>Thu, 26 Dec 2024 15:32:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226002800881</guid>
-			<title>15：30外汇汇率:1美元=1464.8韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226002800881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1464.8，较前一交易日下跌8.4韩元。</description>
-			<pubDate>Thu, 26 Dec 2024 15:30:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226002600881</guid>
-			<title>统计：韩10月出生人口增幅创近12年来新高</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226002600881?section=news&amp;input=rss</link>
-			<description>韩联社世宗12月26日电 韩国统计厅26日发布的“10月人口动向”资料显示，韩国今年10月出生人口为2.1398万人，同比增加13.4%，增幅创近12年之最。
-</description>
-			<pubDate>Thu, 26 Dec 2024 15:11:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
