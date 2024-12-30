@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 30 Dec 2024 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 31 Dec 2024 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241121004800881</guid>
+			<title>2024年12月31日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241121004800881?section=news&amp;input=rss</link>
+			<description>1920年 朝鲜总督府禁止使用旧朝鲜王朝货币。
+</description>
+			<pubDate>Tue, 31 Dec 2024 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241230004000881</guid>
 			<title>韩忠南瑞山海域一渔船倾覆 2人获救5人失踪</title>
@@ -154,14 +162,6 @@
 			<description>韩联社务安12月30日电 韩国国土交通部30日在务安机场大楼面向济州航空空难遇难者遗属举行的记者会上表示，截至上午7时25分，140名死者身份确定。
 </description>
 			<pubDate>Mon, 30 Dec 2024 09:44:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230000600881</guid>
-			<title>韩济州航空一波音737客机因起落架故障返航</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月30日电 据韩国航空业界30日消息，济州航空当天由首尔金浦飞往济州的7C101航班因起落架出现异常而返航。
-</description>
-			<pubDate>Mon, 30 Dec 2024 09:15:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
