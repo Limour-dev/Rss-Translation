@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 30 Dec 2024 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 30 Dec 2024 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241230004000881</guid>
+			<title>韩忠南瑞山海域一渔船倾覆 2人获救5人失踪</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230004000881?section=news&amp;input=rss</link>
+			<description>韩联社瑞山12月30日电 据韩国忠南消防本部和海警等30日消息，当天下午6时35分许，在忠清南道瑞山市八峰面古波岛里附近海域，一艘渔船倾覆。海警正在展开搜救工作。
+</description>
+			<pubDate>Mon, 30 Dec 2024 20:42:04 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241230003900881</guid>
+			<title>韩政府：失事客机事发前发出涉鸟击紧急求救信号</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230003900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月30日电 韩国国土交通部（下称“国土部”）30日就务安国际机场坠机事故表示，济州航空失事客机机长在事发4分钟前提到“鸟击”并发出了“Mayday”紧急求救信号。
+</description>
+			<pubDate>Mon, 30 Dec 2024 19:52:04 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241230003700881</guid>
+			<title>尹锡悦方面称公调处提请签发拘留证属违法行为</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月30日电 因涉嫌内乱而被弹劾停职的韩国总统尹锡悦方面30日就高级公职人员犯罪调查处（公调处）提请法院对其签发拘留证表示，公调处无权调查内乱罪，提请签发拘留证属于违法行为。
+</description>
+			<pubDate>Mon, 30 Dec 2024 18:57:45 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241230003800881</guid>
 			<title>韩副外长金烘均会见新任中国驻韩大使戴兵</title>
@@ -138,27 +162,6 @@
 			<description>韩联社首尔12月30日电 据韩国航空业界30日消息，济州航空当天由首尔金浦飞往济州的7C101航班因起落架出现异常而返航。
 </description>
 			<pubDate>Mon, 30 Dec 2024 09:15:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230000500881</guid>
-			<title>股市开盘：KOSPI▼7.28</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2397.49点，较前一交易日下跌7.28点。</description>
-			<pubDate>Mon, 30 Dec 2024 09:01:47 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230000400881</guid>
-			<title>股市开盘：KOSDAQ▼3.29</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报662.68点，较前一交易日下跌3.29点。</description>
-			<pubDate>Mon, 30 Dec 2024 09:01:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230000300881</guid>
-			<title>外汇汇率开盘：1美元=1475.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230000300881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1475.0，较前一交易日下跌7.5韩元。</description>
-			<pubDate>Mon, 30 Dec 2024 09:00:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
