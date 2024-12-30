@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 30 Dec 2024 12:17:14 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 30 Dec 2024 15:12:14 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241230002100881</guid>
+			<title>韩国将对空难同型号波音客机进行特别检查</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230002100881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月30日电 韩国国土交通部（下称“国土部”）30日在中央政府世宗大楼举行务安客机事故记者会时表示，将对所有失事客机同型号波音客机（737-800）进行特别检查。
+</description>
+			<pubDate>Mon, 30 Dec 2024 14:55:23 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241230002000881</guid>
+			<title>详讯：韩国公调处提请法院批准拘留尹锡悦</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月30日电 韩国高级公职人员犯罪调查处（公调处）30日提请法院对涉嫌发动内乱的总统尹锡悦签发拘留证。
+</description>
+			<pubDate>Mon, 30 Dec 2024 13:58:19 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241230001900881</guid>
 			<title>韩国公调处提请法院批准拘留尹锡悦</title>
@@ -145,22 +161,6 @@
 			<description>韩联社务安12月29日电 韩国全罗南道务安国际机场29日发生坠机事故，截至发稿，事故造成至少125人遇难。
 </description>
 			<pubDate>Sun, 29 Dec 2024 16:26:43 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241229002100881</guid>
-			<title>详讯：韩国发生重大坠机事故 至少124人遇难</title>
-			<link>https://cn.yna.co.kr/view/ACK20241229002100881?section=news&amp;input=rss</link>
-			<description>韩联社务安12月29日电 韩国全罗南道务安国际机场29日发生坠机事故，造成机上至少124人遇难，2人获救。消防部门推测机上大部分人员或已死亡。
-</description>
-			<pubDate>Sun, 29 Dec 2024 15:37:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241229002000881</guid>
-			<title>韩政府将坠机事故发生地划设为特别灾区</title>
-			<link>https://cn.yna.co.kr/view/ACK20241229002000881?section=news&amp;input=rss</link>
-			<description>韩联社世宗12月29日电 韩国代行总统职权的副总理兼企划财政部长官（代理总统）崔相穆29日宣布，政府将发生坠机事故的全罗南道务安郡划设为“特别灾难地区”。
-</description>
-			<pubDate>Sun, 29 Dec 2024 15:26:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
