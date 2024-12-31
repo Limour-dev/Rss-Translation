@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 31 Dec 2024 12:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 31 Dec 2024 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241231001600881</guid>
+			<title>韩公调处：尹锡悦拘留证指控其为“内乱魁首”</title>
+			<link>https://cn.yna.co.kr/view/ACK20241231001600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月31日电 韩国高级公职人员犯罪调查处（公调处）负责人31日表示，法院针对总统尹锡悦签发的拘留证上写明其涉嫌违反内乱罪且其为“内乱魁首（头目）”。
+</description>
+			<pubDate>Tue, 31 Dec 2024 14:02:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241231001500881</guid>
 			<title>详讯：尹锡悦涉嫌发动内乱被批准拘留</title>
@@ -152,13 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241230002700881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报678.19点，较前一交易日上升12.22点。</description>
 			<pubDate>Mon, 30 Dec 2024 15:33:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230002600881</guid>
-			<title>15：30外汇汇率：1美元=1472.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230002600881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1472.5，较前一交易日下跌5.0韩元。</description>
-			<pubDate>Mon, 30 Dec 2024 15:30:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
