@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 31 Dec 2024 09:54:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 31 Dec 2024 12:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241231001500881</guid>
+			<title>详讯：尹锡悦涉嫌发动内乱被批准拘留</title>
+			<link>https://cn.yna.co.kr/view/ACK20241231001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月31日电 据韩国法律界31日消息，首尔西部地方法院当天针对总统尹锡悦签发拘留证，这是韩国宪政史上司法机关首次对现任总统采取强制措施。
+</description>
+			<pubDate>Tue, 31 Dec 2024 11:15:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241231000700881</guid>
+			<title>详讯：韩2024年CPI同比上涨2.3% 创近四年新低</title>
+			<link>https://cn.yna.co.kr/view/ACK20241231000700881?section=news&amp;input=rss</link>
+			<description>韩联社世宗12月31日电 韩国统计厅31日发布的“2024年12月及全年消费者物价动向”资料显示，今年全年居民消费价格指数（CPI）为114.18，同比上涨2.3%，涨幅创下近四年来的新低。
+</description>
+			<pubDate>Tue, 31 Dec 2024 10:20:11 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20241231000600881</guid>
+			<title>简讯：尹锡悦涉嫌发动内乱被批准拘留</title>
+			<link>https://cn.yna.co.kr/view/ACK20241231000600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔12月31日电 据韩国法律界31日消息，首尔西部地方法院当天针对总统尹锡悦签发拘留证，这是韩国宪政史上司法机关首次对现任总统采取强制措施。
+</description>
+			<pubDate>Tue, 31 Dec 2024 09:57:42 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241231000400881</guid>
 			<title>韩务安机场跑道外混凝土设施被疑在空难中酿大祸</title>
@@ -135,30 +159,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20241230002600881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1472.5，较前一交易日下跌5.0韩元。</description>
 			<pubDate>Mon, 30 Dec 2024 15:30:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230002200881</guid>
-			<title>韩11月接待外国游客同比增22%</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月30日电 韩国观光公社（旅游发展局）30日表示，韩国11月共接待外国游客136万人次，同比增加22.1%，恢复至2019年疫前同期的93%水平。
-</description>
-			<pubDate>Mon, 30 Dec 2024 15:24:50 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230002300881</guid>
-			<title>韩政府就美前总统卡特去世表哀悼</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月30日电 韩国政府对29日（当地时间）去世的美国前总统吉米·卡特表示哀悼。
-</description>
-			<pubDate>Mon, 30 Dec 2024 15:15:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230002100881</guid>
-			<title>韩国将对空难同型号波音客机进行特别检查</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230002100881?section=news&amp;input=rss</link>
-			<description>韩联社世宗12月30日电 韩国国土交通部（下称“国土部”）30日在中央政府世宗大楼举行务安客机事故记者会时表示，将对所有失事客机同型号波音客机（737-800）进行特别检查。
-</description>
-			<pubDate>Mon, 30 Dec 2024 14:55:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
