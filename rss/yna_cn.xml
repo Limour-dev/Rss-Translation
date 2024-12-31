@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 31 Dec 2024 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 1 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241209000700881</guid>
+			<title>2025年1月1日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241209000700881?section=news&amp;input=rss</link>
+			<description>1896年 朝鲜王朝用阳历替代阴历。
+</description>
+			<pubDate>Wed, 01 Jan 2025 00:00:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241231003200881</guid>
 			<title>韩政府发布《2023外交白皮书》</title>
@@ -154,14 +162,6 @@
 			<description>1920年 朝鲜总督府禁止使用旧朝鲜王朝货币。
 </description>
 			<pubDate>Tue, 31 Dec 2024 00:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230004000881</guid>
-			<title>韩忠南瑞山海域一渔船倾覆 2人获救5人失踪</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230004000881?section=news&amp;input=rss</link>
-			<description>韩联社瑞山12月30日电 据韩国忠南消防本部和海警等30日消息，当天下午6时35分许，在忠清南道瑞山市八峰面古波岛里附近海域，一艘渔船倾覆。海警正在展开搜救工作。
-</description>
-			<pubDate>Mon, 30 Dec 2024 20:42:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
