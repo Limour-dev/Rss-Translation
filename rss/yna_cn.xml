@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 1 Jan 2025 12:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 1 Jan 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250101001400881</guid>
+			<title>韩国土部：已提取失事客机黑匣子中的语音记录</title>
+			<link>https://cn.yna.co.kr/view/ACK20250101001400881?section=news&amp;input=rss</link>
+			<description>韩联社世宗、首尔1月1日电 韩国国土交通部（下称“国土部”）1日在记者会上表示，济州航空失事客机黑匣子中的语音数据已提取完毕，将还原成声音文件后进行分析，并对全国机场设施进行检查。
+</description>
+			<pubDate>Wed, 01 Jan 2025 15:04:26 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250101001300881</guid>
+			<title>韩西部海域船舶倾覆事故又有两名失踪者被发现</title>
+			<link>https://cn.yna.co.kr/view/ACK20250101001300881?section=news&amp;input=rss</link>
+			<description>韩联社泰安1月1日电 据韩国泰安海洋警察署1日消息，日前在忠清南道瑞山市古波岛近海发生的汽渡船倾覆事故失踪人员中又有2人被发现。
+</description>
+			<pubDate>Wed, 01 Jan 2025 13:24:38 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250101000800881</guid>
 			<title>《鱿鱼游戏2》首周观看时长4.9亿小时创纪录</title>
@@ -148,22 +164,6 @@
 			<description>韩联社首尔12月31日电 据韩国法律界31日消息，首尔西部地方法院当天针对总统尹锡悦签发拘留证，这是韩国宪政史上司法机关首次对现任总统采取强制措施。
 </description>
 			<pubDate>Tue, 31 Dec 2024 11:15:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241231000700881</guid>
-			<title>详讯：韩2024年CPI同比上涨2.3% 创近四年新低</title>
-			<link>https://cn.yna.co.kr/view/ACK20241231000700881?section=news&amp;input=rss</link>
-			<description>韩联社世宗12月31日电 韩国统计厅31日发布的“2024年12月及全年消费者物价动向”资料显示，今年全年居民消费价格指数（CPI）为114.18，同比上涨2.3%，涨幅创下近四年来的新低。
-</description>
-			<pubDate>Tue, 31 Dec 2024 10:20:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241231000600881</guid>
-			<title>简讯：尹锡悦涉嫌发动内乱被批准拘留</title>
-			<link>https://cn.yna.co.kr/view/ACK20241231000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月31日电 据韩国法律界31日消息，首尔西部地方法院当天针对总统尹锡悦签发拘留证，这是韩国宪政史上司法机关首次对现任总统采取强制措施。
-</description>
-			<pubDate>Tue, 31 Dec 2024 09:57:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
