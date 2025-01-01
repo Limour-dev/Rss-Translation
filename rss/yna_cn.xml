@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 1 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 2 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241209000800881</guid>
+			<title>2025年1月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241209000800881?section=news&amp;input=rss</link>
+			<description>1410年 朝鲜王朝开始编撰《太祖实录》。
+</description>
+			<pubDate>Thu, 02 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250101001900881</guid>
 			<title>朝媒报道各国元首新年祝福 仅公开普京贺信全文</title>
@@ -156,14 +164,6 @@
 			<description>韩联社瑞山12月31日电 综合各方31日消息，前一日在忠清南道瑞山市古波岛近海发生的汽渡船倾覆事故失踪人员中又有1人被发现。
 </description>
 			<pubDate>Tue, 31 Dec 2024 15:58:50 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241231001800881</guid>
-			<title>韩国土部：务安机场跑道末端安全区设施合规</title>
-			<link>https://cn.yna.co.kr/view/ACK20241231001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔12月31日电 韩国国土交通部（下称“国土部”）31日在中央政府世宗大楼举行的记者会上表示，务安机场跑道尽头的航向台（Localizer）混凝土设施符合相关设置规定。
-</description>
-			<pubDate>Tue, 31 Dec 2024 15:51:55 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
