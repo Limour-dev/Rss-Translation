@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 2 Jan 2025 12:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 2 Jan 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250102001400881</guid>
+			<title>韩联参否认散布反朝传单诱导朝鲜挑衅说法</title>
+			<link>https://cn.yna.co.kr/view/ACK20250102001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月2日电 韩国联合参谋本部（联参）2日就所谓军方散布反朝传单诱导朝鲜挑衅的说法予以否认。
+</description>
+			<pubDate>Thu, 02 Jan 2025 14:45:20 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250102001300881</guid>
+			<title>韩国警方对务安国际机场展开搜查</title>
+			<link>https://cn.yna.co.kr/view/ACK20250102001300881?section=news&amp;input=rss</link>
+			<description>韩联社务安1月2日电 韩国全罗南道警察厅济州航空空难调查本部（下称“本部”）2日对韩国机场公社务安国际机场负责部门办公室和塔台进行搜查。
+</description>
+			<pubDate>Thu, 02 Jan 2025 13:51:11 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250102001200881</guid>
 			<title>韩代总统出席政府工作启动仪式强调政局稳定</title>
@@ -146,22 +162,6 @@
 			<description>韩联社世宗、首尔1月1日电 据韩国产业通商资源部1日发布的《2024年进出口动向》，由于半导体行业的强劲表现，2024年韩国出口总值同比增长8.2%，为6838亿美元，刷新2022年创下的历史最高纪录（6836亿美元）。
 </description>
 			<pubDate>Wed, 01 Jan 2025 10:48:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250101000700881</guid>
-			<title>韩总统室高级幕僚向代总统崔相穆集体请辞</title>
-			<link>https://cn.yna.co.kr/view/ACK20250101000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月1日电 韩国总统办公室首席秘书级别以上高级幕僚1日向代行总统职权的副总理兼企划财政部长官（代理总统）崔相穆集体请辞。
-</description>
-			<pubDate>Wed, 01 Jan 2025 10:44:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250101000500881</guid>
-			<title>韩国济州航空空难179名遇难者身份全部确认</title>
-			<link>https://cn.yna.co.kr/view/ACK20250101000500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月1日电 据韩国中央灾难安全对策本部（下称“本部”）1日消息，济州航空空难179名遇难者身份全部确认。
-</description>
-			<pubDate>Wed, 01 Jan 2025 10:18:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
