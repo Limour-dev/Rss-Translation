@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 2 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 3 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241209000900881</guid>
+			<title>2025年1月3日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241209000900881?section=news&amp;input=rss</link>
+			<description>1923年 大韩民国临时政府在上海举行国民代表会议，探讨抗日独立运动的发展方向。
+</description>
+			<pubDate>Fri, 03 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250102003600881</guid>
+			<title>韩公调处今未对尹锡悦执行拘留或推至明日</title>
+			<link>https://cn.yna.co.kr/view/ACK20250102003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月2日电 据韩国法律界2日消息，高级公职人员犯罪调查处（公调处）当天未对总统尹锡悦执行拘留。公调处最快很可能于3日执行拘留。
+</description>
+			<pubDate>Thu, 02 Jan 2025 21:42:30 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250102003500881</guid>
 			<title>尹锡悦方面向法院就执行拘留提出异议申请</title>
@@ -146,20 +162,6 @@
 			<description>韩联社首尔1月2日电 据经纪公司AM娱乐消息，旗下演员金宇彬在2025年新年到来之际向首尔峨山医院捐款1亿韩元（约合人民币50万元），用于帮助困难患者接受治疗。
 </description>
 			<pubDate>Thu, 02 Jan 2025 10:06:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250102000700881</guid>
-			<title>股市开盘：KOSPI▲1.38</title>
-			<link>https://cn.yna.co.kr/view/ACK20250102000700881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2400.87点，较前一交易日上升1.38点。</description>
-			<pubDate>Thu, 02 Jan 2025 10:01:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250102000600881</guid>
-			<title>股市开盘：KOSDAQ▲0.79</title>
-			<link>https://cn.yna.co.kr/view/ACK20250102000600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报678.98点，较前一交易日上升0.79点。</description>
-			<pubDate>Thu, 02 Jan 2025 10:01:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
