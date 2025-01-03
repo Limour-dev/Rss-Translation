@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 3 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 4 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241210000600881</guid>
+			<title>2025年1月4日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241210000600881?section=news&amp;input=rss</link>
+			<description>1907年 抗日独立运动团体“西北学会”成立。
+</description>
+			<pubDate>Sat, 04 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250103004400881</guid>
 			<title>韩公调处将要求代总统下令警卫处配合执行拘留尹锡悦</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔1月3日电 韩国两家牵涉欠款事件的电商TMON和薇美铺在进入破产重整程序前推进企业并购，中国核工业集团有限公司（CNNC，简称“中核集团”）下属物联网数据公司（简称“中核物联”）参与其中，与多家韩企展开竞争。
 </description>
 			<pubDate>Fri, 03 Jan 2025 13:37:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250103001800881</guid>
-			<title>韩国对外承包工程订单额历时59年突破1万亿美元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250103001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月3日电 韩国国土交通部（国土部）3日透露，韩国对外承包工程订单金额累计突破1万亿美元。
-</description>
-			<pubDate>Fri, 03 Jan 2025 11:23:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
