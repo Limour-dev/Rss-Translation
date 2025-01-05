@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 5 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 6 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241210000800881</guid>
+			<title>2025年1月6日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241210000800881?section=news&amp;input=rss</link>
+			<description>1897年 朝鲜王朝第26代君主、大韩帝国开国皇帝高宗之妻闵妃的谥号定为“明成”，陵号定为“洪陵”，殿号定为“景孝”。
+</description>
+			<pubDate>Mon, 06 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250105001400881</guid>
 			<title>尹锡悦方面就执行拘留异议申请被驳考虑上诉大法院</title>
@@ -157,14 +165,6 @@
 			<description>韩联社务安1月3日电 韩国国土交通部（下称“国土部”）负责济州航空空难事故现场清理工作的釜山地方航空厅厅长李镇哲（音）3日在记者会上表示，起吊事故客机并进行搜查之后，事故现场的清理工作就算基本完成。
 </description>
 			<pubDate>Fri, 03 Jan 2025 17:25:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250103004000881</guid>
-			<title>韩美外长下周将在首尔举行会谈</title>
-			<link>https://cn.yna.co.kr/view/ACK20250103004000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月3日电 韩国外交部3日表示，外交部长官赵兑烈和美国国务卿布林肯将于6日在首尔举行会谈，就韩美同盟、韩美日合作、朝鲜问题，以及地区和全球事务等进行探讨。
-</description>
-			<pubDate>Fri, 03 Jan 2025 17:03:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
