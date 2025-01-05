@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 5 Jan 2025 06:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 5 Jan 2025 09:59:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250105000100881</guid>
+			<title>韩首都圈和江原普降大雪 政府启动一级响应</title>
+			<link>https://cn.yna.co.kr/view/ACK20250105000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月5日电 随着韩国首都圈和江原道地区发布大雪预警，韩国行政安全部5日上午8时起启动中央灾难安全对策本部（下称本部）一级应急响应，并将大雪灾害危机预警级别从“关注”上调至“注意”。
+</description>
+			<pubDate>Sun, 05 Jan 2025 09:47:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241210000700881</guid>
 			<title>2025年1月5日韩国历史上的今天</title>
@@ -154,13 +162,6 @@
 			<description>韩联社首尔、果川1月3日电 韩国高级公职人员犯罪调查处（公调处）3日对总统尹锡悦执行拘留程序，但遭到总统警卫处的阻拦，双方对峙持续，经判断认为无法继续执行，最终停止本次执行程序。
 </description>
 			<pubDate>Fri, 03 Jan 2025 14:21:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250103002300881</guid>
-			<title>快讯：韩公调处停止对尹锡悦执行拘留</title>
-			<link>https://cn.yna.co.kr/view/ACK20250103002300881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Fri, 03 Jan 2025 13:40:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
