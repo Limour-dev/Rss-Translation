@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 6 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 6 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250106004800881</guid>
+			<title>韩联参议长与北约军委会主席通话</title>
+			<link>https://cn.yna.co.kr/view/ACK20250106004800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月6日电 韩国联合参谋本部（联参）6日表示，联参议长金明秀当天同北约军事委员会主席罗布·鲍尔通电话，就韩半岛安全局势交换意见，并讨论加强军事合作的方案。
+</description>
+			<pubDate>Mon, 06 Jan 2025 19:47:33 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250106004900881</guid>
+			<title>韩国戒严事件联侦组再提请法院对尹锡悦签发拘留令</title>
+			<link>https://cn.yna.co.kr/view/ACK20250106004900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月6日电 由韩国高级公职人员犯罪调查处（公调处）、警察厅国家侦查本部组成的“12·3戒严联合侦查组”6日表示，已再次提请首尔西部地方法院针对尹锡悦签发拘留令。
+</description>
+			<pubDate>Mon, 06 Jan 2025 19:43:55 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250106004700881</guid>
 			<title>韩国作为准成员国加入“欧洲地平线”</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔1月6日电 据韩国食品医药品安全处6日发布的统计数据，韩国2024年化妆品出口额突破100亿美元，创下历史新高。
 </description>
 			<pubDate>Mon, 06 Jan 2025 13:50:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250106001900881</guid>
-			<title>尹锡悦律师团就被执行拘留检举公调处长等11人</title>
-			<link>https://cn.yna.co.kr/view/ACK20250106001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月6日电 韩国总统尹锡悦的法律代理人团6日就高级公职人员犯罪调查处（公调处）执行拘留总统尹锡悦一事向检方检举公调处处长吴东运等11人。
-</description>
-			<pubDate>Mon, 06 Jan 2025 13:34:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250106002200881</guid>
-			<title>简讯：朝鲜向东部海域发射弹道导弹</title>
-			<link>https://cn.yna.co.kr/view/ACK20250106002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月6日电 韩国联合参谋本部（联参）6日表示，朝鲜当天向东部海域发射型号不明的弹道导弹。军方正在分析导弹发射方向、飞行距离等具体参数。
-</description>
-			<pubDate>Mon, 06 Jan 2025 12:28:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
