@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 6 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 7 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241210000900881</guid>
+			<title>2025年1月7日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241210000900881?section=news&amp;input=rss</link>
+			<description>1948年 韩国开始实施小学义务教育。
+</description>
+			<pubDate>Tue, 07 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250106005000881</guid>
+			<title>韩国全国明晨气温将跌破冰点</title>
+			<link>https://cn.yna.co.kr/view/ACK20250106005000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月6日电 受寒潮影响，韩国全国7日晨间最低气温将跌破冰点。
+</description>
+			<pubDate>Mon, 06 Jan 2025 21:41:59 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250106004800881</guid>
 			<title>韩联参议长与北约军委会主席通话</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔1月6日电 韩国联合参谋本部（联参）6日表示，军方发现朝鲜当天正午在平壤一带向东部海域发射一枚疑似中远程弹道导弹（IRBM）的飞行器。
 </description>
 			<pubDate>Mon, 06 Jan 2025 14:04:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250106002300881</guid>
-			<title>中国驻韩使馆提醒在韩中国公民勿参与政治活动</title>
-			<link>https://cn.yna.co.kr/view/ACK20250106002300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月6日电 中国驻韩大使馆4日通过微信公众号发文，提醒在韩中国公民勿参与政治活动。
-</description>
-			<pubDate>Mon, 06 Jan 2025 13:53:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250106002000881</guid>
-			<title>韩国2024年化妆品出口破100亿美元创新高</title>
-			<link>https://cn.yna.co.kr/view/ACK20250106002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月6日电 据韩国食品医药品安全处6日发布的统计数据，韩国2024年化妆品出口额突破100亿美元，创下历史新高。
-</description>
-			<pubDate>Mon, 06 Jan 2025 13:50:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
