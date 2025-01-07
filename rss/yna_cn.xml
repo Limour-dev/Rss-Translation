@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 7 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 8 Jan 2025 00:54:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211001000881</guid>
+			<title>2025年1月8日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211001000881?section=news&amp;input=rss</link>
+			<description>1932年 独立运动家金九领导的“韩人爱国团”成员李奉昌在东京刺杀日王未果，当场被抓。
+</description>
+			<pubDate>Wed, 08 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250107003700881</guid>
 			<title>淑明女子大学初步判定金建希硕士论文抄袭</title>
@@ -155,14 +163,6 @@
 			<description>韩联社首尔1月7日电 亚洲地区规模最大的冬季体育盛典——哈尔滨2025年第九届亚洲冬季运动会（亚冬会）7日迎来开幕倒计时30天。
 </description>
 			<pubDate>Tue, 07 Jan 2025 10:39:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250107000300881</guid>
-			<title>牛津英语词典新收录7个韩文热词</title>
-			<link>https://cn.yna.co.kr/view/ACK20250107000300881?section=news&amp;input=rss</link>
-			<description>韩联社牛津1月7日电 据《牛津英语词典》（OED）官网7日消息，去年12月进行的更新中新收录了7个韩文热词，这是该词典时隔三年多再添韩文词汇。
-</description>
-			<pubDate>Tue, 07 Jan 2025 09:21:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
