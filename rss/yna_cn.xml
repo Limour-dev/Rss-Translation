@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 8 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 9 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211001100881</guid>
+			<title>2025年1月9日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211001100881?section=news&amp;input=rss</link>
+			<description>1885年 朝鲜王朝与日本签署不平等的《汉城条约》。
+</description>
+			<pubDate>Thu, 09 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250108003800881</guid>
 			<title>“鹰派”金泽宇当选韩国医协新任会长</title>
@@ -154,14 +162,6 @@
 			<description>韩联社光州1月8日电 8日，距离韩国济州航空客机失事惨剧发生已过十天。截至当天，179名遇难者中有177人的葬礼已经结束，剩下2名逝者的出殡仪式将于9日举行。
 </description>
 			<pubDate>Wed, 08 Jan 2025 11:30:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250108001300881</guid>
-			<title>详讯：三星电子2024年营业利润同比增398.2%</title>
-			<link>https://cn.yna.co.kr/view/ACK20250108001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月8日电 三星电子8日披露的初步核实数据显示，按合并财务报表口径计算的公司去年全年营业利润同比增长398.17%，为32.73万亿韩元（约合人民币1653亿元）。销售额同比增长15.89%，为300.08万亿韩元，时隔两年回升至300万亿韩元以上。
-</description>
-			<pubDate>Wed, 08 Jan 2025 11:11:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
