@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 9 Jan 2025 09:54:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 9 Jan 2025 12:29:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250109001400881</guid>
+			<title>现代汽车集团今年将在韩投资1230亿元创新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20250109001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月9日电 韩国汽车巨头——现代汽车集团9日公布的投资计划显示，集团今年将在国内投资24.3万亿韩元（约合人民币1226亿元），较去年增加19%（3.9万亿韩元），规模刷新纪录。
+</description>
+			<pubDate>Thu, 09 Jan 2025 11:17:58 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250109000900881</guid>
+			<title>韩国迎今冬最强寒潮 首尔最低气温零下10度</title>
+			<link>https://cn.yna.co.kr/view/ACK20250109000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月9日电 韩国全境8日迎来今冬以来最强寒潮，多地9日晨间最低气温降至-10℃以下。
+</description>
+			<pubDate>Thu, 09 Jan 2025 10:49:24 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250109000800881</guid>
+			<title>韩常驻联合国代表在安理会上谴责朝鲜射弹</title>
+			<link>https://cn.yna.co.kr/view/ACK20250109000800881?section=news&amp;input=rss</link>
+			<description>韩联社纽约1月8日电 韩国常驻联合国代表黄浚局8日在纽约联合国总部出席安理会会议时对朝鲜6日试射中远程弹道导弹（IRBM）予以强烈谴责，称朝鲜此次射弹清晰地说明了那些“沾满血腥的钱”（Blood Money）最终流向何方。
+</description>
+			<pubDate>Thu, 09 Jan 2025 10:05:48 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250109000700881</guid>
+			<title>韩SK掌门崔泰源：人工智能不再是可选项</title>
+			<link>https://cn.yna.co.kr/view/ACK20250109000700881?section=news&amp;input=rss</link>
+			<description>韩联社拉斯维加斯1月8日电 韩国SK集团会长崔泰源8日在美国拉斯维加斯举行记者座谈会时表示，人工智能（AI）在所有领域引领变化，不再是可选项。
+</description>
+			<pubDate>Thu, 09 Jan 2025 09:57:10 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250109000300881</guid>
 			<title>韩产固态硬盘去年对美中出口占比一升一降</title>
@@ -130,35 +162,6 @@
 			<description>韩联社首尔1月8日电 韩国总统尹锡悦的法律代理人团（下称“代理人团”）8日就高级公职人员犯罪调查处（公调处）试图执行拘留程序一事表示，若公调处向法院起诉或提请逮捕，尹锡悦将配合司法程序。
 </description>
 			<pubDate>Wed, 08 Jan 2025 15:59:46 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250108003100881</guid>
-			<title>股市收盘:KOSDAQ▲1.34</title>
-			<link>https://cn.yna.co.kr/view/ACK20250108003100881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报719.63点,较前一交易日上升1.34点。</description>
-			<pubDate>Wed, 08 Jan 2025 15:33:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250108003000881</guid>
-			<title>股市收盘:KOSPI▲28.95</title>
-			<link>https://cn.yna.co.kr/view/ACK20250108003000881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2,521.05点,较前一交易日上升28.95点。</description>
-			<pubDate>Wed, 08 Jan 2025 15:30:51 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250108002900881</guid>
-			<title>15：30外汇汇率:1美元=1,455.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250108002900881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1,455.0，较前一交易日下跌1.5韩元。</description>
-			<pubDate>Wed, 08 Jan 2025 15:30:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250108002600881</guid>
-			<title>韩代总统与韩国中国商会人士共进午餐</title>
-			<link>https://cn.yna.co.kr/view/ACK20250108002600881?section=news&amp;input=rss</link>
-			<description>韩联社世宗1月8日电 韩国代行总统职权的副总理兼企划财政部长官崔相穆8日在政府首尔办公楼同韩国中国商会（CCCK）人士举行午餐会。崔相穆呼吁中方相信韩国经济韧性并积极投资。
-</description>
-			<pubDate>Wed, 08 Jan 2025 15:26:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
