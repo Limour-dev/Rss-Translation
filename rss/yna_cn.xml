@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 9 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 10 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241211001300881</guid>
+			<title>2025年1月10日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241211001300881?section=news&amp;input=rss</link>
+			<description>1894年 东学农民运动爆发。东学是一种民族宗教，由朝鲜宗教思想家崔济愚于1860年创立，提倡实现以人为本的平等和推动社会改革，获得民众积极响应。
+</description>
+			<pubDate>Fri, 10 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250109003700881</guid>
 			<title>韩外长：分裂矛盾的政治文化是理解戒严的特殊国情</title>
@@ -154,14 +162,6 @@
 			<description>韩联社纽约1月8日电 韩国常驻联合国代表黄浚局8日在纽约联合国总部出席安理会会议时对朝鲜6日试射中远程弹道导弹（IRBM）予以强烈谴责，称朝鲜此次射弹清晰地说明了那些“沾满血腥的钱”（Blood Money）最终流向何方。
 </description>
 			<pubDate>Thu, 09 Jan 2025 10:05:48 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250109000700881</guid>
-			<title>韩SK掌门崔泰源：人工智能不再是可选项</title>
-			<link>https://cn.yna.co.kr/view/ACK20250109000700881?section=news&amp;input=rss</link>
-			<description>韩联社拉斯维加斯1月8日电 韩国SK集团会长崔泰源8日在美国拉斯维加斯举行记者座谈会时表示，人工智能（AI）在所有领域引领变化，不再是可选项。
-</description>
-			<pubDate>Thu, 09 Jan 2025 09:57:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
