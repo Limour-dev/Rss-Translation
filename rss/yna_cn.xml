@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 10 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 11 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241219002100881</guid>
+			<title>2025年1月11日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241219002100881?section=news&amp;input=rss</link>
+			<description>1896年 朝鲜国王高宗发布诏书要求百姓履行“断发令”。1895年11月15日，朝鲜亲日派金弘集内阁曾发布“断发令”，强行剪断百姓发辫，激起民愤。
+</description>
+			<pubDate>Sat, 11 Jan 2025 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250110004100881</guid>
 			<title>韩本土片《破墓》获亚洲电影大奖11项提名</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月10日电 韩国代行总统职权的副总理兼企划财政部长官（代总统）崔相穆10日同联合国秘书长安东尼奥·古特雷斯通电话，表明韩方为国际社会积极作贡献的意愿。
 </description>
 			<pubDate>Fri, 10 Jan 2025 10:35:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110000800881</guid>
-			<title>朝鲜新年邮票发行公告加注俄文凸显朝俄友好</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月10日电 朝鲜在新年邮票发行公告中首次加注俄文，凸显与俄罗斯的亲密关系。
-</description>
-			<pubDate>Fri, 10 Jan 2025 10:15:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
