@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 10 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 10 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250110004100881</guid>
+			<title>韩本土片《破墓》获亚洲电影大奖11项提名</title>
+			<link>https://cn.yna.co.kr/view/ACK20250110004100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月10日电 亚洲电影大奖学院10日公布第18届亚洲电影大奖入围名单，韩国本土惊悚悬疑片《破墓》获得11个奖项提名。
+</description>
+			<pubDate>Fri, 10 Jan 2025 20:41:46 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250110003900881</guid>
+			<title>韩政府发布解决医政矛盾各项方案</title>
+			<link>https://cn.yna.co.kr/view/ACK20250110003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月10日电 韩国社会副总理兼教育部长官李周浩和保健福祉部长官曹圭鸿10日在政府首尔办公大楼联合举行记者会，向医疗界和医疗教育界提出多项解决医政矛盾的方案。
+</description>
+			<pubDate>Fri, 10 Jan 2025 20:17:50 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250110004000881</guid>
+			<title>现代汽车集团牵手英伟达力推移动出行智能化</title>
+			<link>https://cn.yna.co.kr/view/ACK20250110004000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月10日电 据韩国汽车业界10日消息，现代汽车集团当地时间9日在美国内华达州与全球人工智能（AI）芯片巨头——英伟达签署了关于移动出行创新的战略伙伴协议。
+</description>
+			<pubDate>Fri, 10 Jan 2025 19:50:55 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250110003800881</guid>
 			<title>韩代总统崔相穆受理总统警卫处长辞呈</title>
@@ -138,28 +162,6 @@
 			<description>韩联社首尔1月10日电 朝鲜在新年邮票发行公告中首次加注俄文，凸显与俄罗斯的亲密关系。
 </description>
 			<pubDate>Fri, 10 Jan 2025 10:15:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110000700881</guid>
-			<title>朝鲜曾主管涉韩事务高官李善权仍稳坐要职</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月10日电 根据朝鲜媒体10日报道，朝鲜在国务委员会委员长金正恩指示下已废除涉韩机构——劳动党统一战线部（下称统战部），但前统战部部长李善权的政治地位依旧稳固，仍身居高位。
-</description>
-			<pubDate>Fri, 10 Jan 2025 10:04:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110000600881</guid>
-			<title>股市开盘：KOSPI▲6.52</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2528.42点，较前一交易日上升6.52点。</description>
-			<pubDate>Fri, 10 Jan 2025 09:01:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110000500881</guid>
-			<title>股市开盘：KOSDAQ▼1.31</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报722.21点，较前一交易日下跌1.31点。</description>
-			<pubDate>Fri, 10 Jan 2025 09:01:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
