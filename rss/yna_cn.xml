@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 11 Jan 2025 06:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 11 Jan 2025 09:54:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250110000200881</guid>
+			<title>一周韩娱：SVT夫硕顺回归 《鱿鱼游戏2》爆红</title>
+			<link>https://cn.yna.co.kr/view/ACK20250110000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月11日电 【要闻回顾】SEVENTEEN小队夫硕顺回归；《鱿鱼游戏2》观看时长居奈飞影视作品第一；2NE1将举行亚洲巡演安可演唱会；SM发片纪念成立30周年。
+</description>
+			<pubDate>Sat, 11 Jan 2025 08:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241219002100881</guid>
 			<title>2025年1月11日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社拉斯维加斯1月9日电 韩国LS集团会长具滋殷9日在美国拉斯维加斯参观2025年国际消费类电子产品展览会（CES 2025）时表示，中国企业技术发展迅猛，韩企应更加奋发图强。
 </description>
 			<pubDate>Fri, 10 Jan 2025 10:44:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110001100881</guid>
-			<title>韩代总统崔相穆与联合国秘书长古特雷斯通电话</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月10日电 韩国代行总统职权的副总理兼企划财政部长官（代总统）崔相穆10日同联合国秘书长安东尼奥·古特雷斯通电话，表明韩方为国际社会积极作贡献的意愿。
-</description>
-			<pubDate>Fri, 10 Jan 2025 10:35:12 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
