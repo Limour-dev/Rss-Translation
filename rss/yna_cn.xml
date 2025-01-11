@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 11 Jan 2025 21:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 12 Jan 2025 00:04:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222001000881</guid>
+			<title>2025年1月12日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001000881?section=news&amp;input=rss</link>
+			<description>1923年 抗日独立运动团体“义烈团”成员金相玉在京城（现首尔）向钟路警察署投掷炸弹。
+</description>
+			<pubDate>Sun, 12 Jan 2025 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250110000200881</guid>
 			<title>一周韩娱：SVT夫硕顺回归 《鱿鱼游戏2》爆红</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月10日电 韩国政界和财界人士将于20日（当地时间）出席在华盛顿举行的美国总统特朗普就职典礼。在韩国政局因“12·3紧急戒严”事件动荡的情况下，由政界、财界人士主导的议员和民间外交活动备受关注。
 </description>
 			<pubDate>Fri, 10 Jan 2025 11:14:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110000900881</guid>
-			<title>韩LS集团掌门：中企发展迅猛 韩企应奋发图强</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110000900881?section=news&amp;input=rss</link>
-			<description>韩联社拉斯维加斯1月9日电 韩国LS集团会长具滋殷9日在美国拉斯维加斯参观2025年国际消费类电子产品展览会（CES 2025）时表示，中国企业技术发展迅猛，韩企应更加奋发图强。
-</description>
-			<pubDate>Fri, 10 Jan 2025 10:44:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
