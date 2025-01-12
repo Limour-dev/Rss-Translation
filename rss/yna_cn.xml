@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 12 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 13 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222001100881</guid>
+			<title>2025年1月13日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001100881?section=news&amp;input=rss</link>
+			<description>1925年 大韩民国临时政府议政院发布有关修改宪法、整顿内政事务和提高外交实效性等的方针。
+</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250112001500881</guid>
 			<title>韩乐天免税店决定停止与中国代购商交易</title>
@@ -156,13 +164,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250110002800881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报717.89点，较前一交易日下跌5.63点。</description>
 			<pubDate>Fri, 10 Jan 2025 15:32:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110002700881</guid>
-			<title>股市收盘：KOSPI▼6.12</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110002700881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2515.78点，较前一交易日下跌6.12点。</description>
-			<pubDate>Fri, 10 Jan 2025 15:31:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
