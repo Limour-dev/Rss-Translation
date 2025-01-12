@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 12 Jan 2025 15:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 12 Jan 2025 18:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250112001500881</guid>
+			<title>韩乐天免税店决定停止与中国代购商交易</title>
+			<link>https://cn.yna.co.kr/view/ACK20250112001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月12日电 据韩国免税行业12日消息，乐天免税店去年底向主要中国代购商通知称，本月起将停止向其出售免税品。
+</description>
+			<pubDate>Sun, 12 Jan 2025 16:41:47 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250112001000881</guid>
+			<title>韩中贸易结构近十年大变 从互补向竞争过渡</title>
+			<link>https://cn.yna.co.kr/view/ACK20250112001000881?section=news&amp;input=rss</link>
+			<description>韩联社世宗1月12日电 最近十年，韩国对华出口品目中显示器、汽车零部件等中间产品出口大幅缩水，自华进口中间产品规模则明显扩大。分析指出，在中国制造业技术和价格优势大幅提升的背景下，韩中双边贸易结构逐渐从过去的分工互补向相互竞争过渡。
+</description>
+			<pubDate>Sun, 12 Jan 2025 15:33:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250112000900881</guid>
 			<title>韩国泡菜去年出口量和出口额双双创新高</title>
@@ -147,21 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250110002700881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2515.78点，较前一交易日下跌6.12点。</description>
 			<pubDate>Fri, 10 Jan 2025 15:31:10 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110002600881</guid>
-			<title>15：30外汇汇率：1美元=1465.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110002600881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1465.0，较前一交易日下跌4.5韩元。</description>
-			<pubDate>Fri, 10 Jan 2025 15:30:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110002400881</guid>
-			<title>民调：韩国朝野两党支持率重回戒严前水平</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110002400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月10日电 民调机构韩国盖洛普10日发布的一份调查结果显示，执政党国民力量支持率升至34%，最大在野党共同民主党支持率降至36%，两党支持率重回“12·3紧急戒严”事件发生之前的水平。
-</description>
-			<pubDate>Fri, 10 Jan 2025 15:09:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
