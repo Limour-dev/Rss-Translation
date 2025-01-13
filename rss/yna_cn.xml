@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 13 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 14 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222001200881</guid>
+			<title>2025年1月14日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001200881?section=news&amp;input=rss</link>
+			<description>1949年 韩国空军士官学校的前身——航空士官学校成立。
+</description>
+			<pubDate>Tue, 14 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250113003600881</guid>
+			<title>详讯：韩日外长会晤共商双边关系发展事宜</title>
+			<link>https://cn.yna.co.kr/view/ACK20250113003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、东京1月13日电 韩日两国外长13日在首尔举行会谈，表示将延续并发展来之不易的韩日关系改善势头。
+</description>
+			<pubDate>Mon, 13 Jan 2025 21:29:36 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250113003500881</guid>
 			<title>尹锡悦方面向宪法法院申请法官回避</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔1月13日电 因被国会弹劾而暂停职务的韩国总统尹锡悦13日在脸书个人账号就美国洛杉矶山火发文，呼吁政府层面提供必要的救灾援助，避免当地韩侨遭受损失。
 </description>
 			<pubDate>Mon, 13 Jan 2025 09:55:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250113000600881</guid>
-			<title>韩日外长会谈今在首尔举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20250113000600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月13日电 韩国外交部长官赵兑烈将于13日在首尔同日本外务大臣岩屋毅举行会谈。两位外长将就改善韩日关系、加强韩美日合作等事宜交换意见。
-</description>
-			<pubDate>Mon, 13 Jan 2025 09:47:40 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250113000200881</guid>
-			<title>乌克兰总统：愿以换俘为条件释放朝军俘虏</title>
-			<link>https://cn.yna.co.kr/view/ACK20250113000200881?section=news&amp;input=rss</link>
-			<description>韩联社墨西哥城1月12日电 乌克兰总统弗拉基米尔·泽连斯基12日在X（原推特）上用英语、乌克兰语和韩语三种语言发文称，愿以换俘为条件释放日前俘获的朝鲜士兵。
-</description>
-			<pubDate>Mon, 13 Jan 2025 09:36:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
