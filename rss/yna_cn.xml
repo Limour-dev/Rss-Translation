@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 13 Jan 2025 12:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 13 Jan 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250113001400881</guid>
+			<title>韩情报机构：援俄朝军已有3000多人伤亡</title>
+			<link>https://cn.yna.co.kr/view/ACK20250113001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月13日电 韩国国家情报院（国情院）13日表示，援俄朝军的作战范围逐渐扩大至整个库尔斯克地区，已有3000多名朝鲜士兵伤亡。
+</description>
+			<pubDate>Mon, 13 Jan 2025 15:00:32 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250113001300881</guid>
+			<title>韩国防部驳斥军方有意刺激朝鲜挑衅说法</title>
+			<link>https://cn.yna.co.kr/view/ACK20250113001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月13日电 韩国国防部13日表示，在“12·3紧急戒严事件”发生后，部分意见和报道指出韩军针对朝鲜空投“垃圾气球”展开的军事行动意在刺激朝鲜发起挑衅，该说法“绝对不属实”。
+</description>
+			<pubDate>Mon, 13 Jan 2025 14:46:12 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250113000800881</guid>
 			<title>SM新女团Hearts2Hearts下月出道</title>
@@ -146,22 +162,6 @@
 			<description>韩联社华川1月12日电 韩国最具代表性的冬季庆典——“2025年华川山鳟鱼庆典”11日在江原道华川郡隆重开幕。
 </description>
 			<pubDate>Sun, 12 Jan 2025 10:22:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241222001000881</guid>
-			<title>2025年1月12日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241222001000881?section=news&amp;input=rss</link>
-			<description>1923年 抗日独立运动团体“义烈团”成员金相玉在京城（现首尔）向钟路警察署投掷炸弹。
-</description>
-			<pubDate>Sun, 12 Jan 2025 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250110000200881</guid>
-			<title>一周韩娱：SVT夫硕顺回归 《鱿鱼游戏2》爆红</title>
-			<link>https://cn.yna.co.kr/view/ACK20250110000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月11日电 【要闻回顾】SEVENTEEN小队夫硕顺回归；《鱿鱼游戏2》观看时长居奈飞影视作品第一；2NE1将举行亚洲巡演安可演唱会；SM发片纪念成立30周年。
-</description>
-			<pubDate>Sat, 11 Jan 2025 08:00:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
