@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 13 Jan 2025 09:59:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 13 Jan 2025 12:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250113000800881</guid>
+			<title>SM新女团Hearts2Hearts下月出道</title>
+			<link>https://cn.yna.co.kr/view/ACK20250113000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月13日电 经纪公司SM娱乐13日表示，旗下8人组新女团Hearts2Hearts将于下月24日正式出道。
+</description>
+			<pubDate>Mon, 13 Jan 2025 10:41:52 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250113000700881</guid>
 			<title>尹锡悦发文吁政府为洛杉矶山火提供救灾援助</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月11日电 【要闻回顾】SEVENTEEN小队夫硕顺回归；《鱿鱼游戏2》观看时长居奈飞影视作品第一；2NE1将举行亚洲巡演安可演唱会；SM发片纪念成立30周年。
 </description>
 			<pubDate>Sat, 11 Jan 2025 08:00:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241219002100881</guid>
-			<title>2025年1月11日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241219002100881?section=news&amp;input=rss</link>
-			<description>1896年 朝鲜国王高宗发布诏书要求百姓履行“断发令”。1895年11月15日，朝鲜亲日派金弘集内阁曾发布“断发令”，强行剪断百姓发辫，激起民愤。
-</description>
-			<pubDate>Sat, 11 Jan 2025 00:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
