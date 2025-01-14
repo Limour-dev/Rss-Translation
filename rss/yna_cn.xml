@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 14 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 15 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241222001300881</guid>
+			<title>2025年1月15日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241222001300881?section=news&amp;input=rss</link>
+			<description>1915年 青少年杂志《新星》停刊，此前共发行16期。
+</description>
+			<pubDate>Wed, 15 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250114004800881</guid>
+			<title>详讯：韩公调处称军警批准其进入官邸 警卫处否认</title>
+			<link>https://cn.yna.co.kr/view/ACK20250114004800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月14日电 韩国高级公职人员犯罪调查处（公调处）14日发布公告称，陆军首都防卫司令部第55警卫队批准公调处等执法单位人员在执行总统尹锡悦拘留令时进入总统官邸。总统警卫处则称该说法不属实。
+</description>
+			<pubDate>Tue, 14 Jan 2025 22:45:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250114004700881</guid>
 			<title>韩国总统官邸外围军警批准公调处和警方入内</title>
@@ -147,22 +163,6 @@
 			<description>韩联社首尔1月14日电 韩国联合参谋本部（联参）14日表示，韩军发现朝鲜当天上午9时30分许从慈江道江界一带向东部海域发射多枚短程弹道导弹（SRBM）。
 </description>
 			<pubDate>Tue, 14 Jan 2025 11:38:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250114001300881</guid>
-			<title>韩警方和公调处与警卫处讨论执行拘留尹锡悦</title>
-			<link>https://cn.yna.co.kr/view/ACK20250114001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月14日电 据韩国警方14日发布的新闻资料，警察厅国家侦查本部、高级公职人员犯罪调查处（公调处）和总统警卫处相关人士当天上午举行三方会面，就针对总统尹锡悦执行拘留令相关事宜进行讨论。
-</description>
-			<pubDate>Tue, 14 Jan 2025 11:24:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250114001200881</guid>
-			<title>韩国军力位居全球第5 朝鲜排名第34</title>
-			<link>https://cn.yna.co.kr/view/ACK20250114001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月14日电 据美国网站“全球火力”（GFP）14日发布的“2025年全球军力排行榜”，韩国在145个国家中位列第5，朝鲜排名第34。
-</description>
-			<pubDate>Tue, 14 Jan 2025 11:10:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
