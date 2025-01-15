@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 16 Jan 2025 03:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 16 Jan 2025 06:04:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250115004700881</guid>
+			<title>尹锡悦弹劾案庭审第二次辩论今将举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20250115004700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月16日电 韩国宪法裁判所（宪法法院）将于16日下午2时进行总统尹锡悦弹劾案庭审的第二次辩论。
+</description>
+			<pubDate>Thu, 16 Jan 2025 06:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241224003600881</guid>
 			<title>2025年1月16日韩国历史上的今天</title>
@@ -154,13 +162,6 @@
 			<description>韩联社首尔1月15日电 经纪公司BIGHIT MUSIC15日表示，旗下男团防弹少年团（BTS）成员j-hope的首轮个人世巡《HOPE ON THE STAGE》首尔站演出门票全部售罄。
 </description>
 			<pubDate>Wed, 15 Jan 2025 10:52:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250115001500881</guid>
-			<title>快讯：尹锡悦被公调处拘留</title>
-			<link>https://cn.yna.co.kr/view/ACK20250115001500881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Wed, 15 Jan 2025 10:42:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
