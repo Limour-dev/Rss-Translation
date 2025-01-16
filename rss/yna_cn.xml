@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 16 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 16 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250116004100881</guid>
+			<title>尹锡悦律师控告公调处和国家侦查本部首长涉嫌内乱</title>
+			<link>https://cn.yna.co.kr/view/ACK20250116004100881?section=news&amp;input=rss</link>
+			<description>韩联社果川1月16日电 韩国总统尹锡悦的法律代理人团16日表示，以涉嫌发动内乱为由向首尔中央地方检察厅控告高级公职人员犯罪调查处（公调处）处长吴东运和警察厅国家侦查本部长禹钟寿。
+</description>
+			<pubDate>Thu, 16 Jan 2025 20:24:44 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250116004200881</guid>
+			<title>韩宪院采纳尹锡悦调查选管委中国职员名单要求</title>
+			<link>https://cn.yna.co.kr/view/ACK20250116004200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月16日电 韩国宪法裁判所（宪法法院）16日进行总统尹锡悦弹劾案庭审的第二次辩论，采纳了尹锡悦方面对中央选举管理委员会（下称“选管委”）中国工作人员名单进行调查取证的要求。
+</description>
+			<pubDate>Thu, 16 Jan 2025 20:07:35 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250116004000881</guid>
 			<title>尹锡悦方面在弹劾案庭审中称戒严主因是选举舞弊</title>
@@ -145,22 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250116000900881?section=news&amp;input=rss</link>
 			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
 			<pubDate>Thu, 16 Jan 2025 09:50:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250116000700881</guid>
-			<title>韩中自贸协定第二阶段第十轮谈判在首尔举行</title>
-			<link>https://cn.yna.co.kr/view/ACK20250116000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月16日电 韩中两国时隔4年重启双边自由贸易协定（FTA）服务贸易和投资后续谈判进程。
-</description>
-			<pubDate>Thu, 16 Jan 2025 09:32:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250116000800881</guid>
-			<title>尹锡悦拒绝受讯 律师称其将不到案</title>
-			<link>https://cn.yna.co.kr/view/ACK20250116000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔、果川1月16日电 韩国总统尹锡悦方面16日表示，尹锡悦当天下午将不接受高级公职人员犯罪调查处（公调处）的调查。
-</description>
-			<pubDate>Thu, 16 Jan 2025 09:28:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
