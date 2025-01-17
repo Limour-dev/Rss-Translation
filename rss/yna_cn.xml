@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 17 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 18 Jan 2025 00:04:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241224003800881</guid>
+			<title>2025年1月18日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241224003800881?section=news&amp;input=rss</link>
+			<description>1905年 大韩帝国颁布货币条例。该条例允许在韩半岛使用日本货币。
+</description>
+			<pubDate>Sat, 18 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250117002800881</guid>
+			<title>IMF下调韩国今年经济增长预期至2%</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117002800881?section=news&amp;input=rss</link>
+			<description>韩联社世宗1月17日电 据韩国企划财政部17日消息，国际货币基金组织（IMF）当天在最新一期《世界经济展望报告》中预测，韩国今年国内生产总值（GDP）增速为2%。
+</description>
+			<pubDate>Fri, 17 Jan 2025 23:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250117003800881</guid>
 			<title>尹锡悦在看守所发文向支持者致谢</title>
@@ -143,21 +159,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250117000500881?section=news&amp;input=rss</link>
 			<description>KOSDAQ开盘报723.05点，较前一交易日下跌1.19点。</description>
 			<pubDate>Fri, 17 Jan 2025 09:01:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000400881</guid>
-			<title>外汇汇率开盘：1美元=1457.9韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000400881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1457.9，较前一交易日下跌1.2韩元。</description>
-			<pubDate>Fri, 17 Jan 2025 09:01:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000300881</guid>
-			<title>尹锡悦拘留时限被延至今晚 公调处拟尽早提捕</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 韩国高级公职人员犯罪调查处（公调处）针对总统尹锡悦的拘留时限被延至17日晚9时5分，公调处计划在各项准备工作就绪后随即提请法院批捕。
-</description>
-			<pubDate>Fri, 17 Jan 2025 08:58:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
