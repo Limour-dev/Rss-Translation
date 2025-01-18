@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 19 Jan 2025 03:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 19 Jan 2025 06:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250119000300881</guid>
+			<title>详讯：尹锡悦涉嫌内乱罪被批准逮捕</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119000300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月19日电 韩国总统尹锡悦19日被批准逮捕，距离他宣布紧急戒严已有47天。这也是韩国宪政史上现任总统首次被批捕。
+</description>
+			<pubDate>Sun, 19 Jan 2025 04:15:27 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250119000200881</guid>
+			<title>简讯：尹锡悦涉嫌内乱罪被批准逮捕</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月19日电 韩国总统尹锡悦19日被批准逮捕，距离他宣布紧急戒严有47天。这也是韩国宪政史上现任总统首次被批捕。
+</description>
+			<pubDate>Sun, 19 Jan 2025 03:26:46 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250119000100881</guid>
 			<title>快讯：尹锡悦涉内乱罪被批准逮捕</title>
@@ -144,22 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250117002200881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1458.3，较前一交易日下跌1.6韩元。</description>
 			<pubDate>Fri, 17 Jan 2025 15:30:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117001900881</guid>
-			<title>朝媒以援引外媒形式报道尹锡悦被拘消息</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 朝鲜媒体17日以援引外媒的形式首次报道韩国总统尹锡悦被拘留的消息。这距离尹锡悦被拘已过两天。
-    </description>
-			<pubDate>Fri, 17 Jan 2025 15:18:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117001600881</guid>
-			<title>韩联参高干出席北约军事委员会参谋长级会议</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117001600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 据韩国联合参谋本部（联参）17日消息，韩国作为北约的印太伙伴（IPP）受邀参加15至16日在比利时布鲁塞尔举行的北约军事委员会参谋长级会议，联参战略企划本部本部长孙正焕（音）代替联参议长金明秀与会。
-</description>
-			<pubDate>Fri, 17 Jan 2025 14:38:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
