@@ -4,8 +4,15 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 19 Jan 2025 00:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 19 Jan 2025 03:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250119000100881</guid>
+			<title>快讯：尹锡悦涉内乱罪被批准逮捕</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119000100881?section=news&amp;input=rss</link>
+			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
+			<pubDate>Sun, 19 Jan 2025 03:05:25 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241226000300881</guid>
 			<title>2025年1月19日韩国历史上的今天</title>
@@ -153,14 +160,6 @@
 			<description>韩联社首尔1月17日电 据韩国联合参谋本部（联参）17日消息，韩国作为北约的印太伙伴（IPP）受邀参加15至16日在比利时布鲁塞尔举行的北约军事委员会参谋长级会议，联参战略企划本部本部长孙正焕（音）代替联参议长金明秀与会。
 </description>
 			<pubDate>Fri, 17 Jan 2025 14:38:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117001400881</guid>
-			<title>韩公调处：尹锡悦未到案 提捕准备基本就绪</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔、果川1月17日电 据韩国高级公职人员犯罪调查处（公调处）17日消息，公调处要求总统尹锡悦当天上午10时再到案，但尹锡悦未响应。公调处针对尹锡悦提请批捕的准备工作基本就绪。
-</description>
-			<pubDate>Fri, 17 Jan 2025 11:36:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
