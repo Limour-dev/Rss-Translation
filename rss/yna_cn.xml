@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 18 Jan 2025 12:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 18 Jan 2025 15:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250117002100881</guid>
+			<title>ROSÉ《APT.》连续三周位居英国官方排行榜第二</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117002100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月18日电 韩国女团BLACKPINK成员ROSÉ（朴彩英）和美国歌手布鲁诺·马尔斯的合作曲《APT.》连续三周位居英国官方排行榜百强榜第二。
+</description>
+			<pubDate>Sat, 18 Jan 2025 12:19:09 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250118000100881</guid>
+			<title>尹锡悦将出席逮捕必要性审查创先例</title>
+			<link>https://cn.yna.co.kr/view/ACK20250118000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月18日电 韩国总统尹锡悦的辩护律师尹甲根18日表示，尹锡悦将出席下午2时在首尔西部地方法院举行的逮捕必要性审查。
+</description>
+			<pubDate>Sat, 18 Jan 2025 12:10:30 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250117001500881</guid>
 			<title>一周韩娱：SM新团将出道 RM和柾国获美音乐奖</title>
@@ -145,22 +161,6 @@
 			<description>韩联社首尔1月17日电 民调机构韩国盖洛普17日发布的一份调查结果显示，执政党国民力量支持率为39%，最大在野党共同民主党支持率为36%。
 </description>
 			<pubDate>Fri, 17 Jan 2025 11:00:36 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000700881</guid>
-			<title>韩核电公司宣布与美西屋电气结束知识产权纠纷</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000700881?section=news&amp;input=rss</link>
-			<description>韩联社世宗1月17日电 韩国水电与核电公司（下称水核电）和韩国电力公社（下称韩电）17日发布新闻资料正式宣布，两家公司和美国核电企业西屋电气就停止知识产权纠纷程序、今后在全球核电市场展开合作达成了一致。
-</description>
-			<pubDate>Fri, 17 Jan 2025 10:26:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000800881</guid>
-			<title>韩国将主持东盟与韩中日旅游部长会议</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 韩国文化体育观光部长官柳仁村将主持第二十四届东盟与韩中日旅游部长会议。
-</description>
-			<pubDate>Fri, 17 Jan 2025 09:44:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
