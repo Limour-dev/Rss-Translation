@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 18 Jan 2025 21:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 19 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226000300881</guid>
+			<title>2025年1月19日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226000300881?section=news&amp;input=rss</link>
+			<description>1900年 大韩帝国邮便局（邮政局）首次向美国发送邮件（外交文件）。
+</description>
+			<pubDate>Sun, 19 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250118000200881</guid>
 			<title>尹锡悦逮捕必要性审查结束 结果或今晚出炉</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔、果川1月17日电 据韩国高级公职人员犯罪调查处（公调处）17日消息，公调处要求总统尹锡悦当天上午10时再到案，但尹锡悦未响应。公调处针对尹锡悦提请批捕的准备工作基本就绪。
 </description>
 			<pubDate>Fri, 17 Jan 2025 11:36:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000900881</guid>
-			<title>防弹RM和柾国荣获克里奥音乐奖铜奖</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 经纪公司BIGHIT MUSIC于17日表示，旗下男团防弹少年团（BTS）成员RM和柾国荣获美国“2025克里奥音乐奖”（2025 Clio Music Awards）铜奖。
-</description>
-			<pubDate>Fri, 17 Jan 2025 11:27:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
