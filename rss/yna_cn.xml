@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 18 Jan 2025 06:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 18 Jan 2025 09:49:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250117001500881</guid>
+			<title>一周韩娱：SM新团将出道 RM和柾国获美音乐奖</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117001500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月18日电 【要闻回顾】SM新女团Hearts2Hearts下月出道；防弹RM和柾国荣获克里奥音乐奖铜奖；BLACKPINK智秀下月携新辑回归；j-hope个人世巡首尔站演出门票售罄。
+</description>
+			<pubDate>Sat, 18 Jan 2025 08:00:05 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250117003600881</guid>
+			<title>韩国驻古巴大使馆在哈瓦那正式开馆</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月18日电 韩国外交部18日表示，当地时间17日上午10时30分，韩国驻古巴大使馆开馆仪式在哈瓦那举行。
+</description>
+			<pubDate>Sat, 18 Jan 2025 07:27:25 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241224003800881</guid>
 			<title>2025年1月18日韩国历史上的今天</title>
@@ -145,20 +161,6 @@
 			<description>韩联社首尔1月17日电 韩国文化体育观光部长官柳仁村将主持第二十四届东盟与韩中日旅游部长会议。
 </description>
 			<pubDate>Fri, 17 Jan 2025 09:44:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000600881</guid>
-			<title>股市开盘：KOSPI▼6.64</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000600881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2520.85点，较前一交易日下跌6.64点。</description>
-			<pubDate>Fri, 17 Jan 2025 09:01:35 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117000500881</guid>
-			<title>股市开盘：KOSDAQ▼1.19</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117000500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报723.05点，较前一交易日下跌1.19点。</description>
-			<pubDate>Fri, 17 Jan 2025 09:01:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
