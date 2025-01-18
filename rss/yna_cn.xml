@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 18 Jan 2025 18:04:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 18 Jan 2025 21:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250118000200881</guid>
+			<title>尹锡悦逮捕必要性审查结束 结果或今晚出炉</title>
+			<link>https://cn.yna.co.kr/view/ACK20250118000200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月18日电 韩国首尔西部地方法院18日对总统尹锡悦进行逮捕必要性审查，审查结果将于当天晚些时候或明日出炉。
+</description>
+			<pubDate>Sat, 18 Jan 2025 20:11:50 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250117002100881</guid>
 			<title>ROSÉ《APT.》连续三周位居英国官方排行榜第二</title>
@@ -153,14 +161,6 @@
 			<description>韩联社首尔1月17日电 经纪公司BIGHIT MUSIC于17日表示，旗下男团防弹少年团（BTS）成员RM和柾国荣获美国“2025克里奥音乐奖”（2025 Clio Music Awards）铜奖。
 </description>
 			<pubDate>Fri, 17 Jan 2025 11:27:40 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117001000881</guid>
-			<title>民调：韩国朝野两大党支持率分别为39%和36%</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 民调机构韩国盖洛普17日发布的一份调查结果显示，执政党国民力量支持率为39%，最大在野党共同民主党支持率为36%。
-</description>
-			<pubDate>Fri, 17 Jan 2025 11:00:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
