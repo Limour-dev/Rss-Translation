@@ -4,8 +4,40 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 19 Jan 2025 09:59:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 19 Jan 2025 12:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250119000900881</guid>
+			<title>韩国朝野就尹锡悦被批捕各执己见</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月19日电 韩国总统尹锡悦19日以涉嫌带头发动内乱被批准逮捕后，执政党和在野阵营各执己见。
+</description>
+			<pubDate>Sun, 19 Jan 2025 11:40:18 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250119001000881</guid>
+			<title>韩公调处通知尹锡悦下午再次调查</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119001000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、果川1月19日电 韩国高级公职人员犯罪调查处（公调处）相关人士19日在记者会上表示，已通知总统尹锡悦下午2时将对其进行调查。
+</description>
+			<pubDate>Sun, 19 Jan 2025 11:24:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250119000500881</guid>
+			<title>尹锡悦支持者冲击打砸法院 45人被拘</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119000500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月19日电 19日凌晨，韩国首尔西部地方法院签发对总统尹锡悦的逮捕令后，数百名尹锡悦支持者冲击法院，其中45人因涉嫌非法侵入法院而被拘。
+</description>
+			<pubDate>Sun, 19 Jan 2025 10:22:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250119000400881</guid>
+			<title>韩总统室谴责法院批准逮捕尹锡悦</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119000400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月19日电 韩国总统办公室高级人士19日就法院签发对总统尹锡悦的逮捕令一事表示，与在野阵营人士受到的处分相比，这有失公平，恐将毁损国民对司法部公正性的信任。
+</description>
+			<pubDate>Sun, 19 Jan 2025 10:16:14 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250119000300881</guid>
 			<title>详讯：尹锡悦涉嫌内乱罪被批准逮捕</title>
@@ -131,35 +163,6 @@
 			<description>▲韩公调处：尹锡悦未到案 提捕准备基本就绪
 </description>
 			<pubDate>Fri, 17 Jan 2025 17:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117002600881</guid>
-			<title>韩庆尚北道知事李喆雨会见中国驻韩大使戴兵</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117002600881?section=news&amp;input=rss</link>
-			<description>韩联社安东1月17日电 韩国庆尚北道知事（省级行政区首长）李喆雨17日在道政府大楼会见中国驻韩大使戴兵。
-</description>
-			<pubDate>Fri, 17 Jan 2025 16:04:50 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117002400881</guid>
-			<title>股市收盘：KOSDAQ▲0.45</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117002400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报724.69点，较前一交易日上升0.45点。</description>
-			<pubDate>Fri, 17 Jan 2025 15:33:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117002300881</guid>
-			<title>股市收盘：KOSPI▼3.94</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117002300881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2523.55点，较前一交易日下跌3.94点。</description>
-			<pubDate>Fri, 17 Jan 2025 15:30:56 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117002200881</guid>
-			<title>15：30外汇汇率：1美元=1458.3韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117002200881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1458.3，较前一交易日下跌1.6韩元。</description>
-			<pubDate>Fri, 17 Jan 2025 15:30:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
