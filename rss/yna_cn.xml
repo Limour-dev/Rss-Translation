@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 19 Jan 2025 15:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 19 Jan 2025 18:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250119001300881</guid>
+			<title>详讯：韩公调处将于20日再次传唤调查尹锡悦</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月19日电 韩国高级公职人员犯罪调查处（公调处）19日表示，将于20日上午10时再次传唤调查总统尹锡悦。
+</description>
+			<pubDate>Sun, 19 Jan 2025 16:39:00 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250119001200881</guid>
+			<title>尹锡悦在看守所就支持者闯入法院表态</title>
+			<link>https://cn.yna.co.kr/view/ACK20250119001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、果川1月19日电 因涉嫌发动内乱而被批捕的韩国总统尹锡悦19日通过代理律师团就支持者闯入法院表示，充分理解民众的愤怒，但希望以和平方法表达意见。
+</description>
+			<pubDate>Sun, 19 Jan 2025 16:18:32 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250119001100881</guid>
 			<title>尹锡悦被批捕后拒绝出席公调处首次调查</title>
@@ -148,21 +164,6 @@
 			<description>韩联社首尔、果川1月17日电 韩国高级公职人员犯罪调查处（公调处）17日提请法院对总统尹锡悦签发逮捕令。这距离“12·3紧急戒严事件”爆发已过45天，侦查机关提请法院批捕现任总统尚属首次。
 </description>
 			<pubDate>Fri, 17 Jan 2025 19:24:24 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117002900881</guid>
-			<title>简讯：韩公调处提请法院批捕尹锡悦</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117002900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月17日电 韩国高级公职人员犯罪调查处（公调处）17日提请法院对涉嫌发动内乱的总统尹锡悦签发逮捕令。
-</description>
-			<pubDate>Fri, 17 Jan 2025 17:52:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250117002700881</guid>
-			<title>快讯：韩公调处提请法院批捕尹锡悦</title>
-			<link>https://cn.yna.co.kr/view/ACK20250117002700881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Fri, 17 Jan 2025 17:49:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
