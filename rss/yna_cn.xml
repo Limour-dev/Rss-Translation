@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 20 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 20 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250120003500881</guid>
+			<title>详讯：韩警方再尝试查抄总统安全屋和警卫处未果撤离</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月20日电 韩国警察厅国家侦查本部负责调查“12·3紧急戒严事件”的特别侦查组20日再次尝试查抄位于首尔三清洞的总统安全屋和警卫处，但遭到阻拦，双方对峙3个多小时后未果。
+</description>
+			<pubDate>Mon, 20 Jan 2025 20:06:29 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250120003400881</guid>
+			<title>详讯：韩首都圈发布霾预警 将启动今冬首次减排措施</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月20日电 韩国环境部20日表示，首都圈和忠清南道将从21日上午6时至晚上9时实施可吸入颗粒物（PM10）减排措施。
+</description>
+			<pubDate>Mon, 20 Jan 2025 19:47:19 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250120002600881</guid>
 			<title>2025年1月20日韩联社要闻简报</title>
@@ -144,21 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250120000700881?section=news&amp;input=rss</link>
 			<description>KOSDAQ开盘报727.59点，较前一交易日上升2.90点。</description>
 			<pubDate>Mon, 20 Jan 2025 09:01:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250120000600881</guid>
-			<title>外汇汇率开盘：1美元=1460.0韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250120000600881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1460.0，较前一交易日下跌1.7韩元。</description>
-			<pubDate>Mon, 20 Jan 2025 09:00:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250120000300881</guid>
-			<title>2025年1月20日韩国主要报纸头条新闻</title>
-			<link>https://cn.yna.co.kr/view/ACK20250120000300881?section=news&amp;input=rss</link>
-			<description>《朝鲜日报》尹锡悦支持者闯入法院践踏法治
-</description>
-			<pubDate>Mon, 20 Jan 2025 08:36:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
