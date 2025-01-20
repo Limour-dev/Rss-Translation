@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 20 Jan 2025 12:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 20 Jan 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250120001700881</guid>
+			<title>韩央行：今年经济增长预期恐被下调至1.6～1.7%</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120001700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月20日电 韩国银行（央行）20日表示，今年实际国内生产总值（GDP）增长预期可能从原先的1.9%被下调至1.6～1.7%。
+</description>
+			<pubDate>Mon, 20 Jan 2025 14:52:23 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250120001800881</guid>
+			<title>韩国与阿联酋下月实施联合军演</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120001800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月20日电 韩国国防部20日表示，将于下月10日至20日在阿联酋与当地兵力实施联合演习，韩国陆军、海军和海军陆战队将参演。
+</description>
+			<pubDate>Mon, 20 Jan 2025 14:45:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250120001200881</guid>
 			<title>韩公调处：正积极考虑对尹锡悦进行拘传</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔1月19日电 韩国总统办公室高级人士19日就法院签发对总统尹锡悦的逮捕令一事表示，与在野阵营人士受到的处分相比，这有失公平，恐将毁损国民对司法部公正性的信任。
 </description>
 			<pubDate>Sun, 19 Jan 2025 10:16:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250119000300881</guid>
-			<title>详讯：尹锡悦涉嫌内乱罪被批准逮捕</title>
-			<link>https://cn.yna.co.kr/view/ACK20250119000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月19日电 韩国总统尹锡悦19日被批准逮捕，距离他宣布紧急戒严已有47天。这也是韩国宪政史上现任总统首次被批捕。
-</description>
-			<pubDate>Sun, 19 Jan 2025 04:15:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250119000200881</guid>
-			<title>简讯：尹锡悦涉嫌内乱罪被批准逮捕</title>
-			<link>https://cn.yna.co.kr/view/ACK20250119000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月19日电 韩国总统尹锡悦19日被批准逮捕，距离他宣布紧急戒严有47天。这也是韩国宪政史上现任总统首次被批捕。
-</description>
-			<pubDate>Sun, 19 Jan 2025 03:26:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
