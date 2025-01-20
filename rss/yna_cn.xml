@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 20 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 21 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226000800881</guid>
+			<title>2025年1月21日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226000800881?section=news&amp;input=rss</link>
+			<description>1919年 朝鲜王朝第26任国王高宗驾崩。
+</description>
+			<pubDate>Tue, 21 Jan 2025 00:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250120003700881</guid>
+			<title>尹锡悦拒绝公调处强制传讯审问</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、果川、义王1月20日电 韩国高级公职人员犯罪调查处（公调处）20日表示，因被批捕的总统尹锡悦两次拒绝接受调查，因此尝试对其进行强制传讯审问，但因对方拒绝配合未能成功。
+</description>
+			<pubDate>Mon, 20 Jan 2025 23:06:44 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250120003600881</guid>
+			<title>尹锡悦21日将亲自出席弹劾案庭审</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月20日电 韩国总统尹锡悦的辩护律师尹甲根20日表示，尹锡悦21日将亲自出席宪法裁判所（宪法法院）对其弹劾案的庭审。
+</description>
+			<pubDate>Mon, 20 Jan 2025 22:13:17 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250120003500881</guid>
 			<title>详讯：韩警方再尝试查抄总统安全屋和警卫处未果撤离</title>
@@ -138,28 +162,6 @@
 			<description>韩联社首尔1月20日电 韩国民调机构Realmeter于20日发布的一份调查结果显示，执政党国民力量支持率赶超最大在野党共同民主党，两者之差时隔约半年超出误差范围。
 </description>
 			<pubDate>Mon, 20 Jan 2025 09:29:09 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250120000400881</guid>
-			<title>韩新世界集团会长郑溶镇将出席特朗普就职舞会</title>
-			<link>https://cn.yna.co.kr/view/ACK20250120000400881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿1月19日电 韩国新世界集团会长郑溶镇将出席美国总统特朗普的就职舞会。继上月中旬拜会特朗普之后，这将是他第二次与特朗普会面。
-</description>
-			<pubDate>Mon, 20 Jan 2025 09:23:05 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250120000800881</guid>
-			<title>股市开盘：KOSPI▲10.13</title>
-			<link>https://cn.yna.co.kr/view/ACK20250120000800881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2533.68点，较前一交易日上升10.13点。</description>
-			<pubDate>Mon, 20 Jan 2025 09:01:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250120000700881</guid>
-			<title>股市开盘：KOSDAQ▲2.90</title>
-			<link>https://cn.yna.co.kr/view/ACK20250120000700881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报727.59点，较前一交易日上升2.90点。</description>
-			<pubDate>Mon, 20 Jan 2025 09:01:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
