@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 22 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 23 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226001900881</guid>
+			<title>2025年1月23日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226001900881?section=news&amp;input=rss</link>
+			<description>1903年 大韩帝国新设博文院馆藏各种书籍、报纸和杂志。
+</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250122004500881</guid>
 			<title>韩外长同欧盟外交与安全政策高级代表首通话</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔、果川1月22日电 韩国高级公职人员犯罪调查处（公调处）22日表示，当天派人前往首尔看守所试图针对总统尹锡悦采取强制到案和就地讯问措施。
 </description>
 			<pubDate>Wed, 22 Jan 2025 11:45:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250122001400881</guid>
-			<title>详讯：韩公调处长促尹锡悦尊重司法到案受讯</title>
-			<link>https://cn.yna.co.kr/view/ACK20250122001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔、果川1月22日电 韩国高级公职人员犯罪调查处（公调处）处长吴东运22日表示，总统尹锡悦应该尊重司法系统作出的决定，并敦促其到案受讯。
-</description>
-			<pubDate>Wed, 22 Jan 2025 11:20:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
