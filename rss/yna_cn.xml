@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 23 Jan 2025 00:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 23 Jan 2025 03:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250122004600881</guid>
+			<title>三星发布新旗舰Galaxy S25系列新机</title>
+			<link>https://cn.yna.co.kr/view/ACK20250122004600881?section=news&amp;input=rss</link>
+			<description>韩联社圣何塞1月22日电 三星电子22日在美国加州圣何塞举办一年一度的“Galaxy Unpacked”发布会，发布新旗舰“Galaxy S25”系列新机。
+</description>
+			<pubDate>Thu, 23 Jan 2025 03:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241226001900881</guid>
 			<title>2025年1月23日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月22日电 “我好像不会再出演童话般的爱情作品，那也不是观众所期待的。那种作品要让给后辈，我近期更关注题材作品。”即将上映的新片《黑修女们》主演宋慧乔21日在首尔钟路区一家咖啡厅接受采访时如是说。
 </description>
 			<pubDate>Wed, 22 Jan 2025 13:52:59 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250122002000881</guid>
-			<title>韩公调处：今将试图针对尹锡悦进行就地讯问</title>
-			<link>https://cn.yna.co.kr/view/ACK20250122002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔、果川1月22日电 韩国高级公职人员犯罪调查处（公调处）22日表示，当天派人前往首尔看守所试图针对总统尹锡悦采取强制到案和就地讯问措施。
-</description>
-			<pubDate>Wed, 22 Jan 2025 11:45:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
