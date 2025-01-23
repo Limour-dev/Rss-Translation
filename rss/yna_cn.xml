@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 23 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 24 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226002000881</guid>
+			<title>2025年1月24日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226002000881?section=news&amp;input=rss</link>
+			<description>1920年 大韩民国临时政府军务部发布第一号通告，号召全民参与抗日独立战争。
+</description>
+			<pubDate>Fri, 24 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250123004300881</guid>
+			<title>尹锡悦在弹劾案庭审中似承认戒严布告令违法</title>
+			<link>https://cn.yna.co.kr/view/ACK20250123004300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月23日电 23日，韩国总统尹锡悦在宪法裁判所（宪法法院）总统弹劾案庭审第四次正式辩论中对前防长金龙显进行问询过程中似承认一号戒严布告令违法。
+</description>
+			<pubDate>Thu, 23 Jan 2025 21:53:37 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250123004200881</guid>
 			<title>韩前防长金龙显出庭作证 否认检方对尹锡悦戒严指控</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔1月23日电 韩国高级公职人员犯罪调查处（公调处）23日将总统尹锡悦涉嫌带头发动内乱案移交检方，并要求检方对其提起公诉。
 </description>
 			<pubDate>Thu, 23 Jan 2025 11:19:58 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250123001700881</guid>
-			<title>快讯：韩美外长通电话谈朝核问题</title>
-			<link>https://cn.yna.co.kr/view/ACK20250123001700881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Thu, 23 Jan 2025 10:57:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250123001200881</guid>
-			<title>三星Galaxy S25系列新机明起在韩接受预定</title>
-			<link>https://cn.yna.co.kr/view/ACK20250123001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月23日电 三星电子新款旗舰智能手机“Galaxy S25”系列将于24日至下月3日在韩国本土开放预售，并于下月7日正式面市。
-</description>
-			<pubDate>Thu, 23 Jan 2025 10:38:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
