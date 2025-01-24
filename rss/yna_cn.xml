@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 24 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 24 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250124003400881</guid>
+			<title>哈尔滨亚冬会韩国体育代表团成立</title>
+			<link>https://cn.yna.co.kr/view/ACK20250124003400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月24日电 24日，哈尔滨亚冬会韩国体育代表团成立动员大会在首尔松坡区举行。
+</description>
+			<pubDate>Fri, 24 Jan 2025 18:40:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250124003300881</guid>
+			<title>LG杯卞相壹获奖感言：充分理解柯洁的立场</title>
+			<link>https://cn.yna.co.kr/view/ACK20250124003300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月24日电 韩国棋手卞相壹24日出席第29届LG杯朝鲜日报社世界棋王战颁奖仪式，在发表获奖感言时表示，十分理解中国棋手柯洁的立场。
+</description>
+			<pubDate>Fri, 24 Jan 2025 18:31:49 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250124003200881</guid>
 			<title>韩检方申请将尹锡悦逮捕期限延长至2月6日</title>
@@ -145,20 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250124000500881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2529.29点,较前一交易日上升13.80点。</description>
 			<pubDate>Fri, 24 Jan 2025 09:01:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000400881</guid>
-			<title>股市开盘：KOSDAQ▲1.77</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报725.78点，较前一交易日上升1.77点。</description>
-			<pubDate>Fri, 24 Jan 2025 09:01:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000300881</guid>
-			<title>外汇汇率开盘：1美元=1439.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000300881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1439.5，较前一交易日下跌2.2韩元。</description>
-			<pubDate>Fri, 24 Jan 2025 09:00:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
