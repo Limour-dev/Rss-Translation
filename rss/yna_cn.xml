@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 24 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 25 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226002100881</guid>
+			<title>2025年1月25日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226002100881?section=news&amp;input=rss</link>
+			<description>1886年 朝鲜王朝后期出版机构“博文局”开始发行机关报《汉城周报》。
+</description>
+			<pubDate>Sat, 25 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250124003500881</guid>
+			<title>韩法院驳回检方对尹锡悦逮捕期限延长申请</title>
+			<link>https://cn.yna.co.kr/view/ACK20250124003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月24日电 韩国首尔中央地方法院24日晚驳回检方对总统尹锡悦的逮捕期限延长申请。
+</description>
+			<pubDate>Fri, 24 Jan 2025 23:32:07 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250124003400881</guid>
 			<title>哈尔滨亚冬会韩国体育代表团成立</title>
@@ -146,21 +162,6 @@
 			<description>韩联社首尔1月24日电 古巴驻韩国大使克劳迪奥·蒙松（Claudio Monzón）23日在接受韩联社采访时表示，古巴和韩国在多方面存在巨大的合作潜力，期待两国能扩大贸易规模。
 </description>
 			<pubDate>Fri, 24 Jan 2025 10:11:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000600881</guid>
-			<title>韩驻美大使：将与美政府共同坚持朝无核化目标</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000600881?section=news&amp;input=rss</link>
-			<description>韩联社华盛顿1月23日电 韩国驻美大使赵贤东23日表示，将同美国新一届政府坚持“实现朝鲜无核化”这一共同目标，同时加强对朝政策协调配合，化解朝鲜派兵援俄导致的复杂局面。
-</description>
-			<pubDate>Fri, 24 Jan 2025 09:59:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000500881</guid>
-			<title>股市开盘：KOSPI▲13.80</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2529.29点,较前一交易日上升13.80点。</description>
-			<pubDate>Fri, 24 Jan 2025 09:01:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
