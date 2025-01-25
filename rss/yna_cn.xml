@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 25 Jan 2025 21:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 26 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241226002200881</guid>
+			<title>2025年1月26日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241226002200881?section=news&amp;input=rss</link>
+			<description>1898年 汉城电气股份公司成立。该公司注册资本金为30万日元，由朝鲜王朝第26任国王、大韩帝国首位皇帝高宗出资。
+</description>
+			<pubDate>Sun, 26 Jan 2025 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250124001900881</guid>
 			<title>一周韩娱：JENNIE将推正规个辑 洪尚秀新片角逐金熊奖</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月24日电 韩国联合参谋本部（联参）24日向国防部跑口记者团发布“朝鲜军最新动向”资料称，朝鲜正在持续为侦察卫星和洲际弹道导弹（ICBM）发射做准备工作，但尚无迹象表明发射在即。
 </description>
 			<pubDate>Fri, 24 Jan 2025 11:11:39 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000900881</guid>
-			<title>中国驻韩大使戴兵会见韩国副外长姜仁仙</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 中国驻韩国大使戴兵24日访问首尔韩国外交部大楼，会见外交部第二次官（副部长）姜仁仙。
-</description>
-			<pubDate>Fri, 24 Jan 2025 10:59:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
