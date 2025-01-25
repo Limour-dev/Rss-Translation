@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 25 Jan 2025 06:04:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 25 Jan 2025 09:49:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250124001900881</guid>
+			<title>一周韩娱：JENNIE将推正规个辑 洪尚秀新片角逐金熊奖</title>
+			<link>https://cn.yna.co.kr/view/ACK20250124001900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月25日电 【要闻回顾】JENNIE将于3月首推个人正规专辑；洪尚秀新片入围柏林电影节主竞赛单元；智旻获美国iHeartRadio音乐奖四项提名；韩影《破碎》上映前售至158国和地区。
+</description>
+			<pubDate>Sat, 25 Jan 2025 08:00:27 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241226002100881</guid>
 			<title>2025年1月25日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月24日电 中国驻韩国大使戴兵24日访问首尔韩国外交部大楼，会见外交部第二次官（副部长）姜仁仙。
 </description>
 			<pubDate>Fri, 24 Jan 2025 10:59:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000700881</guid>
-			<title>古巴驻韩大使蒙松：两国合作前景光明</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 古巴驻韩国大使克劳迪奥·蒙松（Claudio Monzón）23日在接受韩联社采访时表示，古巴和韩国在多方面存在巨大的合作潜力，期待两国能扩大贸易规模。
-</description>
-			<pubDate>Fri, 24 Jan 2025 10:11:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
