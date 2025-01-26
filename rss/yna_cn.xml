@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 26 Jan 2025 06:04:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 26 Jan 2025 09:54:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250126000100881</guid>
+			<title>朝鲜昨试射战略巡航导弹 金正恩观摩</title>
+			<link>https://cn.yna.co.kr/view/ACK20250126000100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月26日电 朝中社26日报道称，朝鲜25日进行了海对地战略巡航制导武器试射，朝鲜国务委员会委员长金正恩观看了试射。
+</description>
+			<pubDate>Sun, 26 Jan 2025 09:30:04 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250121002900881</guid>
+			<title>韩2024年缴毒量787公斤 相当于2600万人份</title>
+			<link>https://cn.yna.co.kr/view/ACK20250121002900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗1月26日电 韩国关税厅（海关）发布的一组数据显示，2024年在通关阶段缴获的毒品同比增加2%，为787公斤，相当于可供2600万人同时吸食。
+</description>
+			<pubDate>Sun, 26 Jan 2025 08:00:13 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241226002200881</guid>
 			<title>2025年1月26日韩国历史上的今天</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔1月24日电 比亚迪韩国公司24日表示，截至23日，旗下纯电SUV车型“ATTO 3”（元PLUS）在韩预售量突破1000辆关口。
 </description>
 			<pubDate>Fri, 24 Jan 2025 11:45:44 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124001000881</guid>
-			<title>调查：韩近八成离散家属不知在朝家人生死</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 韩国统一部24日发布的一项调查结果显示，近八成离散家属登记人员不清楚在朝鲜的家属是否健在。
-</description>
-			<pubDate>Fri, 24 Jan 2025 11:41:42 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124000800881</guid>
-			<title>韩联参：朝鲜持续为射星射弹做准备</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 韩国联合参谋本部（联参）24日向国防部跑口记者团发布“朝鲜军最新动向”资料称，朝鲜正在持续为侦察卫星和洲际弹道导弹（ICBM）发射做准备工作，但尚无迹象表明发射在即。
-</description>
-			<pubDate>Fri, 24 Jan 2025 11:11:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
