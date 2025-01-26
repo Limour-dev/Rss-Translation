@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 26 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 27 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241230000800881</guid>
+			<title>2025年1月27日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230000800881?section=news&amp;input=rss</link>
+			<description>1883年 朝鲜王朝将太极旗定为国旗。
+</description>
+			<pubDate>Mon, 27 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250126001400881</guid>
 			<title>详讯：尹锡悦因涉嫌带头发动内乱被检方起诉</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月24日电 韩国外交部24日以发言人的名义发表声明，严正抗议日本外相岩屋毅对独岛主权的不当主张，并敦促其立即撤回相关言论。
 </description>
 			<pubDate>Fri, 24 Jan 2025 16:56:03 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124003000881</guid>
-			<title>韩政府吁朝鲜响应韩美提议重返对话桌</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124003000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 就美国总统特朗普表达同朝鲜国务委员长金正恩对话意愿，韩国政府24日呼吁朝鲜响应韩美提议，重返对话轨道。
-</description>
-			<pubDate>Fri, 24 Jan 2025 16:03:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
