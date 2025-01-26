@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 26 Jan 2025 12:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 26 Jan 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250126001100881</guid>
+			<title>韩全国检察长开会讨论尹锡悦涉发动内乱案处理方向</title>
+			<link>https://cn.yna.co.kr/view/ACK20250126001100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月26日电 韩国检察总长沈雨廷26日召开全国检察长会议，就总统尹锡悦涉嫌带头发动内乱案的处理方向听取了检方领导班子的意见。
+</description>
+			<pubDate>Sun, 26 Jan 2025 14:12:30 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250126000500881</guid>
 			<title>韩军称事先发现朝鲜射弹迹象</title>
@@ -154,14 +162,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250124002700881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1431.3，较前一交易日上升6.0韩元。</description>
 			<pubDate>Fri, 24 Jan 2025 15:31:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124001800881</guid>
-			<title>朝鲜IT专家在美非法就业创汇 5名涉案人遭起诉</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 涉嫌帮助朝鲜信息通信（IT）专家隐瞒国籍以远程办公形式在美国企业工作的5人被美国法务部起诉，其中包括2名朝鲜人。据推测，被美企录用的朝鲜IT专家赚取巨额收入，而大部分资金流入朝鲜当局。
-</description>
-			<pubDate>Fri, 24 Jan 2025 15:12:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
