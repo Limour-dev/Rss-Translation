@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 26 Jan 2025 15:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 26 Jan 2025 18:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250126001200881</guid>
+			<title>韩国全境明起将迎大雪天气</title>
+			<link>https://cn.yna.co.kr/view/ACK20250126001200881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月26日电 韩国全境将于27日起迎来大雪天气，可能导致春运交通大面积混乱。截至28日，江原道内陆和全罗北道东部积雪深度最多将达30厘米，首都圈或将超过25厘米。
+</description>
+			<pubDate>Sun, 26 Jan 2025 15:20:51 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250126001100881</guid>
 			<title>韩全国检察长开会讨论尹锡悦涉发动内乱案处理方向</title>
@@ -155,13 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250124002800881?section=news&amp;input=rss</link>
 			<description>KOSDAQ收盘报728.74点，较前一交易日上升4.73点。</description>
 			<pubDate>Fri, 24 Jan 2025 15:33:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124002700881</guid>
-			<title>15：30外汇汇率:1美元=1431.3韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124002700881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1431.3，较前一交易日上升6.0韩元。</description>
-			<pubDate>Fri, 24 Jan 2025 15:31:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
