@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 26 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 26 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250126001400881</guid>
+			<title>详讯：尹锡悦因涉嫌带头发动内乱被检方起诉</title>
+			<link>https://cn.yna.co.kr/view/ACK20250126001400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月26日电 韩国总统尹锡悦因涉嫌带头发动内乱正式被检方逮捕起诉，这距离“12·3戒严事件”发生已有54天。韩国宪政史上现任总统被逮捕起诉尚属首次。
+</description>
+			<pubDate>Sun, 26 Jan 2025 20:29:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250126001300881</guid>
+			<title>尹锡悦因涉嫌带头发动内乱被检方起诉</title>
+			<link>https://cn.yna.co.kr/view/ACK20250126001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月26日电 韩国总统尹锡悦因涉嫌带头发动内乱罪正式被检方起诉，这距离“12·3戒严事件”发生已有54天，这也是韩国现任总统首次被逮捕起诉。
+</description>
+			<pubDate>Sun, 26 Jan 2025 19:27:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250126001200881</guid>
 			<title>韩国全境明起将迎大雪天气</title>
@@ -149,20 +165,6 @@
 			<description>韩联社首尔1月24日电 就美国总统特朗普表达同朝鲜国务委员长金正恩对话意愿，韩国政府24日呼吁朝鲜响应韩美提议，重返对话轨道。
 </description>
 			<pubDate>Fri, 24 Jan 2025 16:03:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124002900881</guid>
-			<title>股市收盘:KOSPI▲21.31</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124002900881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2536.80点，较前一交易日上升21.31点。</description>
-			<pubDate>Fri, 24 Jan 2025 15:33:42 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124002800881</guid>
-			<title>股市收盘:KOSDAQ▲4.73</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124002800881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报728.74点，较前一交易日上升4.73点。</description>
-			<pubDate>Fri, 24 Jan 2025 15:33:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
