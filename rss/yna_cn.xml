@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 27 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 28 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241230000900881</guid>
+			<title>2025年1月28日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230000900881?section=news&amp;input=rss</link>
+			<description>1898年 朝鲜王朝王宫——德寿宫开通韩国第一部电话。
+</description>
+			<pubDate>Tue, 28 Jan 2025 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250110002900881</guid>
 			<title>Stray Kids下月在韩举行粉丝见面会</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月24日电 韩国棋手卞相壹24日出席第29届LG杯朝鲜日报社世界棋王战颁奖仪式，在发表获奖感言时表示，十分理解中国棋手柯洁的立场。
 </description>
 			<pubDate>Fri, 24 Jan 2025 18:31:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124003200881</guid>
-			<title>韩检方申请将尹锡悦逮捕期限延长至2月6日</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124003200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 据韩国法律界24日消息，检察厅紧急戒严特别侦查本部提请首尔中央地方法院延长对总统尹锡悦的逮捕期限至2月6日。
-</description>
-			<pubDate>Fri, 24 Jan 2025 17:13:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
