@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 27 Jan 2025 06:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 27 Jan 2025 09:54:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250110003000881</guid>
+			<title>2027英雄联盟全球总决赛将在韩举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20250110003000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月27日电 据美国网游开发商和发行商“拳头游戏”（Riot Games）公布的2025年至2027年英雄联盟（LoL）电竞赛事安排，2027年全球总决赛将在韩国举行。
+</description>
+			<pubDate>Mon, 27 Jan 2025 08:00:12 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241230000800881</guid>
 			<title>2025年1月27日韩国历史上的今天</title>
@@ -157,14 +165,6 @@
 			<description>▲韩联参：朝鲜持续为射星射弹做准备
 </description>
 			<pubDate>Fri, 24 Jan 2025 17:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124003100881</guid>
-			<title>韩国政府严正抗议日本外相主张独岛主权</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124003100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 韩国外交部24日以发言人的名义发表声明，严正抗议日本外相岩屋毅对独岛主权的不当主张，并敦促其立即撤回相关言论。
-</description>
-			<pubDate>Fri, 24 Jan 2025 16:56:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
