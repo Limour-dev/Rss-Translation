@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 27 Jan 2025 09:54:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 27 Jan 2025 12:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250110002900881</guid>
+			<title>Stray Kids下月在韩举行粉丝见面会</title>
+			<link>https://cn.yna.co.kr/view/ACK20250110002900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月27日电 经纪公司JYP娱乐旗下男团Stray Kids将于下月14至16日在仁川迎仕柏演出场馆举行第五场粉丝见面会“SKZ 5&amp;apos;CLOCK”。
+</description>
+			<pubDate>Mon, 27 Jan 2025 10:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250110003000881</guid>
 			<title>2027英雄联盟全球总决赛将在韩举行</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月24日电 据韩国法律界24日消息，检察厅紧急戒严特别侦查本部提请首尔中央地方法院延长对总统尹锡悦的逮捕期限至2月6日。
 </description>
 			<pubDate>Fri, 24 Jan 2025 17:13:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124002600881</guid>
-			<title>2025年1月24日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124002600881?section=news&amp;input=rss</link>
-			<description>▲韩联参：朝鲜持续为射星射弹做准备
-</description>
-			<pubDate>Fri, 24 Jan 2025 17:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
