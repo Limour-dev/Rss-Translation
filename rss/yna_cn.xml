@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 28 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 29 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241230001200881</guid>
+			<title>2025年1月29日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241230001200881?section=news&amp;input=rss</link>
+			<description>1907年 抗日独立运动家徐相敦、金光济等人士在大邱发起国债赔偿运动。
+</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250121001300881</guid>
 			<title>男团ATEEZ3月将在首尔开唱为世巡收尾</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月25日电 【要闻回顾】JENNIE将于3月首推个人正规专辑；洪尚秀新片入围柏林电影节主竞赛单元；智旻获美国iHeartRadio音乐奖四项提名；韩影《破碎》上映前售至158国和地区。
 </description>
 			<pubDate>Sat, 25 Jan 2025 08:00:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241226002100881</guid>
-			<title>2025年1月25日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241226002100881?section=news&amp;input=rss</link>
-			<description>1886年 朝鲜王朝后期出版机构“博文局”开始发行机关报《汉城周报》。
-</description>
-			<pubDate>Sat, 25 Jan 2025 00:00:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
