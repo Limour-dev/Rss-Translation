@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 28 Jan 2025 09:54:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 28 Jan 2025 12:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250121001300881</guid>
+			<title>男团ATEEZ3月将在首尔开唱为世巡收尾</title>
+			<link>https://cn.yna.co.kr/view/ACK20250121001300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月28日电 据经纪公司KQ娱乐消息，旗下男团ATEEZ将于3月22至23日在首尔奥林匹克公园KSPO巨蛋举办世界巡演首尔站演出“TOWARDS THE LIGHT : WILL TO POWER FINALE IN SEOUL”，为世巡收尾。
+</description>
+			<pubDate>Tue, 28 Jan 2025 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250114002600881</guid>
+			<title>韩企去年承揽海外建筑工程订单创近9年新高</title>
+			<link>https://cn.yna.co.kr/view/ACK20250114002600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月28日电 韩国国土交通部发布的统计数据显示，2024年韩企承揽的海外建筑工程订单金额达371.1亿美元，创近9年来新高。
+</description>
+			<pubDate>Tue, 28 Jan 2025 10:00:05 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250114000300881</guid>
 			<title>2024年在韩购买房地产外国人中中国人占65%</title>
@@ -149,22 +165,6 @@
 			<description>1886年 朝鲜王朝后期出版机构“博文局”开始发行机关报《汉城周报》。
 </description>
 			<pubDate>Sat, 25 Jan 2025 00:00:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124003500881</guid>
-			<title>韩法院驳回检方对尹锡悦逮捕期限延长申请</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124003500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 韩国首尔中央地方法院24日晚驳回检方对总统尹锡悦的逮捕期限延长申请。
-</description>
-			<pubDate>Fri, 24 Jan 2025 23:32:07 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124003400881</guid>
-			<title>哈尔滨亚冬会韩国体育代表团成立</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124003400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 24日，哈尔滨亚冬会韩国体育代表团成立动员大会在首尔松坡区举行。
-</description>
-			<pubDate>Fri, 24 Jan 2025 18:40:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
