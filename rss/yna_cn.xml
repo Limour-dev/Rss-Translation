@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 28 Jan 2025 06:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 28 Jan 2025 09:54:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250114000300881</guid>
+			<title>2024年在韩购买房地产外国人中中国人占65%</title>
+			<link>https://cn.yna.co.kr/view/ACK20250114000300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月28日电 据韩国法院登记信息平台近日发布的数据，2024年在境内购置不动产（包括土地、住宅、建筑等）并申请所有权转移登记的外国人共1.7478万人，同比增加11.9%。其中中国人占比达65%左右。
+</description>
+			<pubDate>Tue, 28 Jan 2025 08:00:10 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20241230000900881</guid>
 			<title>2025年1月28日韩国历史上的今天</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月24日电 24日，哈尔滨亚冬会韩国体育代表团成立动员大会在首尔松坡区举行。
 </description>
 			<pubDate>Fri, 24 Jan 2025 18:40:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250124003300881</guid>
-			<title>LG杯卞相壹获奖感言：充分理解柯洁的立场</title>
-			<link>https://cn.yna.co.kr/view/ACK20250124003300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月24日电 韩国棋手卞相壹24日出席第29届LG杯朝鲜日报社世界棋王战颁奖仪式，在发表获奖感言时表示，十分理解中国棋手柯洁的立场。
-</description>
-			<pubDate>Fri, 24 Jan 2025 18:31:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
