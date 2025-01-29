@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 29 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 29 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250129001500881</guid>
+			<title>详讯：韩国客机起火疑似乘客充电宝自燃</title>
+			<link>https://cn.yna.co.kr/view/ACK20250129001500881?section=news&amp;input=rss</link>
+			<description>韩联社釜山1月29日电 前一日，韩国釜山航空计划飞往中国香港的BX391航班（空客A321）在金海机场起飞前起火。多名机舱内乘客称，客舱内部先起火冒烟，疑似为充电宝自燃。具体起火原因有待进一步调查。
+</description>
+			<pubDate>Wed, 29 Jan 2025 18:53:40 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250129001200881</guid>
 			<title>韩客机起火疑因行李架内不明物品自燃所致</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月26日电 韩国检方再度向法院提出延长对总统尹锡悦的侦查羁押期限申请被驳，预计检方将在羁押期间决定是否起诉尹锡悦。
 </description>
 			<pubDate>Sun, 26 Jan 2025 11:08:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250126000200881</guid>
-			<title>韩国华川山鳟鱼庆典开幕两周访客破百万</title>
-			<link>https://cn.yna.co.kr/view/ACK20250126000200881?section=news&amp;input=rss</link>
-			<description>韩联社华川1月26日电 2025年韩国华川山鳟鱼庆典迎来开幕后第14天，来自国内外的游客累计突破100万人次。
-</description>
-			<pubDate>Sun, 26 Jan 2025 10:29:55 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
