@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 29 Jan 2025 09:54:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 29 Jan 2025 12:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250129001200881</guid>
+			<title>韩客机起火疑因行李架内不明物品自燃所致</title>
+			<link>https://cn.yna.co.kr/view/ACK20250129001200881?section=news&amp;input=rss</link>
+			<description>韩联社釜山1月29日电 韩国釜山航空计划飞往中国香港的BX391航班（空客A321）前一日在金海机场起飞前起火，事故原因初步猜测是行李架上不明物品自燃所致。
+</description>
+			<pubDate>Wed, 29 Jan 2025 12:03:55 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250117002000881</guid>
+			<title>朴宝英崔宇植新剧《我们的浪漫电影》下月上线</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月29日电 韩国演员朴宝英和崔宇植主演的奈飞（Netflix）新剧《我们的浪漫电影》将于下月14日上线。
+</description>
+			<pubDate>Wed, 29 Jan 2025 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250121000900881</guid>
+			<title>统计：韩2024年汽车出口额创历史第二高纪录</title>
+			<link>https://cn.yna.co.kr/view/ACK20250121000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月29日电 据韩国产业通商资源部（产业部）发布的“2024年汽车产业动向”资料，韩国2024年汽车出口额为708亿美元，创下历史第二高。
+</description>
+			<pubDate>Wed, 29 Jan 2025 10:00:03 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250129000100881</guid>
 			<title>韩金海机场一架赴港班机起飞前着火 机上全员逃生</title>
@@ -141,30 +165,6 @@
 			<description>韩联社华川1月26日电 2025年韩国华川山鳟鱼庆典迎来开幕后第14天，来自国内外的游客累计突破100万人次。
 </description>
 			<pubDate>Sun, 26 Jan 2025 10:29:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250126000300881</guid>
-			<title>朝外务省发表谈话谴责韩美联演称将超强硬应对</title>
-			<link>https://cn.yna.co.kr/view/ACK20250126000300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月26日电 朝鲜外务省26日以对外报道室长的名义发表谈话谴责韩美近日实施的“双鹰”联合演习，并表示，若美国不认可我国主权和安全利益，朝方就应完全以超强硬的态度应对，这才是最为理想的抉择。
-</description>
-			<pubDate>Sun, 26 Jan 2025 10:17:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250126000100881</guid>
-			<title>朝鲜昨试射战略巡航导弹 金正恩观摩</title>
-			<link>https://cn.yna.co.kr/view/ACK20250126000100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月26日电 朝中社26日报道称，朝鲜25日进行了海对地战略巡航制导武器试射，朝鲜国务委员会委员长金正恩观看了试射。
-</description>
-			<pubDate>Sun, 26 Jan 2025 09:30:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250121002900881</guid>
-			<title>韩2024年缴毒量787公斤 相当于2600万人份</title>
-			<link>https://cn.yna.co.kr/view/ACK20250121002900881?section=news&amp;input=rss</link>
-			<description>韩联社世宗1月26日电 韩国关税厅（海关）发布的一组数据显示，2024年在通关阶段缴获的毒品同比增加2%，为787公斤，相当于可供2600万人同时吸食。
-</description>
-			<pubDate>Sun, 26 Jan 2025 08:00:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
