@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 29 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 30 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241231002100881</guid>
+			<title>2025年1月30日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241231002100881?section=news&amp;input=rss</link>
+			<description>1899年 大韩天一银行成立。在日本殖民统治下，民族资本家为搞活陷入低谷的民族经济而发起成立该银行。
+</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250129001500881</guid>
 			<title>详讯：韩国客机起火疑似乘客充电宝自燃</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月26日电 韩国联合参谋本部（联参）26日就朝鲜宣布发射战略巡航导弹一事表示，已提前捕捉到朝鲜将射弹的迹象，并在其射弹后进行追踪和监视。军方正在分析导弹的具体参数。
 </description>
 			<pubDate>Sun, 26 Jan 2025 11:34:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250126000400881</guid>
-			<title>韩法院再驳回检方对尹锡悦羁押期限延长申请</title>
-			<link>https://cn.yna.co.kr/view/ACK20250126000400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月26日电 韩国检方再度向法院提出延长对总统尹锡悦的侦查羁押期限申请被驳，预计检方将在羁押期间决定是否起诉尹锡悦。
-</description>
-			<pubDate>Sun, 26 Jan 2025 11:08:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
