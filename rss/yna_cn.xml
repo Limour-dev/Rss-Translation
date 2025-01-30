@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 30 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 31 Jan 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20241231002300881</guid>
+			<title>2025年1月31日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20241231002300881?section=news&amp;input=rss</link>
+			<description>1905年 大韩帝国委托日本第一银行代理国库业务和负责清理整顿货币交易。
+</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250130001400881</guid>
 			<title>韩外长发文就美坠机事故致哀 政府正确认乘客名单</title>
@@ -157,14 +165,6 @@
 			<description>1907年 抗日独立运动家徐相敦、金光济等人士在大邱发起国债赔偿运动。
 </description>
 			<pubDate>Wed, 29 Jan 2025 00:00:02 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250121001300881</guid>
-			<title>男团ATEEZ3月将在首尔开唱为世巡收尾</title>
-			<link>https://cn.yna.co.kr/view/ACK20250121001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月28日电 据经纪公司KQ娱乐消息，旗下男团ATEEZ将于3月22至23日在首尔奥林匹克公园KSPO巨蛋举办世界巡演首尔站演出“TOWARDS THE LIGHT : WILL TO POWER FINALE IN SEOUL”，为世巡收尾。
-</description>
-			<pubDate>Tue, 28 Jan 2025 12:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
