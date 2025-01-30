@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 30 Jan 2025 12:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 30 Jan 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250130000800881</guid>
+			<title>韩国土部对失火客机进行联合勘查预备安全性检查</title>
+			<link>https://cn.yna.co.kr/view/ACK20250130000800881?section=news&amp;input=rss</link>
+			<description>韩联社釜山1月30日电 韩国国土交通部航空铁路事故调查委员会（航铁委）在对日前发生火灾的釜山航空客机实施联合勘查工作之前，为确保安全而进行检查。
+</description>
+			<pubDate>Thu, 30 Jan 2025 14:34:01 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250130000700881</guid>
+			<title>韩代总统主持金融部门首长会议讨论美政策影响</title>
+			<link>https://cn.yna.co.kr/view/ACK20250130000700881?section=news&amp;input=rss</link>
+			<description>韩联社世宗1月30日电 韩国代行总统职权的副总理兼企划财政部长官（代总统）崔相穆30日在政府首尔办公楼主持召开宏观经济金融座谈会，检查美联储冻息、特朗普政府第二任期政策给国内外金融和外汇市场的影响，讨论应对之策。
+</description>
+			<pubDate>Thu, 30 Jan 2025 14:23:43 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250130000600881</guid>
 			<title>aespa在美国西雅图开唱启动欧美巡演</title>
@@ -149,22 +165,6 @@
 			<description>韩联社首尔1月27日电 据美国网游开发商和发行商“拳头游戏”（Riot Games）公布的2025年至2027年英雄联盟（LoL）电竞赛事安排，2027年全球总决赛将在韩国举行。
 </description>
 			<pubDate>Mon, 27 Jan 2025 08:00:12 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20241230000800881</guid>
-			<title>2025年1月27日韩国历史上的今天</title>
-			<link>https://cn.yna.co.kr/view/ACK20241230000800881?section=news&amp;input=rss</link>
-			<description>1883年 朝鲜王朝将太极旗定为国旗。
-</description>
-			<pubDate>Mon, 27 Jan 2025 00:00:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250126001400881</guid>
-			<title>详讯：尹锡悦因涉嫌带头发动内乱被检方起诉</title>
-			<link>https://cn.yna.co.kr/view/ACK20250126001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月26日电 韩国总统尹锡悦因涉嫌带头发动内乱正式被检方逮捕起诉，这距离“12·3戒严事件”发生已有54天。韩国宪政史上现任总统被逮捕起诉尚属首次。
-</description>
-			<pubDate>Sun, 26 Jan 2025 20:29:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
