@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 31 Jan 2025 18:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 31 Jan 2025 21:19:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250131003600881</guid>
+			<title>韩国情院长和国安首长将为尹锡悦弹劾案出庭作证</title>
+			<link>https://cn.yna.co.kr/view/ACK20250131003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月31日电 韩国宪法裁判所（宪法法院）公报官千在贤（音）31日在例行记者会上表示，国家情报院院长赵太庸、国家安保室室长申源湜和国家情报院前第三次长白钟郁将为总统尹锡悦弹劾案出庭作证。
+</description>
+			<pubDate>Fri, 31 Jan 2025 21:00:18 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250131003700881</guid>
+			<title>涉在华与朝鲜间谍接头的两名工会干部被起诉</title>
+			<link>https://cn.yna.co.kr/view/ACK20250131003700881?section=news&amp;input=rss</link>
+			<description>韩联社水原1月31日电 涉嫌在中国同朝鲜间谍接头并接受指示的韩国全国民主劳动组合总联盟（民主劳总）的前任和现任2名干部被检方起诉。
+</description>
+			<pubDate>Fri, 31 Jan 2025 20:48:06 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250131003500881</guid>
+			<title>韩政府将致函深度求索询问个人信息收集合法性</title>
+			<link>https://cn.yna.co.kr/view/ACK20250131003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔1月31日电 韩国个人信息保护委员会31日表示，个人信息委当天将向位于中国的深度求索（DeepSeek）总部发送质询函，以确认其个人信息收集项目和流程，以及处理和保存方法。
+</description>
+			<pubDate>Fri, 31 Jan 2025 18:59:48 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250131003300881</guid>
 			<title>韩代总统正式任命11名驻外大使 驻华大使除外</title>
@@ -138,28 +162,6 @@
 			<description>韩联社首尔1月31日电 三星电子31日发布业绩报告，最终核实公司2024年营业利润同比大增398.34%，为32.726万亿韩元（约合人民币1646.3亿元）。
 </description>
 			<pubDate>Fri, 31 Jan 2025 09:25:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131000200881</guid>
-			<title>朝越领导人互致贺电庆祝建交75周年</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131000200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 据朝中社31日报道，朝鲜国务委员会委员长金正恩与越南国家主席梁强互致贺电，庆祝两国建交75周年，并将今年指定为“友好年”。
-</description>
-			<pubDate>Fri, 31 Jan 2025 09:03:57 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131000500881</guid>
-			<title>股市开盘：KOSPI▼2.47</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2534.33点，较前一交易日下跌2.47点。</description>
-			<pubDate>Fri, 31 Jan 2025 09:02:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131000400881</guid>
-			<title>股市开盘：KOSDAQ▼3.78</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131000400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报724.96点，较前一交易日下跌3.78点。</description>
-			<pubDate>Fri, 31 Jan 2025 09:01:47 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
