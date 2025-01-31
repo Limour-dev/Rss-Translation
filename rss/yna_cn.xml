@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 31 Jan 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 1 Feb 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250115002900881</guid>
+			<title>2025年2月1日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250115002900881?section=news&amp;input=rss</link>
+			<description>1915年 青少年杂志《新星》停刊，此前共发行16期。
+</description>
+			<pubDate>Sat, 01 Feb 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250131003600881</guid>
 			<title>韩国情院长和国安首长将为尹锡悦弹劾案出庭作证</title>
@@ -154,14 +162,6 @@
 			<description>韩联社旧金山1月30日电 流媒体播放平台奈飞（Netflix）30日表示，奈飞原创韩剧《鱿鱼游戏》第三季将于今年6月27日上线，迎来最终章。
 </description>
 			<pubDate>Fri, 31 Jan 2025 09:38:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131000700881</guid>
-			<title>三星电子最终核实去年营业利润同比增398.3%</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131000700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 三星电子31日发布业绩报告，最终核实公司2024年营业利润同比大增398.34%，为32.726万亿韩元（约合人民币1646.3亿元）。
-</description>
-			<pubDate>Fri, 31 Jan 2025 09:25:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
