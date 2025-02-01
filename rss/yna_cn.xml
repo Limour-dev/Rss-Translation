@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 1 Feb 2025 21:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 2 Feb 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250115003000881</guid>
+			<title>2025年2月2日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250115003000881?section=news&amp;input=rss</link>
+			<description>1801年 镇压天主教的“辛酉迫害”事件发生。朝鲜王朝第23任君主纯祖即位后，大王大妃贞纯王后垂帘听政，下令严禁“邪教”和“西教”并展开镇压天主教的行动。中国神父周文谟等100余人被处决，400余人遭流放。
+</description>
+			<pubDate>Sun, 02 Feb 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250131002000881</guid>
 			<title>一周韩娱：《鱿鱼游戏3》定档 aespa启动欧美巡演</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月31日电 三星电子31日发布业绩报告，最终核实公司2024年营业利润同比大增398.34%，为32.726万亿韩元（约合人民币1646.3亿元）。
 </description>
 			<pubDate>Fri, 31 Jan 2025 11:12:25 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131000800881</guid>
-			<title>韩代理防长金善镐同美国新任防长通电话</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 据韩国国防部31日消息，代理国防部长官金善镐当天同美国新任国防部长皮特·海格塞斯通电话。
-</description>
-			<pubDate>Fri, 31 Jan 2025 10:33:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
