@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 1 Feb 2025 06:09:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 1 Feb 2025 09:54:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250131002000881</guid>
+			<title>一周韩娱：《鱿鱼游戏3》定档 aespa启动欧美巡演</title>
+			<link>https://cn.yna.co.kr/view/ACK20250131002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月1日电 【要闻回顾】《鱿鱼游戏3》定档6月底；aespa在美国西雅图开唱启动欧美巡演；歌手太阳将举办安可演唱会；朴宝英崔宇植新剧《我们的浪漫电影》将上线。
+</description>
+			<pubDate>Sat, 01 Feb 2025 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250115002900881</guid>
 			<title>2025年2月1日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔1月31日电 据韩国国防部31日消息，代理国防部长官金善镐当天同美国新任国防部长皮特·海格塞斯通电话。
 </description>
 			<pubDate>Fri, 31 Jan 2025 10:33:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131000600881</guid>
-			<title>《鱿鱼游戏3》定档6月底 迎来最终章</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131000600881?section=news&amp;input=rss</link>
-			<description>韩联社旧金山1月30日电 流媒体播放平台奈飞（Netflix）30日表示，奈飞原创韩剧《鱿鱼游戏》第三季将于今年6月27日上线，迎来最终章。
-</description>
-			<pubDate>Fri, 31 Jan 2025 09:38:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
