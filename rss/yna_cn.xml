@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 2 Feb 2025 12:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 2 Feb 2025 15:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250202000700881</guid>
+			<title>韩国海军机动舰队司令部正式成立</title>
+			<link>https://cn.yna.co.kr/view/ACK20250202000700881?section=news&amp;input=rss</link>
+			<description>韩联社南海正祖大王舰2月2日电 韩国海军正式创设“机动舰队司令部”，作为海上作战的“韩国型三轴体系”核心部队应对朝鲜核武器和导弹威胁。
+</description>
+			<pubDate>Sun, 02 Feb 2025 15:01:34 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250202000600881</guid>
+			<title>朝媒称美国武器援助无法改变韩国战略劣势</title>
+			<link>https://cn.yna.co.kr/view/ACK20250202000600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月2日电 朝中社2日发表评论称，韩国即使获得美国的武器援助，也无法改变其战略劣势。
+</description>
+			<pubDate>Sun, 02 Feb 2025 13:55:04 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250202000300881</guid>
 			<title>韩2024年人均GDP或超3.6万美元超过日本和台湾</title>
@@ -147,21 +163,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250131002300881?section=news&amp;input=rss</link>
 			<description>KOSPI收盘报2517.37点，较前一交易日下跌19.43点。</description>
 			<pubDate>Fri, 31 Jan 2025 15:34:52 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131002200881</guid>
-			<title>15：30外汇汇率：1美元=1452.7韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131002200881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率报1452.7，较前一交易日下跌21.4韩元。</description>
-			<pubDate>Fri, 31 Jan 2025 15:30:31 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131001800881</guid>
-			<title>韩统一部强烈谴责金正恩涉加固核盾牌言论</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 韩国统一部副发言人金仁爱（音）31日在例行记者会上表示，政府强烈谴责朝鲜连续两年公开铀浓缩设施，以及国务委员会委员长金正恩有关加固核盾牌、完善核应对态势的言论。
-</description>
-			<pubDate>Fri, 31 Jan 2025 14:13:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
