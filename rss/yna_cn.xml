@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 2 Feb 2025 21:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 3 Feb 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250115003100881</guid>
+			<title>2025年2月3日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250115003100881?section=news&amp;input=rss</link>
+			<description>1954年 韩朝非军事区以南5～10公里地段设军事禁区，限制平民出入。
+</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250202000900881</guid>
 			<title>韩短道速滑队启程出征哈尔滨亚冬会</title>
@@ -157,14 +165,6 @@
 			<description>韩联社首尔1月31日电 三星电子31日举行业绩电话会议称，公司将从今年第一季度底起向主要客户供应第五代高带宽内存“HBM3E”的改良品，并争取下半年内量产第六代高宽带内存“HBM4”。
 </description>
 			<pubDate>Fri, 31 Jan 2025 15:56:28 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131001900881</guid>
-			<title>尹锡悦在首尔看守所接见总统室幕僚</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 韩国总统办公室高级官员31日表示，总统尹锡悦当天在看守所接见总统室幕僚，他强调总统室是治国理政的中心，要求幕僚们在各自的岗位上全力以赴，不要气馁。
-</description>
-			<pubDate>Fri, 31 Jan 2025 15:37:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
