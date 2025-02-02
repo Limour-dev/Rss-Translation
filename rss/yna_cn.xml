@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 2 Feb 2025 15:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 2 Feb 2025 18:04:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250202000900881</guid>
+			<title>韩短道速滑队启程出征哈尔滨亚冬会</title>
+			<link>https://cn.yna.co.kr/view/ACK20250202000900881?section=news&amp;input=rss</link>
+			<description>韩联社永宗岛2月2日电 韩国短跑道速度滑冰代表队2日启程前往中国哈尔滨，准备参加2025年哈尔滨亚洲冬季运动会。
+</description>
+			<pubDate>Sun, 02 Feb 2025 16:37:35 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250202000800881</guid>
+			<title>韩1月出口同比减10.3% 15个月增势止步</title>
+			<link>https://cn.yna.co.kr/view/ACK20250202000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月2日电 韩国产业通商资源部1日公布的数据显示，韩国1月出口额同比减少10.3%，为491.2亿美元。受春节长假较去年有所提前，工作日数减少等因素的影响，延续15个月的出口增势被打破，但日均出口额同比增加7.7%。
+</description>
+			<pubDate>Sun, 02 Feb 2025 16:08:15 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250202000700881</guid>
 			<title>韩国海军机动舰队司令部正式成立</title>
@@ -149,20 +165,6 @@
 			<description>韩联社首尔1月31日电 韩国总统办公室高级官员31日表示，总统尹锡悦当天在看守所接见总统室幕僚，他强调总统室是治国理政的中心，要求幕僚们在各自的岗位上全力以赴，不要气馁。
 </description>
 			<pubDate>Fri, 31 Jan 2025 15:37:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131002400881</guid>
-			<title>股市收盘：KOSDAQ▼0.45</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131002400881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报728.29点，较前一交易日下跌0.45点。</description>
-			<pubDate>Fri, 31 Jan 2025 15:35:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131002300881</guid>
-			<title>股市收盘：KOSPI▼19.43</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131002300881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2517.37点，较前一交易日下跌19.43点。</description>
-			<pubDate>Fri, 31 Jan 2025 15:34:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
