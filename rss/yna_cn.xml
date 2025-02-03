@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 3 Feb 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 4 Feb 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250117001700881</guid>
+			<title>2025年2月4日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117001700881?section=news&amp;input=rss</link>
+			<description>1921年 在中国满洲地区活动的大韩抗日独立军一队在清津港袭击日军，杀敌40余人。
+</description>
+			<pubDate>Tue, 04 Feb 2025 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250203003500881</guid>
+			<title>韩检方：尹锡悦在戒严当时指示封锁媒体切断水电</title>
+			<link>https://cn.yna.co.kr/view/ACK20250203003500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月3日电 据韩国检方调查，总统尹锡悦在宣布紧急戒严前后亲自指示封锁新闻媒体，通过消防厅对其采取断水断电措施。
+</description>
+			<pubDate>Mon, 03 Feb 2025 21:30:21 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250203003400881</guid>
 			<title>韩国寒潮持续发威 首尔明体感温度降至-19℃</title>
@@ -146,21 +162,6 @@
 			<description>韩联社世宗2月3日电 据韩国统计厅3日发布的“2024年12月和全年产业活动动向”资料，去年工业生产指数在半导体出口回升的助推下同比上升，但零售、建筑工程等部分内需指标下降。
 </description>
 			<pubDate>Mon, 03 Feb 2025 09:34:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250203000200881</guid>
-			<title>2025年2月3日韩国主要报纸头条新闻</title>
-			<link>https://cn.yna.co.kr/view/ACK20250203000200881?section=news&amp;input=rss</link>
-			<description>《朝鲜日报》DeepSeek创始人梁文锋：出身寒门的AI大神
-</description>
-			<pubDate>Mon, 03 Feb 2025 09:25:15 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250203000500881</guid>
-			<title>股市开盘:KOSPI▼48.63</title>
-			<link>https://cn.yna.co.kr/view/ACK20250203000500881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2468.74点，较前一交易日下跌48.63点。</description>
-			<pubDate>Mon, 03 Feb 2025 09:01:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
