@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 3 Feb 2025 09:54:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 3 Feb 2025 12:14:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250203000900881</guid>
+			<title>中国旅行社重启赴朝跟团游产品</title>
+			<link>https://cn.yna.co.kr/view/ACK20250203000900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月3日电 在华专营赴朝旅行社正在预售定于2～4月出发的朝鲜罗先市跟团游产品。朝鲜放开边境疫情防控后只接待俄罗斯跟团游客，今后或接待中国跟团游客，备受关注。
+</description>
+			<pubDate>Mon, 03 Feb 2025 11:43:04 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250203000800881</guid>
+			<title>韩国海军机动舰队司令部成立仪式举行</title>
+			<link>https://cn.yna.co.kr/view/ACK20250203000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月3日电 韩国海军机动舰队司令部成立仪式3日在海军济州基地举行。
+</description>
+			<pubDate>Mon, 03 Feb 2025 11:04:49 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250203000700881</guid>
+			<title>统计：韩65岁以上老人贫困率连续两年上升</title>
+			<link>https://cn.yna.co.kr/view/ACK20250203000700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月3日电 韩国保健福祉部和统计厅3日发布的一组数据显示，以人均可支配收入为准，韩国65岁以上老龄人口的“相对贫困率”连续两年上升。
+</description>
+			<pubDate>Mon, 03 Feb 2025 10:04:32 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250203000600881</guid>
 			<title>韩国2024年工业生产指数同比上升1.7%</title>
@@ -138,30 +162,6 @@
 			<description>1915年 青少年杂志《新星》停刊，此前共发行16期。
 </description>
 			<pubDate>Sat, 01 Feb 2025 00:00:01 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131003600881</guid>
-			<title>韩国情院长和国安首长将为尹锡悦弹劾案出庭作证</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131003600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 韩国宪法裁判所（宪法法院）公报官千在贤（音）31日在例行记者会上表示，国家情报院院长赵太庸、国家安保室室长申源湜和国家情报院前第三次长白钟郁将为总统尹锡悦弹劾案出庭作证。
-</description>
-			<pubDate>Fri, 31 Jan 2025 21:00:18 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131003700881</guid>
-			<title>涉在华与朝鲜间谍接头的两名工会干部被起诉</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131003700881?section=news&amp;input=rss</link>
-			<description>韩联社水原1月31日电 涉嫌在中国同朝鲜间谍接头并接受指示的韩国全国民主劳动组合总联盟（民主劳总）的前任和现任2名干部被检方起诉。
-</description>
-			<pubDate>Fri, 31 Jan 2025 20:48:06 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250131003500881</guid>
-			<title>韩政府将致函深度求索询问个人信息收集合法性</title>
-			<link>https://cn.yna.co.kr/view/ACK20250131003500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔1月31日电 韩国个人信息保护委员会31日表示，个人信息委当天将向位于中国的深度求索（DeepSeek）总部发送质询函，以确认其个人信息收集项目和流程，以及处理和保存方法。
-</description>
-			<pubDate>Fri, 31 Jan 2025 18:59:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
