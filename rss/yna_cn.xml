@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 5 Feb 2025 03:14:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 5 Feb 2025 06:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250204004300881</guid>
+			<title>韩1月外储4110.1亿美元 环比减45.9亿美元</title>
+			<link>https://cn.yna.co.kr/view/ACK20250204004300881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月5日电 韩国银行（央行）5日发布的统计数据显示，截至1月底，韩国外汇储备额环比减少45.9亿美元，为4110.1亿美元。
+</description>
+			<pubDate>Wed, 05 Feb 2025 06:00:19 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250204002600881</guid>
+			<title>民调：逾九成韩国人认为政治理念矛盾最严重</title>
+			<link>https://cn.yna.co.kr/view/ACK20250204002600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月5日电 韩国一项调查结果显示，每10名韩国人中就有9人认为韩国社会的政治理念矛盾最为严重。
+</description>
+			<pubDate>Wed, 05 Feb 2025 06:00:16 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250117001800881</guid>
 			<title>2025年2月5日韩国历史上的今天</title>
@@ -146,22 +162,6 @@
 			<description>韩联社釜山2月4日电 随着韩法两国结束对釜山航空失火客机的联合勘查，韩国国土交通部航空铁路事故调查委员会和釜山航空将着手实施残损客机搬移安全性评估。预计搬移工作将耗费较长时间。
 </description>
 			<pubDate>Tue, 04 Feb 2025 13:59:19 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250204001900881</guid>
-			<title>韩Kakao和美OpenAI宣布开展战略合作</title>
-			<link>https://cn.yna.co.kr/view/ACK20250204001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月4日电 4日，韩国IT巨头Kakao和美国人工智能研究公司OpenAI宣布开展战略合作。
-</description>
-			<pubDate>Tue, 04 Feb 2025 11:49:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250204001800881</guid>
-			<title>OpenAI CEO明确与韩企加深合作方针</title>
-			<link>https://cn.yna.co.kr/view/ACK20250204001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月4日电 正在韩国访问的美国人工智能研究公司OpenAI首席执行官（CEO）萨姆·奥尔特曼4日明确与韩企深化合作的方针。
-</description>
-			<pubDate>Tue, 04 Feb 2025 11:46:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
