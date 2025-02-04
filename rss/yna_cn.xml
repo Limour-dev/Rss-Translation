@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 4 Feb 2025 21:19:01 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 5 Feb 2025 00:09:01 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250117001800881</guid>
+			<title>2025年2月5日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250117001800881?section=news&amp;input=rss</link>
+			<description>1893年 朝鲜王朝在江华岛设立第一所海军军官学校。
+</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250204004700881</guid>
+			<title>韩前情报机构高层作证称尹锡悦戒严当时指示抓人</title>
+			<link>https://cn.yna.co.kr/view/ACK20250204004700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月4日电 韩国国家情报院前第一次长洪壮源4日在宪法裁判所（宪法法院）出席尹锡悦弹劾案庭审并发表证言称，“12·3紧急戒严”当时，接到尹锡悦下达的抓捕政治人士的指示。
+</description>
+			<pubDate>Tue, 04 Feb 2025 21:36:54 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250204004500881</guid>
 			<title>李在镕同OpenAI CEO和软银董事长会谈共商AI合作</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔2月4日电 正在韩国访问的美国人工智能研究公司OpenAI首席执行官（CEO）萨姆·奥尔特曼4日明确与韩企深化合作的方针。
 </description>
 			<pubDate>Tue, 04 Feb 2025 11:46:45 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250204001700881</guid>
-			<title>韩SK掌门崔泰源会见美OpenAI CEO奥尔特曼</title>
-			<link>https://cn.yna.co.kr/view/ACK20250204001700881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月4日电 韩国SK集团会长崔泰源4日会见到访的美国人工智能研究公司OpenAI首席执行官（CEO）萨姆·奥尔特曼，双方就AI合作事宜交换意见。
-</description>
-			<pubDate>Tue, 04 Feb 2025 11:10:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250204001000881</guid>
-			<title>韩代总统嘱咐各部门缜密应对美关税措施</title>
-			<link>https://cn.yna.co.kr/view/ACK20250204001000881?section=news&amp;input=rss</link>
-			<description>韩联社世宗2月4日电 韩国代行总统职权的副总理兼企划财政部长官（代总统）崔相穆4日表示，各部门应缜密应对美国政府更大力度实施加征关税措施的可能性。
-</description>
-			<pubDate>Tue, 04 Feb 2025 11:00:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
