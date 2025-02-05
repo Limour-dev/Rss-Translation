@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 5 Feb 2025 21:21:04 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 6 Feb 2025 00:06:04 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250120000100881</guid>
+			<title>2025年2月6日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120000100881?section=news&amp;input=rss</link>
+			<description>1922年 朝鲜剧场开业。
+</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250205004800881</guid>
+			<title>详讯：韩国国防外交和产业部封禁DeepSeek平台</title>
+			<link>https://cn.yna.co.kr/view/ACK20250205004800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、世宗2月5日电 韩国外交、国防和产业部门5日对中国产人工智能（AI）大模型DeepSeek（深度求索）平台采取屏蔽措施。
+</description>
+			<pubDate>Wed, 05 Feb 2025 22:08:57 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250205004700881</guid>
+			<title>韩国外交部和产业部封禁DeepSeek平台</title>
+			<link>https://cn.yna.co.kr/view/ACK20250205004700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月5日电 韩国外交和通商部门5日对中国产人工智能（AI）大模型DeepSeek（深度求索）平台采取屏蔽措施。
+</description>
+			<pubDate>Wed, 05 Feb 2025 21:53:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250205004500881</guid>
 			<title>韩政府提醒公务员使用DeepSeek时需留意</title>
@@ -138,30 +162,6 @@
 			<description>韩联社世宗2月5日电 韩国政府将新设“尖端战略产业基金”（暂名），为电池和生物等尖端产业发展提供支持，规模将至少达34万亿韩元（约合人民币1710亿元），超过“半导体金融扶持项目”的一倍。
 </description>
 			<pubDate>Wed, 05 Feb 2025 13:55:54 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205002200881</guid>
-			<title>韩国国会议长禹元植今起对中国进行正式访问</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205002200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月5日电 韩国国会议长禹元植5日启程对中国进行正式访问，为期五天。
-</description>
-			<pubDate>Wed, 05 Feb 2025 11:32:16 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205001400881</guid>
-			<title>BABYMONSTER《Batter Up》MV播放破3亿</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205001400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月5日电 据YG娱乐5日消息，旗下女团BABYMONSTER的出道曲《Batter Up》MV在视频网站优兔（YouTube）上的播放量突破3亿次大关。
-</description>
-			<pubDate>Wed, 05 Feb 2025 10:48:55 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205001200881</guid>
-			<title>ROSÉ和防弹智旻稳居美公告牌主榜</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205001200881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月5日电 据美国公告牌4日（当地时间）发布的最新榜单，BLACKPINK成员ROSÉ和防弹少年团（BTS）成员智旻稳居公告牌百强单曲榜。
-</description>
-			<pubDate>Wed, 05 Feb 2025 10:38:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
