@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Wed, 5 Feb 2025 18:11:04 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 5 Feb 2025 21:21:04 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250205004500881</guid>
+			<title>韩政府提醒公务员使用DeepSeek时需留意</title>
+			<link>https://cn.yna.co.kr/view/ACK20250205004500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月5日电 随着中国产人工智能（AI）大模型DeepSeek（深度求索）过度采集用户数据的质疑发酵，韩国政府提醒一线公务员在使用生成式AI工具时需留意。
+</description>
+			<pubDate>Wed, 05 Feb 2025 20:31:14 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250205004600881</guid>
+			<title>韩国国会议长禹元植在京会晤赵乐际</title>
+			<link>https://cn.yna.co.kr/view/ACK20250205004600881?section=news&amp;input=rss</link>
+			<description>韩联社北京、首尔2月5日电 韩国国会议长禹元植5日在中国北京人民大会堂会见中国全国人大常委会委员长赵乐际。
+</description>
+			<pubDate>Wed, 05 Feb 2025 20:14:19 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250205004400881</guid>
+			<title>韩外长接见被朝绑架和扣留人员家属</title>
+			<link>https://cn.yna.co.kr/view/ACK20250205004400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月5日电 韩国外交部5日表示，外交部长官赵兑烈当天接见了被朝绑架、扣留人员家属和国军俘虏团体代表。
+</description>
+			<pubDate>Wed, 05 Feb 2025 19:28:58 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250205004300881</guid>
 			<title>详讯：韩国企事业单位纷纷发布DeepSeek禁令</title>
@@ -138,30 +162,6 @@
 			<description>韩联社首尔2月5日电 据美国公告牌4日（当地时间）发布的最新榜单，BLACKPINK成员ROSÉ和防弹少年团（BTS）成员智旻稳居公告牌百强单曲榜。
 </description>
 			<pubDate>Wed, 05 Feb 2025 10:38:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205001300881</guid>
-			<title>韩剧《外伤重症中心》成奈飞最受欢迎非英语剧</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205001300881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月5日电 流媒体平台奈飞（Netflix）原创韩剧《外伤重症中心》成为平台非英语类剧集中最受观众欢迎的作品。
-</description>
-			<pubDate>Wed, 05 Feb 2025 10:22:34 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205001100881</guid>
-			<title>韩国部分地区最低气温降至零下20度</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月5日电 强冷空气南下袭击韩国，寒潮持续发威。5日早晨，韩国部分地区最低气温降至-20℃。
-</description>
-			<pubDate>Wed, 05 Feb 2025 10:07:32 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205000500881</guid>
-			<title>统计：韩2024年无雇工个体工商户时隔6年减少</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205000500881?section=news&amp;input=rss</link>
-			<description>韩联社世宗2月5日电 韩国统计厅国家统计门户（KOSIS）5日发布的一组数据显示，2024年韩国无雇工个体工商户时隔6年减少，个体工商户营商环境较疫情期间更加恶化。
-</description>
-			<pubDate>Wed, 05 Feb 2025 09:42:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
