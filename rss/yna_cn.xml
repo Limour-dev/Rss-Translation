@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 6 Feb 2025 12:11:42 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 6 Feb 2025 15:11:42 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250206002000881</guid>
+			<title>联合国人权办事处报告：朝鲜加强对民监察</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206002000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月6日电 据联合国人权事务高级专员办事处（OHCHR）当地时间5日发布的一份报告，近期朝鲜国家保卫省旗下“109联合指挥部”（下称109指挥部）加强监察力度，擅自搜查民宅的情况更为频发，查处人员中甚者被公开枪决。
+</description>
+			<pubDate>Thu, 06 Feb 2025 15:00:44 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250206001900881</guid>
+			<title>韩政府多个部门屏蔽DeepSeek平台</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206001900881?section=news&amp;input=rss</link>
+			<description>韩联社世宗2月6日电 韩国政府多个部门6日屏蔽中国人工智能（AI）企业DeepSeek（深度探索）大模型平台。
+</description>
+			<pubDate>Thu, 06 Feb 2025 14:29:13 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250206001800881</guid>
 			<title>韩国航空安全管理方案：全机场将装探鸟设备</title>
@@ -145,22 +161,6 @@
 			<description>韩联社首尔2月5日电 随着中国产人工智能（AI）大模型“DeepSeek”（深度求索）引发过度采集用户信息的质疑，韩国公共机构和民营企业纷纷发布DeepSeek禁令。
 </description>
 			<pubDate>Wed, 05 Feb 2025 17:42:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205003400881</guid>
-			<title>2025年2月5日韩联社要闻简报</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205003400881?section=news&amp;input=rss</link>
-			<description>▲韩国国会议长禹元植今起对中国进行正式访问
-</description>
-			<pubDate>Wed, 05 Feb 2025 17:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250205003500881</guid>
-			<title>韩联参议长在线出席第八届印太安全论坛</title>
-			<link>https://cn.yna.co.kr/view/ACK20250205003500881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月5日电 韩国联合参谋本部（联参）议长金明秀5日以视频形式出席第八届印太安全论坛，同美国、日本等20多个国家的军方高层人士就国际安全环境变化和重点关切问题进行讨论。
-</description>
-			<pubDate>Wed, 05 Feb 2025 16:36:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
