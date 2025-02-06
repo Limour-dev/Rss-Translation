@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 6 Feb 2025 21:21:42 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 7 Feb 2025 00:06:42 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250120000200881</guid>
+			<title>2025年2月7日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250120000200881?section=news&amp;input=rss</link>
+			<description>1946年 南朝鲜国防警备队总司令部创建。
+</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:03 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250206004100881</guid>
+			<title>韩国中小学和幼儿园屏蔽DeepSeek平台</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206004100881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月6日电 韩国教育部门和各级学校将屏蔽中国人工智能（AI）企业DeepSeek（深度探索）大模型平台。
+</description>
+			<pubDate>Thu, 06 Feb 2025 21:50:22 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250206003900881</guid>
+			<title>详讯：韩政府多个部门屏蔽DeepSeek平台</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206003900881?section=news&amp;input=rss</link>
+			<description>韩联社首尔、世宗2月6日电 韩国政府多个部门6日屏蔽中国人工智能（AI）企业DeepSeek（深度探索）大模型平台。
+</description>
+			<pubDate>Thu, 06 Feb 2025 21:36:52 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250206003700881</guid>
 			<title>惠誉维持韩国主权信用评级AA-不变</title>
@@ -138,29 +162,6 @@
 			<description>韩联社首尔2月6日电 据朝中社6日报道，2025年哈尔滨亚洲冬季运动会朝鲜代表团前一天从平壤乘机启程。
 </description>
 			<pubDate>Thu, 06 Feb 2025 10:21:53 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000800881</guid>
-			<title>G-DRAGON加盟美国云思妙想音乐节</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月6日电 歌手G-DRAGON（GD，权志龙）将于5月31日（当地时间）在美国洛杉矶举行的2025云思妙想音乐节上登台献艺。
-</description>
-			<pubDate>Thu, 06 Feb 2025 10:02:29 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000400881</guid>
-			<title>详讯：韩2024年经常账户顺差大增 12月124亿美元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000400881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月6日电 韩国银行（央行）6日发布的初步核实数据显示，2024年12月韩国国际收支经常项目实现123.7亿美元顺差，创下历年同月最高纪录。全年顺差额达到990.4亿美元，为2023年（328.2亿美元）的三倍多，超过央行曾提出的全年顺差预期（900亿美元）。 
-</description>
-			<pubDate>Thu, 06 Feb 2025 09:11:23 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000700881</guid>
-			<title>股市开盘:KOSPI▲12.55</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000700881?section=news&amp;input=rss</link>
-			<description>KOSPI开盘报2521.82点，较前一交易日上升12.55点。</description>
-			<pubDate>Thu, 06 Feb 2025 09:01:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
