@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Thu, 6 Feb 2025 18:11:42 +0900</lastBuilldDate>
+		<lastBuilldDate>Thu, 6 Feb 2025 21:21:42 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250206003700881</guid>
+			<title>惠誉维持韩国主权信用评级AA-不变</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206003700881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月6日电 国际信用评级机构惠誉6日宣布，维持韩国主权信用评级为“AA-”不变，评级展望也维持“稳定”（Stable）。
+</description>
+			<pubDate>Thu, 06 Feb 2025 19:34:00 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250206003600881</guid>
+			<title>韩前特战司令称尹锡悦戒严时指示拉走议员</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206003600881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月6日电 韩国前陆军特战司令部司令郭种根6日在宪法裁判所（宪法法院）出席总统尹锡悦弹劾案庭审第六次辩论时作证称，尹锡悦实施戒严时下达“拽人出来”命令的对象是国会议员，而非任务执行人员。
+</description>
+			<pubDate>Thu, 06 Feb 2025 19:28:41 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250206003800881</guid>
+			<title>韩东海石油气田首期探井结果：不具经济价值</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206003800881?section=news&amp;input=rss</link>
+			<description>韩联社世宗2月6日电 韩国产业通商资源部高官6日在中央政府世宗办公楼举行记者会透露，韩国东海石油气田勘探项目第一期探井工作的结果显示，虽暂时发现部分石油气资源，但其规模较小，不具有经济意义。
+</description>
+			<pubDate>Thu, 06 Feb 2025 19:05:36 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250206002100881</guid>
 			<title>2025年2月6日韩联社要闻简报</title>
@@ -137,28 +161,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250206000700881?section=news&amp;input=rss</link>
 			<description>KOSPI开盘报2521.82点，较前一交易日上升12.55点。</description>
 			<pubDate>Thu, 06 Feb 2025 09:01:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000600881</guid>
-			<title>股市开盘:KOSDAQ▲4.96</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000600881?section=news&amp;input=rss</link>
-			<description>KOSDAQ开盘报735.94点，较前一交易日上升4.96点。</description>
-			<pubDate>Thu, 06 Feb 2025 09:01:11 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000500881</guid>
-			<title>外汇汇率开盘:1美元=1445.5韩元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000500881?section=news&amp;input=rss</link>
-			<description>韩元对美元汇率开盘报1445.5，较前一交易日下跌1.2韩元。</description>
-			<pubDate>Thu, 06 Feb 2025 09:00:33 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000300881</guid>
-			<title>2025年2月6日韩国主要报纸头条新闻</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000300881?section=news&amp;input=rss</link>
-			<description>《朝鲜日报》特朗普欲强占加沙地带暴露扩张野心
-</description>
-			<pubDate>Thu, 06 Feb 2025 08:49:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
