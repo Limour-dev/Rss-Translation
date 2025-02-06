@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 7 Feb 2025 03:11:42 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 7 Feb 2025 06:06:42 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250206004000881</guid>
+			<title>哈尔滨亚冬会今晚开幕 韩争取跻身奖牌榜第二</title>
+			<link>https://cn.yna.co.kr/view/ACK20250206004000881?section=news&amp;input=rss</link>
+			<description>韩联社哈尔滨2月7日电 2025年第九届亚洲冬季运动会7日晚将在中国哈尔滨开幕，来自34个国家和地区的1200多人将共襄这一体育盛会。
+</description>
+			<pubDate>Fri, 07 Feb 2025 06:01:00 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250120000200881</guid>
 			<title>2025年2月7日韩国历史上的今天</title>
@@ -154,14 +162,6 @@
 			<description>韩联社首尔2月6日电 经纪公司YG娱乐6日表示，旗下女团BLACKPINK今年将启动世界巡演。
 </description>
 			<pubDate>Thu, 06 Feb 2025 10:51:30 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206000900881</guid>
-			<title>朝鲜亚冬会代表团启程赴哈</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206000900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月6日电 据朝中社6日报道，2025年哈尔滨亚洲冬季运动会朝鲜代表团前一天从平壤乘机启程。
-</description>
-			<pubDate>Thu, 06 Feb 2025 10:21:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
