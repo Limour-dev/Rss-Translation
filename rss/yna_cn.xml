@@ -4,8 +4,32 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Fri, 7 Feb 2025 09:56:42 +0900</lastBuilldDate>
+		<lastBuilldDate>Fri, 7 Feb 2025 12:11:42 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250207001000881</guid>
+			<title>韩国连续两天降暴雪 气温持续走低</title>
+			<link>https://cn.yna.co.kr/view/ACK20250207001000881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月7日电 韩国连续两天出现暴雪天气，部分地区本周末也将继续迎来降雪。
+</description>
+			<pubDate>Fri, 07 Feb 2025 11:07:49 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250207000900881</guid>
+			<title>韩文体部长柳仁村将出席哈尔滨亚冬会开幕式</title>
+			<link>https://cn.yna.co.kr/view/ACK20250207000900881?section=news&amp;input=rss</link>
+			<description>韩联社哈尔滨2月7日电 韩国文化体育观光部（文体部）7日表示，文体部长官柳仁村当天将代表韩国政府出席2025年哈尔滨亚洲冬季运动会开幕式。
+</description>
+			<pubDate>Fri, 07 Feb 2025 10:39:09 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250207000800881</guid>
+			<title>金正恩出席地方项目奠基仪式强调城乡均衡发展</title>
+			<link>https://cn.yna.co.kr/view/ACK20250207000800881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月7日电 朝鲜国务委员会委员长金正恩6日出席地方医院和教育文化设施建设工程奠基仪式，强调要解决城乡发展不平衡问题。
+</description>
+			<pubDate>Fri, 07 Feb 2025 10:23:28 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250207000700881</guid>
 			<title>三星新旗舰Galaxy S25系列今起登陆全球120个地区</title>
@@ -138,28 +162,6 @@
 			<description>韩联社首尔2月6日电 韩国总统尹锡悦去年12月3日实施紧急戒严时进入国会的陆军特战司令部麾下707特殊任务团团长金炫兑（音）6日在宪法裁判所（宪法法院）出席尹锡悦弹劾案庭审第六次辩论时作证称，他当时接到了“封锁国会”的指示。
 </description>
 			<pubDate>Thu, 06 Feb 2025 16:24:37 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206002600881</guid>
-			<title>韩国外长赵兑烈接见中国驻韩大使戴兵</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206002600881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月6日电 韩国外交部长官赵兑烈6日接见中国驻韩大使戴兵，双方就韩中关系发展、韩半岛局势等共同关心的事宜交换意见。
-</description>
-			<pubDate>Thu, 06 Feb 2025 15:54:26 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206002500881</guid>
-			<title>股市收盘:KOSDAQ▲9.34</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206002500881?section=news&amp;input=rss</link>
-			<description>KOSDAQ收盘报740.32点，较前一交易日上升9.34点。</description>
-			<pubDate>Thu, 06 Feb 2025 15:33:04 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250206002400881</guid>
-			<title>股市收盘:KOSPI▲27.48</title>
-			<link>https://cn.yna.co.kr/view/ACK20250206002400881?section=news&amp;input=rss</link>
-			<description>KOSPI收盘报2536.75点，较前一交易日上升27.48点。</description>
-			<pubDate>Thu, 06 Feb 2025 15:30:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
