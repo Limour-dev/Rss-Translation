@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 8 Feb 2025 06:08:50 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 8 Feb 2025 09:53:50 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250207000400881</guid>
+			<title>一周韩娱：GD将发片回归 BLACKPINK将启动世巡</title>
+			<link>https://cn.yna.co.kr/view/ACK20250207000400881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月8日电 【要问回顾】GD将发片回归；BLACKPINK年内将启动世巡；新剧《外伤重症中心》收视佳；SM新女团H2H月底出道。
+</description>
+			<pubDate>Sat, 08 Feb 2025 08:00:06 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250121000100881</guid>
 			<title>2025年2月8日韩国历史上的今天</title>
@@ -152,14 +160,6 @@
 			<description>韩联社首尔2月7日电 据韩国国防部7日消息，代行总统职权的副总理兼企划财政部长官（代总统）崔相穆当天指示韩军基于稳固的指挥体系保持高度戒备态势，以在第一时间应对朝鲜的各种挑衅行为。
 </description>
 			<pubDate>Fri, 07 Feb 2025 14:52:49 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250207001900881</guid>
-			<title>韩1月新船订单量赶超中国位居全球第一</title>
-			<link>https://cn.yna.co.kr/view/ACK20250207001900881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月7日电 据英国造船和海运动态分析机构“克拉克森研究”7日公布的数据，韩国1月承接的造船订单量占全球订单总量的62%，赶超中国跻身全球首位。
-</description>
-			<pubDate>Fri, 07 Feb 2025 14:38:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
