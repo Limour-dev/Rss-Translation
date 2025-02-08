@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sat, 8 Feb 2025 09:53:50 +0900</lastBuilldDate>
+		<lastBuilldDate>Sat, 8 Feb 2025 12:11:50 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250208000200881</guid>
+			<title>韩国队夺得哈尔滨亚冬会冰壶混双银牌</title>
+			<link>https://cn.yna.co.kr/view/ACK20250208000200881?section=news&amp;input=rss</link>
+			<description>韩联社哈尔滨2月8日电 8日，哈尔滨亚冬会冰壶混双决赛举行，韩国组合金敬爱/成智勋以6比7不敌日本组合青木豪/小穴桃里，获得银牌。
+</description>
+			<pubDate>Sat, 08 Feb 2025 12:01:37 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250208000100881</guid>
+			<title>韩国短道速滑混合团体2000米接力夺冠摘亚冬会首金</title>
+			<link>https://cn.yna.co.kr/view/ACK20250208000100881?section=news&amp;input=rss</link>
+			<description>韩联社哈尔滨2月8日电 8日，哈尔滨亚冬会短道速滑混合团体2000米接力决赛举行，韩国队夺得金牌，摘得本届亚冬会的首枚金牌。
+</description>
+			<pubDate>Sat, 08 Feb 2025 11:40:36 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250207000400881</guid>
 			<title>一周韩娱：GD将发片回归 BLACKPINK将启动世巡</title>
@@ -144,22 +160,6 @@
 			<link>https://cn.yna.co.kr/view/ACK20250207002400881?section=news&amp;input=rss</link>
 			<description>韩元对美元汇率报1447.8，较前一交易日下跌0.1韩元。</description>
 			<pubDate>Fri, 07 Feb 2025 15:30:27 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250207002000881</guid>
-			<title>尹锡悦接受执政党议员探视 自评出庭陈述得当</title>
-			<link>https://cn.yna.co.kr/view/ACK20250207002000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月7日电 韩国总统尹锡悦7日在京畿道义王市的首尔看守所接受执政党国民力量议员尹相现等人探视时自评称，自己出庭陈述得当，发现实施戒严被严重曲解。
-</description>
-			<pubDate>Fri, 07 Feb 2025 15:20:47 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250207001800881</guid>
-			<title>韩代总统要求韩军保持高度戒备态势</title>
-			<link>https://cn.yna.co.kr/view/ACK20250207001800881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月7日电 据韩国国防部7日消息，代行总统职权的副总理兼企划财政部长官（代总统）崔相穆当天指示韩军基于稳固的指挥体系保持高度戒备态势，以在第一时间应对朝鲜的各种挑衅行为。
-</description>
-			<pubDate>Fri, 07 Feb 2025 14:52:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
