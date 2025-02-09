@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 9 Feb 2025 21:17:50 +0900</lastBuilldDate>
+		<lastBuilldDate>Mon, 10 Feb 2025 00:08:50 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250122000100881</guid>
+			<title>2025年2月10日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250122000100881?section=news&amp;input=rss</link>
+			<description>1927年 朝鲜语言研究会机关报《韩文》创刊。
+</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:01 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250209002300881</guid>
 			<title>亚冬会韩国短道速滑6金4银3铜收官</title>
@@ -157,14 +165,6 @@
 			<description>韩联社哈尔滨2月8日电 8日，在黑龙江省冰上训练中心举行的哈尔滨亚冬会速度滑冰女子100米决赛中，韩国选手李娜贤（音）、金旼鲜包揽金银牌。
 </description>
 			<pubDate>Sat, 08 Feb 2025 14:07:22 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250208000700881</guid>
-			<title>韩国队金俊昊亚冬会速滑男子100米摘铜</title>
-			<link>https://cn.yna.co.kr/view/ACK20250208000700881?section=news&amp;input=rss</link>
-			<description>韩联社哈尔滨2月8日电 哈尔滨亚冬会速度滑冰男子100米决赛8日举行，韩国队金俊昊夺得铜牌。这是韩国速滑军团本届亚冬会的首枚奖牌。
-</description>
-			<pubDate>Sat, 08 Feb 2025 14:04:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
