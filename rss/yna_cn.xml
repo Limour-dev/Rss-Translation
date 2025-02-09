@@ -4,8 +4,16 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Sun, 9 Feb 2025 06:08:50 +0900</lastBuilldDate>
+		<lastBuilldDate>Sun, 9 Feb 2025 09:56:50 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250209000100881</guid>
+			<title>一渔船在韩国南部海域翻沉已致3死7失踪</title>
+			<link>https://cn.yna.co.kr/view/ACK20250209000100881?section=news&amp;input=rss</link>
+			<description>韩联社丽水2月9日电 9日凌晨1时41分许，一艘139吨级大型拖网渔船在全罗南道丽水市附近海域翻沉，已造成3人死亡、7人失踪。
+</description>
+			<pubDate>Sun, 09 Feb 2025 09:51:13 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250121000200881</guid>
 			<title>2025年2月9日韩国历史上的今天</title>
@@ -157,13 +165,6 @@
 			<description>韩联社北京2月7日电 韩国国会议长禹元植7日在中国哈尔滨太阳岛宾馆拜会中国国家主席习近平。
 </description>
 			<pubDate>Fri, 07 Feb 2025 21:28:17 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250207004500881</guid>
-			<title>快讯：习近平称考虑访韩出席APEC领导人会议</title>
-			<link>https://cn.yna.co.kr/view/ACK20250207004500881?section=news&amp;input=rss</link>
-			<description>【版权归韩联社所有，未经授权严禁转载复制和用于人工智能开发及利用】</description>
-			<pubDate>Fri, 07 Feb 2025 19:38:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
