@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Mon, 10 Feb 2025 21:17:50 +0900</lastBuilldDate>
+		<lastBuilldDate>Tue, 11 Feb 2025 00:08:50 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250122000200881</guid>
+			<title>2025年2月11日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250122000200881?section=news&amp;input=rss</link>
+			<description>1896年 大韩帝国高宗皇帝从日本控制的王宫逃到俄国驻大韩帝国公使馆，史称“俄馆播迁”。
+</description>
+			<pubDate>Tue, 11 Feb 2025 00:00:02 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250210004500881</guid>
+			<title>韩日在首尔举行朝核问题高级别磋商</title>
+			<link>https://cn.yna.co.kr/view/ACK20250210004500881?section=news&amp;input=rss</link>
+			<description>韩联社首尔2月10日电 据韩国外交部10日消息，韩日朝核问题磋商高级代表当天在首尔举行会晤，就实现朝鲜无核化的方案进行讨论。
+</description>
+			<pubDate>Mon, 10 Feb 2025 21:41:20 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250210004400881</guid>
 			<title>韩法院20日审理尹锡悦撤销逮捕措施申请</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔2月10日电 韩国最大在野党共同民主党党首李在明10日在国会发表党团代表演讲时提议，国会应编制至少30万亿韩元（约合人民币1507亿元）的补充预算。
 </description>
 			<pubDate>Mon, 10 Feb 2025 13:45:08 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250210001000881</guid>
-			<title>Stray Kids成员I.N向三星首尔医院捐款50万元</title>
-			<link>https://cn.yna.co.kr/view/ACK20250210001000881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月10日电 三星首尔医院10日表示，经纪公司JYP娱乐旗下男团Stray Kids成员I.N（梁精寅）为医院捐款1亿韩元（约合人民币50.2万元）。
-</description>
-			<pubDate>Mon, 10 Feb 2025 11:17:38 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250210000900881</guid>
-			<title>韩代总统主持经济事务会议讨论涉美问题</title>
-			<link>https://cn.yna.co.kr/view/ACK20250210000900881?section=news&amp;input=rss</link>
-			<description>韩联社世宗2月10日电 韩国代行总统职权的副总理兼企划财政部长官（代总统）崔相穆10日在中央政府首尔办公楼主持召开对外经济事务座谈会。
-</description>
-			<pubDate>Mon, 10 Feb 2025 10:29:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
