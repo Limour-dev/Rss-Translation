@@ -4,8 +4,24 @@
 		<title>YonhapNews</title>
 		<link>https://cn.yna.co.kr</link>
 		<description>YonhapNews</description>
-		<lastBuilldDate>Tue, 11 Feb 2025 21:20:50 +0900</lastBuilldDate>
+		<lastBuilldDate>Wed, 12 Feb 2025 00:11:50 +0900</lastBuilldDate>
 		<generator>YNA Feed Generate System</generator>
+		<item>
+			<guid>ACK20250122000300881</guid>
+			<title>2025年2月12日韩国历史上的今天</title>
+			<link>https://cn.yna.co.kr/view/ACK20250122000300881?section=news&amp;input=rss</link>
+			<description>1901年 大韩帝国实施全新货币制度，采用“金本位制”。
+</description>
+			<pubDate>Wed, 12 Feb 2025 00:00:03 +0900</pubDate>
+		</item>
+		<item>
+			<guid>ACK20250211004700881</guid>
+			<title>详讯：韩国一小学发生教师用凶器杀害学生事件</title>
+			<link>https://cn.yna.co.kr/view/ACK20250211004700881?section=news&amp;input=rss</link>
+			<description>韩联社大田2月11日电 据韩国大田西部警察署11日通报，持刀刺死8岁小学生的40多岁教师A某在接受警方调查时表示，因被校方禁止上课感到心烦而行凶。
+</description>
+			<pubDate>Tue, 11 Feb 2025 21:43:02 +0900</pubDate>
+		</item>
 		<item>
 			<guid>ACK20250211004600881</guid>
 			<title>弹劾案庭审第七场辩论 “中国”成询问环节焦点</title>
@@ -146,22 +162,6 @@
 			<description>韩联社首尔2月11日电 韩国执政党国民力量党鞭权性东11日在国会发表党团代表演讲时提议，应通过修改宪法分散总统和国会的权力。
 </description>
 			<pubDate>Tue, 11 Feb 2025 11:19:14 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250211001200881</guid>
-			<title>韩大田一小学发生教师刺死学生事件</title>
-			<link>https://cn.yna.co.kr/view/ACK20250211001200881?section=news&amp;input=rss</link>
-			<description>韩联社大田2月11日电 据韩国大田警方和消防部门11日消息，大田市西区关雎洞的一所小学前一天下午发生教师用凶器杀害学生的事件。
-</description>
-			<pubDate>Tue, 11 Feb 2025 10:44:21 +0900</pubDate>
-		</item>
-		<item>
-			<guid>ACK20250211001100881</guid>
-			<title>ROSÉ《APT.》排名美国公告牌主榜第六</title>
-			<link>https://cn.yna.co.kr/view/ACK20250211001100881?section=news&amp;input=rss</link>
-			<description>韩联社首尔2月11日电 据美国公告牌当地时间10日消息，韩国女团BLACKPINK成员ROSÉ（朴彩英）和美国歌手布鲁诺·马尔斯的合作曲《APT.》在公告牌百强单曲榜上排名第6，较之前一周下滑3个位次。
-</description>
-			<pubDate>Tue, 11 Feb 2025 10:20:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
